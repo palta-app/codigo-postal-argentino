@@ -68,14 +68,14 @@ const extractStateFromResponse = async (url) => {
             : "impares"
           : null;
 
-      fragmento.state = provincia;
-      fragmento.nameStreet = calle;
+      fragmento.state = provincia.toLowerCase();
+      fragmento.nameStreet = calle.toLowerCase();
       fragmento.from = numerosInicio;
       fragmento.until = numerosFin;
-      fragmento.isOdd = numerosTipo;
-      fragmento.neighborhood = ubicacion;
-      fragmento.name = ubicacion;
-      fragmento.zip = cpa;
+      fragmento.isOdd = numerosTipo.toLowerCase();
+      fragmento.neighborhood = ubicacion.toLowerCase();
+      fragmento.name = ubicacion.toLowerCase();
+      fragmento.zip = cpa.toLowerCase();
     } else {
       console.log("err: no encontramos referencias");
     }
@@ -92,23 +92,23 @@ function saveResult(state) {
   var numbersID = generarID();
 
   result.localities.push({
-    id: localitiesID.toLowerCase(),
-    name: state.name.toLowerCase(),
-    zip: state.zip.toLowerCase(),
-    state: state.state.toLowerCase(),
+    id: localitiesID,
+    name: state.name,
+    zip: state.zip,
+    state: state.state,
   });
   result.streets.push({
-    streetId: streetsID.toLowerCase(),
-    name: state.nameStreet.toLowerCase(),
-    localityId: localitiesID.toLowerCase(),
-    neighborhood: state.name.toLowerCase(),
+    streetId: streetsID,
+    name: state.nameStreet,
+    localityId: localitiesID,
+    neighborhood: state.name,
   });
   result.numbers.push({
-    numberId: numbersID.toLowerCase(),
-    streetId: streetsID.toLowerCase(),
-    from: state.from.toLowerCase(),
-    until: state.until.toLowerCase(),
-    isOdd: state.isOdd.toLowerCase(),
+    numberId: numbersID,
+    streetId: streetsID,
+    from: state.from,
+    until: state.until,
+    isOdd: state.isOdd,
   });
 
 
