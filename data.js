@@ -1,11 +1,14 @@
 
-const {saveResult, extractStateFromResponse} = require("./utils/functions")
+const {saveResult, extractStateFromResponse, obtenerLetraPorProvincia} = require("./utils/functions")
+const stateCode = require("./db/stateCode.json")
+
 
 exports.scrape = async () => {
   const zipcodes = require("./db/cpa.json");
 
   for (const zipcode of zipcodes) {
     const zipcodePrefix = zipcode.CP;
+    const provinciaCpa = zipcode.Provincia
     for (let i = 0; i < 26; i++) {
       for (let j = 0; j < 26; j++) {
         for (let k = 0; k < 26; k++) {
@@ -13,7 +16,7 @@ exports.scrape = async () => {
             String.fromCharCode(65 + i) +
             String.fromCharCode(65 + j) +
             String.fromCharCode(65 + k);
-          const prefijo = String.fromCharCode(65 + i);
+            const prefijo = obtenerLetraPorProvincia(provinciaCpa);
           const url = `https://codigo-postal.co/argentina/cpa/${prefijo}${zipcodePrefix}${suffix}`;
           console.log( url)
           try {

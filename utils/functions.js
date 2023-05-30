@@ -1,6 +1,6 @@
 const puppeteer = require("puppeteer");
 const fs = require("fs");
-
+const stateCode = require("../db/stateCode.json")
 // Ejemplo de uso:
 const result = {
   localities: [],
@@ -8,6 +8,15 @@ const result = {
   numbers: [],
 };
 
+function obtenerLetraPorProvincia(provincia) {
+  const resultado = stateCode.find((objeto) => objeto.provincia.toUpperCase() === provincia.toUpperCase());
+ 
+  if (resultado) {
+    return resultado.letra;
+  } else {
+    return null;
+  }
+ }
 const extractStateFromResponse = async (url) => {
   try {
     const browser = await puppeteer.launch();
@@ -109,7 +118,6 @@ function saveResult(state) {
     isOdd: state.isOdd,
   });
 
-  console.log("holaaaaaaa", result);
 
   const jsonData = JSON.stringify(result);
 
@@ -130,4 +138,5 @@ module.exports = {
   saveResult,
 
   generarID,
+  obtenerLetraPorProvincia,
 };
