@@ -69,9 +69,6 @@ const extractStateFromResponse = async (url) => {
           : null;
 
       fragmento.state = provincia;
-      fragmento.alternativeName = null;
-      fragmento.district = null;
-      fragmento.name = null;
       fragmento.nameStreet = calle;
       fragmento.from = numerosInicio;
       fragmento.until = numerosFin;
@@ -79,7 +76,6 @@ const extractStateFromResponse = async (url) => {
       fragmento.neighborhood = ubicacion;
       fragmento.name = ubicacion;
       fragmento.zip = cpa;
-      fragmento.type = null;
     } else {
       console.log("err: no encontramos referencias");
     }
@@ -96,32 +92,29 @@ function saveResult(state) {
   var numbersID = generarID();
 
   result.localities.push({
-    id: localitiesID,
-    name: state.name,
-    zip: state.zip,
-    district: state.district,
-    state: state.state,
+    id: localitiesID.toLowerCase(),
+    name: state.name.toLowerCase(),
+    zip: state.zip.toLowerCase(),
+    state: state.state.toLowerCase(),
   });
   result.streets.push({
-    streetId: streetsID,
-    type: null,
-    name: state.nameStreet,
-    alternativeName: null,
-    localityId: localitiesID,
-    neighborhood: state.name,
+    streetId: streetsID.toLowerCase(),
+    name: state.nameStreet.toLowerCase(),
+    localityId: localitiesID.toLowerCase(),
+    neighborhood: state.name.toLowerCase(),
   });
   result.numbers.push({
-    numberId: numbersID,
-    streetId: streetsID,
-    from: state.from,
-    until: state.until,
-    isOdd: state.isOdd,
+    numberId: numbersID.toLowerCase(),
+    streetId: streetsID.toLowerCase(),
+    from: state.from.toLowerCase(),
+    until: state.until.toLowerCase(),
+    isOdd: state.isOdd.toLowerCase(),
   });
 
 
   const jsonData = JSON.stringify(result);
 
-  fs.writeFileSync("db/datafinish.json", jsonData);
+  fs.writeFileSync("db/data.json", jsonData);
   return result;
 }
 
