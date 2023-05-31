@@ -43,9 +43,9 @@ const extractStateFromResponse = async (url) => {
         pElement[0]
       );
 
-      const calleRegex = /(Calle|Avenida) ([^\s,]+)/;
-      const provinciaRegex = /provincia ([^\s,]+)/;
-      const ubicacionRegex = /en ([^\s,]+)/;
+      const calleRegex = /Avenida(.*?)a todos los números/;
+      const provinciaRegex = /provincia(.*?)Argentina/;
+      const ubicacionRegex = /en\s(.*?),/;
       const numerosRegex = /números ([\d]+) a ([\d]+)/;
       const cpaRegex = /CPA ([^\s,]+)/;
 
@@ -54,11 +54,29 @@ const extractStateFromResponse = async (url) => {
       const ubicacionMatch = pText.match(ubicacionRegex);
       const numerosMatch = pText.match(numerosRegex);
       const cpaMatch = pText.match(cpaRegex);
-
       const cpa = cpaMatch ? cpaMatch[1] : null;
-      const calle = calleMatch ? calleMatch[2] : null;
-      const provincia = provinciaMatch ? provinciaMatch[1] : null;
-      const ubicacion = ubicacionMatch ? ubicacionMatch[1] : null;
+     
+      //calle
+      if (calleMatch) {
+        calle = calleMatch[1].trim();
+        console.log(calle);
+      } else {
+        console.log("No se encontró el texto especificado");
+      }
+      //provincia
+      if (provinciaMatch) {
+        provincia = provinciaMatch[1].trim();
+        console.log(provincia);
+      } else {
+        provincia=null
+      }
+      //ubicacion
+      if (ubicacionMatch) {
+        ubicacion = ubicacionMatch[1].trim();
+        console.log(ubicacion);
+      } else {
+        ubicacion==null
+      }
       const numerosInicio = numerosMatch ? parseInt(numerosMatch[1]) : null;
       const numerosFin = numerosMatch ? parseInt(numerosMatch[2]) : null;
       const numerosTipo =
