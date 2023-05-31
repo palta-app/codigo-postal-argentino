@@ -17,7 +17,7 @@ exports.scrape = async () => {
             String.fromCharCode(65 + j) +
             String.fromCharCode(65 + k);
             const prefijo = obtenerLetraPorProvincia(provinciaCpa);
-          const url = `https://codigo-postal.co/argentina/cpa/M5500FHA/`;
+          const url = `https://codigo-postal.co/argentina/cpa/${prefijo}${zipcodePrefix}${suffix}/`;
           console.log( url)
           try {
             const state = await extractStateFromResponse(url);

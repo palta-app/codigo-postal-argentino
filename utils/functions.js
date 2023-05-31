@@ -87,6 +87,7 @@ const extractStateFromResponse = async (url) => {
 };
 
 function saveResult(state) {
+
   var localitiesID = generarID();
   var streetsID = generarID();
   var numbersID = generarID();
@@ -111,10 +112,24 @@ function saveResult(state) {
     isOdd: state.isOdd,
   });
 
+  var csv = 'id,name,zip,state\n';
+  result.localities.forEach(function(locality) {
+    csv += locality.id + ',' + locality.name + ',' + locality.zip + ',' + locality.state + '\n';
+  });
 
-  const jsonData = JSON.stringify(result);
+  csv += '\nstreetId,name,localityId,neighborhood\n';
+  result.streets.forEach(function(street) {
+    csv += street.streetId + ',' + street.name + ',' + street.localityId + ',' + street.neighborhood + '\n';
+  });
 
-  fs.writeFileSync("db/data.json", jsonData);
+  csv += '\nnumberId,streetId,from,until,isOdd\n';
+  result.numbers.forEach(function(number) {
+    csv += number.numberId + ',' + number.streetId + ',' + number.from + ',' + number.until + ',' + number.isOdd + '\n';
+  });
+  
+  fs.writeFileSync('db/data.csv', csv);
+  console.log('Archivo CSV guardado correctamente.');
+
   return result;
 }
 
