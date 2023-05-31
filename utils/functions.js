@@ -1,7 +1,8 @@
 const puppeteer = require("puppeteer");
 const fs = require("fs");
 const stateCode = require("../db/stateCode.json")
-// Ejemplo de uso:
+
+//estructura csv
 const result = {
   localities: [],
   streets: [],
@@ -10,7 +11,6 @@ const result = {
 
 function obtenerLetraPorProvincia(provincia) {
   const resultado = stateCode.find((objeto) => objeto.provincia.toUpperCase() === provincia.toUpperCase());
- 
   if (resultado) {
     return resultado.letra;
   } else {
@@ -157,9 +157,7 @@ function generarID() {
 
 module.exports = {
   extractStateFromResponse,
-
   saveResult,
-
   generarID,
   obtenerLetraPorProvincia,
 };
