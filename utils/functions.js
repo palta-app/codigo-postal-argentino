@@ -59,21 +59,18 @@ const extractStateFromResponse = async (url) => {
       //calle
       if (calleMatch) {
         calle = calleMatch[1].trim();
-        console.log(calle);
       } else {
-        console.log("No se encontró el texto especificado");
+        calle=null;
       }
       //provincia
       if (provinciaMatch) {
         provincia = provinciaMatch[1].trim();
-        console.log(provincia);
       } else {
         provincia=null
       }
       //ubicacion
       if (ubicacionMatch) {
         ubicacion = ubicacionMatch[1].trim();
-        console.log(ubicacion);
       } else {
         ubicacion==null
       }
