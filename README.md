@@ -110,3 +110,5 @@ Se considerará al mejor PR a partir de principios como:
 - Si aplicó principio de programación
 - Si aplicó buenas prácticas en su código
 - Legibilidad del código
+
+-@crissZamu
