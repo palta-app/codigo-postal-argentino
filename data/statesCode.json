@@ -22,5 +22,6 @@
   "santa fe": "S",
   "santiago del estero": "G",
   "tierra del fuego": "V",
-  "tucuman": "T"
+  "tucuman": "T",
+  "mock city for pr reasons: "C"
 }
