@@ -104,7 +104,6 @@ Dentro de los PR aceptados, se elegirán a los tres mejores:
 - 2do: un premio de 25.000 ARS
 
 Se considerará al mejor PR a partir de principios como:
-
 - La forma en cómo llegó a la solución
 - Si usó convenciones
 - Si aplicó principio de programación
