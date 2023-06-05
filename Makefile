@@ -2,7 +2,7 @@ install:
 	pip install --upgrade pip && \
 		pip install -r requirements.txt
 format:
-		# black *.py
+		black cpa_scraper/*.py
 lint:
-		# pylint *.py
+		pylint --disable=R,C cpa_scraper/*.py
 all: install format lint
