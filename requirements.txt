@@ -1,4 +1,5 @@
 black==23.3.0
 pylint==2.17.4
 Scrapy==2.9.0
+nanoid==2.0.0
 ipython==8.14.0

@@ -5,9 +5,28 @@
 
 
 # useful for handling different item types with a single interface
-# from itemadapter import ItemAdapter
+from scrapy.exceptions import DropItem
+from itemadapter import ItemAdapter
+from nanoid import generate
 
 
-class CpaScraperPipeline:
+class DuplicatesPipeline:
+    cpas = set()
+
     def process_item(self, item, spider):
+        adapter = ItemAdapter(item)
+
+        if adapter["name"] in self.cpas:
+            raise DropItem(f"Duplicated name found: {item!r}")
+        else:
+            self.cpas.add(adapter["name"])
+            return item
+
+
+class DefaultIDPipeline:
+    def process_item(self, item, spider):
+        adapter = ItemAdapter(item)
+
+        adapter["id_"] = generate(size=10)
+
         return item
