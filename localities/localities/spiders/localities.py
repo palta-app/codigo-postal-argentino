@@ -101,7 +101,7 @@ class LocalitiesSpider(scrapy.Spider):
             item['street_link'].append(response.url)
             item['street_number'].append('No Need')
             
-        elif 'No hemos podido encontrar' in no_cpa:
+        elif ('No hemos podido encontrar' in no_cpa) or (response.url[:-1] in set(self.start_urls)):
             item['st_local'].append(locality)
             item['st_city'].append(city)
             item['st_state'].append(state)
@@ -120,7 +120,6 @@ class LocalitiesSpider(scrapy.Spider):
             
         yield item
 
-    
     def parse_search_street(self, response, **kwargs):
         if kwargs:
             city = kwargs['city']
