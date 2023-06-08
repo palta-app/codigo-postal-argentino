@@ -7,26 +7,18 @@
 # useful for handling different item types with a single interface
 from scrapy.exceptions import DropItem
 from itemadapter import ItemAdapter
-from nanoid import generate
 
 
 class DuplicatesPipeline:
-    cpas = set()
+    _locality_items = set()
 
     def process_item(self, item, spider):
         adapter = ItemAdapter(item)
 
-        if adapter["name"] in self.cpas:
-            raise DropItem(f"Duplicated name found: {item!r}")
-        else:
-            self.cpas.add(adapter["name"])
-            return item
-
-
-class DefaultIDPipeline:
-    def process_item(self, item, spider):
-        adapter = ItemAdapter(item)
-
-        adapter["id_"] = generate(size=10)
-
-        return item
+        if adapter["_inner_category"] == "locality":
+            compose_locality = f'{adapter["name"]}_{adapter["zip_code"]}'
+            if compose_locality in self._locality_items:
+                raise DropItem(f"Duplicated name found: {item!r}")
+            else:
+                self._locality_items.add(compose_locality)
+                return item.serialize()
