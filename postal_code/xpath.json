@@ -1,0 +1,13 @@
+[
+    {
+        "COUNTRY_LINKS": "//ul[@class='paises']/li[not(@class)]/a/@href",
+        "COUNTRY_NAMES": "//li[not(@class)]/a/img/@alt",
+        
+        "ARGENTINA":{
+            "STATES_LINKS": "//ul[@class='column-list']/li[not(@class)]/a/@href",
+            "STATES_NAMES": "//ul[@class='column-list']/li[not(@class)]/a/text()",
+            "CITIES_LINKS": "//ul[@class='cities']/li[not(@class)]//a/@href",
+            "CITIES_NAMES": "//ul[@class='cities']/li[not(@class)]//a/text()"
+        }
+    }
+]
