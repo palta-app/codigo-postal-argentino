@@ -1,0 +1,9 @@
+{
+    "rules": {
+        "indent": ["error", 4]
+    },
+    "parserOptions": {
+        "ecmaVersion": "latest",
+        "sourceType": "module"
+    }
+}
