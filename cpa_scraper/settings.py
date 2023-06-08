@@ -64,6 +64,7 @@ ROBOTSTXT_OBEY = True
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
     "cpa_scraper.pipelines.DuplicatesPipeline": 100,
+    "cpa_scraper.pipelines.CSVPipeline": 200,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
@@ -92,8 +93,8 @@ REQUEST_FINGERPRINTER_IMPLEMENTATION = "2.7"
 TWISTED_REACTOR = "twisted.internet.asyncioreactor.AsyncioSelectorReactor"
 FEED_EXPORT_ENCODING = "utf-8"
 
-FEEDS = {
-    "local_data/%(name)s/%(name)s_%(time)s.csv": {
-        "format": "csv",
-    }
-}
+# FEEDS = {
+#     "local_data/%(name)s/%(name)s_%(time)s.csv": {
+#         "format": "csv",
+#     }
+# }
