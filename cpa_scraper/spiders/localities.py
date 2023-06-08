@@ -31,7 +31,7 @@ class LocationsSpider(Spider):
     def parse_locality_item(self, row, locality_id):
         locality = LocalityLoader(item=LocalityItem(), selector=row)
         locality.add_value("locality_id", locality_id)
-        locality.add_value("_inner_category", "locality")
+        locality.add_value("_inner_category", "localities")
         locality.add_xpath("name", ".//td[2]/text()")
         locality.add_css("zip_code", "td a::text")
         locality.add_css("state", "td:nth-child(1)::text")

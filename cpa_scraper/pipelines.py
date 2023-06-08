@@ -15,7 +15,7 @@ class DuplicatesPipeline:
     def process_item(self, item, spider):
         adapter = ItemAdapter(item)
 
-        if adapter["_inner_category"] == "locality":
+        if adapter["_inner_category"] == "localities":
             compose_locality = f'{adapter["name"]}_{adapter["zip_code"]}'
             if compose_locality in self._locality_items:
                 raise DropItem(f"Duplicated name found: {item!r}")
