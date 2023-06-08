@@ -1,0 +1,17 @@
+[
+    {
+        "ARGENTINA": {
+            "TABLE_COLUMN": "//tbody//tr/td[position()={}]/text()",
+            "POSTAL_CODES": "//tbody//tr/td/a/text()",
+            "POSTAL_CODES_LINKS": "//tbody//tr/td/a/@href",
+            "POSTAL_CODES2": ["//p/strong/text()", "//table"],
+
+            "STREET_NAMES": "//ul[@class='three_columns']/li[not(@class)]/a/text()",
+            "STREET_LINKS": "//ul[@class='three_columns']/li[not(@class)]/a/@href",
+            
+            "STREET_TABLE": "//table//tr/td[position()={}]/text()",
+            "STREET_CPA": ["//table//tr/td/a/@href", "//table//tr/td/a/text()"],
+            "MISSING": "//div/p/text()"
+        }
+    }
+]
