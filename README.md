@@ -1,8 +1,7 @@
 # Challenge Código Postal Argentino
 
 ## Introduction
-
-¡Buenas! En Palta estamos teniendo un problema y es que no encontramos una API que nos proporcione con exactitud una consulta para obtener un CPA (Código Postal Argentino) en su nueva versión de 8 caracteres (ejemplo M5500BBA), para ello hemos pensado que tal vez la solución sea armar un scraper para consultarlo o descargar la data dentro de alguna web y poder almacenarla para compartirla con la comunidad Argentina.
+Este proyecto contiene una posible solución al [Challenge expuesto por Palta](https://github.com/palta-app/codigo-postal-argentino). Este consiste en armar un scraper que permita recolectar la información sobre el Código Postal Argentino (CPA de ahora en adelante) puesto que se carece de una API que tenga esta información al alcance.
 
 ### ¿Qué es el CPA?
 
@@ -23,90 +22,11 @@ Para ello hemos encontrado la web: [https://codigo-postal.co/](https://codigo-po
 - consultado vía países, provincia, localidad y calles: [https://codigo-postal.co/argentina/mendoza/mendoza/12-de-febrero/](https://codigo-postal.co/argentina/mendoza/mendoza/12-de-febrero/)
 - consultando directamente al CPA: [https://codigo-postal.co/argentina/cpa/M5500FHA/](https://codigo-postal.co/argentina/cpa/M5500FHA/)
 
-### Una alternativa
+## Scraper y Spiders
+Para la solución de este reto he empleado el framework [SCRAPY](https://scrapy.org/) el cual permite realizar web scraping a alto nivel. 
 
-Pensamos como una alternativa se podrá ir scrapeando y consultando con el endpoint [`https://codigo-postal.co/argentina/cpa/M5501AAB/`](https://codigo-postal.co/argentina/cpa/M5501AAB/) el cual nos permite consultar un CPA y poder ver la info que nos devuelve. Esta info incluye:
+La estructura de la solución se compone de dos Spiders. La primera ([postal_code](https://github.com/jpradas1/codigo-postal-argentino/tree/main/postal_code)) se encarga the extract los [paises](https://github.com/jpradas1/codigo-postal-argentino/blob/main/data/country.csv) disponibles en la website de [codigo-postal](https://codigo-postal.co/) donde se encuentran 12 paises hasta la fecha. Luego de elegir el país al cual se le quiere realizar webscraping (por ahora funciona completamente para Argentina) se extraen los [estados](https://github.com/jpradas1/codigo-postal-argentino/blob/main/data/state.csv) y posteriormente cada una de las [ciudades](https://github.com/jpradas1/codigo-postal-argentino/blob/main/data/city.csv). Toda esta data es originalmente almacenada en una base de datos SQL tal y como se explica en el script [pipelines.py](https://github.com/jpradas1/codigo-postal-argentino/blob/main/postal_code/postal_code/pipelines.py), aun así en el directorio [data/](https://github.com/jpradas1/codigo-postal-argentino/tree/main/data) se encuetra en formato CSV esta data. Junto a los nombres de las ciudades se extrae el link de cada una de ellas los cuales contienen las localidades.
 
-- calle
-- numeración
-- localidad
-- si la numeración es PAR o IMPAR
+La segunda Spider [localities](https://github.com/jpradas1/codigo-postal-argentino/tree/main/localities) es la que se encarga verdaderamente de exraer cada uno de los CPA. Con ayuda de los datos extraidos por la primera Spider, esta extrae las [localidades](https://github.com/jpradas1/codigo-postal-argentino/blob/main/data/locality.csv) de cada ciudad como su codigo postal. Sin embargo, no todas las localidades están representadas por un único CPA sino que son las calles de cada localidad que tienen su propio CPA, como se explicó anteriormente. Por lo tanto, para cada una de estas localidades se extrae la [calle, el número, su paridad y su CPA](https://github.com/jpradas1/codigo-postal-argentino/blob/main/data/street.csv). Una vez más la data es almacenada en al misma base de datos SQL alimantada según [pipeline.py](https://github.com/jpradas1/codigo-postal-argentino/blob/main/localities/localities/pipelines.py) de esta Spider. Aun así se ha guardado en formato CSV las data relacionada con el estado o provincia de Buenos Aires cuyas ciudades inicien con "A".
 
-### Info adicional
-
-Vas a poder encontrar en la carpeta `data` datos adicionales que pueden ayudarte:
-
-1. localities.csv - Listado de Códigos Postales de Argentina
-2. statesCode.json - Listo de código de cada provincia
-
-Por otro lado, tener en cuenta que los sufijos puede ir desde AAA -> ZZZ
-
-### Tener en cuenta
-
-Esta problemática puede presentar OTRO problema y es que dando un estimado de la cantidad de CPA posibles podemos tener:
-
-Escenario 1: que se estén utilizando TODOS los sufijos (AAA -> ZZZ), lo que nos daría una cantidad de `27 ** 3 * 3449 = 67.886.667` de CPAs (un numerito)
-
-Escenario 2: que se estén utilizando ALGUNOS sufijos por localidad, lo que reduce la posibilidad entre un 70% y 50%, quedando entre 20.366.000 y 33.943.333 de CPAs
-
-Escenario 3: que se estén utilizando POCOS sufijos por localidad, lo que reduce la posibilidad en un 90% (lo que puede ser muy probable, pero no seguro que sea así) quedando un total de 7.000.000 de CPAs
-
-¿Cómo crees que se podría solucionar?
-
-# Sobre los Resultados esperados
-
-Ejemplo de estructura a seguir en DB o CSV:
-
-localities:
-
-```csv
-id,name,zip,sate
-00011436,agua sucia,a4449xaa,salta
-```
-
-streets:
-
-```csv
-id,type,name,reference,alternativeName,localityId,neighborhood
-00014291,ruta provincial,ruta provincial 2tab,2,00001120,tab
-```
-
-numbers:
-
-```csv
-streetId,isOdd,from,until,zip
-00014284,false,1,2,s3077aaa
-```
-
-# Inscripciones
-
-Para sumarte al desafío es facil, sigue estos dos pasos:
-
-1. Haz un FORK de este repo
-2. Crea un PR con el título `[WIP] - lets do it 📬🥑` (puedes reemplazar `lets do it` con el título que prefieras)
-
-_Solo los PR creados antes del inicio del challenge serán tomados en cuenta para los Premios_
-
-# Duración
-
-Inicio: El día viernes 2 de junio a las 12:00 UTC-03:00  
-Cierre: El día viernes 9 de junio a las 12:00 UTC-03:00
-
-# Entrega
-
-Para la entrega debes sumar en tu PR la solución (código) y una muestra de la solución (los documentos CSV)
-
-# Premios
-
-Dentro de los PR aceptados, se elegirán a los tres mejores:
-
-- 1er: un premio de 50.000 ARS
-- 2do: un premio de 25.000 ARS
-
-Se considerará al mejor PR a partir de principios como:
-
-- La forma en cómo llegó a la solución
-- Si usó convenciones
-- Si aplicó principio de programación
-- Si aplicó buenas prácticas en su código
-- Legibilidad del código
+## Ejecución
