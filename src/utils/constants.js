@@ -2,11 +2,31 @@ import * as path from 'path'
 
 export const baseURL = 'https://codigo-postal.co'
 
+export const dataFolderPath = path.join(path.resolve(), '/src/data')
+
 export const dataPaths = {
     localities: path.join(path.resolve(), '/src/data/localidades.csv'),
     streets: path.join(path.resolve(), '/src/data/calles.csv'),
     height: path.join(path.resolve(), '/src/data/altura.csv'),
 }
+
+export const csvFiles = [
+    {
+        name: 'localidades.csv',
+        headers: ['id', 'provincia', 'localidad', 'cpa'],
+        path: dataPaths.localities,
+    },
+    {
+        name: 'calles.csv',
+        headers: ['id', 'tipo', 'nombre', 'localidadId', 'localidad', 'cpa'],
+        path: dataPaths.streets,
+    },
+    {
+        name: 'altura.csv',
+        headers: ['calleId', 'desde', 'hasta', 'cpa'],
+        path: dataPaths.height,
+    },
+]
 
 export const provinces = {
     ciudad_autonoma_de_buenos_aires: {
