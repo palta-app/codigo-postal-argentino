@@ -10,6 +10,33 @@ Please note that the demo files are only a small part of the complete file, as
 the complete file is too large. To view it in its entirety, you can use the
 `make run` command.
 
+When the scraper is executed, the output files have a format like `[name]/[name]_[%Y-%m-%dT%H-%M-%S].csv`.
+
+### Data Model
+
+**LocalityItem**
+
+- `locality_id`: Unique identifier for the locality.
+- `name`: Name of the locality.
+- `zip_code`: Postal zip code associated with the locality.
+- `state`: State in which the locality is located.
+
+**StreetItem**
+
+- `street_id`: Unique identifier for the street.
+- `name`: Name of the street.
+- `locality_id`: Identifier of the locality to which the street belongs.
+
+**NumberItem**
+
+- `street_id`: Identifier of the street to which the number belongs.
+- `from_number`: Starting number in the range (or "-" if there is a unique CPA for the street).
+- `until_number`: Ending number in the range (or "-" if there is a unique CPA for the street).
+- `zip_code`: Postal zip code associated with the number range.
+
+NOTE: Each custom item contains an `_inner_category` field, which is used in pipelines to perform specific tasks such as validations or removing duplicates. 
+The internal category helps in organizing the data during the data processing pipeline.
+
 ### Setup
 
 Tested with Python 3.10 using a virtual environment:
