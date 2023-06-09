@@ -3794,3 +3794,564 @@ d907dd4b-bebc-48b7-a0cb-9cfa0416ba9f,Calle,9,fdc5c69c-d00f-47c2-a5c6-8c279eb7c0f
 3c06f841-706a-45c6-854b-5604bbf79906,Diagonal,Diag 50,fdc5c69c-d00f-47c2-a5c6-8c279eb7c0f4,Balneario Mar de Cobo,B7788BDA
 4052609a-cb35-4b4a-ba37-6c8800a85b86,Diagonal,Diag 60,fdc5c69c-d00f-47c2-a5c6-8c279eb7c0f4,Balneario Mar de Cobo,B7788BEA
 3a8488ae-c7a5-477c-abad-243fee91d670,Diagonal,Diag 70,fdc5c69c-d00f-47c2-a5c6-8c279eb7c0f4,Balneario Mar de Cobo,B7788BFA
+de49ca56-854d-4a7e-af0d-ebf1afa19a73,Calle,Chorlo de Mar,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+58cac47c-19f9-4ec4-b926-e864194145fe,Calle,El Alconcito,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+17aebadb-701a-4c1f-a2f5-bdfacf8fccfc,Calle,El Benteveo,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+7056a91f-d4f3-492b-a220-d2bd238558cc,Calle,El Bichofeo,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+41b3a882-599c-4d37-ac68-6516132862e7,Calle,El Cardenal,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+0f152a99-6a13-4bf5-b9d0-b9cd4306f533,Calle,El Carpintero,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+361ad09f-111e-4414-b3b6-800030948ccf,Calle,El Chingolo,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+a3fea940-cec3-4170-9e91-9402ea8297d4,Calle,El Chiplon,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+56f20f88-320a-4ad3-baa7-498b3bb15659,Calle,El Colibri,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+d294e7aa-534a-4b57-bfa1-dda6ed121a42,Calle,El Federal,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+b4e62b8e-9810-4765-a7cb-4e440baa02d4,Calle,El Ganso,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+4b32ca24-9553-4a27-bcea-00bab2fa7dc0,Calle,El Gavilan,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+95a289f2-ded5-47f9-be71-ab0594edd1ee,Calle,El Gaviotin,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+e05319aa-0172-43a8-a346-f16090efa8a7,Calle,El Gorrion,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+8bf4f06a-e6ad-4d49-9c22-7face9841a58,Calle,El Halcon,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+e6af8326-bbb0-4e47-b62f-ac4fa97024c1,Calle,El Hornero,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+47e159ce-8921-4c3c-907b-b802bbb03702,Calle,El Jilguero,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+d4864403-52ef-4e15-987b-6df0dd6be33e,Calle,El Mirasol,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+07c97450-b5ff-42f0-b88a-5106a0491a5b,Calle,El Petitero,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+4c114901-3aed-4199-ab72-bb2be2145dc8,Calle,El Playero,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+26a307eb-52ea-4e05-8c46-ebb5fd79e19b,Calle,El Zorzal,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+967ba064-aeaf-4484-9bed-0d88d1a33313,Calle,La Bandurrias,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+e983734b-474a-46c8-a457-df6587c39541,Calle,La Calandria,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+cf676764-1ba3-4c3c-b312-c82e79f40d98,Calle,La Gallareta,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+077c630e-05b0-47ff-97b0-b8e58b7df983,Calle,La Tijereta,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+dd5e5a1e-686f-4822-9c63-fce50f568707,Calle,La Torcaza,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+29bcef20-6894-415b-9104-2b5af9dc3d6e,Calle,Las Aguilas,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+c350eed0-889e-4868-9f16-3cb946439548,Calle,Las Catas,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+fcb439e1-26d7-4b21-ba80-557ad8e8c3e6,Calle,Las Cigueñas,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+4b303f3f-579f-40c1-9465-fed0520c95a1,Calle,Las Gallinetas,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+35203b3c-e4c3-4b7a-8a2c-9ef591ae2b1d,Calle,Las Garzas,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+d0fbe20f-6786-49fa-a572-5cc25266e4be,Calle,Las Gaviotas,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+495c25a3-f4b7-4504-ad9f-2f1ba759ce65,Avenida,Las Golondrinas,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+43146186-3158-4ba5-8cff-5692e1a3516f,Calle,Las Palomas,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+0e8dd37c-449c-485a-9677-a5f45aab2d8f,Calle,Los Boyeros,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+82c24a1d-3d92-4691-96f6-3b5017bcb134,Calle,Los Caranchos,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+4a514ecc-3a79-4aba-8c02-1d81b4d67be4,Calle,Los Chimangos,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+8f2703cd-7b79-45b0-b66f-608a77b570c1,Calle,Los Cisnes,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+65d42bbe-a28d-4e6f-9e1b-6e87dca654bc,Calle,Los Cuervos,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+f3ed3644-e078-4335-a5ae-e89d73c26570,Diagonal,Los Flamencos,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+eebe46e8-ddb2-45ca-8c62-021d864f213b,Calle,Los Loros,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+59cd2931-b9b1-4cca-8522-078ed54182a7,Calle,Los Patos,64e0c7e1-aed3-408f-b10d-83c644c9e433,Balneario Playa Dorada,N/A
+bc9aacb6-7b20-481c-802a-42dc0d2d6c03,Avenida,Alte G Brown,20aae705-813a-4974-b36e-803ed125c305,Balneario Santa Elena,N/A
+de64b728-89fb-4425-8c12-f7d51700c6f2,Calle,Americo Vespucio,20aae705-813a-4974-b36e-803ed125c305,Balneario Santa Elena,N/A
+9279f8cd-eab9-42a7-a30f-06231a0edcfc,Calle,Aviso Sobral,20aae705-813a-4974-b36e-803ed125c305,Balneario Santa Elena,N/A
+1d89e4ac-ee68-4d4d-a0b7-d189636557fd,Calle,Bergantin Gral Belgrano,20aae705-813a-4974-b36e-803ed125c305,Balneario Santa Elena,N/A
+f737d5ba-8c1c-41ba-9590-4e900c773481,Calle,Cap Ramon Franco,20aae705-813a-4974-b36e-803ed125c305,Balneario Santa Elena,N/A
+700b0c52-1ffb-40d8-ab25-eac5862d1db5,Avenida,Cristobal Colon,20aae705-813a-4974-b36e-803ed125c305,Balneario Santa Elena,N/A
+0984a523-ace7-45d7-a4cd-e59b646fa36e,Calle,Crucero Gral Belgrano,20aae705-813a-4974-b36e-803ed125c305,Balneario Santa Elena,N/A
+e6b43c18-f6d5-46e2-90b4-5b87d9ce5efb,Avenida,De los Navegantes,20aae705-813a-4974-b36e-803ed125c305,Balneario Santa Elena,N/A
+af890453-448a-424e-b159-13c076b3d444,Calle,Diego de Almagro,20aae705-813a-4974-b36e-803ed125c305,Balneario Santa Elena,N/A
+f645e3d8-9e90-471c-9f93-782aeb3a9c73,Avenida,El Puerto,20aae705-813a-4974-b36e-803ed125c305,Balneario Santa Elena,N/A
+e057ae2e-8331-476c-98c8-90236163f21f,Calle,Fgta Pte Sarmiento,20aae705-813a-4974-b36e-803ed125c305,Balneario Santa Elena,N/A
+7a28fae4-c399-4c9e-b323-60c53c765a3f,Calle,Gaboto,20aae705-813a-4974-b36e-803ed125c305,Balneario Santa Elena,N/A
+4977bf82-5554-4cb3-bec7-13e083219f0c,Calle,Hernan Cortez,20aae705-813a-4974-b36e-803ed125c305,Balneario Santa Elena,N/A
+8324d251-e39d-4829-a110-f0df7d2413d8,Calle,Hernandarias,20aae705-813a-4974-b36e-803ed125c305,Balneario Santa Elena,N/A
+0e74fdd7-9df5-4c81-abb7-bd8cec7c056a,Calle,Hernando de Magallanes,20aae705-813a-4974-b36e-803ed125c305,Balneario Santa Elena,N/A
+ea8f126f-483b-443f-b196-3c9870992de5,Calle,Islas Malvinas,20aae705-813a-4974-b36e-803ed125c305,Balneario Santa Elena,N/A
+b2f2a6af-3388-4ae8-90f9-7f72d75d8492,Calle,J de Garay,20aae705-813a-4974-b36e-803ed125c305,Balneario Santa Elena,N/A
+fd75966d-e172-492d-8d70-d2b843c070a4,Calle,Juan Diaz de Solis,20aae705-813a-4974-b36e-803ed125c305,Balneario Santa Elena,N/A
+fce2fcba-2ad7-4786-a016-8523ae51324d,Calle,Marco Polo,20aae705-813a-4974-b36e-803ed125c305,Balneario Santa Elena,N/A
+cc80f0ca-cb9b-44ee-84b7-8753f0cb1c10,Calle,Nuñez Cabeza de Vaca,20aae705-813a-4974-b36e-803ed125c305,Balneario Santa Elena,N/A
+c4338cf8-be6b-449f-a32f-2662504a5455,Avenida,Pedro de Mendoza,20aae705-813a-4974-b36e-803ed125c305,Balneario Santa Elena,N/A
+bd5cf179-0549-4df9-b05f-d897b1fa631d,Calle,Roberto Scott,20aae705-813a-4974-b36e-803ed125c305,Balneario Santa Elena,N/A
+2410ce0e-4d28-44db-9ccd-c6bd71fa9ff1,Calle,Ronald E Amundsen,20aae705-813a-4974-b36e-803ed125c305,Balneario Santa Elena,N/A
+6d4b2a81-e79d-4d44-81e3-5ac30b33ce30,Calle,Sebastian Elcano,20aae705-813a-4974-b36e-803ed125c305,Balneario Santa Elena,N/A
+0c2ba405-ccc5-4586-88d1-caf04e357b94,Calle,Tomas Spora,20aae705-813a-4974-b36e-803ed125c305,Balneario Santa Elena,N/A
+0052c067-2d58-4a9f-a000-3a0075172d7f,Calle,Vito Dumas,20aae705-813a-4974-b36e-803ed125c305,Balneario Santa Elena,N/A
+a547185a-5da7-44a2-8bb6-1bc479614f78,Calle,1 de Septiembre,41be3180-b931-4972-83bf-ab1ae01a9620,Banderalo,N/A
+dfdc32be-973c-4aa1-8b76-f7e9f8e6048c,Calle,Cacique Curu Potro,41be3180-b931-4972-83bf-ab1ae01a9620,Banderalo,N/A
+c18d27ac-417c-45c2-851f-b56e0fef735b,Calle,Cacique Mariano Rosas,41be3180-b931-4972-83bf-ab1ae01a9620,Banderalo,N/A
+f5775b90-7610-4ccd-a0d4-fd64edb0e47a,Calle,Cacique Yanquetruz,41be3180-b931-4972-83bf-ab1ae01a9620,Banderalo,N/A
+9e2a56c4-8a14-4121-967b-c235651051e0,Calle,Cnel Jose Segundo Roca,41be3180-b931-4972-83bf-ab1ae01a9620,Banderalo,N/A
+5d5ac00b-56f4-4d8a-bfc5-31f4a6b1963f,Calle,Cnel Leopoldo Nelson,41be3180-b931-4972-83bf-ab1ae01a9620,Banderalo,N/A
+9eb6c131-921a-4f0b-b237-fe50f4abf8c7,Calle,Dr Cimino,41be3180-b931-4972-83bf-ab1ae01a9620,Banderalo,N/A
+f0b3ff81-5ae4-458e-90c0-6c4b85fc6c8d,Calle,Facundo Larroza,41be3180-b931-4972-83bf-ab1ae01a9620,Banderalo,N/A
+70c25dd5-98a4-4032-b070-bc06dd15535d,Calle,Gral Conrado Villegas,41be3180-b931-4972-83bf-ab1ae01a9620,Banderalo,N/A
+a1358853-d59e-4975-9e14-2f0fec178079,Calle,Ing Jose Maria White,41be3180-b931-4972-83bf-ab1ae01a9620,Banderalo,N/A
+9904505a-171a-49a7-bf60-f047857438f1,Calle,Medanos de Guzman,41be3180-b931-4972-83bf-ab1ae01a9620,Banderalo,N/A
+fed8e944-156f-4dd7-9f53-d08431156255,Calle,Pbto Pio Masramon,41be3180-b931-4972-83bf-ab1ae01a9620,Banderalo,N/A
+d594a126-8884-40b6-8d5d-aa35a12bdac0,Calle,Zanja de Alsina,41be3180-b931-4972-83bf-ab1ae01a9620,Banderalo,N/A
+ada18128-bba2-45ff-9e0d-e6853dc99f17,La,,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+8606a931-0f50-4751-9600-7acc55c720e4,Calle,1 de Octubre,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+1609acaf-a9ba-40c0-b2f2-c4b572a8594e,Avenida,10 de Septiembre,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+64f45ef0-7dd9-4379-aa5b-ca47d42b7590,Calle,11 de Septiembre,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+d3bdbb5a-53f6-4285-b97d-4f49530b97cc,Calle,12 de Agosto Norte,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+6f0d2f71-5555-4b99-96b6-5c849e2313aa,Calle,12 de Octubre,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+9f716a6d-4263-46a6-8033-562bc016c636,Calle,13 de Diciembre,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+72997b2c-ce28-4616-a984-d127c78e9114,Calle,25 de Mayo,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+378b655b-4eda-4d0d-80d2-bd67e0610d3e,Calle,9 de Julio,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+6494df93-17c8-49ee-a129-74c941e5c3c6,Calle,A Caballero,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+b0e0f02e-f627-4475-99e2-a637b81f6406,Calle,A Lugano,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+dbf8bddc-1eb9-439a-b513-32143f8cc9de,Calle,Abelardo Corbacho,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+b1487e97-9d76-42f8-a33e-c22cf7bc6167,Calle,Agustin Magaldi,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+f959d0dc-f56f-4e1f-b060-caf1e6309f1c,Calle,Alan Kardec,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+97921de5-fc72-47f4-8511-07f6131e2d3c,Calle,Albert Einstein,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+e534ec6f-99db-4ac6-881c-e22708b418ea,Calle,Alberti,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+0b6fa31e-2d5d-459b-abd9-c77cca2b1083,Calle,Alberto Franco,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+182fcb7a-2cc9-4ac9-b719-9ca0075c1cf6,Calle,Alberto Larroque,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+ed703ca4-c9e4-47c9-aa6b-649a5023425c,Calle,Alejandro Magrassi,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+49c247db-3d68-4fdb-b341-8f8ff48cd38f,Calle,Alfonsina Storni,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+bdf750d3-76f6-4f66-ae77-05f1d427e70f,Calle,Almafuerte,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+59929b14-cc33-48de-b461-d84d931f143d,Calle,Alvarado,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+640de72f-7fdc-469b-a60c-e21a56378d59,Calle,Amberes,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+1f1df9f7-d644-4c39-a42f-f9c31b299e78,Calle,America,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+bc0c30cf-038d-419f-b89d-fab57a15946d,Calle,Americo Vespucio,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+f4a1c3c4-86d6-499c-85a3-eedc11099c73,Calle,Amsterdam,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+fd2c2a0c-686c-452c-b217-4c55b848b54b,Calle,Ana Acerboni,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+2ba9616b-8a9a-4de9-ab52-f15642a5dee8,Calle,Andres Bello,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+237573eb-096e-452a-aa6e-ef99bc2283ec,Calle,Anibal Ponce,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+9ca0f91f-462d-47a8-8829-9cd3451bbe79,Calle,Antonio Beruti,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+57ddbcbf-287a-4faa-8a8e-a33a2c35a151,Calle,Antonio Filardi,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+e003abd0-7c45-4457-bbf4-70088b188e49,Calle,Antonio Machado,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+2bb64dfe-f613-4fec-82c1-15aadf6e3279,Calle,Antonio Mentruyt,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+22563aec-9d4a-4d39-8e1f-a3a3acd3fd68,Calle,Arana y Goiri,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+77cd8e7b-4f93-43e4-abce-4ab2954e5d6d,Calle,Araoz,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+f7c2f0d2-ac62-49eb-8c22-276f6b25c2e6,Calle,Arlucea,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+5b31f35a-de2b-442e-a982-95b4b75c5d42,Calle,Armesti,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+3fd32da4-5424-4484-b8c6-407c57c30a70,Calle,Arq Alberto J Bogani,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+4921536f-3599-4731-be1e-681e0b433518,Calle,Arturo Schopenahuer,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+2b775e3a-7ff3-4044-a262-6d460b4d8296,Calle,Atenas,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+00c589b2-fc14-4f6a-95c4-1a6e99b4c85e,Calle,Australia,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+acf63306-5f34-4b6d-a189-f05638423774,Avenida,Av 101,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+a776f45a-a7e7-4387-b873-da763ca7ae4d,Avenida,Av 102,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,B1827DXA
+2ac7d982-d8d9-473e-9e8f-e63842267cce,Avenida,Av 103,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+d4d11e0d-3b18-410f-b610-6d6124566d7f,Avenida,Av 107,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,B1827DYA
+e163de3e-1850-478f-85db-4904163e1142,Calle,Ayolas,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+fa84de17-f606-4661-9df1-72bf4c6c55ed,Calle,Azamor,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+eadd1851-48ba-435d-a304-1e431d4e07e4,Calle,Baradero,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+78210c81-94da-40a4-822a-cd555992a58a,Calle,Barcelona,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+656614af-efc3-4a19-a19e-d19c12cbf6f4,Calle,Barilari,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+d191ea40-e0f2-4de5-8f4f-16523b4421ec,Calle,Bariloche,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+90c6a031-2b2b-467d-8881-cd82469f4162,Calle,Bayona,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+afb48c58-0202-4a6f-b482-0d2e4c80f447,Avenida,Bdier Facundo Quiroga,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+6c9930c2-fa7d-4bca-a24f-2882e5c0861c,Calle,Bdier J M de Rosas,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+59ff3bae-f71e-4445-893e-9f551cc96424,Calle,Belelli,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+3581fd2b-54ea-40d4-9070-0c0f3c51fc7f,Calle,Belen,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+e5a52a66-1c2b-4f5c-927a-8c84656b646c,Calle,Belgrano,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+8545e439-50ff-4d04-ad1d-d32406bb63ca,Calle,Belisario Roldan,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+3ad21735-7527-4a76-a489-d0f516cf55db,Calle,Benito Perez Galdos,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+5ea08bd7-2a12-4252-a650-ad6e46592882,Calle,Benito Spinoza,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+aed5404a-f9b9-47de-baa1-bf98ccd12f93,Calle,Benjamin Franklin,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+949b75c7-7386-40ae-a6b8-293a990e85e8,Calle,Bermejo,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+6bf1096a-2171-4988-81ef-412341d86e5d,Calle,Berna,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+6243553b-3ca2-43f7-990a-1a638c5d8bc2,Calle,Bernal,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+5810de7a-a2ac-4756-a700-59969d3cda65,Calle,Bidazoa,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+2b7539f9-8066-41b3-a980-f95ebd017950,Calle,Bilbao la Vieja,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+c10f7b3c-c50d-493b-9add-33cbe6556a85,Calle,Blandengues,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+f7ec6d34-9f6c-4850-9ba7-647c198343fa,Calle,Bolivia,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+f091cd59-7e3d-4930-8cb2-a058a1c37fe2,Calle,Bolonia,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+54a59aac-903d-40de-90c8-96f342455ad1,Calle,Boulogne Sur Mer,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+ef65e7be-41ec-41c8-8c68-143991219d0c,Calle,Bragado,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+1fd752ac-944a-40f2-9406-60b83ee1e3fc,Calle,Brasil,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+b60d6d93-66dd-401d-b80f-96bc7fabbed2,Calle,Bruselas,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+06df6bed-a047-4356-ae82-11934975c23d,Calle,Bucarest,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+82a1a3b2-f30c-481a-98f1-9c4369999511,Calle,Buenos Aires,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+d28a1c5f-ab21-4677-88cd-a8edb76c7880,Calle,Bustos,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+a2cbd8b0-e32d-46ce-9181-e2332f316964,Calle,Caaguazu Norte,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+0f9431ba-59a9-4390-917a-e896823a8586,Calle,Cabo 2Do E R Monte,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+81444ef0-354d-4269-9f06-23eecf2dd568,Calle,Cabo Ppal Fco Caceres,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+a40f801c-95c6-42ef-ac44-f53f19a593c8,Avenida,Cabo Ppal H Correa,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+89d6f30f-4e03-4f7a-9280-0e739888089c,Calle,Cabrera,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+6d50fc2f-4116-4946-992e-918069a0b524,Calle,Cadiz,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+9d760361-cddf-4200-b396-a2a6e31b071f,Calle,Cafayate,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+921f8975-3749-4281-a7d0-9924b727ad13,Calle,Calabria,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+c2027972-0742-4fc4-a2d9-2043f3ec7d9f,Calle,Calchaqui,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+c2a5a5f4-842d-4f2c-a407-c33b45a5beab,Calle,California,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+69705cd6-81ae-4c9e-a8e8-463cea94d0f9,Calle,Calingasta,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+ebecd44b-64d1-43f9-a0f7-fbe0952d5910,Calle,Callao,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+088e1caf-c5b5-4201-abe8-59d57e1e63dc,Calle,1,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+437a5daf-65b0-4b25-9ef0-ed536ce63c78,Calle,11,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+da4b6f2c-a976-4956-9d8c-08006f1ab8cc,Calle,19,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+56ce96ed-4afa-4c63-8063-b1889e979cbf,Calle,2,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+f6dcd798-3263-4ccf-89b3-3f6344ef3292,Calle,21,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+3715cc15-6aa0-4449-ad3b-725ae235fd36,Calle,23,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+9704b8a0-eba5-41e8-966f-a647186d0da5,Calle,25,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+51678670-b890-4f4e-abd5-5b4155fbdaae,Calle,27,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+ca319b83-ac2e-4ee2-b4a6-38df389b16f4,Calle,29,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+a3977aa0-a389-46ee-aedd-d645e0be0101,Calle,3,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+c092453d-dbec-4661-bbdd-c4e0a28b5a5d,Calle,4,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+ddc14dc1-e647-4e98-a49f-7e1a5b53b3c7,Calle,6,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+7bead1af-61e3-4bc6-9afe-66e3c4219f0a,Calle,7,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+007f00a9-51cb-45cb-9b0c-2dce16198771,Calle,8,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+16a610a9-19cf-4562-b2a6-9807010b88ba,Calle,9,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+86b51822-8366-4f86-90f8-d668c139184a,Calle,Camilo Mandelli,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+6f4493ff-4fbe-42f9-8d32-7e365069b504,Calle,Caminito,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+361f8e12-6beb-4970-a53b-eadb76f743b5,Avenida,Camino Negro,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+03479693-b361-4920-9252-07a7bdbd565d,Calle,Campana,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+be961bbd-e122-430d-89c2-e56d28825e91,Calle,Canada,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+771d352c-8407-4c75-89fd-e8589068e5fb,Calle,Candelaria,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+96cffd64-6320-48f1-8766-26c6c724d65c,Pasaje,Cantero,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+7222e4d5-6aa5-4872-8443-0dc314bde23b,Calle,Cañuelas,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+4e71fe97-81ad-4c62-aaee-635e716d1842,Calle,Cap D F Sarmiento,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+572df85d-f936-4d3d-aa69-d828b31eb63e,Avenida,Cap de Fgta P Giachino,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+dae64754-7c38-42e7-a853-6b671cd46945,Calle,Cap Hector Martel,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+b0cad276-612a-4e8e-aa27-9ab10664c104,Calle,Cap Rojas,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+0250dfd0-13bb-4f6b-935b-4f04f8e97eca,Calle,Carlos Croce,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+7d95922c-dbc7-465b-9eab-fb9f4c0ac6f2,Calle,Carlos Darwin,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+33baa604-d857-4774-a6ad-a5bdc824cd16,Calle,Carlos Glade,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+fea7c4e5-3a39-4971-ab70-acec05638505,Calle,Carlos Rodriguez Brito,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+fafac3b6-ec70-4de6-b63d-ddc1ccdb1435,Calle,Castro Barros,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+fda4bf41-0add-4a23-a4a0-d261a6ff05d0,Calle,Catalina Rodriguez,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+e90b4eb7-ab5b-4e0d-89be-fa590de283cd,Calle,Catamarca,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+5dc9df18-4c10-45b3-b6a4-2a61c71398a7,Calle,Ceferino Namuncura,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+4d23f678-438d-4abb-af07-296747fd18ea,Calle,Celina L de Minetto,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+a45a99f2-57e4-4f2c-b226-0b603e7c9bb3,Calle,Cerros Colorados,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+a1de2ec7-5cca-485e-b5cd-89f89d8b3a8d,Calle,Chacabuco,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+f801f913-ed1a-4d81-9912-8de65ddfdfc0,Calle,Chaco,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+159a72ac-577e-4ea8-aff5-86911ce16bc8,Calle,Chivilcoy,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+9d136e07-9d21-49e0-b990-2b3927dd2a61,Calle,Cid Guidy de Franc,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+c42a16a3-4466-4bac-bea3-03b29abbdfcf,Calle,Cipolletti,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+2b1a215f-aeb7-4246-9394-f2ac8ac44df4,Calle,Circunvalacion,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+bc8589ea-429d-4b7b-9864-9ab284d65494,Calle,Cjal Hector Lencina,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+e3bab90a-96e7-43a5-8cb1-53fa9fabd2e5,Calle,Claudio de Alas,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+16141da2-883d-41db-8cb9-7fc1fbfa750b,Calle,Cnel Diaz,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+489e9ca0-0098-4f7f-b5c0-e817de15bfdc,Calle,Cnel Juan Terrada,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+c926acb8-f95c-41e0-9b61-e14900e553dd,Calle,Cnel Lynch,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+c0600e91-80f9-4e36-bf30-538b63eb5335,Calle,Cnel M Larrazabal,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+d9ecd623-38fa-4415-92f0-749e05a07465,Calle,Cochabamba,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+799ab74c-7936-47af-bd00-c0b8b0064ebc,Calle,Colonia,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+70884ff0-1ffd-4fb3-bc3d-91254990a3d4,Calle,Comahue,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+85218525-b8c7-4214-90b7-2855eb9bbf8b,Calle,Comodoro Rivadavia,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+50aa30e6-c278-4412-872c-bd2a96f4ec4d,Calle,Constancio C Vigil,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+9305deb1-1c60-48ca-8a17-11497240e3d7,Calle,Constitucion,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+3071b16a-c307-44e3-84d5-62af585bf2b9,Calle,Copigue,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+c8f5bc8b-ccf4-4d90-a80d-83339885abb6,Calle,Cordoba,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+cc5c0fdd-cc6e-4d41-8fb8-27e3c00a8c7c,Calle,Corinto,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+6d05bdc1-e71e-4b62-b91d-d78dc08ef55c,Calle,Cosquin,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+eba4c777-f7eb-4d34-abcd-b8dc7189c39e,Calle,Cotagaita,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+b748641f-a915-4323-9d15-1a0e660bd129,Calle,Cpto Juan Carlos Lena,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+5ce32b28-0dc3-4858-a85d-3781f889efab,Calle,Csario Rodolfo Venzano,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+860347b5-1b2b-480f-b924-4ef6fbf2e1dd,Calle,Csejal Carlos Goodwyn,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+7a770fd2-f49e-4d74-8789-766c6c1b0eea,Calle,Darregueyra,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+d3e151ab-d1e9-4b6d-b19e-c2803c476e0f,Calle,David Baud,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+7bbaa6af-fb4d-4d49-b7db-ed185ddf238d,Calle,De la Noria,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+01ffbb5b-db35-4688-8fae-59fdff84c264,Camino,De la Ribera,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+6e687861-6ff1-4db5-9ce3-af957febc2c9,Calle,Defensa,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+9f16c2e0-6e18-4615-801c-b129f821d787,Pasaje,Del Pueblo,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+3c7c8b39-874e-4ea2-bcf7-7423901e5a27,Calle,Delfin Gallo,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+5c9a4102-94a4-4146-9a96-320813f22d74,Diagonal,Diag 52,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+6a25a012-7394-4040-ae34-d721f2076f96,Diagonal,Diag 61,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,B1827FAA
+38a71121-da78-4e82-b03b-3e72054bdec5,Calle,Diagonal 51,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+aaecfc94-7b06-4356-9298-64961bbdb2aa,Calle,Diagonal 53,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+89e21963-06da-4605-8442-ca19591a66b1,Calle,Domingo French,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+687ea981-71e9-4dd5-8273-60f38022f4c9,Calle,Don Joaquin,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+c8235682-ad9b-4b4c-b8f1-39524c3d61cb,Calle,Donatti,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+0de3dc18-243b-4666-91b8-e464edcfe48d,Calle,Dr A Alsina,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+15c252a6-909e-4aa3-8ba5-53786c3c368b,Calle,Dr Alfredo Palacios,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+4c92ed97-a06c-4aa3-843b-c1dcaa64884d,Calle,Dr Bernardo Monteagudo,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+31842cc0-8d84-4cbe-8117-51adb8676860,Calle,Dr Carlos A Voss,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+b9f80696-0543-4b23-b0c2-c217729a7dc0,Calle,Dr H Saltalamachia,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+9f83dec2-c156-4725-8efd-46dcd3d29d41,Calle,Dr Jose Ingenieros,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+06af7126-3f34-4173-8a25-c3de2a147946,Calle,Dr Jose Miguel Nuñez,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+ca853628-d09b-4776-8779-7b8ba005655d,Calle,Dr Juan M Basco,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+05d0599a-c29a-4c5e-aaad-00e5ee25795c,Calle,Dr Lisandro de la Torre,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+594cdbb5-9211-4457-a163-f7187b9108a6,Calle,Dr Luis Pasteur,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+002dac29-ee45-4a51-92d3-9e7143312353,Calle,Dr Manuel de Acevedo,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+c8a452df-4897-4385-b5ba-44e8b7493963,Calle,Dr Ramon Carrillo,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+cba79ed6-ae8f-46c6-bf32-1a95e0c0031f,Calle,Dr Tomas Godoy Cruz,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+a3f81eb3-55e5-47cb-871f-b39e8da7f186,Avenida,Dr V de la Plaza,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+0166fb99-986d-4fae-bfdc-7ce05d1ad68c,Calle,Eduardo Carasa,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+9e12e80c-1e12-4995-8930-dcc9bf6868f6,Calle,Eibar,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+76672c96-8522-4c9d-8eaf-52585c216a90,Calle,Ejercito de los Andes,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+cd19cd64-e332-4667-95f2-dc51aa3721ba,Calle,El Pampero,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+aea743b7-8a4f-4370-86cd-cd75bf8b3521,Calle,El Plumerillo,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+652fc72a-15a4-427f-b111-08d366ba6917,Calle,Eleodoro Lobos,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+77db5d5e-fb2a-4beb-acf6-c2b6c307ea03,Calle,Eloy Alfaro,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+659ab49e-4196-4f18-960f-8fd618815815,Calle,Emerson,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+e0f3dea3-eb1f-4d0a-a0ba-dc444e538e40,Calle,Emiliano Zapata,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+64965da4-80be-4c95-b809-a12a11305a38,Calle,Enrique Muiño,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+5d35428d-0141-4472-9609-4609b81103d4,Calle,Enriqueta Diaz Tezanos,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+9a4213f7-dda6-44eb-b9b7-60f5f40618e2,Calle,Entre Rios,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+3bac4836-c415-4096-bbc1-e70c2798e05f,Calle,Epecuen,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+1b5b2bc6-32da-4af6-b8f0-2574598fae61,Calle,Escobar,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+425ab7a3-9576-4909-bbe1-22647d4b59ad,Calle,Esquel,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+b14a9bbe-8a34-4e74-9c24-6fff3aceede9,Calle,Estados Unidos,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+e3ac5ef1-d9da-44fc-89a4-924b1124a3ed,Calle,Estanzuela del Rey,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+d36a39e4-cf50-4629-a8da-3d864140c9c3,Calle,Esteban A Gascon,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+d19a357d-ac8d-4e44-abdc-92ca2a494f97,Calle,Eugenio O Neil,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+d9d52b77-2497-4bed-8fc8-88ea360a7f47,Calle,Euzkadi,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+c338760d-c0f0-4fa7-ace4-10c07cf0d8fd,Calle,Evaristo Carriego,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+e6dadc1f-63d7-4500-9128-1af84b0d091a,Calle,Evita,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+a3ce5dbf-3390-41cb-a680-2fb5bcdec049,Calle,Ezeiza,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+e468cc3d-d596-4d19-9526-9b8d477832b7,Calle,Fallieres,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+f6dcb8c2-5af3-4f2f-8cbe-1bb497e3023f,Calle,Falucho,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+0cbb8d18-ab8b-4908-b133-df7fabe078e0,Calle,Federico Nietzche,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+b9139848-40f4-4f35-b9cd-89f2ad95aa4b,Calle,Felipe del Solar,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+61721db7-f98b-44d9-a31d-8803a242e874,Calle,Felix de Azara,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+f028788d-6c61-47ec-be75-0cc3366a2f67,Calle,Figueredo,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+d91ab2b2-8ad4-40d2-9b40-c08bdc032eab,Calle,Fleming,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+b6937ecf-568a-4c4a-b1e9-267f2708ecfa,Calle,Florencio Sanchez,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+01ac0208-aef3-4919-a85c-042f025e87c8,Calle,Florentino Ameghino,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+89934030-c6b8-42ec-8232-a234636c83c4,Calle,Fonrouge,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+b6247227-c37b-4d65-ada6-3530d5b6b8e2,Calle,Formosa,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+b1cb3357-cabf-4b0e-b5b6-9b7a9176ac3c,Calle,Fournier,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+2c6d92a5-6ba6-4d45-b317-eff80e5e581b,Calle,Francisco de Aguirre,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+5ffbce8e-92fa-4da1-a029-fc0f7060a4d0,Calle,Francisco de Morazan,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+ae39658b-50d7-455e-b602-39d8a6e8247e,Calle,Francisco Montero,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+181b197a-cb8c-448c-a5d9-ec2e57bb39c8,Calle,Gabriel Miro,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+adc4ae3c-03c4-434e-b3fc-b56d9c219750,Calle,Gabriela Mistral,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+65ee8578-0d5a-4495-bcc6-ff74f33283d7,Calle,Gallo,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+fb5d1cd8-d595-43e1-ae7d-74ed4aa81d87,Calle,Gaona,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+b8b27363-02bb-432c-8ccb-1ad821677398,Calle,Gardel,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+50ac6549-eebd-40fc-8fe7-f3935d5847be,Calle,Garibaldi,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+16c49318-87b0-4f2c-9c2e-a396a029cf72,Calle,Gdor Luis Vernet,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+4dd0c596-6fa4-42ad-abfa-c690a4e5e997,Calle,Gdor V Vergara,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+e089a88e-7fd8-4fa9-9247-8c1d87ba88f2,Calle,Genova,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+276ef152-8d58-433c-818e-7f1f39c5713e,Avenida,Gilberto Elizalde,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+0f6ae17e-b51b-45ef-997a-0b529699f608,Calle,Ginebra,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+902c7c8f-1e1a-4c5c-8db4-5e6b098760c1,Calle,Gowland,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+a60bcf08-004f-41a1-82b5-0f040047d985,Calle,Goya,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+97551bab-78ec-400f-95f1-010581dd9b7b,Calle,Gral Alvear,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+f796c3f9-d9da-4da4-a521-1d9e5742906a,Avenida,Gral Angel V Peñaloza,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+fd52e320-44a0-47b0-90c3-141bf3d30b38,Calle,Gral Arenales,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+b600fe33-6a8a-48ad-a794-9559f461c374,Calle,Gral Campos,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+5cd62aa3-dce4-4f0d-b8c4-6b81f79f8803,Calle,Gral Capdevila,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+bb746fbe-8b3f-4f3e-9b06-e3f9200bfeff,Calle,Gral E Mosconi,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+933e04a0-a962-40b0-9f0f-ad4038b9effe,Calle,Gral Emilio Conesa,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+8289b765-9773-473b-afe9-6dc6dd05c447,Calle,Gral Francisco Bosch,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+d5d4a355-6739-4b07-b233-95b8718f8d91,Calle,Gral G Costa,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+ada54770-319f-4b8a-b486-908249b571e4,Calle,Gral Hornos,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+aa7eb58c-faf4-4beb-aefe-d930865d4007,Calle,Gral Jacinto Yaben,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+2bfbe147-e34c-4de9-b785-cb2ce12b6e0c,Calle,Gral Jose G Artigas,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+b458cfdf-b5a6-4c25-8b31-93cdb8627171,Calle,Gral las Heras,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+c7570978-0687-48c0-bd7d-f93d6ae78c34,Calle,Gral Manuel N Savio,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+00a50138-f80c-4bfd-854a-c53c1b109016,Avenida,Gral Martin Rodriguez,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+e241a31b-0c14-4172-8859-a58ce2d5f7ae,Calle,Gral Nicolas Levalle,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+027eea3e-de5f-44e7-bad4-adf57215e917,Calle,Gral Nuñez de Arce,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+fde78d04-8368-4187-8ff1-0e7507fc5511,Calle,Gral O Higgins,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+19155a47-71cf-4faa-aa30-a17ea80a2597,Calle,Gral Palacios,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+51f3ec25-ab58-4687-943f-b325296398e8,Avenida,Gral Paz,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+91385588-e46e-4e40-9f34-89afdfe30e14,Calle,Gral San Martin,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+005b87d9-b0cb-4770-8870-9a8f7bd7fb64,Calle,Granaderos,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+488dd175-967c-44f6-8553-59ec9451cb78,Calle,Groussac,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+b4505f19-2237-4fd3-af84-66fb456b04a3,Calle,Gualeguay,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+4f1f64f2-41aa-4c09-8982-26e4d2a249ad,Calle,Guamini,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+f269f47c-c013-4f9d-96f2-fcbdf2c6fb73,Calle,Guardia Nacional,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+7e102d3e-aa02-43a9-b7d9-dfe3860a8740,Calle,Guernica,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+abd79201-0636-48dd-8e3a-7f60b06583d6,Calle,Gustavo Garcia Cuerva,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+89bf068c-121a-4ccf-858e-cb975d20f2ff,Calle,H del Carril,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+ffb107f7-ff88-4631-a94f-ad7f1e582401,Calle,Hector Millan,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+10f8de10-2595-46eb-a68b-979ce0d629d6,Calle,Homero,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+9a34d06f-9ca8-4762-bc9c-a14b443b100a,Calle,Homero Manzi,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+7dfa7514-389d-4a27-b86f-d988f3fb904a,Avenida,Hornos,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+cc6ea70b-3072-4e2d-a34b-6fa9a1316525,Calle,Humberto Primero,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+1216b91e-0d7f-450a-8dd2-bf47748b28ec,Calle,Ignacio Correas,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+121205e8-dea3-47bd-ab12-d98bdf6fa2cb,Calle,Ignacio Corsini,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+0877f39f-a1f1-45bb-9847-fc7d31d764df,Calle,Ignacio de Zuloaga,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+2fec7e24-602d-49ab-aa94-96e8a087a25d,Calle,Iguazu,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+b731abc7-993b-46f4-9498-9a8ba7ca0756,Calle,Independencia,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+536524ec-5a02-4ef7-a21e-49c5bd7ce0db,Avenida,Ing M Pereyra,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+6d5aade1-f83e-47a0-bce8-b5b4698313d0,Calle,Int Felipe Castro,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+dfca790b-51f4-49f0-a9e9-b89f07d14c5f,Calle,Inte Adrian E Boffi,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+620ae141-5098-41a8-b0f9-175498dbd9d5,Calle,Iparraguirre,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+05a1e8c4-30e6-485a-89a6-1cc0bf5dcbb6,Calle,Irlanda,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+4e3499e4-17c5-4902-97c9-e0b064a79c33,Calle,Isaac Newton,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+a8331284-d283-4dc6-8bf1-fa843e342b82,Calle,Islandia,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+a2ce2513-c370-4a39-affe-5e7f9f3055d9,Calle,Italia,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+1fb870c4-ab1f-44cf-9c94-1a12000a01c5,Calle,Jacinto Rosende,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+148c4048-2f86-4551-b831-0541eca3d6ce,Calle,Jorge Sommaruga,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+33ce3d37-3eae-4614-bdba-26c0a4396338,Calle,Jose Daniel Silva,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+5c694c05-a4ba-47e0-beb5-dc83480b2162,Calle,Jose de Espronceda,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+132e069d-c25a-4d8b-9f43-c1d54c3c3215,Calle,Jose de Forgione,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+e8a2179f-82f5-4e57-973a-418ba463898b,Calle,Jose Luis Murature,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+e589cfc7-0487-41dc-859d-7b490a5212b0,Calle,Jose Manuel Estrada,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+6d2f85d7-8238-4413-a021-8220de410ee8,Calle,Jose Maria Penna,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+1ef07d8d-5c18-4613-8328-f0529b7a0d29,Calle,Jose Sebastian Tallon,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+1e06a1b7-bac9-4f64-a857-306bb5174956,Calle,Jose Vasconcellos,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+e2110db0-489f-4246-b6ba-9f3ae896ea37,Calle,Juan Bruno Tabano,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+ff4b77ad-c11f-4093-91c3-e8dea5bb1d12,Calle,Juan de Zamora,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+2f9874b1-31af-40e8-b2bf-cb1f7821afbd,Calle,Juan Gutenberg,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+49c853f5-a603-41b3-890d-48f6cb1ca1d7,Calle,Juan Hipolito Vieytes,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+fa32576a-a5d3-4d3e-846d-b37898392d61,Calle,Juan Manuel Acuña,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+872070bd-9003-492a-b9a1-c6cd60bec03c,Avenida,Juan Manuel de Rosas,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+a9097ab0-0d92-41a5-b845-f309feb12b36,Calle,Juan Maria Gutierrez,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+61053e24-1099-4229-a950-cfc3ea058752,Calle,Juan Sebastian Elcano,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+83b87450-b7d0-42c5-9d41-51a94681d58a,Calle,Juan Vucetich,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+cb224257-5cbf-45fe-9bca-85f24bdf95f2,Calle,Julian Aguirre,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+6060ecc2-1061-41a5-a3e3-bba5aa38d275,Calle,Julio Centenari,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+bb6aeffb-3d79-4138-b9e3-52ce75cbcce8,Calle,Julio Cortazar,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+7fe6563b-e20e-4c77-a05d-3bd49ca4798b,Calle,L N Alem,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+c7564ea1-78cb-4724-9849-d93db072d204,Avenida,La Barca,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+0087a8fc-f7a9-4b38-8e09-dd367be3705a,Calle,La Fontaine,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+c1318fb8-b107-45e3-ad12-088d2b37e729,Calle,La Haya,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+1c24961a-c569-4db6-bb9c-6a4d73fb8a57,Calle,La Mar,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+960df578-ae6c-420c-adec-661252c3c647,Pasaje,La Paz,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+fb1fe242-f7a9-4947-a50e-5f9aa1005625,Calle,La Plata,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+071bc2ee-ddce-4214-8fc2-db20bacfe529,Calle,Lago Nahuel Huapi,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+99c4dbd0-5668-4029-b94a-ab3408bb2613,Calle,Lagos,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+30afa86c-ffeb-40e1-87ae-ceb8f8bcbbe6,Calle,Lamadrid,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+e6b0c6d5-0917-484a-b9d3-acaaaeb6fa67,Calle,Lanus,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+faee4f5b-34c3-43de-a366-47a7225d2f54,Calle,Laprida,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+e57ef105-c2da-46a6-8a95-12ea7b2f0728,Calle,Las Tropas,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+05215d12-7cfe-4d9e-8f7d-def206f65f35,Avenida,Lattarico,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+78d06c9b-c2b7-4e60-99ea-1a5138dbca82,Calle,Limay,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+b49ba9fd-88ed-4b60-9366-317d94c56dc7,Calle,Londres,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+f598f3a7-6a60-42fd-b52d-05a5d4d78c2f,Calle,Lope de Vega,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+fbcfca1a-f64a-494e-b051-567483b979da,Calle,Lorenzo R Zanetti,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+53788205-320e-46f7-8f7f-e96cadf77225,Calle,Los Patos,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+4607c76c-1de0-4fb1-b5ce-7633f0228496,Calle,Lugano,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+27445b23-27e0-414f-9799-af5941fdbd65,Calle,Luis Braille,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+0b5b2ea8-898a-4266-8773-2098e24d5a57,Calle,Luis Siciliano,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+d86060ce-678e-4bc2-9335-c342b0e4e68d,Calle,Luis Viale,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+2eb8026e-c002-4b89-ab5a-36f0dc359e75,Calle,Macacha Guemes,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+cef5240b-9147-4b13-a238-6207ed21b013,Calle,Macias,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+3e136670-1bd8-45ea-bc9c-b2d9238c872d,Calle,Maipu,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+2402aae0-2b4f-4daa-b6d0-660c48106361,Calle,Malabia,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+3049c146-1e89-4e02-bdc0-4384aa31d915,Calle,Manuel Baliña,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+9ca227bb-c07e-41f1-a544-4e65ca268405,Calle,Manuel Castro,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+14eaa2a3-d14e-479e-b192-cf9aae90ff0e,Calle,Manuel J de Lavarden,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+17355f6d-c85a-446d-91e0-6d10f1f3e936,Calle,Manuela Pedraza,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+22bb4ee3-661b-4d09-ac44-39569eb0cdc0,Calle,Manuelita Rosas,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+2cde78d9-3a60-4a46-ac23-e8aa1dc41678,Calle,Mar del Plata,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+b9a839ce-b2ed-49a8-879c-4ffa692fb1c6,Calle,Marcos Grigera,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+af21d425-97f5-464c-a0b0-3adc5aa9bf3a,Avenida,Marcos Sastre,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+024c1a32-a227-4ba9-b91c-003e6df4f6b2,Avenida,Maria E s de Ciaccio,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+790002ee-6a1a-41f6-9c28-8142adc5db40,Calle,Mario Bravo,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+3297a234-325a-4ff6-8372-1ac446179604,Calle,Mario Oscar Madeddu,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+471fe378-01a0-42d6-adea-27159168bd5c,Calle,Mario Pardo,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+89ac2e61-3b0c-4c2c-a8ff-20c4129c7374,Calle,Marsella,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+434415e6-1059-43c0-94ab-7a4f99f808c7,Calle,Martin Capello,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+05f1962d-bd15-4bc4-9e6c-7f1b7610f4b4,Calle,Martin Garcia de Loyola,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+576e3155-40a3-47d2-9ef2-50c015974827,Calle,Martina Cespedes,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+63cadba8-bd9d-4318-b20d-e22d06b3f912,Calle,Matheu,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+063b3adc-0699-4ed4-8bd4-8af842a87c27,Calle,Mayor Eduardo Olivero,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+f9e020a0-eb8e-4ce2-9315-db9796a77d1c,Calle,Medrano,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+9fb80391-1f40-4b5a-89bd-f6ba22d4a31a,Calle,Mendoza,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+e6ffa1c6-551f-4030-933e-0967a435f3ff,Calle,Merlini,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+b69f4b53-22c1-4308-8eab-25a165f1fd18,Calle,Metan,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+b10c76ef-8e5a-4081-8c82-965060e2a7be,Calle,Mexico,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+3473b753-ac95-4907-bc35-541e5642cfb7,Calle,Miguel Cane,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+99dfbccf-32f9-4d34-8c61-d8dbe976bd22,Calle,Miguel de Unamuno,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+1db08f36-965f-42db-9838-d8581603dd42,Calle,Milan,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+fd6b2e42-bc74-4b28-ae93-bd3247eef005,Calle,Miramar,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+46fe48f8-cc37-45b7-9d92-996399dd2fc1,Calle,Mons Alejandro Schell,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+db6baff1-2392-4e71-8a53-0d2b830e35c3,Calle,Monte,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+bea17d70-2c4a-4dff-ab6e-ec6a9b11bb31,Calle,Montiel,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+5e6b0828-6623-4304-b088-8530495be715,Calle,Mosotti,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+5a6f7cb3-9080-44d1-b1f8-96dfb284665f,Calle,Ñanduti,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+d029a189-f1e9-4578-bbf0-c6392072463e,Calle,Napoles,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+0f5f776f-f439-41b3-a9d9-5c5fcbaa4e11,Calle,Natal,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+a6e1a8b4-dc94-4c19-bf65-e733a3ed1179,Calle,Necol,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+76ddf688-271c-4b79-b167-7f61d0680c35,Calle,Neuquen,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+a511cb9e-29e9-4c7d-ba9e-de9dddaaeac9,Calle,Nicolas Rodriguez Peña,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+26a164ed-ec3e-4d0d-9bf1-57b1e8a1b9c7,Calle,Nogoya,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+af0b26e8-b1f9-4045-8994-195acf6f684a,Avenida,Olimpo,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+d951dba6-81fc-496d-b16e-445e04ab7ebe,Calle,Olivos,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+c2c82142-91c2-4f57-9f50-07741329cf60,Calle,Ondarribia,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+9dc3af9b-27e3-4264-9718-81b1f891a928,Calle,Onofre,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+6d1e99b2-317a-44a1-8df4-45c7bf7c03b3,Calle,Oran,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+18f1eec9-ae43-45e5-9b16-f986382f29ff,Calle,Ostende,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+ab4ee1fc-d865-4fb9-8500-40f1f277f3aa,Calle,Otto Krause,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+4796698c-7711-42ab-84ed-a12300dcc57f,Calle,Oyarzun,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+a3cc236d-41e0-465f-adae-71d3ebcbd8b1,Calle,Pacheco de Melo,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+2283d037-cc16-4a8e-ab75-7f8d933cb403,Calle,Padre Carlos Mujica,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+9a413332-06b9-4365-8822-c5d17edf24a1,Calle,Padre Virano,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+4177b5a8-5ad0-4683-843d-23df9c950ac1,Calle,Pallich,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+23860dae-5061-4f2f-a4c4-add87a061f2f,Calle,Paraguay,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+99aad9c8-af20-48ca-87e5-57b7bef0aeac,Calle,Parenti,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+a4ac119c-9406-4aed-bc7d-9b94a64ce0c6,Calle,Paris,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+c60246d4-3841-4c40-b74e-076389d5a5fb,Calle,Paula Rosende de Grigera,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+7ebf0691-780f-4ed3-a5c7-8653f246d589,Calle,Pedernera,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+2779b81c-e66a-4b6f-a9f2-16947a381731,Calle,Pedro Francisco de Uriarte,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+96953a87-a1f4-4018-aedd-b365f89f5f39,Calle,Peña,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+b2c2f64b-5b05-44d9-b790-dc69aa04d30a,Calle,Pepe Ratti,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+7d65d643-6836-48a8-93ce-7ca5dad7ba34,Calle,Pergamino,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+697f4f75-effe-47c4-a84f-253791d17f78,Calle,Perito F P Moreno,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+f49b3c78-5811-4c2f-8224-230a419330a3,Calle,Pilar,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+8ac42849-92ed-4b35-a329-48f50a0ba008,Avenida,Pilcomayo,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+9b31f150-e7ad-49af-b969-eec5397f1614,Calle,Pintos,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+6cbf4dff-e7b7-402e-9b77-f24887dd0c0d,Calle,Pio Baroja,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+70dbb518-40a4-4b74-a9e3-30a7f5c9cd96,Calle,Pitagoras,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+d9ecc7ef-e695-4372-a1f2-56c88e061e9f,Pasaje,Pje 37,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+ab393d89-499a-4428-bcad-0dd6c85dc5e4,Pasaje,Pje 38,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+7adcb432-d695-4dcf-962b-794e51d874ff,Pasaje,Pje 39,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+42edbec7-d4f7-4a9f-8603-65189d0f0175,Pasaje,Pje 40,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+22a19f0f-5d75-4761-a9cb-5766746e5508,Pasaje,Pje 43,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+fbdf379c-a130-42f9-87a5-ed40a5e655a3,Calle,Placido,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+5404924f-daf4-47ab-b3fe-85ee9f70775f,Calle,Poeta Ramon de Campoamor,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+54d1b3c6-13a5-427d-9cf4-9a18695facdd,Calle,Prensa Argentina,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+143cdbc5-a804-490f-9381-3fde29f131ff,Calle,Pres Manuel Quintana,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+d1c083ca-ae04-4270-a1e3-8bdba6f04528,Calle,Pres Santiago Derqui,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+191eb284-fb5d-4eaa-8007-f22770d6f1b1,Calle,Provincia de Cosenza,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+445c1e34-2063-4eda-a1c3-c8dc5eb5ff41,Avenida,Pte H Yrigoyen,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+3cccb3c2-e02b-4bce-b8cb-6485d37a0b87,Avenida,Pte J D Peron,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+83e13366-1957-4d40-b20c-ba27bd177192,Calle,Puerto Argentino,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+33d7f99c-6465-4f32-bb22-b3aa1c14b2aa,Calle,Pueyrredon,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+d86ac282-b903-4426-9ea6-f84e25bc33aa,Calle,Punta Alta,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+8b54abef-44f0-4e6a-97a6-c94ed2278478,Calle,Quesada,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+7c6240b9-b4cc-4542-be81-a8621a852128,Calle,Ramallo,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+3c7d703d-8657-4f51-acd5-1ec65f4a42b9,Calle,Ramiro del Carril,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+1939b234-776f-4b16-b678-80e0ef642d94,Calle,Raul Llobera,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+4888ca87-2e20-4110-8641-1c4b6109053d,Calle,Rawson,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+76bb0374-eee6-44ec-97cb-aff32b701c89,Calle,Reaño,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+4484eb22-40b2-4534-823a-2a6da8ba81e9,Calle,Recondo,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+5e448c4c-6a9e-4557-9080-de0ca015b56c,Calle,Ricardo Palma,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+ac807de8-fd46-46dc-b654-04c645f8739e,Calle,Rincon,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+eff8c1b5-046c-4199-b6c4-24d2d4b75a95,Calle,Rivadavia,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+6f8415fe-f48e-41a6-8a3a-fff34e33ee24,Calle,Roberto Arlt,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+b652d6ea-2666-4b9e-a2d6-9229fc78e608,Calle,Roberto J Payro,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+6faa496c-321e-426d-b49d-b615ab4f73a0,Calle,Rodolfo Illescas,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+f2a70d24-24af-4e63-9940-962b4ff96eaf,Calle,Roma,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+9505430f-e58e-4b41-b1f0-d344e2d1cb4c,Calle,Roseti,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+f76c47ff-2c50-465d-b2ea-c8ee5b312cd7,Avenida,Ruta Nac 205,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+dbe06381-4293-49a8-8fa5-eb6b92692555,Calle,Ruta Prov 210,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+2d50305d-d798-43a0-bf5f-338bcbe512d5,Calle,S/C,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+75c730ef-d787-4bf0-8d80-ad7c97f297c3,Calle,Saladillo,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+3df438a9-0bde-4b12-8564-003a4b2b1828,Calle,Samuel Morse,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+c13d1334-7ad7-472b-9eb8-c167150c51ee,Calle,San Carlos,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+7c161207-857e-450f-819e-625b2c26c821,Calle,San Juan,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+1513be8d-735f-48bd-a327-71baced2ed22,Calle,San Luis,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+f009b30f-dcb5-4f16-a940-743bb76f4eee,Calle,San Marco Argentano,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+22ce5692-bc3a-4d5d-a408-4be98c70dcb9,Calle,San Patricio,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+1f4755ba-0b34-475a-a846-9fdb423f7798,Calle,San Pedro,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+419cb8cb-bda0-49de-9a65-59050a0d6f08,Calle,San Salvador,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+1beb079c-3aed-485a-bcc5-ae584d9db8c4,Calle,San Vicente,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+09530dce-810c-45ae-97be-aeecfd50f7f1,Avenida,Santa Catalina,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,B1827ERA
+60439f58-d173-421a-9faf-6a62306a9469,Calle,Santa Fe,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+704570b4-2f29-4f77-b506-c39ea952dd04,Calle,Santiago del Estero,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+63767eef-6376-478b-b3a7-294fdfa1e606,Calle,Serrano,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+7794ffc9-5ac3-4fbb-bd21-2474168a7fee,Calle,Silverio Manco,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+3ce42625-2d88-4a23-825b-62e755530b12,Calle,Sold Angel Benitez,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+e5c650b9-8eca-4278-b9b4-241581306417,Calle,Sold M A Zelarrayan,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+404dc6ed-42e2-4f19-90d3-ab9cf02b31f3,Calle,Sold Marcelo de Massac,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+790e6bf8-48c6-49ac-82e5-8ffc4054856f,Calle,Sold Omar Anibal Brito,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+17705fa9-d1e2-4025-ad15-cf6c9275c13e,Calle,Sold Victor Rodriguez,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+3e329f75-fd3c-4eae-b641-d0776646d442,Calle,Soldado Petrucelli,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+1a354dc9-2de8-4e6a-bbf7-d2791bb4fa26,Calle,Subof Norberto Rosa,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+64eb2086-3188-4b7f-a397-73de63530a3f,Calle,Supe,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+9cc5dd93-0ad5-4498-b556-d5e2b0fdfac9,Calle,Tabare,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+8a55964e-e7b8-45b0-9cb2-10481b029b3d,Calle,Talcahuano,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+7c7cf769-6818-4798-9c66-b61aa930a0ef,Avenida,Talleres,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+be2d2370-66ed-4559-8506-fb7f2c26d253,Calle,Tartagal,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+b420be87-a1bc-47c9-b519-a37ee133f4ef,Calle,Tilcara,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+197e0a68-8e56-48b1-8845-d8473d243f48,Calle,Timoteo Gordillo,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+9b776b53-d748-4e07-a0f6-8aced87f25ff,Calle,Trelles,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+0757bdd4-ad66-4722-ab24-d62f8057fff0,Calle,Trinidad,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+8854f69a-f9a6-459b-8495-06510ec66594,Calle,Tucuman,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+27af8011-f2bf-457b-a517-e49011fb33df,Avenida,Tunez,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+dde64929-ad69-4ed3-8705-92dfbd7d0b2e,Calle,Tuyuti,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+ab267e47-5a5a-45c0-bde0-9960a608b380,Avenida,Uriarte,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+3bba332e-0e05-4ab8-b499-cd45ddafcd66,Calle,Urunday,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+332cc1e7-31c3-4b24-9858-3c30407352a9,Calle,Valencia,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+d6c62c5f-927e-452e-b9ef-26d6218c05a1,Calle,Valparaiso,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+10fe0c4c-1c8c-44ce-9cb4-876b407ca697,Calle,Varela,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+89337cfc-e018-41de-87c0-24b63165ba80,Calle,Venezuela,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+919edba9-9443-457b-a3d4-a56ce456c057,Calle,Vetere,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+20abb88d-b6a3-4895-af2f-5877479dc4cb,Calle,Viamonte,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+bdd36abf-0011-4c67-bbf4-fd9391f7dfe7,Calle,Vicente Barbieri,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+6997138f-2a40-4b0d-97ae-bb630c94cb20,Calle,Vicente Lopez y Planes,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+7e425c21-a35d-43b8-b1e7-a086cb8f8934,Calle,Victor Raul Miatello,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+3b3a1f45-3a54-4ea9-89df-de6a4674900d,Calle,Villa Barcelo,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+77c19002-eec7-43f4-9eca-2d35abfc67f2,Calle,Virgen de Itati,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+74e83aff-973a-4584-91c5-2eb8ebbe211b,Calle,Virgencita,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+4b582ef8-a41a-4f37-81d1-848819eb3e5c,Calle,Virgilio,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+cb94c9c6-5c06-4bb2-8033-32f30fd9a8ec,Calle,Voltaire,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+e60c1562-832a-4aa7-b7cf-edb76a262fbd,Calle,Yapeyu,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+18b05f3a-6b05-431a-ab64-66ed163f175e,Calle,Zarate,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+b11a6cb3-2ed3-460b-b1f2-c024473bec63,Calle,Zelaya,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+4932095d-1c53-4bcc-9d06-62cc7f4d8ee4,Calle,Zuberoa,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
+eea2baa9-8a23-4a51-8a4a-5431ca49b9ae,Calle,Zumaya,eeb0fa56-f9eb-4c70-a612-383d0d1faf0a,Banfield,N/A
