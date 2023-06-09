@@ -55,7 +55,8 @@ cd localities
 scrapy crawl localities -a country="argentina"
 ```
 Esta segunda Spider creará otras 2 tablas una con las localidades que tienen único CPA y otra para las calles que tienen su propio CPA dentro de las localidades.
-### Quries
+
+### Queries
 El script `info_query.py` puede ser usado para realizar consultas sobre la base de datos creada, es decir, sobre `postal_code.sqlite`.
 
 ## SQL Database
