@@ -32,25 +32,29 @@ class DuplicatesPipeline:
 class CSVPipeline:
     def __init__(self):
         self._category = None
-        self._localities = []
+        self._now = None
+        self._headers = {}
+
+    def open_spider(self, spider):
+        self._now = datetime.now().strftime("%Y-%m-%dT%H-%M-%S")
 
     def process_item(self, item, spider):
         adapter = ItemAdapter(item)
 
         self._category = adapter["_inner_category"]
 
-        if self._category == "localities":
-            self._localities.append(item.serialize())
+        self.write_to_csv(item)
 
         return item
 
-    def close_spider(self, spider):
-        now = datetime.now().strftime("%Y-%m-%dT%H-%M-%S")
-        fname = f"{self._category}_{now}.csv"
+    def write_to_csv(self, item):
+        fname = f"{self._category}_{self._now}.csv"
         fullpath = path.join(f"local_data/{self._category}", fname)
 
-        with open(fullpath, "w", newline="") as f:
-            keys = self._localities[0].keys()
-            dict_writer = csv.DictWriter(f, keys)
-            dict_writer.writeheader()
-            dict_writer.writerows(self._localities)
+        with open(fullpath, "a", newline="") as f:
+            new_item = item.serialize()
+            dict_writer = csv.DictWriter(f, new_item.keys())
+            if self._category not in self._headers:
+                self._headers[self._category] = True
+                dict_writer.writeheader()
+            dict_writer.writerow(new_item)
