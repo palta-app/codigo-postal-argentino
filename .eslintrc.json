@@ -7,13 +7,16 @@
     "rules": {
         "indent": ["error", 4],
         "no-unused-vars": "error",
-        "no-warning-comments": "warn",
+        "no-warning-comments": [
+            "warn",
+            { "terms": ["TODO", "FIXME", "REVIEW"], "location": "anywhere" }
+        ],
         "quotes": ["warn", "single"],
         "vars-on-top": "error",
         "no-var": "error",
         "no-undef": "error",
-        "import/no-unresolved": "error",
-        "node/no-missing-import": "error"
+        "no-const-assign": "error",
+        "no-console": ["warn", { "allow": ["info", "error", "warn"] }]
     },
     "parserOptions": {
         "ecmaVersion": "latest",
