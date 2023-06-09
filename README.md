@@ -45,5 +45,17 @@ pip install -r requirements.txt
 La primera Spider a ejecutar espostal_code:
 ```
 cd postal_code
-scrapy crawl councountry="argentina"
+scrapy crawl countries -a country="argentina"
 ```
+Siendo `countries` el nombre que se le ha dado a esta primera Spider.
+Una vez termine de ejecutar esta Spider, se creará la base de datos SQL `postal_code.sqlite` con todos los datos de los paises, provincias del país seleccionado y respectivas ciudades.
+Finalmente se ejecuta la segunda Spider:
+```
+cd localities
+scrapy crawl localities -a country="argentina"
+```
+Esta segunda Spider creará otras 2 tablas una con las localidades que tienen único CPA y otra para las calles que tienen su propio CPA dentro de las localidades.
+### Quries
+El script `info_query.py` puede ser usado para realizar consultas sobre la base de datos creada, es decir, sobre `postal_code.sqlite`.
+
+## DataBase
