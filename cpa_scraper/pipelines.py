@@ -23,7 +23,6 @@ class DuplicatesPipeline:
         if category == "localities":
             compose_locality = f'{adapter["name"]}_{adapter["zip_code"]}'
             if compose_locality in self._locality_items:
-                pass
                 raise DropItem(f"Duplicated name found: {item!r}")
             else:
                 self._locality_items.add(compose_locality)
@@ -61,7 +60,7 @@ class CSVPipeline:
         fname = f"{self._category}_{self._now}.csv"
         fullpath = path.join(f"local_data/{self._category}", fname)
 
-        with open(fullpath, "a", newline="") as f:
+        with open(fullpath, "a", newline="", encoding="UTF-8") as f:
             new_item = item.serialize()
             dict_writer = csv.DictWriter(f, new_item.keys())
             if self._category not in self._headers:
