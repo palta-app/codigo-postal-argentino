@@ -4,7 +4,6 @@ import { dataPaths, dataFolderPath, csvFiles } from './constants.js'
 function dataFolderExists() {
     try {
         fs.accessSync(dataFolderPath)
-
         return true
     } catch (error) {
         return false
@@ -12,9 +11,9 @@ function dataFolderExists() {
 }
 
 async function getFilesSizeInMbs() {
-    const arrPaths = Object.values(dataPaths)
-
     if (!dataFolderExists()) return
+
+    const arrPaths = Object.values(dataPaths)
 
     const arrSizes = await Promise.all(
         arrPaths.map(async (path) => {
@@ -34,18 +33,10 @@ export async function checkOrCreateDataFiles() {
         await promises.mkdir(dataFolderPath)
     }
 
-    if (totalFileSize < 5) {
-        const arrFiles = await promises.readdir(dataFolderPath)
-
-        await Promise.all(
-            arrFiles.map(async (file) => {
-                await promises.unlink(`${dataFolderPath}/${file}`)
-            })
-        )
-
+    if (totalFileSize < 5 || !totalFileSize) {
         csvFiles.forEach((file) => {
             const { name, path, headers } = file
-            const ws = fs.createWriteStream(path, { flags: 'a' })
+            const ws = fs.createWriteStream(path)
 
             ws.write(headers + '\n')
             ws.end()
@@ -81,7 +72,7 @@ export function normalizeLocalityNameToHref(str) {
 
 export async function evaluateFirstPTag(page) {
     const items = await page.evaluate(() => {
-        const firstP = document.querySelector('p')
+        const firstP = document.querySelector('div p')
 
         const strongTags = Array.from(
             firstP.querySelectorAll('strong'),
