@@ -1,54 +1,60 @@
 import fs, { promises } from 'fs'
-import { dataPaths } from './constants.js'
+import { dataPaths, dataFolderPath, csvFiles } from './constants.js'
 
-async function getFileSizeInKbs(filePath) {
+function dataFolderExists() {
     try {
-        const stats = await promises.stat(filePath)
+        fs.accessSync(dataFolderPath)
 
-        return stats.size / 1024
+        return true
     } catch (error) {
-        console.error(error)
+        return false
     }
 }
 
-export function checkOrCreateDataFiles() {
-    // TODO: Hacer esto para cada uno de los archivos
-    // const fileSizeInKbs = getFileSizeInKbs()
+async function getFilesSizeInMbs() {
+    const arrPaths = Object.values(dataPaths)
 
-    const archivosCSV = [
-        {
-            name: 'localidades.csv',
-            headers: ['id', 'provincia', 'localidad', 'cpa'],
-            path: dataPaths.localities,
-        },
-        {
-            name: 'calles.csv',
-            headers: [
-                'id',
-                'tipo',
-                'nombre',
-                'localidadId',
-                'localidad',
-                'cpa',
-            ],
-            path: dataPaths.streets,
-        },
-        {
-            name: 'altura.csv',
-            headers: ['calleId', 'desde', 'hasta', 'cpa'],
-            path: dataPaths.height,
-        },
-    ]
+    if (!dataFolderExists()) return
 
-    archivosCSV.forEach((file) => {
-        const { name, path, headers } = file
-        const ws = fs.createWriteStream(path, { flags: 'a' })
+    const arrSizes = await Promise.all(
+        arrPaths.map(async (path) => {
+            const { size } = await promises.stat(path)
 
-        ws.write(headers + '\n')
-        ws.end()
-        ws.on('finish', () => console.log(`Archivo ${name} creado con éxito.`))
-        ws.on('error', (error) => console.error(error))
-    })
+            return size / 1048576
+        })
+    )
+
+    return arrSizes.reduce((acc, curr) => acc + curr, 0)
+}
+
+export async function checkOrCreateDataFiles() {
+    const totalFileSize = await getFilesSizeInMbs()
+
+    if (!totalFileSize) {
+        await promises.mkdir(dataFolderPath)
+    }
+
+    if (totalFileSize < 5) {
+        const arrFiles = await promises.readdir(dataFolderPath)
+
+        await Promise.all(
+            arrFiles.map(async (file) => {
+                await promises.unlink(`${dataFolderPath}/${file}`)
+            })
+        )
+
+        csvFiles.forEach((file) => {
+            const { name, path, headers } = file
+            const ws = fs.createWriteStream(path, { flags: 'a' })
+
+            ws.write(headers + '\n')
+            ws.end()
+            ws.on('finish', () =>
+                console.log(`Archivo ${name} creado con éxito.`)
+            )
+            ws.on('error', (error) => console.error(error))
+        })
+    }
 }
 
 export function createWriteStreams() {
@@ -100,7 +106,7 @@ export async function evaluateStreetsList(page) {
         const nodeList = document.querySelectorAll('.three_columns li a')
 
         return Array.from(nodeList).map((node) => ({
-            name: node.innerText,
+            name: node.innerText.split(' ').slice(1).join(' '),
             href: node.href,
         }))
     })
