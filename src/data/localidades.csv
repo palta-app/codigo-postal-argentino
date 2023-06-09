@@ -1,7 +1,146 @@
-473cf862-b567-4eb3-9a78-af549b301f0c,Buenos Aires,11 de Septiembre,N/A
-4801cceb-d327-4d24-97db-dea2e6affed6,Buenos Aires,12 de Agosto,B2701XAA
-425a096c-db63-437c-b93b-df53f2939800,Buenos Aires,12 de Octubre,N/A
-d4805d9a-020a-43b9-bde5-8ecfb973760b,Buenos Aires,16 de Julio,B7313XAA
-f42ee452-4f0b-4c68-9c18-a19b26d04689,Buenos Aires,17 de Agosto,N/A
-15d3e9ba-b0b7-4386-abb6-77f0c5b8b9e5,Buenos Aires,20 de Junio,N/A
-a3b1566b-611e-4f94-beff-9bf6720ce0fd,Buenos Aires,25 de Mayo,N/A
+id,provincia,localidad,cpa
+3df545d4-f5a7-4257-afe2-bd4c0cc5ff22,Buenos Aires,11 de Septiembre,N/A
+470fa89d-c7e8-4b7f-9ce6-c0a6c6133115,Buenos Aires,12 de Agosto,B2701XAA
+974a7d1b-4bf4-4f53-bfce-8afb655ca529,Buenos Aires,12 de Octubre,N/A
+30b0ab03-9926-42b4-bffa-14c8f985229a,Buenos Aires,16 de Julio,B7313XAA
+69aa72bd-72f8-469e-840d-69bdb7be4642,Buenos Aires,17 de Agosto,N/A
+57a6395d-643d-431f-9b7f-2d86c9db5397,Buenos Aires,20 de Junio,N/A
+1e720ced-e9e3-429b-9163-8e28a7cd4821,Buenos Aires,25 de Mayo,N/A
+8b79fe7f-8954-44a0-bc5c-107bf1b10b57,Buenos Aires,30 de Agosto,N/A
+b583fb3b-1fdb-4bd6-a904-d56e1927306d,Buenos Aires,4 de Noviembre,B2705XAB
+463eb48d-e631-4229-aeae-7c249291156b,Buenos Aires,9 de Abril,N/A
+ffe9e239-b514-4dce-82ed-5b8b42202752,Buenos Aires,9 de Julio,N/A
+c961ad9b-24dd-4afe-b2fd-8717944590e7,Buenos Aires,Abasto,N/A
+b256ad06-fc18-46d4-b938-50ebca52c8d9,Buenos Aires,Abbott,N/A
+8df42d66-c36a-40d7-8ab0-0e169b196d36,Buenos Aires,Abel,B6450XAA
+d2b7ec5c-405a-4915-9b42-0a8bc5be318c,Buenos Aires,Abra de Hinojo,B8170XAA
+0df99185-06cb-418a-912c-3c2143712ad3,Buenos Aires,Acassuso,N/A
+5940b479-8829-4fe3-9513-c7029b8fa149,Buenos Aires,Aceilan,B7003XAB
+760d8b4e-b38b-42a9-ad55-688718834029,Buenos Aires,Acevedo,N/A
+dc06d31b-5c5b-4063-92bc-4d5fe3c9f48d,Buenos Aires,Achupallas,B6627XAD
+24fa52fe-c524-40b3-958a-7e5d6c92c119,Buenos Aires,Adela,B7136XAA
+bf3d10c2-f4bd-4ab7-8519-5a494e55b305,Buenos Aires,Adela Corti,B8000XBC
+721b0440-3d63-45e8-be12-ad9157f22e54,Buenos Aires,Adela Saenz,B8129XAA
+ccd395a6-1fca-4554-83d9-e6cdf5e7d33f,Buenos Aires,Adolfo Alsina,B6430XAA
+86c939d2-9ed7-40cf-97ab-c2d4cbc5028d,Buenos Aires,Adolfo Gonzales Chaves,N/A
+430cb9e2-a363-4074-9418-bb37b9472ea4,Buenos Aires,Adrogue,N/A
+e055e022-ddee-4aa9-bfd2-a3a702ea8c72,Buenos Aires,Aeropuerto Ezeiza,N/A
+2ba695df-4a50-47dd-a31b-3455b6ccc612,Buenos Aires,Agote,B6600XAA
+8f5f8dfe-0125-47b6-964b-680057cec5ac,Buenos Aires,Aguara,B8105XAE
+868241ec-2621-4641-8323-43574cac3520,Buenos Aires,Aguas Corrientes,B2701XAB
+6a04eb92-ff0c-4bb5-a40b-27e82f701dfb,Buenos Aires,Aguas Verdes,B7112XAC
+cd87d01b-f9c1-4c93-9012-9a074fb2f8a0,Buenos Aires,Aguirrezabala,B2915XAB
+ee8eb5f6-b73f-4595-82cb-608c3a3adc67,Buenos Aires,Agustin Mosconi,N/A
+9d00db76-53a1-4179-bacd-36184f47e5e3,Buenos Aires,Agustin Roca,N/A
+24da6077-f90b-47e9-88cb-2a5e78398551,Buenos Aires,Agustina,N/A
+988d13c0-2b78-46a5-b693-986268eed82d,Buenos Aires,Alagon,B6463XAA
+e25f931d-3bdf-4ffe-b84b-599396b06d4e,Buenos Aires,Alamos,B6437XAE
+06942bc8-2f3c-4416-8eb7-adab39c4ca50,Buenos Aires,Alastuey,B6703XAB
+877729ff-7e98-4e3d-be89-38f7bb5686a4,Buenos Aires,Albariño,B6405XAA
+a14d315e-cf46-4e2e-89aa-1d403353ee26,Buenos Aires,Alberti,N/A
+693b35c6-5835-43c5-9b81-1b374a1d0b30,Buenos Aires,Aldea San Andres,B8126XAA
+ba7933c2-396b-420f-8a42-42ffe1c95d66,Buenos Aires,Aldecon,B7406XAG
+92e3af4f-05da-4ba6-b037-34d53415cc18,Buenos Aires,Aldo Bonzi,N/A
+b92ebbcb-d3f0-4d8f-b41e-4890a753a54a,Buenos Aires,Alegre,B1987XAA
+5224c4bd-e1cf-4063-a65b-999ce46f7ac3,Buenos Aires,Alejandro Korn,N/A
+874b9f50-c1a9-44b2-a7c7-d5b76ffdb96d,Buenos Aires,Alejandro Petion,N/A
+617f84a0-4e77-4339-80ff-0d5bbea9d584,Buenos Aires,Alfa,B6437XAF
+a9ed4774-5344-4380-a813-245c281114f1,Buenos Aires,Alfalad,B6555XAA
+31752507-a762-4e36-b15d-bf02441f6e10,Buenos Aires,Alferez San Martin,B8117XAA
+e522c5c9-9972-427a-952b-5e8bd265303b,Buenos Aires,Alfredo Demarchi,B6533XAA
+7e9cbc03-b421-4819-88ef-9552b735346f,Buenos Aires,Algarrobo,N/A
+13b444f8-bcac-44d5-abd1-7a1d1ed9c67f,Buenos Aires,Almacen Castro,B2751XAA
+7e8e8e07-06e5-430d-aff4-5ac8787ad357,Buenos Aires,Almacen el Cruce,B2751XAF
+c5ca7183-64e6-4849-b187-11398ee7c323,Buenos Aires,Almacen el Descanso,B2752XAB
+70b7e88a-75e5-4666-91a2-68f96df3b8c7,Buenos Aires,Almacen la Colina,B2740XAA
+13fdf979-e22b-4e9f-aacd-213fa975af15,Buenos Aires,Almacen Piatti,B2711XAB
+f23cc77f-e11e-4a79-bbb8-308a83da40ce,Buenos Aires,Almirante Irizar,B1629XAA
+8f9c8dd0-3909-4e65-b31f-101b8aa2c3c1,Buenos Aires,Almirante Solier,B8109XAE
+64cf2cd9-596b-4ae6-8a39-3e301b5fef07,Buenos Aires,Alsina,N/A
+75cc8c10-fea8-429f-823b-511abdc2ccc2,Buenos Aires,Alta Vista,B8170XAB
+cef932ec-6b40-40a2-8d2a-48d23420142b,Buenos Aires,Altamira,B6601XAB
+e50f937e-8f69-410f-b6cf-72d772308b35,Buenos Aires,Altamirano,B1986XAA
+bebe48b0-b297-453e-9bfe-24e6ac4ac9c5,Buenos Aires,Alto los Cardales,N/A
+f2382a69-db11-4264-ac09-ed3810683b52,Buenos Aires,Alto Verde,B2801XAC
+d05d5531-624b-49d3-a5d4-ec1c3b132692,Buenos Aires,Altona,B7303XAD
+4c8a2369-34bf-4cef-80a2-9cd7889e9494,Buenos Aires,Alvarez de Toledo,N/A
+5f1a1344-d93d-4dce-b798-a47719b86996,Buenos Aires,Alvarez Jonte,B1921XAH
+0b8f479e-5637-450e-bd73-8d11ad87e810,Buenos Aires,Alvaro Barros,B7403XAB
+4179cd26-32a1-4fe5-a5bd-439435df9459,Buenos Aires,Alzaga,B7021XAA
+6a9a7699-a93a-4ead-b394-1abf42f60bbd,Buenos Aires,Amalia,B6516XAA
+da0a4603-b311-4e91-ad9d-d277c8eb149a,Buenos Aires,Ambrosio P Lezica,B8508XAC
+f0f11625-954a-488f-82ad-6540db1be886,Buenos Aires,America,N/A
+86072da9-5a6d-4eec-937a-6a164c36da32,Buenos Aires,America Unida,N/A
+e3517888-78cb-4eb4-a7da-5394537e4713,Buenos Aires,Anasagasti,B6607XAA
+17065c65-055f-47f8-b420-6208272ad7f0,Buenos Aires,Ancon,B6451XAE
+7ebb0acb-64ff-46d2-b271-7d64ca6a114e,Buenos Aires,Andant,B6555XAB
+474d2325-9349-4080-8075-c638efee30e9,Buenos Aires,Anderson,B6621XAA
+8d1fbda9-25a3-4abc-bf0b-1c6f8a2a1157,Buenos Aires,Andres Vaccarezza,B6634XAB
+57ce7dce-0814-408c-b78d-6307e085132e,Buenos Aires,Aneque Grande,B7011XAA
+b97186ea-4632-417b-9c43-4d258c808ebb,Buenos Aires,Antonio Carboni,N/A
+0781c116-92a0-4343-b7a3-7ee701c26fab,Buenos Aires,Antonio de los Heros,B7305XAA
+0d308020-91ba-4576-acd4-7f421112d8f9,Buenos Aires,Aparicio,N/A
+d49b1b4a-8fac-408a-9322-fab0e9ac0ae1,Buenos Aires,Arana,N/A
+df8dfa3a-0a5b-43cf-8001-bacdcd7d7594,Buenos Aires,Arano,B6443XAA
+b4d820e9-f4b8-48a2-85e1-ce8d8a925cbf,Buenos Aires,Araujo,B6643XAA
+fc6acb89-69d9-4756-85cc-d313e154ac18,Buenos Aires,Arboleda,N/A
+31a2e5b5-c946-4f77-b968-86b8dc73fa82,Buenos Aires,Arbuco,B1915XAA
+f13529c4-df6d-47d2-8b42-a22f712dcd71,Buenos Aires,Arenaza,N/A
+001ebe73-90a4-4e90-9437-255dd862270e,Buenos Aires,Arevalo,B7243XAD
+8a613119-120c-421a-a8ae-86f801e815c0,Buenos Aires,Argerich,B8134XAE
+9eb62c82-f80b-4547-bf65-b738e21c6109,Buenos Aires,Ariel,B7301XAB
+50940b31-4f76-41de-8c54-0b740598b745,Buenos Aires,Arquedas,B8164XAA
+c09736e0-c51d-437d-b16c-916b9b971bd9,Buenos Aires,Arrecifes,N/A
+16df8e90-fc53-4c67-bea1-4799bd14e39d,Buenos Aires,Arribeños,N/A
+b74ef00d-1be8-45ca-9f45-c819ff2ded87,Buenos Aires,Arroyo Aguas Blancas,B8174XAA
+d83363a6-5a46-4a15-8d3c-9408c31e8513,Buenos Aires,Arroyo Aguila Negra,B2800XAF
+cfed5dd0-dfc9-46c3-b171-d5339cc5ad44,Buenos Aires,Arroyo Aleli,B2805XAM
+6c1a2bcf-dd5f-4605-9d62-3d9fbd49e658,Buenos Aires,Arroyo Botija Falsa,B2800XAG
+365d1810-2b75-41ac-a01f-6793b53aae4a,Buenos Aires,Arroyo Burgos,B2935XAC
+0a8f0a42-6788-45ac-8441-7987ae5a957e,Buenos Aires,Arroyo Canelon,B1625XAA
+5c419d9f-d21b-4950-8f15-8a4fe1eac1b1,Buenos Aires,Arroyo Carabelitas,B2805XAN
+ab966d80-a667-4d2f-a735-9ad833e2f374,Buenos Aires,Arroyo Chico,B7011XAB
+3980b6a1-bc9b-4c52-9ef4-bd181ee75c90,Buenos Aires,Arroyo Corto,N/A
+a73de884-d90b-4430-b9a0-13db2ffed896,Buenos Aires,Arroyo de la Cruz,B2812XAD
+b070c11d-20f0-467e-a12f-70f1dbf90c75,Buenos Aires,Arroyo de Luna,B2752XAC
+913269df-257e-4c2e-9ab2-c39544b0493f,Buenos Aires,Arroyo del Pescado,B1923XAB
+68e958a4-882a-43fb-be24-d877f511cce0,Buenos Aires,Arroyo Dulce,N/A
+8feeeda6-3cc5-47ae-9125-60fac08b625a,Buenos Aires,Arroyo el Ahogado,B2805XAA
+8c407311-c0fb-415b-bdfe-47c2c4b2e0cb,Buenos Aires,Arroyo el Chingolo,B6437XAG
+0b15ed1e-55cd-44f6-931f-f692cf48ca5c,Buenos Aires,Arroyo Grande,B7174XAA
+fd576e44-9351-4b0c-af1b-4af0eec81c17,Buenos Aires,Arroyo la Maza,B1923XAC
+e322b836-dd72-4d8a-8a9c-0e764f5b7cef,Buenos Aires,Arroyo las Cruces,B2805XAB
+ea82fb5b-31ca-494d-a261-799d58affa23,Buenos Aires,Arroyo las Rosas,N/A
+89e2f8e3-ab77-4a3d-8231-6b7147d96628,Buenos Aires,Arroyo los Huesos,B7301XAA
+c01236e0-81af-4c35-b4bc-c1e24a1fd478,Buenos Aires,Arroyo los Tigres,B2805XAD
+de7c45d1-9c0b-438f-a39d-3c2ab7bdc4ea,Buenos Aires,Arroyo Ñacurutu,B2800XAH
+6e4cd699-5f76-40a8-9aab-d361aa7a1b9e,Buenos Aires,Arroyo Ñacurutu Chico,B2805XAE
+42e19d59-f25d-4fb0-adea-af75c375880f,Buenos Aires,Arroyo Negro,B2800XAC
+4c58a8f3-6f44-411e-b26f-1f559d24dcda,Buenos Aires,Arroyo Pareja,B8111XAB
+b9b802c8-7ab7-4932-a315-eaddf506a0af,Buenos Aires,Arroyo Pesqueria,B2805XAF
+387c2f04-9263-4462-8731-5537bb304dae,Buenos Aires,Arroyo Tajiber,B2805XAG
+cde4b7f3-115e-4917-ad71-2babccce003b,Buenos Aires,Arroyo Venado,B6437XAH
+910a3fb7-7fe1-4bc4-9612-5794fbb2d9ff,Buenos Aires,Arroyo Zanjon,B2805XAH
+1e2f6ff5-fa0c-46c2-9acb-dd2c550cddf7,Buenos Aires,Arturo Segui,N/A
+cfed242b-a01c-4573-bae8-32b0a8d8fcc1,Buenos Aires,Arturo Vatteone,B6433XAA
+f7aaeeeb-a0ca-42e7-b777-14b209170f3a,Buenos Aires,Asamblea,B6640XAC
+d3216d81-d3e8-41d1-a43a-63ab0e225718,Buenos Aires,Ascencion,N/A
+8ccfe385-72f2-4a7d-b5ad-ce14c417861a,Buenos Aires,Asturias,B6469XAA
+838e7664-d0a8-406e-a1db-8e77b2fcf340,Buenos Aires,Atahualpa,B6471XAA
+a7d17e53-6ad5-4774-9e44-83cb15a8e42c,Buenos Aires,Atalaya,N/A
+fe18fc9b-220e-4104-8ce5-e9039cf3e0ce,Buenos Aires,Atucha,B2800XAD
+8c7b08f0-2c03-4d00-99b1-45c6ad33050c,Buenos Aires,Avellaneda,N/A
+b6bfa70e-9cf2-4536-812d-89f7020862e9,Buenos Aires,Avestruz,B8183XAD
+ef8d557d-8278-4a92-bd82-279aa09066c5,Buenos Aires,Ayacucho,N/A
+febeea75-08d8-4c73-bdaa-fa6873079201,Buenos Aires,Azcuenaga,N/A
+60bcbec0-8a6e-4339-ad0f-e19169d14118,Buenos Aires,Azopardo,N/A
+4f78c919-cfa9-4938-b2b9-72b05e033b9a,Buenos Aires,Azul,N/A
+b8d72423-9a20-4251-847e-f0e6d80b6efd,Buenos Aires,B los Aromos San Patricio,N/A
+9f693567-0a9b-477b-8b6a-94f4695c300f,Buenos Aires,B Nuestra Señora de la Paz,N/A
+6f85cb10-d068-4c7f-b062-68532eddc999,Buenos Aires,B Sarmiento Don Rolando,N/A
+04696b21-841c-4311-9fc6-b06e52d205cf,Buenos Aires,B Sta Catalina Hornero la Loma,N/A
+c91d0300-34af-4291-993c-3c43ebfc1d20,Buenos Aires,Bacacay,B6516XAB
+73d939a9-a008-4ea3-a245-546a75d1f321,Buenos Aires,Badano,B6403XAC
+e016f801-c7de-4c7f-bade-23d25464db3f,Buenos Aires,Bahia Blanca,N/A
+251f67cf-cd6f-4b49-ba3b-f70a8233d154,Buenos Aires,Bahia San Blas,B8506XAC
+f7dcaa23-b232-4175-b9b3-fc1bc7bc7f71,Buenos Aires,Baigorrita,N/A
