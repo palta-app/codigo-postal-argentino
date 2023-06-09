@@ -1,0 +1,339 @@
+id,name,zip,sate
+00000001,11 de Septiembre,,Buenos Aires
+00000002,Churruca,,Buenos Aires
+00000003,El Libertador,,Buenos Aires
+00000004,Loma Hermosa,,Buenos Aires
+00000005,Pablo Podesta,,Buenos Aires
+00000006,Remedios de Escalada,,Buenos Aires
+00000007,12 de Agosto,B2701XAA,Buenos Aires
+00000008,Aguas Corrientes,B2701XAB,Buenos Aires
+00000009,Haras el Centinela,B2701XAD,Buenos Aires
+00000010,Mariano Benitez,B2701XAE,Buenos Aires
+00000011,Santa Teresita Pergamino,B2701XAF,Buenos Aires
+00000012,General Gelly,,Buenos Aires
+00000013,Rancagua,,Buenos Aires
+00000014,Estacion Provincial,B6501XAC,Buenos Aires
+00000015,Laguna del Cura,B6501XAA,Buenos Aires
+00000016,Mulcahy,B6501XAB,Buenos Aires
+00000017,Norumbega,B6501XAD,Buenos Aires
+00000018,Tropezon,B6501XAE,Buenos Aires
+00000019,12 de Octubre,,Buenos Aires
+00000020,16 de Julio,B7313XAA,Buenos Aires
+00000021,Bernardo Vera y Pintado,B7313XAB,Buenos Aires
+00000022,Coronel Rodolfo Bunge,B7313XAD,Buenos Aires
+00000023,El Luchador,B7313XAE,Buenos Aires
+00000024,Kilometro 433,B7313XAC,Buenos Aires
+00000025,La Nutria,B7313XAF,Buenos Aires
+00000026,Ricardo Gaviña,B7313XAG,Buenos Aires
+00000027,Adela Saenz,B8129XAA,Buenos Aires
+00000028,Glorialdo,B8129XAB,Buenos Aires
+00000029,17 de Agosto,,Buenos Aires
+00000030,Felipe Sola,,Buenos Aires
+00000031,20 de Junio,,Buenos Aires
+00000032,Pontevedra,,Buenos Aires
+00000033,La Tribu,B6015XAE,Buenos Aires
+00000034,Laguna las Mulitas,B6660XAD,Buenos Aires
+00000035,Ortiz de Rosas,B6660XAA,Buenos Aires
+00000036,Santiago Garbarini,B6660XAB,Buenos Aires
+00000037,25 de Mayo,,Buenos Aires
+00000038,Albariño,B6405XAA,Buenos Aires
+00000039,Corazzi,B6405XAB,Buenos Aires
+00000040,Duhau,B6405XAC,Buenos Aires
+00000041,30 de Agosto,,Buenos Aires
+00000042,4 de Noviembre,B2705XAB,Buenos Aires
+00000043,El Jaguel,B2707XAC,Buenos Aires
+00000044,Guido Spano,B2707XAD,Buenos Aires
+00000045,Hunter,B2707XAE,Buenos Aires
+00000046,La Nacion,B2707XAA,Buenos Aires
+00000047,Las Saladas,B2707XAB,Buenos Aires
+00000048,9 de Abril,,Buenos Aires
+00000049,Barrio Julio de Vedia,B6500XAB,Buenos Aires
+00000050,Fauzon,B6500XAE,Buenos Aires
+00000051,San Juan,B2754XAC,Buenos Aires
+00000052,Villa Diamantina,B6500XAG,Buenos Aires
+00000053,9 de Julio,,Buenos Aires
+00000054,Buchanan,B1903XAA,Buenos Aires
+00000055,Abasto,,Buenos Aires
+00000056,Estacion Gomez,,Buenos Aires
+00000057,Melchor Romero,,Buenos Aires
+00000058,Abbott,,Buenos Aires
+00000059,Abel,B6450XAA,Buenos Aires
+00000060,Barrio Obrero,B6450XAB,Buenos Aires
+00000061,Pueblo San Esteban,B6450XAD,Buenos Aires
+00000062,Rovira,B6450XAC,Buenos Aires
+00000063,Santa Cecilia Sud,B6450XAF,Buenos Aires
+00000064,Pehuajo,,Buenos Aires
+00000065,Abra de Hinojo,B8170XAA,Buenos Aires
+00000066,Alta Vista,B8170XAB,Buenos Aires
+00000067,Ducos,B8170XAC,Buenos Aires
+00000068,Pigue,,Buenos Aires
+00000069,Acassuso,,Buenos Aires
+00000070,Martinez,,Buenos Aires
+00000071,Aceilan,B7003XAB,Buenos Aires
+00000072,Maria Ignacia,B7003XAA,Buenos Aires
+00000073,Gardey,,Buenos Aires
+00000074,Vela,,Buenos Aires
+00000075,Gornatti,B2717XAA,Buenos Aires
+00000076,Manantiales,B2717XAB,Buenos Aires
+00000077,Acevedo,,Buenos Aires
+00000078,Guerrico,,Buenos Aires
+00000079,Juana a de la Peña,,Buenos Aires
+00000080,Achupallas,B6627XAD,Buenos Aires
+00000081,Grisolia,B6627XAA,Buenos Aires
+00000082,Haras el Carmen,B6627XAC,Buenos Aires
+00000083,La Victoria Desvio,B6627XAE,Buenos Aires
+00000084,Ramon Biaus,B6627XAB,Buenos Aires
+00000085,Moll,,Buenos Aires
+00000086,Adela,B7136XAA,Buenos Aires
+00000087,Colonia Escuela Argentina,B7136XAB,Buenos Aires
+00000088,Cuartel 6,B7136XAC,Buenos Aires
+00000089,Gandara,B7136XAE,Buenos Aires
+00000090,Haras San Ignacio,B7136XAF,Buenos Aires
+00000091,Monasterio,B7136XAD,Buenos Aires
+00000092,Adela Corti,B8000XBC,Buenos Aires
+00000093,Choique,B8000XAS,Buenos Aires
+00000094,Colonia Bella Vista,B8000XAI,Buenos Aires
+00000095,Puerto Galvan,B8000XAU,Buenos Aires
+00000096,Villa Buenos Aires,B8000XAV,Buenos Aires
+00000097,Villa Cerrito,B8000XAW,Buenos Aires
+00000098,Villa Delfina,B8000XBM,Buenos Aires
+00000099,Villa Domingo Pronsato,B8000XAX,Buenos Aires
+00000100,Villa Floresta,B8000XAY,Buenos Aires
+00000101,Villa Italia,B7000XAR,Buenos Aires
+00000102,Villa Libre,B8000XAC,Buenos Aires
+00000103,Villa Loreto,B8000XAD,Buenos Aires
+00000104,Villa Mitre,B8000XAE,Buenos Aires
+00000105,Villa Nocito,B8000XAF,Buenos Aires
+00000106,Villa Obrera,B8000XAG,Buenos Aires
+00000107,Villa Olga Grumbein,B8000XAH,Buenos Aires
+00000108,Villa Sanchez Elia,B8000XAZ,Buenos Aires
+00000109,Bahia Blanca,,Buenos Aires
+00000110,Adolfo Alsina,B6430XAA,Buenos Aires
+00000111,Fatralo,B6430XAE,Buenos Aires
+00000112,Juan V Cilley,B6430XAF,Buenos Aires
+00000113,Pocito,B6430XAD,Buenos Aires
+00000114,Rolito Estacion Fcgb,B6430XAI,Buenos Aires
+00000115,Villa Castelar Est Erize,B6430XAG,Buenos Aires
+00000116,Villa Sauri,B6430XAH,Buenos Aires
+00000117,Carhue,,Buenos Aires
+00000118,El Lucero,B7513XAA,Buenos Aires
+00000119,Adolfo Gonzales Chaves,,Buenos Aires
+00000120,San Jose,B7203XAE,Buenos Aires
+00000121,Adrogue,,Buenos Aires
+00000122,Jose Marmol,,Buenos Aires
+00000123,Malvinas Argentinas,,Buenos Aires
+00000124,San Francisco Solano,,Buenos Aires
+00000125,Aeropuerto Ezeiza,,Buenos Aires
+00000126,Agote,B6600XAA,Buenos Aires
+00000127,Gowland,B6608XAA,Buenos Aires
+00000128,Manuel Jose Garcia,B6608XAB,Buenos Aires
+00000129,Olivera,,Buenos Aires
+00000130,Aguara,B8105XAE,Buenos Aires
+00000131,Colonia la Merced,B8105XAF,Buenos Aires
+00000132,Kilometro 666,B8105XAB,Buenos Aires
+00000133,Sauce Chico,B8105XAD,Buenos Aires
+00000134,Gral Daniel Cerri,,Buenos Aires
+00000135,Aguas Verdes,B7112XAC,Buenos Aires
+00000136,Costa Azul,B7112XAD,Buenos Aires
+00000137,La Isabel,B7212XAD,Buenos Aires
+00000138,La Posta,B7112XAA,Buenos Aires
+00000139,La Proteccion,B7112XAB,Buenos Aires
+00000140,Aguirrezabala,B2915XAB,Buenos Aires
+00000141,La Esperanza,B2915XAC,Buenos Aires
+00000142,Ramallo,,Buenos Aires
+00000143,Colonia Inchausti,B6667XAA,Buenos Aires
+00000144,Islas,B6667XAB,Buenos Aires
+00000145,La Rabia,B6667XAC,Buenos Aires
+00000146,Martin Berraondo,B6667XAE,Buenos Aires
+00000147,Agustin Mosconi,,Buenos Aires
+00000148,Valdez,,Buenos Aires
+00000149,Laguna de Gomez,B6001XAA,Buenos Aires
+00000150,Agustin Roca,,Buenos Aires
+00000151,Agustina,,Buenos Aires
+00000152,Fortin Tiburcio,,Buenos Aires
+00000153,Rafael Obligado,,Buenos Aires
+00000154,Alagon,B6463XAA,Buenos Aires
+00000155,El Santiago,B6463XAB,Buenos Aires
+00000156,Santa Cecilia Centro,B6463XAC,Buenos Aires
+00000157,Alamos,B6437XAE,Buenos Aires
+00000158,Alfa,B6437XAF,Buenos Aires
+00000159,Arroyo el Chingolo,B6437XAG,Buenos Aires
+00000160,Arroyo Venado,B6437XAH,Buenos Aires
+00000161,Colonia San Ramon,B6437XAA,Buenos Aires
+00000162,El Nilo,B6435XAA,Buenos Aires
+00000163,El Trebañon,B6437XAB,Buenos Aires
+00000164,La Gregoria,B6437XAC,Buenos Aires
+00000165,La Herminia,B6437XAD,Buenos Aires
+00000166,Las Cuatro Hermanas,B6437XAI,Buenos Aires
+00000167,Las Mercedes,B6437XAJ,Buenos Aires
+00000168,Las Tres Flores,B6437XAK,Buenos Aires
+00000169,Santa Rita Pdo Guamini,B6437XAL,Buenos Aires
+00000170,Alastuey,B6703XAB,Buenos Aires
+00000171,Etchegoyen,B6703XAA,Buenos Aires
+00000172,Ruta 8 Kilometro 77,B6703XAC,Buenos Aires
+00000173,Villa Preceptor Manuel Cruz,B6703XAD,Buenos Aires
+00000174,Parada Robles,,Buenos Aires
+00000175,Torres,,Buenos Aires
+00000176,Andres Vaccarezza,B6634XAB,Buenos Aires
+00000177,Emita,B6634XAA,Buenos Aires
+00000178,Larrea,B6634XAC,Buenos Aires
+00000179,Alberti,,Buenos Aires
+00000180,Pla,,Buenos Aires
+00000181,Aldea San Andres,B8126XAA,Buenos Aires
+00000182,La Colorada Chica,B8126XAB,Buenos Aires
+00000183,Villa Iris,,Buenos Aires
+00000184,Aldecon,B7406XAG,Buenos Aires
+00000185,Chala Quilca,B7406XAH,Buenos Aires
+00000186,Fortin Necochea,B7406XAI,Buenos Aires
+00000187,Las Bandurrias,B7406XAF,Buenos Aires
+00000188,Las Martinetas,B7406XAA,Buenos Aires
+00000189,Lastra,B7406XAB,Buenos Aires
+00000190,Quilco,B7406XAC,Buenos Aires
+00000191,San Quilco,B7406XAD,Buenos Aires
+00000192,Santa Clementina,B7406XAE,Buenos Aires
+00000193,General Lamadrid,,Buenos Aires
+00000194,Aldo Bonzi,,Buenos Aires
+00000195,Tapiales,,Buenos Aires
+00000196,Alegre,B1987XAA,Buenos Aires
+00000197,Cancha del Pollo,B1987XAB,Buenos Aires
+00000198,Cuartel 2,B1987XAC,Buenos Aires
+00000199,Dantas,B1987XAE,Buenos Aires
+00000200,Espartillar,B1987XAD,Buenos Aires
+00000201,Ranchos,,Buenos Aires
+00000202,Alejandro Korn,,Buenos Aires
+00000203,Francisco Casal,B6230XAE,Buenos Aires
+00000204,Alejandro Petion,,Buenos Aires
+00000205,Vicente Casares,,Buenos Aires
+00000206,Alfalad,B6555XAA,Buenos Aires
+00000207,Andant,B6555XAB,Buenos Aires
+00000208,Coronel Marcelino Freyre,B6555XAC,Buenos Aires
+00000209,La Armonia,B6555XAE,Buenos Aires
+00000210,La Larga,B6555XAF,Buenos Aires
+00000211,Los Coloniales,B6555XAG,Buenos Aires
+00000212,Mauras,B6555XAH,Buenos Aires
+00000213,Villa Carola,B6555XAD,Buenos Aires
+00000214,Daireaux,,Buenos Aires
+00000215,Alferez San Martin,B8117XAA,Buenos Aires
+00000216,Chasico,B8117XAF,Buenos Aires
+00000217,El Cortapie,B8117XAH,Buenos Aires
+00000218,Empalme Piedra Echada,B8117XAE,Buenos Aires
+00000219,Lopez Lecube,B8117XAC,Buenos Aires
+00000220,Nueva Roma,B8117XAI,Buenos Aires
+00000221,Pelicura,B8117XAJ,Buenos Aires
+00000222,Piedra Ancha,B8117XAD,Buenos Aires
+00000223,Venancio,B8117XAB,Buenos Aires
+00000224,Alfredo Demarchi,B6533XAA,Buenos Aires
+00000225,Kilometro 322,B6533XAG,Buenos Aires
+00000226,La Adela,B6533XAC,Buenos Aires
+00000227,Las Rosas,B6533XAD,Buenos Aires
+00000228,Ramon J Neild,B6533XAE,Buenos Aires
+00000229,Reginaldo J Neild,B6533XAF,Buenos Aires
+00000230,Pueblo Martinez de Hoz,,Buenos Aires
+00000231,Quiroga,,Buenos Aires
+00000232,Buenos Aires,B8132XAB,Buenos Aires
+00000233,Almacen Castro,B2751XAA,Buenos Aires
+00000234,Almacen el Cruce,B2751XAF,Buenos Aires
+00000235,Colonia la Invernada,B2751XAI,Buenos Aires
+00000236,Colonia la Nena,B2751XAB,Buenos Aires
+00000237,Colonia la Noria,B2751XAG,Buenos Aires
+00000238,Colonia la Reina,B2751XAH,Buenos Aires
+00000239,Colonia Laborderoy,B2751XAC,Buenos Aires
+00000240,Colonia los Toldos,B2751XAD,Buenos Aires
+00000241,Colonia Stegman,B2751XAJ,Buenos Aires
+00000242,El Quemado,B2751XAE,Buenos Aires
+00000243,La Sarita,B2751XAK,Buenos Aires
+00000244,La Violeta,,Buenos Aires
+00000245,Almacen el Descanso,B2752XAB,Buenos Aires
+00000246,Arroyo de Luna,B2752XAC,Buenos Aires
+00000247,Campo la Elisa,B2752XAD,Buenos Aires
+00000248,Colegio San Pablo,B2752XAE,Buenos Aires
+00000249,El Silencio,B2752XAA,Buenos Aires
+00000250,Haras los Cardales,B2752XAF,Buenos Aires
+00000251,Retiro San Pablo,B2752XAG,Buenos Aires
+00000252,Capitan Sarmiento,,Buenos Aires
+00000253,La Luisa,,Buenos Aires
+00000254,Almacen la Colina,B2740XAA,Buenos Aires
+00000255,Cañada Marta,B2740XAB,Buenos Aires
+00000256,El Nacional,B2740XAC,Buenos Aires
+00000257,La Delia,B2740XAD,Buenos Aires
+00000258,La Nelida,B2740XAE,Buenos Aires
+00000259,Puente Cañete,B2740XAF,Buenos Aires
+00000260,Villa Sanguinetti,B2740XAG,Buenos Aires
+00000261,Arrecifes,,Buenos Aires
+00000262,Almacen Piatti,B2711XAB,Buenos Aires
+00000263,Colonia la Vanguardia,B2711XAD,Buenos Aires
+00000264,Paraje Santa Rosa,B2711XAC,Buenos Aires
+00000265,Pearson,B2711XAA,Buenos Aires
+00000266,San Federico,B2711XAE,Buenos Aires
+00000267,Almirante Irizar,B1629XAA,Buenos Aires
+00000268,Barrio San Alejo,B1629XAB,Buenos Aires
+00000269,Establecimiento San Miguel,B1629XAG,Buenos Aires
+00000270,Kilometro 61,B1629XAH,Buenos Aires
+00000271,Villa Agueda,B1629XAC,Buenos Aires
+00000272,Villa Buide,B1629XAD,Buenos Aires
+00000273,Villa Santa Maria,B1629XAE,Buenos Aires
+00000274,Villa Verde,B1629XAF,Buenos Aires
+00000275,Manzanares,,Buenos Aires
+00000276,Pilar,,Buenos Aires
+00000277,Almirante Solier,B8109XAE,Buenos Aires
+00000278,Balneario Parada,B8109XAB,Buenos Aires
+00000279,Desvio Sandrini,B8109XAC,Buenos Aires
+00000280,Kilometro 652,B8109XAA,Buenos Aires
+00000281,La Martina,B8109XAD,Buenos Aires
+00000282,Villa Laura,B8109XAF,Buenos Aires
+00000283,Villa Maio,B8109XAG,Buenos Aires
+00000284,Pehuen Co,,Buenos Aires
+00000285,Punta Alta,,Buenos Aires
+00000286,Villa del Mar,,Buenos Aires
+00000287,Alsina,,Buenos Aires
+00000288,Altamira,B6601XAB,Buenos Aires
+00000289,Comahue Oeste,B6601XAC,Buenos Aires
+00000290,Espora,B6601XAG,Buenos Aires
+00000291,La Valerosa,B6601XAD,Buenos Aires
+00000292,La Verde,B6601XAE,Buenos Aires
+00000293,San Eladio,B6601XAA,Buenos Aires
+00000294,Tomas Jofre,B6601XAF,Buenos Aires
+00000295,Altamirano,B1986XAA,Buenos Aires
+00000296,Jeppener,,Buenos Aires
+00000297,Alto los Cardales,,Buenos Aires
+00000298,Los Cardales,,Buenos Aires
+00000299,Alto Verde,B2801XAC,Buenos Aires
+00000300,El Tatu,B2801XAB,Buenos Aires
+00000301,Escalada,B2801XAA,Buenos Aires
+00000302,Altona,B7303XAD,Buenos Aires
+00000303,Campo Rojas,B7303XAE,Buenos Aires
+00000304,El Sauce,B7303XAB,Buenos Aires
+00000305,Sabbi,B7303XAG,Buenos Aires
+00000306,Santa Rosa,B7303XAC,Buenos Aires
+00000307,Yerbas,B7303XAF,Buenos Aires
+00000308,Tapalque,,Buenos Aires
+00000309,Juan Blaquier,B7260XAL,Buenos Aires
+00000310,Toldos Viejos,B7207XAD,Buenos Aires
+00000311,Alvarez de Toledo,,Buenos Aires
+00000312,Polvaredas,,Buenos Aires
+00000313,Alvarez Jonte,B1921XAH,Buenos Aires
+00000314,Colonia Beethoven,B1921XAB,Buenos Aires
+00000315,El Rosario,B1921XAA,Buenos Aires
+00000316,La Primavera,B1921XAE,Buenos Aires
+00000317,La Talina,B1921XAF,Buenos Aires
+00000318,Las Tahonas,B1921XAI,Buenos Aires
+00000319,Los Santos Viejos,B1921XAG,Buenos Aires
+00000320,Pancho Diaz,B1921XAJ,Buenos Aires
+00000321,Piñeiro,B1921XAC,Buenos Aires
+00000322,Rincon de Noario,B1921XAD,Buenos Aires
+00000323,Pipinas,,Buenos Aires
+00000324,Alvaro Barros,B7403XAB,Buenos Aires
+00000325,Cerro Aguila,B7403XAA,Buenos Aires
+00000326,Cerro Negro,B7403XAH,Buenos Aires
+00000327,Cerro Sotuyo,B7403XAI,Buenos Aires
+00000328,La Estrella,B7403XAD,Buenos Aires
+00000329,La Narcisa,B7403XAE,Buenos Aires
+00000330,La Palmira,B7403XAF,Buenos Aires
+00000331,La Providencia,B7403XAJ,Buenos Aires
+00000332,La Tomasa,B7403XAK,Buenos Aires
+00000333,Loma Negra,B7203XAC,Buenos Aires
+00000334,Colonia San Miguel,,Buenos Aires
+00000335,Sierras Bayas,,Buenos Aires
+00000336,Alzaga,B7021XAA,Buenos Aires
+00000337,Lopez,B7021XAB,Buenos Aires
+00000338,Tedin Uriburu,,Buenos Aires
