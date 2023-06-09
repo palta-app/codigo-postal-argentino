@@ -11,10 +11,10 @@ rows1 = cursor.fetchall()
 cursor.execute("SELECT COUNT(*) FROM streets")
 rows2 = cursor.fetchall()
 
-# cursor.execute('''SELECT name, link, state FROM City 
-#                     WHERE state = "Buenos Aires" AND name LIKE "A%"
-#                     ORDER BY state ASC''')
-# rows1 = cursor.fetchall()
+cursor.execute('''SELECT * FROM localities 
+                    ORDER BY city DESC
+                    LIMIT 10''')
+rows3 = cursor.fetchall()
 
 cursor.close()
 connection.close()
@@ -25,3 +25,6 @@ print(rows1)
 
 # for row in rows2:
 print(rows2)
+
+for row in rows3:
+    print(row)

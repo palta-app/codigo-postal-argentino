@@ -3,6 +3,11 @@ from postal_code.items import MyItem
 import json
 from unidecode import unidecode
 
+'''The structure of this spider is formed by 3 functions and a Item class (names MyItem brought in
+    from <items.py>). The main function is <parse> here starts the scraping, then goes over the two
+    functions that extracts the states and cities for the country selected. Once the data is extracted
+    MyItems stores it temporally for then upload it in the pipeline.'''
+
 class CountriesSpider(scrapy.Spider):
     name = "countries"
     
@@ -11,7 +16,7 @@ class CountriesSpider(scrapy.Spider):
     ]
 
     custom_settings = {
-        # this parameter determine the number of requests at the same time
+        # this parameter determine the number of requests in parallel
         # because scrapy is a framework asynchronous
         'CONCURRENT_REQUESTS': 8,
 
@@ -25,9 +30,11 @@ class CountriesSpider(scrapy.Spider):
     laux_states = 0
     naux_states = 0
 
+    '''Initiazile the country where scrape in'''
     def __init__(self, country):
         self.country = unidecode(country).lower()
 
+    '''Call the json file containing the XPath expressions for the scraper'''
     def xpath(self, flag=True):
         with open('./xpath.json') as f:
             xpath = json.load(f)[0]
@@ -35,6 +42,8 @@ class CountriesSpider(scrapy.Spider):
             xpath = xpath[self.country.upper()]
         return xpath
     
+    '''For each country's state spider extracts all cities. Once more time this data is stored in
+        the database <postal_code.sqlite>'''
     def parse_cities(self, response, **kwargs):
         if kwargs:
             item = kwargs['item']
@@ -55,7 +64,9 @@ class CountriesSpider(scrapy.Spider):
         elif cities_links and cities_names:
             yield response.follow(next(self.laux_states), callback=self.parse_cities,
                                   cb_kwargs={'item': item, 'state': next(self.naux_states)})
-
+            
+    '''Once the country is selected the spider extracts its state and for each one goes to parse_city.
+        The name of the state and its links is stored in <postal_codes.sqlite>'''
     def parse_state(self, response, **kwargs):
         if kwargs:
             item = kwargs['item']
@@ -75,7 +86,12 @@ class CountriesSpider(scrapy.Spider):
 
         yield response.follow(next(self.laux_states), callback=self.parse_cities,
                               cb_kwargs={'item': item, 'state': next(self.naux_states)})
-
+        
+        
+    '''Framework's main funciton. It starts from principal url in <start_urls> and go in to the
+        selected country in __init__ (just wholly work with Argentina). From here it goes to parse_state
+        and then to parse_city. The data for the country is stores in the database <postal_code.sqlite>
+        this is delved in <pipelines.py>'''
     def parse(self, response):
 
         country_links = response.xpath(self.xpath(flag=False)['COUNTRY_LINKS']).getall()

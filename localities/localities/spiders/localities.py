@@ -29,9 +29,12 @@ class LocalitiesSpider(scrapy.Spider):
         connection = sqlite3.connect(path)
         cursor = connection.cursor()
 
+        # query = '''SELECT name, link, state FROM City
+        #             ORDER BY state ASC'''
+
         query = '''SELECT name, link, state FROM City 
-                    WHERE state = "{}" AND name LIKE "{}"
-                    ORDER BY state ASC'''.format("Buenos Aires", "M%")
+                    WHERE state = "{}"
+                    ORDER BY state ASC'''.format("Buenos Aires")
 
         cursor.execute(query)
         rows = cursor.fetchall()

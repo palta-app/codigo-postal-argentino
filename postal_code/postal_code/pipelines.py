@@ -6,6 +6,9 @@
 # useful for handling different item types with a single interface
 # from itemadapter import ItemAdapter
 
+'''Here Pipeline create the first database by bringing in the Items which contains
+    the data extracted for the spider'''
+
 import sqlite3
 
 class SQLitePipeline(object):

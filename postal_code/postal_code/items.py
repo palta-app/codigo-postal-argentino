@@ -3,6 +3,9 @@
 # See documentation in:
 # https://docs.scrapy.org/en/latest/topics/items.html
 
+'''This is the pre structure for stored data in the database. 
+    Items communicate the spider with the pipeline'''
+
 import scrapy
 
 class MyItem(scrapy.Item):
