@@ -39,12 +39,12 @@ class LocalitiesSpider(scrapy.Spider):
         '''Here you can choose by hardcoding the state to scrape in. However you can use the first
             <query> variable to scrape the whole website for the country selected'''
 
-        # query = '''SELECT name, link, state FROM City
-        #             ORDER BY state ASC'''
+        query = '''SELECT name, link, state FROM City
+                    ORDER BY state ASC'''
 
-        query = '''SELECT name, link, state FROM City 
-                    WHERE state = "{}"
-                    ORDER BY state ASC'''.format("Buenos Aires")
+        # query = '''SELECT name, link, state FROM City 
+        #             WHERE state = "{}"
+        #             ORDER BY state ASC'''.format("Buenos Aires")
 
         cursor.execute(query)
         rows = cursor.fetchall()
