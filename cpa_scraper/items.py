@@ -27,4 +27,21 @@ class LocalityItem(CustomItem):
 
     # Internal category used in pipelines to separate categories and files
     # maybe validations or remove duplicates
-    _inner_category = scrapy.Field(serialize=False)
+    _inner_category = scrapy.Field()
+
+
+class StreetItem(CustomItem):
+    street_id = scrapy.Field()
+    name = scrapy.Field()
+    locality_id = scrapy.Field()
+
+    _inner_category = scrapy.Field()
+
+
+class NumberItem(CustomItem):
+    street_id = scrapy.Field()
+    from_number = scrapy.Field()
+    until_number = scrapy.Field()
+    zip_code = scrapy.Field()
+
+    _inner_category = scrapy.Field()

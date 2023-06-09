@@ -11,3 +11,12 @@ class LocalityLoader(ItemLoader):
     name_in = MapCompose(strip_str)
     zip_code_in = MapCompose(strip_str)
     state = MapCompose(strip_str)
+
+
+class StreetLoader(ItemLoader):
+    default_output_processor = TakeFirst()
+    name_in = MapCompose(strip_str)
+
+
+class NumberLoader(ItemLoader):
+    default_output_processor = TakeFirst()

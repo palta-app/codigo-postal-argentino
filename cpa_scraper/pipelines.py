@@ -18,13 +18,23 @@ class DuplicatesPipeline:
 
     def process_item(self, item, spider):
         adapter = ItemAdapter(item)
+        category = adapter.get("_inner_category")
 
-        if adapter["_inner_category"] == "localities":
+        if category == "localities":
             compose_locality = f'{adapter["name"]}_{adapter["zip_code"]}'
             if compose_locality in self._locality_items:
+                pass
                 raise DropItem(f"Duplicated name found: {item!r}")
             else:
                 self._locality_items.add(compose_locality)
+
+        if category == "streets":
+            if not adapter.get("name"):
+                raise DropItem(f"Remove empty street name {item!r}")
+
+        if category == "numbers":
+            if not adapter.get("zip_code"):
+                raise DropItem(f"Remove empty street zip_code {item!r}")
 
         return item
 
@@ -41,7 +51,7 @@ class CSVPipeline:
     def process_item(self, item, spider):
         adapter = ItemAdapter(item)
 
-        self._category = adapter["_inner_category"]
+        self._category = adapter.get("_inner_category")
 
         self.write_to_csv(item)
 
