@@ -33,7 +33,6 @@ async function init() {
             'Seeding Provinces [:bar] :percent :etas',
             {
                 total: 24,
-                renderThrottle: 0,
             }
         )
 
@@ -60,14 +59,16 @@ async function init() {
                     }))
                 })
 
-                // const localitiesBar = new ProgressBar(
-                //     'Seeding Localities [:bar] :percent :etas',
-                //     {
-                //         total: localities.length,
-                //     }
-                // )
+                const localitiesBar = new ProgressBar(
+                    'Seeding Localities [:bar] :percent :etas',
+                    {
+                        total: localities.length,
+                    }
+                )
 
                 for (const locality of localities) {
+                    localitiesBar.tick(0)
+
                     await page.goto(locality.href)
                     const { firstP, strongTags } = await evaluateFirstPTag(page)
 
@@ -116,8 +117,16 @@ async function init() {
                             )
 
                             const streets = await evaluateStreetsList(page)
+                            const streetsBar = new ProgressBar(
+                                'Seeding Streets [:bar] :percent :etas',
+                                {
+                                    total: streets.length,
+                                }
+                            )
 
                             for (const street of streets) {
+                                streetsBar.tick(0)
+
                                 await page.goto(street.href)
 
                                 const { firstP, strongTags } =
@@ -180,12 +189,12 @@ async function init() {
                                     })
                                 }
 
-                                // streetsBar.tick()
+                                streetsBar.tick()
                             }
                         }
                     }
 
-                    // localitiesBar.tick()
+                    localitiesBar.tick()
                 }
             }
             provincesBar.tick()
