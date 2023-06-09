@@ -1,0 +1,2396 @@
+id,type,name,localityId
+0000001,Pasaje,Pasaje Parana,0001369
+0000002,Calle,Calle 1,0000899
+0000003,Calle,Calle Amador Lucero,0001369
+0000004,Calle,Diagonal Raul Leccese,0001413
+0000005,Calle,Calle Libertad,0000113
+0000006,Calle,Calle 4 Este,0000318
+0000007,Pasaje,Calle Belisario Roldan,0001369
+0000008,Calle,Pasaje Lavarden,0001369
+0000009,Calle,Calle S/N 3,0000607
+0000010,Pasaje,Calle Zanjon,0000225
+0000011,Calle,Pasaje Rafael Uriarte,0001369
+0000012,Calle,Calle Yerba Huasi,0000113
+0000013,Calle,Calle Candelaria,0001637
+0000014,Calle,Calle Alberdi,0000760
+0000015,Calle,Calle S/N 2,0000081
+0000016,Calle,Calle Tucuman,0001177
+0000017,Pasaje,Calle Malvinas Argentinas,0000081
+0000018,Calle,Pasaje Lola Mora,0000081
+0000019,Calle,Calle San Jose,0000082
+0000020,Calle,Calle B Amaicha del Valle,0001455
+0000021,Calle,Calle Chaco,0001637
+0000022,Avenida,Calle Dr Luis B Alfaro,0001369
+0000023,Pasaje,Avenida Carlos Maria Torres,0001369
+0000024,Calle,Pasaje Pje 51,0001369
+0000025,Calle,Calle Remedios de Escalada,0001615
+0000026,Calle,Calle Ernesto Padilla,0000376
+0000027,Avenida,Calle Mercado del Norte,0001369
+0000028,Calle,Avenida Juan M Mendez,0000082
+0000029,Pasaje,Calle Formosa,0001620
+0000030,Calle,Pasaje Ibatin,0001157
+0000031,Avenida,Calle Araoz de Lamadrid,0001620
+0000032,Calle,Avenida Belgrano,0000082
+0000033,Pasaje,Calle Yapeyu,0001620
+0000034,Calle,Pasaje Gral  Julian Murga,0001369
+0000035,Calle,Calle Belgrano,0001177
+0000036,Calle,Calle Cristo Rey,0000082
+0000037,Pasaje,Calle Jose Antonio Muccela,0000113
+0000038,Calle,Pasaje Campos de las Carreras,0000391
+0000039,Pasaje,Calle Colombres,0000081
+0000040,Calle,Pasaje Maurin,0001369
+0000041,Pasaje,Calle Lucia B de Godoy,0000081
+0000042,Calle,Pasaje Javier Veliz,0000935
+0000043,Calle,Calle Sarmiento,0001615
+0000044,Calle,Calle Eva Peron,0000449
+0000045,Calle,Calle Escalada San Martin E,0001620
+0000046,Calle,Calle 25 de Mayo,0000863
+0000047,Calle,Calle L N Alem,0001485
+0000048,Calle,Calle Domingo Jose Garcia,0001157
+0000049,Avenida,Calle Florida,0001157
+0000050,Calle,Avenida Central,0001369
+0000051,Calle,Calle Comunal 2,0000498
+0000052,Calle,Calle Primera Junta,0000760
+0000053,Pasaje,Calle Saenz Peña,0000081
+0000054,Calle,Pasaje Pte H Yrigoyen,0000760
+0000055,Pasaje,Calle Lavalle,0001615
+0000056,Ruta Provincial,Pasaje Pje 13,0001369
+0000057,Avenida,Ruta Provincial Rp 329,0000607
+0000058,Calle,Avenida 9 de Julio,0000632
+0000059,Calle,Calle Dr Manuel Belgrano,0000707
+0000060,Pasaje,Calle Mercedes Almiron,0000707
+0000061,Pasaje,Pasaje Pje 20,0001369
+0000062,Calle,Pasaje Fray Bertres,0001369
+0000063,Pasaje,Calle Justiniano Claria,0001461
+0000064,Calle,Pasaje Fray Manuel Perez,0001369
+0000065,Calle,Calle Salta,0000707
+0000066,Pasaje,Calle Marcelo T de Alvear,0001369
+0000067,Calle,Pasaje Rev Padre Pacheco,0001620
+0000068,Calle,Calle Dr Luis Pasteur,0001637
+0000069,Calle,Calle 17 de Agosto,0000449
+0000070,Calle,Calle Gral Manuel Belgrano,0001485
+0000071,Calle,Calle 12 de Octubre,0000391
+0000072,Calle,Calle Sold Jose Acosta,0000911
+0000073,Calle,Calle 2 E,0000318
+0000074,Calle,Calle Independencia,0000391
+0000075,Calle,Calle 2,0000318
+0000076,Pasaje,Calle Belgrano,0000449
+0000077,Pasaje,Pasaje 1,0000632
+0000078,Pasaje,Pasaje Dr Juan Jose Paso,0000857
+0000079,Pasaje,Pasaje Jaime Freire,0001369
+0000080,Calle,Pasaje Santa Maria de Oro,0000081
+0000081,Calle,Calle 17 de Octubre,0001461
+0000082,Pasaje,Calle 10,0001615
+0000083,Avenida,Pasaje 33 78 no,0001369
+0000084,Calle,Ruta Nacional Rn 38,0001615
+0000085,Calle,Avenida Constitucion,0000081
+0000086,Calle,Calle Comunal 3,0000498
+0000087,Calle,Calle Atilio Santillan,0000760
+0000088,Avenida,Calle Jose Hernandez,0001615
+0000089,Calle,Calle Florida,0001111
+0000090,Calle,Avenida Julio Argentino Roca Oeste,0001413
+0000091,Calle,Calle 3 Este Oeste,0001101
+0000092,Pasaje,Diagonal Geologia,0001369
+0000093,Calle,Calle 1 de Abril,0001413
+0000094,Pasaje,Calle Manuel Lopez Pondal,0001369
+0000095,Calle,Pasaje Manuela Pedraza,0001369
+0000096,Pasaje,Calle Pte H Yrigoyen,0000081
+0000097,Pasaje,Pasaje Las Americas,0000760
+0000098,Calle,Diagonal Ghandi,0001369
+0000099,Pasaje,Calle 2,0001620
+0000100,Calle,Pasaje Gral Simon Bolivar,0001157
+0000101,Calle,Pasaje Rio Sali,0001369
+0000102,Calle,Calle Fray Leopoldo Roldan,0001461
+0000103,Calle,Pasaje Florencio Varela,0001369
+0000104,Pasaje,Calle Lucas A Cordoba,0001637
+0000105,Calle,Calle Juan Manuel de Rosas,0001413
+0000106,Calle,Calle Lucas A Cordoba,0001266
+0000107,Calle,Calle Pres Gral J A Roca,0000081
+0000108,Pasaje,Pasaje Castelli,0000857
+0000109,Calle,Calle San Lorenzo,0000707
+0000110,Pasaje,Calle Gral M de Azcuenaga,0001369
+0000111,Calle,Calle Juramento de la Bandera,0001369
+0000112,Calle,Pasaje Los Naranjos,0001369
+0000113,Calle,Calle Sarmiento,0000708
+0000114,Calle,Pasaje Gdor Bascary,0001369
+0000115,Calle,Calle 1 de Mayo,0001413
+0000116,Pasaje,Calle Pueyrredon,0001157
+0000117,Calle,Calle Granaderos Este,0001620
+0000118,Calle,Calle Primera Junta,0001266
+0000119,Pasaje,Calle Avellaneda,0001177
+0000120,Pasaje,Pasaje Quilmes,0001369
+0000121,Calle,Calle Republica del Libano,0001369
+0000122,Calle,Calle S/N 1,0000707
+0000123,Pasaje,Pasaje Mons Miguel de Andrea,0001369
+0000124,Pasaje,Pasaje Raul Colombres,0000760
+0000125,Pasaje,Calle Rio Negro,0001620
+0000126,Calle,Calle Dr Eliseo Canton,0000113
+0000127,Calle,Pasaje Dr Pedro Medrano,0001369
+0000128,Calle,Pasaje Pje 70,0001369
+0000129,Calle,Pasaje Gral Juan Jose Viamonte,0001323
+0000130,Calle,Calle Lavalle,0000708
+0000131,Calle,Calle Ecuador,0001620
+0000132,Calle,Calle Alsina,0001413
+0000133,Calle,Calle 3,0000742
+0000134,Calle,Calle Dr Juan Brigido Teran,0001449
+0000135,Calle,Calle Dante Alighieri,0001369
+0000136,Calle,Calle Zenon Santillan,0001369
+0000137,Pasaje,Calle Ricardo Rojas,0001637
+0000138,Calle,Calle Las Heras,0001445
+0000139,Avenida,Diagonal Sin Nombre,0001369
+0000140,Calle,Calle 1 de Mayo,0000760
+0000141,Calle,Calle 19,0001615
+0000142,Pasaje,Pasaje Independencia,0001615
+0000143,Pasaje,Calle 1,0000742
+0000144,Pasaje,Avenida San Martin,0001516
+0000145,Calle,Calle Juan de Lamadrid,0000081
+0000146,Calle,Calle 72 A,0001369
+0000147,Calle,Pasaje Pje 7,0001369
+0000148,Calle,Pasaje Marcos Paz,0001637
+0000149,Calle,Pasaje Malvinas,0000113
+0000150,Calle,Calle Fleming,0001369
+0000151,Calle,Calle Los Andes,0000082
+0000152,Pasaje,Calle Claudia Velez de Cano,0001455
+0000153,Pasaje,Calle Dr Dean F Salcedo,0000113
+0000154,Calle,Calle Alejandro Heredia,0000391
+0000155,Pasaje,Calle Maipu,0000911
+0000156,Calle,Calle Provincia de San Juan,0001369
+0000157,Calle,Pasaje Vasco Nuñez de Balboa,0001369
+0000158,Calle,Pasaje Pirovano,0001369
+0000159,Calle,Calle Bruselas,0001620
+0000160,Calle,Pasaje Jorge Luis Borges,0001157
+0000161,Pasaje,Calle Gral Guemes,0001157
+0000162,Calle,Calle Teniente Barcelo,0000567
+0000163,Calle,Calle 2,0000787
+0000164,Calle,Calle Larrea Este,0001620
+0000165,Pasaje,Calle S/N 4,0000607
+0000166,Calle,Pasaje Alfredo B Nobel,0001369
+0000167,Calle,Calle 12 de Octubre,0001485
+0000168,Pasaje,Calle Pbto Manuel Ballesteros,0000113
+0000169,Calle,Calle 24 Se,0001369
+0000170,Calle,Pasaje Gustavo Adolfo Becquer,0001369
+0000171,Pasaje,Calle Moises Baracat,0000911
+0000172,Calle,Calle Pte M T de Alvear,0000113
+0000173,Calle,Pasaje Baltazar Aguirre,0001369
+0000174,Pasaje,Calle Jose Abel Gomez,0001637
+0000175,Calle,Calle Araoz,0001413
+0000176,Calle,Pasaje Lucia Araoz,0001369
+0000177,Pasaje,Calle Cap Ramallo,0000567
+0000178,Calle,Calle Buenos Aires,0000707
+0000179,Calle,Pasaje Pje 1,0000376
+0000180,Calle,Calle 32,0001369
+0000181,Calle,Calle 9 de Julio,0000113
+0000182,Calle,Pasaje Caseros,0001369
+0000183,Calle,Calle Francisco de Laprida,0001369
+0000184,Calle,Calle Jose Ignacio Gorriti,0001620
+0000185,Pasaje,Calle Miguel Lillo,0001637
+0000186,Pasaje,Calle Antonio de Espinoza,0000391
+0000187,Pasaje,Diagonal Diag 4,0001369
+0000188,Calle,Calle San Lorenzo Este,0001620
+0000189,Calle,Calle Carrizo,0001369
+0000190,Calle,Calle Jose s Malabia,0001369
+0000191,Calle,Pasaje Pje 10,0001369
+0000192,Pasaje,Pasaje Pje 2,0000376
+0000193,Calle,Pasaje Raul Aragon,0001369
+0000194,Pasaje,Calle San Cayetano,0000742
+0000195,Calle,Calle Cordoba,0000760
+0000196,Ruta Provincial,Calle 13,0000787
+0000197,Calle,Calle Gral Manuel Belgrano,0000760
+0000198,Calle,Pasaje 5 Noroeste,0001369
+0000199,Calle,Calle Cap Medina,0001369
+0000200,Calle,Pasaje Rio de Janeiro,0001369
+0000201,Calle,Calle 5,0001157
+0000202,Calle,Ruta Provincial Rp 380,0000391
+0000203,Calle,Calle Colombres,0000899
+0000204,Avenida,Calle Cabildo,0001157
+0000205,Calle,Calle Trejo y Sanabria,0001369
+0000206,Calle,Calle Sarmiento,0001177
+0000207,Calle,Calle Lucio V Mansilla,0001369
+0000208,Calle,Calle Marcos Paz,0000391
+0000209,Calle,Calle Diego de Villarroel,0001369
+0000210,Pasaje,Avenida Saenz Peña,0001369
+0000211,Calle,Calle Jose Brizuela,0000376
+0000212,Calle,Calle B Mitre,0001413
+0000213,Calle,Calle San Miguel,0001157
+0000214,Calle,Calle Jujuy,0000449
+0000215,Calle,Calle Santa Fe,0000449
+0000216,Calle,Pasaje C Gardel,0001413
+0000217,Calle,Calle Lonardi,0001637
+0000218,Calle,Calle Gdor Gral Balcarce,0001369
+0000219,Calle,Calle Dr Lisandro de la Torre,0001615
+0000220,Calle,Calle Salta,0000081
+0000221,Calle,Calle Cnel Olleros,0001369
+0000222,Pasaje,Calle 4,0001615
+0000223,Calle,Calle Lola Mora,0000449
+0000224,Pasaje,Calle Monteagudo,0001413
+0000225,Calle,Calle Provincia de Catamarca,0001369
+0000226,Calle,Calle Luis Dode,0001157
+0000227,Calle,Calle Jujuy,0001516
+0000228,Calle,Pasaje Pje 3,0000411
+0000229,Pasaje,Calle Dr Torres,0001615
+0000230,Calle,Pasaje Cordoba,0000113
+0000231,Calle,Calle Bolivia,0001413
+0000232,Pasaje,Calle 7 Este Oeste,0001101
+0000233,Pasaje,Calle Maipu,0001620
+0000234,Calle,Calle Granaderos,0001449
+0000235,Pasaje,Pasaje 39 Se,0001369
+0000236,Calle,Calle Colombia,0001369
+0000237,Calle,Calle L N Alem,0001637
+0000238,Pasaje,Pasaje Jose Genaro Zurita,0000911
+0000239,Calle,Pasaje Cesar Carman,0001369
+0000240,Calle,Calle B Mitre,0000760
+0000241,Calle,Pasaje Pje 4,0000376
+0000242,Calle,Calle 18,0001615
+0000243,Calle,Calle Lamadrid,0000391
+0000244,Avenida,Pasaje C Gardel,0000760
+0000245,Pasaje,Calle Congreso,0001615
+0000246,Pasaje,Calle Granaderos Oeste,0001620
+0000247,Pasaje,Calle Bat de Ayacucho,0001369
+0000248,Calle,Calle Bat de Tucuman,0000857
+0000249,Avenida,Calle Laprida,0000391
+0000250,Calle,Avenida America,0000449
+0000251,Calle,Pasaje Rep de Colombia,0001157
+0000252,Calle,Pasaje Ortiz de Zarate,0001369
+0000253,Pasaje,Pasaje Velez Sarsfield,0001369
+0000254,Calle,Calle S/N 1,0001536
+0000255,Calle,Avenida Gral Guemes,0000707
+0000256,Calle,Calle Ana Soviaran,0001369
+0000257,Calle,Calle C F Bermudez,0001369
+0000258,Calle,Calle Domingo F Sarmiento,0001516
+0000259,Calle,Pasaje Bernabe Araoz,0000225
+0000260,Calle,Calle Colonia 2,0000935
+0000261,Calle,Calle San Martin,0001266
+0000262,Avenida,Calle Madrid,0001449
+0000263,Pasaje,Calle 5,0001620
+0000264,Calle,Calle Matienzo,0000760
+0000265,Calle,Calle F Cayetano Rodriguez,0000857
+0000266,Calle,Calle La Rioja,0000113
+0000267,Calle,Calle S/N 2,0000607
+0000268,Calle,Avenida 24 de Septiembre,0001157
+0000269,Calle,Ruta Nacional Rn 38,0001177
+0000270,Calle,Pasaje Enrique Larreta,0001369
+0000271,Pasaje,Calle Gral Jose Maria Paz,0001369
+0000272,Avenida,Calle 24 de Septiembre,0001323
+0000273,Calle,Calle Jose Hernandez,0001177
+0000274,Pasaje,Calle Ramon Araujo,0001369
+0000275,Pasaje,Calle S/N 1,0000081
+0000276,Calle,Calle 25 de Mayo,0000707
+0000277,Calle,Calle F Cayetano Rodriguez,0001369
+0000278,Pasaje,Pasaje 25 de Mayo,0000632
+0000279,Pasaje,Avenida L N Alem,0001413
+0000280,Pasaje,Calle Victoria,0001413
+0000281,Pasaje,Pasaje Juan Posse,0001157
+0000282,Calle,Pasaje San Salvador de Jujuy,0001323
+0000283,Calle,Calle Garcia Hamilton,0001369
+0000284,Pasaje,Calle 1,0000787
+0000285,Calle,Pasaje Farmacia,0001369
+0000286,Calle,Pasaje Arturo Figueroa,0001620
+0000287,Calle,Pasaje 1,0001369
+0000288,Pasaje,Pasaje Pje 33 Suroeste,0001369
+0000289,Calle,Calle 21,0001615
+0000290,Calle,Calle Pres Gral J A Roca,0000899
+0000291,Calle,Pasaje Dardo Molina,0001369
+0000292,Calle,Calle Maria Eva Duarte de Peron,0001323
+0000293,Calle,Diagonal Diag 72 Bis,0001369
+0000294,Pasaje,Calle Corrientes,0001413
+0000295,Pasaje,Calle Avellaneda,0001620
+0000296,Pasaje,Pasaje Grimau y Galvez,0001369
+0000297,Pasaje,Calle 12 de Octubre,0000760
+0000298,Calle,Calle Bolivar,0001413
+0000299,Calle,Calle Santa Fe,0000742
+0000300,Pasaje,Calle Lucio V Lopez,0001369
+0000301,Calle,Calle 20 de Junio,0000707
+0000302,Ruta Provincial,Pasaje Haiti,0001157
+0000303,Calle,Pasaje 34 no,0001369
+0000304,Calle,Pasaje Comb de la Florida,0001369
+0000305,Calle,Pasaje Mercedes Nougues,0000225
+0000306,Calle,Calle Sgto Juan B Cabral,0000707
+0000307,Calle,Calle Finca Lapa,0000935
+0000308,Calle,Pasaje Jose Garibaldi,0001369
+0000309,Calle,Calle Tambor de Tacuari,0001615
+0000310,Calle,Ruta Provincial 321 Este,0000113
+0000311,Calle,Calle Benjamin Araoz,0000760
+0000312,Calle,Camino Al Porvenir,0000082
+0000313,Calle,Calle San Juan,0000742
+0000314,Calle,Calle Domingo F Sarmiento,0001157
+0000315,Avenida,Calle 25 de Mayo,0000632
+0000316,Calle,Calle Juan Cruz Varela,0000449
+0000317,Calle,Calle Gral Mariano Acha,0001369
+0000318,Pasaje,Calle Hernan Cortez,0001369
+0000319,Pasaje,Calle Federico Helguera,0001369
+0000320,Calle,Calle Guillermo Rawson,0001369
+0000321,Calle,Calle Bolivia,0001637
+0000322,Calle,Calle Ricardo Guiraldes,0001369
+0000323,Calle,Calle 24 de Septiembre Oeste,0001620
+0000324,Calle,Avenida Julio Argentino Roca Este,0001413
+0000325,Pasaje,Calle Chaco,0000607
+0000326,Calle,Calle Juan XXIII,0001637
+0000327,Calle,Pasaje Ecuador,0001157
+0000328,Avenida,Pasaje Raul Galan,0001369
+0000329,Calle,Calle Buenos Aires,0000081
+0000330,Calle,Calle Marconi,0000081
+0000331,Calle,Calle Roma,0001620
+0000332,Calle,Ruta Nacional Rn 157,0000081
+0000333,Calle,Calle Rivadavia,0000082
+0000334,Calle,Calle La Rinconada,0000081
+0000335,Calle,Pasaje Pje 3,0000857
+0000336,Calle,Calle Boyaca,0001369
+0000337,Pasaje,Calle Teniente Julio Auvieux,0000113
+0000338,Calle,Avenida Gral San Martin,0000742
+0000339,Pasaje,Calle Balcarce,0000449
+0000340,Calle,Calle Lavalle,0001157
+0000341,Pasaje,Calle W de la Rosa,0001369
+0000342,Calle,Calle Jose E Colombres,0000391
+0000343,Pasaje,Calle Juan Manuel de Rosas,0001369
+0000344,Calle,Calle Dr Guillermo Ludemann,0000899
+0000345,Calle,Calle Gdor Juan Luis Nougues,0000113
+0000346,Ruta Provincial,Calle Bernabe Araoz,0001369
+0000347,Calle,Pasaje Gurruchaga,0001369
+0000348,Calle,Calle 2 de Abril,0001369
+0000349,Calle,Pasaje Pje 15,0001369
+0000350,Calle,Calle 25 de Mayo,0000082
+0000351,Avenida,Pasaje Groussac,0001369
+0000352,Calle,Calle Lisandro Borda,0001637
+0000353,Avenida,Pasaje Colon,0000760
+0000354,Pasaje,Calle Constitucion,0001157
+0000355,Pasaje,Calle Paine,0001637
+0000356,Pasaje,Ruta Provincial Rp 341,0000113
+0000357,Pasaje,Calle 1,0000498
+0000358,Calle,Calle 9,0000760
+0000359,Calle,Ruta Nacional Rn 38,0000911
+0000360,Calle,Calle Campos de las Carreras,0001369
+0000361,Calle,Calle Muñecas Sur,0001413
+0000362,Calle,Avenida Fernando Pedro Rivera,0001615
+0000363,Pasaje,Calle 12 de Octubre,0001637
+0000364,Calle,Avenida Lola Mora,0001615
+0000365,Pasaje,Pasaje Pedro de Valdivia,0001369
+0000366,Calle,Pasaje Pje 88,0001369
+0000367,Pasaje,Pasaje Arq Juan Padros,0001369
+0000368,Pasaje,Pasaje Martin Rodriguez,0001369
+0000369,Calle,Calle Alvarez Condarco,0001413
+0000370,Calle,Calle Falucho Este,0001620
+0000371,Avenida,Calle S/C,0001157
+0000372,Calle,Calle 9 de Julio,0000708
+0000373,Calle,Calle Diaguitas,0001637
+0000374,Calle,Pasaje Jose Ortega y Gasset,0001369
+0000375,Avenida,Calle Monteagudo,0000081
+0000376,Calle,Pasaje Santa Rita,0000082
+0000377,Calle,Calle Ramon Paz Posse,0001455
+0000378,Calle,Pasaje J Azurduy de Padilla,0000760
+0000379,Calle,Pasaje San Nicolas,0001461
+0000380,Pasaje,Calle Jardin de la Republica,0000707
+0000381,Pasaje,Calle Combate de San Lorenzo,0001369
+0000382,Calle,Avenida Dr Nicolas Avellaneda,0001157
+0000383,Calle,Calle Sarmiento,0001620
+0000384,Calle,Calle Marcos Rouges,0001449
+0000385,Calle,Calle 25 de Mayo,0000113
+0000386,Calle,Avenida Mitre,0001369
+0000387,Calle,Calle Gral Alejandro Heredia,0001157
+0000388,Calle,Calle 321 Oeste,0000113
+0000389,Pasaje,Calle Alvarez Condarco,0000760
+0000390,Calle,Calle Bernardino Rivadavia,0001369
+0000391,Pasaje,Pasaje Salguero,0001369
+0000392,Avenida,Pasaje Tiburcio Padilla,0001369
+0000393,Calle,Calle Cbo Miguel Farina,0000899
+0000394,Calle,Calle Italia,0000113
+0000395,Pasaje,Calle Alberdi,0001516
+0000396,Calle,Calle Pres Gral J A Roca,0000225
+0000397,Calle,Calle Mario Bravo,0001369
+0000398,Avenida,Calle Mendoza,0001413
+0000399,Calle,Calle Guatemala,0001369
+0000400,Calle,Pasaje Pje 34,0001369
+0000401,Avenida,Calle Pucara,0000632
+0000402,Pasaje,Pasaje Espronceda,0001369
+0000403,Calle,Avenida San Martin,0001445
+0000404,Pasaje,Calle Costa Rica,0001620
+0000405,Calle,Calle Nagib Baclini,0001369
+0000406,Pasaje,Pasaje Rep de Hungria,0001369
+0000407,Pasaje,Calle Balcarcel,0000857
+0000408,Calle,Diagonal R Prebich,0001369
+0000409,Calle,Calle Peru,0000391
+0000410,Calle,Avenida Alejandro Heredia,0000760
+0000411,Calle,Calle San Martin,0000708
+0000412,Calle,Calle Cangallo,0001369
+0000413,Pasaje,Avenida L N Alem,0000081
+0000414,Pasaje,Pasaje Pje S/N 1,0000391
+0000415,Calle,Calle Leon Rougues,0001445
+0000416,Calle,Pasaje Evaristo Carriego,0001369
+0000417,Calle,Calle Rapelli,0001369
+0000418,Pasaje,Pasaje San Roque del Corro,0001369
+0000419,Pasaje,Pasaje Peñaloza,0001369
+0000420,Pasaje,Calle Formosa,0001637
+0000421,Calle,Calle J P Pastrana,0001455
+0000422,Calle,Calle Alejandro Heredia,0001637
+0000423,Pasaje,Calle 14,0000742
+0000424,Calle,Calle Lamadrid,0001413
+0000425,Calle,Pasaje Bazan de Laguna,0001369
+0000426,Calle,Pasaje Patagonia,0001413
+0000427,Calle,Calle Comb de la Florida,0001369
+0000428,Calle,Ruta Nacional Rn 38,0001620
+0000429,Calle,Calle Uruguay,0001369
+0000430,Pasaje,Calle Laprida,0001413
+0000431,Calle,Pasaje 7 de Octubre,0001369
+0000432,Calle,Pasaje Linares,0000857
+0000433,Calle,Pasaje Surgente,0001615
+0000434,Calle,Calle Pres Bartolome Mitre,0001637
+0000435,Calle,Calle San Lorenzo,0000899
+0000436,Calle,Pasaje Republica,0001369
+0000437,Pasaje,Calle Callao,0001620
+0000438,Calle,Calle Catamarca,0001177
+0000439,Pasaje,Calle 2,0000760
+0000440,Calle,Calle 43,0001369
+0000441,Calle,Calle Garmendia,0001369
+0000442,Calle,Calle 20 de Junio,0000081
+0000443,Calle,Pasaje Teniente Manuel Felix Origone,0001369
+0000444,Pasaje,Calle Libertad,0001620
+0000445,Calle,Calle Heroes Manchala Este,0000707
+0000446,Calle,Calle Bat de Tucuman,0000225
+0000447,Calle,Diagonal Diag 3,0001369
+0000448,Calle,Calle 24,0001615
+0000449,Calle,Diagonal 15 Se,0001369
+0000450,Calle,Calle Gral San Martin,0000911
+0000451,Calle,Calle Gral Guemes Este,0001620
+0000452,Calle,Pasaje Pje 36,0001369
+0000453,Calle,Calle Padilla,0001369
+0000454,Pasaje,Pasaje C Gardel,0001369
+0000455,Calle,Calle Victoria Ocampo,0001177
+0000456,Calle,Calle Lamadrid,0000760
+0000457,Calle,Calle Geronimo de Helguera,0001369
+0000458,Calle,Calle Laprida,0000760
+0000459,Calle,Diagonal S Andre Surorne,0001369
+0000460,Avenida,Pasaje Juan Nuñez del Prado,0001369
+0000461,Calle,Diagonal Ruta 90,0001369
+0000462,Calle,Calle 9 de Julio,0001177
+0000463,Pasaje,Calle Gral San Martin,0001323
+0000464,Calle,Calle 24 de Septiembre,0000391
+0000465,Calle,Calle Chacabuco,0001620
+0000466,Pasaje,Calle Juan Posse,0001369
+0000467,Calle,Calle España,0000760
+0000468,Calle,Calle R Saenz Peña,0001637
+0000469,Calle,Calle Congreso,0001516
+0000470,Calle,Calle Mexico,0001157
+0000471,Pasaje,Pasaje San Juan,0000391
+0000472,Calle,Calle Teniente Berdina,0001445
+0000473,Calle,Calle Quiroga,0001369
+0000474,Calle,Calle Gral San Martin,0001157
+0000475,Pasaje,Calle Dr Filgueira Oviedo,0001637
+0000476,Calle,Calle Gdor Juan Luis Nougues,0001369
+0000477,Calle,Avenida Las Rosas,0000082
+0000478,Avenida,Calle I Baez,0000081
+0000479,Calle,Calle Benjamin Villafañe,0001369
+0000480,Calle,Pasaje Gral O Higgins,0001369
+0000481,Calle,Diagonal Ugarte y Figueroa,0001369
+0000482,Pasaje,Calle Ayacucho,0000707
+0000483,Avenida,Calle 1 Norte Sur,0001101
+0000484,Calle,Pasaje Pje S/N 2,0000787
+0000485,Calle,Calle Pueyrredon,0001413
+0000486,Calle,Calle Tucuman,0001413
+0000487,Avenida,Calle Luis Diaz,0001449
+0000488,Pasaje,Calle Jose Colombres Este,0001413
+0000489,Calle,Pasaje Avellaneda,0000857
+0000490,Calle,Calle Dr Juan Brigido Teran,0001369
+0000491,Calle,Calle Diego de Rojas,0000081
+0000492,Pasaje,Calle Lisandro Borda,0001369
+0000493,Calle,Pasaje Zenon Santillan,0001369
+0000494,Calle,Calle Catamarca,0001516
+0000495,Calle,Calle Miguel Lillo,0001516
+0000496,Pasaje,Avenida Cnel Manuel Suarez,0001369
+0000497,Calle,Calle Juan Crisostomo Mendez,0001157
+0000498,Calle,Calle Sarmiento,0000391
+0000499,Avenida,Calle Gustavo Adolfo Becquer,0001177
+0000500,Calle,Pasaje Patricio Islas,0001369
+0000501,Calle,Avenida Los Saucos,0000632
+0000502,Calle,Calle 4,0001157
+0000503,Calle,Calle Congreso,0001323
+0000504,Calle,Calle 2,0001266
+0000505,Calle,Avenida L N Alem,0001369
+0000506,Calle,Pasaje Papa Leon XIII,0001369
+0000507,Calle,Calle 1 de Mayo,0000449
+0000508,Calle,Calle Belgrano,0001413
+0000509,Calle,Calle Alberti,0000113
+0000510,Calle,Pasaje San Luis,0000391
+0000511,Pasaje,Calle Lavalle,0000391
+0000512,Calle,Calle Manuela Pedraza,0001413
+0000513,Calle,Calle Lamadrid,0001637
+0000514,Calle,Pasaje Cabildo,0000449
+0000515,Calle,Calle Italia,0001369
+0000516,Avenida,Calle Laprida,0001637
+0000517,Calle,Avenida Independencia,0001157
+0000518,Pasaje,Calle Paris,0001620
+0000519,Calle,Calle 1 Este Oeste,0001101
+0000520,Pasaje,Calle Dr Nicolas Avellaneda,0000391
+0000521,Calle,Calle España,0001637
+0000522,Calle,Calle Mariano Macias,0001637
+0000523,Calle,Calle Entre Rios,0000707
+0000524,Calle,Calle 20 de Junio,0001369
+0000525,Calle,Calle Rep de Siria,0001369
+0000526,Calle,Calle Las Heras,0001369
+0000527,Calle,Calle French,0001637
+0000528,Calle,Calle Pres Bernardino Rivadavia,0000742
+0000529,Pasaje,Pasaje Villagra,0001413
+0000530,Calle,Calle Cnel Juan Pringles,0001620
+0000531,Pasaje,Calle 4,0000318
+0000532,Calle,Calle La Rioja,0001177
+0000533,Pasaje,Calle Pio XII,0001369
+0000534,Pasaje,Avenida Silvano Bores,0001369
+0000535,Pasaje,Calle Sgto Juan B Cabral,0001369
+0000536,Calle,Pasaje Olavarria,0001369
+0000537,Pasaje,Calle Muñecas Norte,0001413
+0000538,Pasaje,Pasaje Federico Helguera,0000391
+0000539,Pasaje,Calle H Manchala Oeste,0000707
+0000540,Avenida,Calle Tejerina,0000081
+0000541,Pasaje,Calle Maipu,0001413
+0000542,Calle,Calle Salta,0000742
+0000543,Calle,Calle Misiones,0001620
+0000544,Calle,Calle B Araoz,0000082
+0000545,Pasaje,Calle Emilia Perez de Constant,0000760
+0000546,Calle,Calle 31 de Octubre,0001413
+0000547,Calle,Pasaje Peru,0000225
+0000548,Calle,Calle Gral Guemes,0000760
+0000549,Pasaje,Pasaje Bustamante,0001369
+0000550,Pasaje,Calle 6 Este Oeste,0001101
+0000551,Calle,Pasaje Dr G Martinez Zuviria,0001369
+0000552,Pasaje,Pasaje Pje 43,0001369
+0000553,Pasaje,Pasaje Holmberg,0001369
+0000554,Calle,Calle Miguel Lillo,0001157
+0000555,Calle,Pasaje 25 38 no,0001369
+0000556,Pasaje,Pasaje Granaderos,0001620
+0000557,Calle,Pasaje Vicente Lopez y Planes,0000760
+0000558,Calle,Avenida Provincia de Salta,0001369
+0000559,Avenida,Pasaje Jose Alvarez,0001369
+0000560,Calle,Calle 9 de Julio,0001323
+0000561,Calle,Calle Ayacucho,0000082
+0000562,Avenida,Calle Gral Jose M Paz Este,0001620
+0000563,Calle,Pasaje Guillermina Mereyro,0001615
+0000564,Calle,Calle 4,0001620
+0000565,Calle,Calle 25 de Mayo,0000708
+0000566,Calle,Calle Ayohuma,0001449
+0000567,Pasaje,Pasaje Padilla,0001615
+0000568,Calle,Pasaje 2 de Abril,0000760
+0000569,Calle,Calle Irigoyen,0001413
+0000570,Pasaje,Pasaje Blas Parera,0000857
+0000571,Calle,Pasaje Dr Carlos Cossio,0001369
+0000572,Calle,Calle Fray Mamerto Esquiu,0001369
+0000573,Calle,Calle Maipu,0000760
+0000574,Avenida,Pasaje Sanchez de Thompson,0000760
+0000575,Avenida,Calle Cordoba,0000449
+0000576,Avenida,Calle 68 37,0001369
+0000577,Calle,Avenida Pres Gral J A Roca,0000857
+0000578,Calle,Calle Joaquin del Pino,0001413
+0000579,Calle,Calle 20,0001615
+0000580,Calle,Avenida Santo Cristo,0000449
+0000581,Calle,Calle Araoz de Lamadrid,0001369
+0000582,Calle,Calle Carlos Pellegrini,0001620
+0000583,Calle,Calle S/N 3,0000081
+0000584,Pasaje,Calle Alberdi,0000863
+0000585,Calle,Pasaje Pje 20 Noroeste,0001369
+0000586,Calle,Calle Dr Mariano Moreno,0001615
+0000587,Calle,Calle Saavedra,0000081
+0000588,Pasaje,Pasaje Tierra del Fuego,0001369
+0000589,Calle,Calle Congreso,0001620
+0000590,Calle,Calle Julio Lopez Mañan,0001369
+0000591,Pasaje,Calle 3 E,0000318
+0000592,Avenida,Avenida Dr Juan Bautista Justo,0001369
+0000593,Calle,Avenida Pres Gral J A Roca,0001369
+0000594,Pasaje,Avenida 25 de Mayo,0001516
+0000595,Calle,Calle 37 So,0001369
+0000596,Avenida,Calle Diego de Rojas,0001369
+0000597,Pasaje,Calle Guemes,0000113
+0000598,Calle,Calle Centenario,0001413
+0000599,Avenida,Calle Marques de Aguado Este,0001620
+0000600,Pasaje,Calle San Miguel,0001413
+0000601,Calle,Calle San Miguel de Tucuman,0000899
+0000602,Calle,Pasaje Gral Bascary,0001369
+0000603,Calle,Calle Dr Juan Jose Paso,0000081
+0000604,Calle,Calle Ponce de Leon,0000607
+0000605,Calle,Calle 15,0001615
+0000606,Pasaje,Pasaje Jose Lanieri,0000760
+0000607,Calle,Calle Granaderos,0001369
+0000608,Calle,Calle Blas Cabrera,0000863
+0000609,Calle,Pasaje Maldonado,0001369
+0000610,Calle,Avenida Adolfo de las Vegas,0001369
+0000611,Pasaje,Calle 5,0000760
+0000612,Calle,Pasaje 1,0001455
+0000613,Calle,Calle Estrecho de Magallanes,0000081
+0000614,Calle,Avenida Eva Peron,0000760
+0000615,Calle,Pasaje Jose Hernandez,0000760
+0000616,Calle,Calle Catamarca,0001111
+0000617,Pasaje,Avenida Pte D F Sarmiento,0000742
+0000618,Calle,Pasaje 1 de Mayo,0001369
+0000619,Boulevard,Calle Corrientes,0000899
+0000620,Avenida,Calle Entre Rios,0000082
+0000621,Calle,Calle Catamarca,0001620
+0000622,Pasaje,Calle B Mitre,0000449
+0000623,Calle,Calle Gral Manuel Belgrano,0000911
+0000624,Avenida,Pasaje Amado Nervo,0001369
+0000625,Calle,Diagonal Diag 90,0001369
+0000626,Calle,Calle Ayacucho,0001536
+0000627,Calle,Calle Independencia,0001177
+0000628,Pasaje,Calle Gral Guemes,0001637
+0000629,Calle,Calle Madrid,0001369
+0000630,Calle,Pasaje Dr Jose Manuel Galvez,0001369
+0000631,Calle,Calle Gral Jose M Paz Oeste,0001620
+0000632,Calle,Calle Gral Guemes,0001266
+0000633,Calle,Calle Eva Peron,0000081
+0000634,Calle,Calle B Mitre,0001516
+0000635,Calle,Calle Florentino Ameghino,0001369
+0000636,Calle,Pasaje Jorge Newbery,0000082
+0000637,Calle,Calle San Luis,0001620
+0000638,Calle,Boulevard Gral Manuel Belgrano,0001637
+0000639,Calle,Diagonal Diag 47,0001369
+0000640,Calle,Avenida Rep de Siria,0001369
+0000641,Pasaje,Calle San Martin,0001157
+0000642,Calle,Pasaje San Nicolas,0001369
+0000643,Calle,Calle Santo Rosario,0001445
+0000644,Calle,Avenida Libertador Sur,0000857
+0000645,Calle,Calle 9 de Julio,0001620
+0000646,Calle,Calle Beruti,0000760
+0000647,Avenida,Calle 13,0001615
+0000648,Calle,Pasaje 2 de Abril,0001637
+0000649,Calle,Calle Callao,0001449
+0000650,Calle,Calle Reconquista,0001157
+0000651,Calle,Calle F Heredia,0001369
+0000652,Calle,Calle Cristo Rey,0000391
+0000653,Pasaje,Calle Juan Puggioni,0001615
+0000654,Boulevard,Diagonal Landa,0001369
+0000655,Calle,Calle Lucindo Villafañe,0001615
+0000656,Calle,Calle Maipu,0001637
+0000657,Pasaje,Calle Tejerina,0001369
+0000658,Calle,Calle Maximo Victoria,0001177
+0000659,Calle,Calle Comunal 7,0000498
+0000660,Calle,Calle Ricardo Rojas,0000863
+0000661,Calle,Calle Las Palomitas,0000935
+0000662,Calle,Pasaje Villalonga,0001369
+0000663,Calle,Calle Jujuy,0000707
+0000664,Avenida,Calle Diego de Villarroel,0001445
+0000665,Calle,Calle Falucho Oeste,0001620
+0000666,Calle,Calle Nicolas Laguna,0001157
+0000667,Calle,Calle Ezequiel Bravo,0001413
+0000668,Calle,Avenida Del Libertador,0000707
+0000669,Pasaje,Calle Domingo Jose Garcia,0001369
+0000670,Calle,Calle Cnel Larrabure,0001445
+0000671,Calle,Calle Estados Unidos,0000760
+0000672,Calle,Calle 24 de Septiembre,0001413
+0000673,Calle,Calle Chacabuco,0001449
+0000674,Calle,Pasaje Siria,0001615
+0000675,Calle,Boulevard Norte,0001111
+0000676,Calle,Calle Belgrano,0000081
+0000677,Calle,Calle Buenos Aires,0000742
+0000678,Calle,Pasaje Guido Spano,0001369
+0000679,Pasaje,Calle S Bores,0000081
+0000680,Calle,Calle M Garcia Fernandez,0000081
+0000681,Calle,Calle Castañares,0001369
+0000682,Calle,Calle Provincia de Mendoza,0001369
+0000683,Pasaje,Calle Bdier Facundo Quiroga,0001445
+0000684,Calle,Calle Dr Alfredo Palacios,0001637
+0000685,Calle,Avenida Rivadavia,0000760
+0000686,Calle,Calle J Azurduy de Padilla,0001369
+0000687,Ruta Provincial,Calle Juan Domingo Peron,0000082
+0000688,Calle,Calle Cabildo,0001637
+0000689,Calle,Calle Pres Gral J A Roca,0000374
+0000690,Calle,Pasaje Santo Domingo,0001157
+0000691,Calle,Calle San Isidro Labrador,0001369
+0000692,Pasaje,Diagonal Diag 1,0001369
+0000693,Calle,Calle 11,0001461
+0000694,Calle,Calle Maria Eva Duarte de Peron,0001413
+0000695,Pasaje,Diagonal Diag 9,0001369
+0000696,Calle,Calle 24 de Septiembre,0000760
+0000697,Calle,Calle Dr A Alsina,0001620
+0000698,Avenida,Calle Gral J J de Urquiza,0000899
+0000699,Calle,Calle S/N 1,0001455
+0000700,Calle,Calle Colonia 4,0000935
+0000701,Calle,Calle San Martin,0001620
+0000702,Calle,Pasaje Jose Marmol,0001369
+0000703,Calle,Calle Dr Juan Jose Paso,0001369
+0000704,Calle,Calle Cordoba,0001111
+0000705,Calle,Calle 49,0001369
+0000706,Calle,Pasaje 27 no,0001369
+0000707,Calle,Calle S/N 2,0000707
+0000708,Pasaje,Calle Reconquista,0001620
+0000709,Calle,Calle Alberdi,0001449
+0000710,Calle,Ruta Provincial Rp 322,0000411
+0000711,Calle,Calle Sarmiento,0001413
+0000712,Calle,Calle Beruti,0001637
+0000713,Calle,Calle 3,0001615
+0000714,Calle,Calle Enriqueta de Orell,0000449
+0000715,Calle,Pasaje Sorol,0001369
+0000716,Pasaje,Calle Alte G Brown,0000113
+0000717,Calle,Calle Santiago del Estero,0001111
+0000718,Calle,Pasaje Alfredo Coviello,0001369
+0000719,Pasaje,Calle 1,0001615
+0000720,Calle,Calle La Rioja,0001620
+0000721,Calle,Avenida Bernabe Araoz,0001369
+0000722,Avenida,Calle Los Podesta,0001177
+0000723,Calle,Calle Independencia,0001323
+0000724,Calle,Calle 7,0001461
+0000725,Avenida,Calle Dr Juan Bautista Justo,0000760
+0000726,Pasaje,Calle Sarmiento,0000760
+0000727,Calle,Diagonal Diag 6,0001369
+0000728,Calle,Calle Paris,0001449
+0000729,Calle,Calle Congreso de Tucuman,0001157
+0000730,Avenida,Calle S/C,0001461
+0000731,Calle,Calle Venezuela,0001637
+0000732,Calle,Pasaje Juan Heller,0001369
+0000733,Calle,Calle B Mitre,0001111
+0000734,Avenida,Calle Dr Cosme Argerich,0001620
+0000735,Pasaje,Calle Constitucion,0001413
+0000736,Calle,Calle Valerio Laguna,0001369
+0000737,Calle,Calle Pueyrredon,0001369
+0000738,Pasaje,Calle Federico Brandsen,0001369
+0000739,Calle,Calle 22,0001615
+0000740,Calle,Pasaje Marconi,0001369
+0000741,Pasaje,Calle Urquiza,0000113
+0000742,Calle,Calle Asuncion,0001369
+0000743,Calle,Pasaje Gregorio Jesus Diaz,0000707
+0000744,Calle,Calle Lidoro J Quinteros,0001157
+0000745,Calle,Calle Finca el Cuadro,0000935
+0000746,Pasaje,Avenida Dr Juan Brigido Teran,0001369
+0000747,Calle,Calle 8,0000787
+0000748,Calle,Calle Lavalle,0000760
+0000749,Calle,Avenida Salta,0001369
+0000750,Calle,Pasaje Vazquez Cohello,0001615
+0000751,Pasaje,Calle S/C,0001413
+0000752,Calle,Calle S/N 1,0000787
+0000753,Calle,Calle La Rioja Oeste,0001413
+0000754,Pasaje,Avenida Av 5,0000742
+0000755,Calle,Calle S/N 4,0000081
+0000756,Calle,Calle A Trinidad,0001266
+0000757,Calle,Calle 24 de Septiembre,0001637
+0000758,Calle,Avenida Republica del Libano,0001369
+0000759,Calle,Pasaje Diaz Velez,0001369
+0000760,Pasaje,Calle 24 de Septiembre,0001266
+0000761,Calle,Calle 6,0001620
+0000762,Pasaje,Pasaje French,0000760
+0000763,Pasaje,Calle Castelli,0000760
+0000764,Calle,Calle 7 Ne,0001369
+0000765,Calle,Pasaje Araoz de Lamadrid,0001157
+0000766,Calle,Diagonal Diag 64,0001369
+0000767,Calle,Calle Dr V de la Plaza,0001369
+0000768,Calle,Calle Jujuy,0000113
+0000769,Calle,Calle 9 de Julio,0000391
+0000770,Calle,Calle Gral Gay,0001445
+0000771,Calle,Pasaje Halley,0001369
+0000772,Pasaje,Calle Callao,0001413
+0000773,Pasaje,Calle Perito F P Moreno,0000707
+0000774,Calle,Calle Corrientes,0000742
+0000775,Pasaje,Calle Libertador,0000760
+0000776,Calle,Pasaje Jorge Luis Borges,0001369
+0000777,Calle,Calle Neuquen,0001111
+0000778,Pasaje,Calle Ibatin,0001445
+0000779,Pasaje,Pasaje Roberto Berho,0001369
+0000780,Calle,Calle Fortunata Garcia,0000449
+0000781,Calle,Calle Francisco de Aguirre,0000760
+0000782,Calle,Calle Santiago,0001177
+0000783,Calle,Calle Dr Saavedra Lamas,0000935
+0000784,Calle,Calle Dr Aniceto Latorre,0000391
+0000785,Calle,Pasaje Jose Padilla,0001369
+0000786,Avenida,Calle Independencia,0001111
+0000787,Calle,Pasaje Junin,0000760
+0000788,Calle,Pasaje Pje 5,0000607
+0000789,Calle,Calle Obispo Jose Eusebio Colombres,0000374
+0000790,Calle,Calle Patria,0001637
+0000791,Calle,Calle Felipe Varela,0001637
+0000792,Calle,Calle Chacabuco,0001413
+0000793,Pasaje,Calle Blas Parera,0001369
+0000794,Calle,Calle Independencia,0001620
+0000795,Pasaje,Calle N Estefano,0001369
+0000796,Calle,Calle Comunal 5,0000498
+0000797,Pasaje,Pasaje Armando Baunaly,0001369
+0000798,Calle,Pasaje Alberto Williams Bliss,0001369
+0000799,Calle,Calle Thomas Edison,0001369
+0000800,Pasaje,Pasaje Hilario Ascasubi,0001369
+0000801,Pasaje,Calle 9,0001157
+0000802,Calle,Calle Jose Colombres Oeste,0001413
+0000803,Avenida,Pasaje Estanislao Lopez,0001369
+0000804,Calle,Pasaje Juan Pablo II,0000760
+0000805,Calle,Calle S/N 6,0001455
+0000806,Calle,Calle Eva Peron,0000899
+0000807,Pasaje,Calle Nicaragua,0001157
+0000808,Pasaje,Calle Mendoza,0000449
+0000809,Calle,Calle Antartida Argentina,0001620
+0000810,Calle,Calle Diego de Villarroel,0000707
+0000811,Calle,Avenida Araoz,0001369
+0000812,Calle,Calle Belisario Roldan,0001615
+0000813,Calle,Calle San Martin,0000391
+0000814,Pasaje,Calle Eduardo Bulnes,0001369
+0000815,Calle,Calle Belisario Lopez,0001369
+0000816,Calle,Calle Alberdi,0000707
+0000817,Pasaje,Calle 6,0000787
+0000818,Calle,Pasaje Pueyrredon,0001620
+0000819,Pasaje,Calle Gorriti,0000708
+0000820,Pasaje,Pasaje 35 Sureste,0001369
+0000821,Calle,Calle Constitucion,0001637
+0000822,Calle,Pasaje San Roque,0000935
+0000823,Calle,Calle Cnel Larrabure,0001413
+0000824,Calle,Calle Alfonsina Storni,0001177
+0000825,Calle,Pasaje Asuncion Cervantes,0001369
+0000826,Calle,Pasaje Japon,0001369
+0000827,Pasaje,Calle Anselmo Granillo,0001369
+0000828,Calle,Avenida Pres Gral J A Roca,0000742
+0000829,Calle,Calle San Miguel,0001369
+0000830,Pasaje,Calle S/C,0001637
+0000831,Calle,Calle Zavaleta,0001369
+0000832,Calle,Pasaje Pje 57,0001369
+0000833,Calle,Pasaje Pje 16,0001369
+0000834,Calle,Calle Padre Roque Correa,0001369
+0000835,Pasaje,Calle Jose Maria Tetu,0001413
+0000836,Calle,Calle Laprida,0000449
+0000837,Pasaje,Calle Riobamba,0000082
+0000838,Calle,Calle Alte G Brown,0001369
+0000839,Calle,Pasaje San Martin,0001620
+0000840,Calle,Calle Dr Juan Bautista Justo,0000081
+0000841,Calle,Calle Gauna,0001369
+0000842,Calle,Pasaje Pje 80 So,0001369
+0000843,Pasaje,Calle Fray Sta Maria de Oro,0000935
+0000844,Calle,Pasaje Centenario,0001157
+0000845,Avenida,Pasaje Hernandarias,0001369
+0000846,Calle,Calle Curie,0001461
+0000847,Calle,Calle Emidio Posse,0000113
+0000848,Calle,Calle Bat de Tucuman,0000707
+0000849,Avenida,Calle Alfredo Rosales,0001615
+0000850,Pasaje,Calle Escalada San Martin s,0001620
+0000851,Calle,Calle Formosa,0001111
+0000852,Calle,Pasaje Pje 2,0001413
+0000853,Calle,Calle Cayetano Nazca,0000113
+0000854,Calle,Calle Larrea,0001369
+0000855,Calle,Pasaje Lautaro,0001369
+0000856,Calle,Calle Domingo French,0001620
+0000857,Calle,Calle Pte H Yrigoyen,0000082
+0000858,Calle,Calle Antonio Beruti,0001369
+0000859,Pasaje,Calle Ramirez de Velazco,0000391
+0000860,Calle,Pasaje Reconquista,0001369
+0000861,Calle,Calle Jose Manuel Estrada,0000081
+0000862,Calle,Pasaje Congreso de Tucuman,0000225
+0000863,Calle,Calle C Rodriguez,0000081
+0000864,Calle,Calle Alberto Farias,0001369
+0000865,Calle,Calle Dr Eduardo Wilde,0001369
+0000866,Avenida,Calle 2,0001323
+0000867,Pasaje,Calle Reconquista Este,0001413
+0000868,Calle,Pasaje Wurschmidt,0001369
+0000869,Calle,Calle 3,0000935
+0000870,Calle,Avenida Del Sur,0001111
+0000871,Pasaje,Calle San Martin,0001449
+0000872,Pasaje,Calle Ceballos,0001413
+0000873,Calle,Calle 1 Este,0000318
+0000874,Calle,Avenida Dalma Diagonal,0001369
+0000875,Calle,Pasaje Divino Pizarro,0001369
+0000876,Pasaje,Calle 16,0001461
+0000877,Pasaje,Calle Dr M de Avellaneda,0000935
+0000878,Pasaje,Calle 2,0001157
+0000879,Calle,Calle 4,0001413
+0000880,Calle,Calle Ing Civit,0001413
+0000881,Calle,Calle S/C,0000081
+0000882,Avenida,Calle Jose Rondeau,0001369
+0000883,Calle,Calle Lola Mora,0000857
+0000884,Pasaje,Pasaje La Niña,0001620
+0000885,Calle,Calle Alberdi,0000082
+0000886,Pasaje,Calle Moreno,0001177
+0000887,Calle,Calle Ara Gral Belgrano,0001615
+0000888,Calle,Calle Vergues,0001449
+0000889,Pasaje,Diagonal Diag 37,0001369
+0000890,Pasaje,Calle Gral Juan M de Pueyrredon,0001620
+0000891,Calle,Calle Joaquin V Gonzalez,0001369
+0000892,Calle,Avenida De las Camelias,0000707
+0000893,Calle,Pasaje Manuel Quintana,0001369
+0000894,Calle,Calle Ing Juan C Enrico,0000760
+0000895,Calle,Calle Larrea Oeste,0001620
+0000896,Calle,Calle Pte H Yrigoyen,0000113
+0000897,Pasaje,Pasaje Albert Einstein,0001369
+0000898,Calle,Pasaje Pje 4,0001413
+0000899,Calle,Calle Publica 1,0000707
+0000900,Calle,Calle Velez Sarsfield,0000113
+0000901,Calle,Calle Lola Mora,0001369
+0000902,Avenida,Pasaje Oncativo,0001369
+0000903,Calle,Pasaje Julio Zuviria,0001369
+0000904,Calle,Pasaje Provincia de Rio Negro,0001369
+0000905,Calle,Calle Congreso,0001413
+0000906,Calle,Calle Cnel Julian Murga,0001369
+0000907,Calle,Calle Pablo Rojas Paz,0001369
+0000908,Calle,Avenida Independencia,0001413
+0000909,Calle,Calle 4,0000760
+0000910,Calle,Pasaje Pje 25,0001369
+0000911,Pasaje,Calle Ernesto Padilla,0001369
+0000912,Calle,Pasaje Mariano Boedo,0001369
+0000913,Calle,Calle Cnel Brandsen,0001413
+0000914,Pasaje,Calle Mendoza,0001111
+0000915,Calle,Pasaje Henry Dunant,0001369
+0000916,Avenida,Pasaje 18 Noroeste,0001369
+0000917,Calle,Calle Chile,0001369
+0000918,Pasaje,Calle Tte Benjamin Matienzo,0001369
+0000919,Calle,Calle Islas Malvinas,0001323
+0000920,Calle,Calle 17,0001615
+0000921,Calle,Calle Ibatin,0001461
+0000922,Calle,Calle Justo J de Urquiza Oeste,0001620
+0000923,Calle,Pasaje Andres Chazarreta,0001369
+0000924,Pasaje,Calle Bdier Facundo Quiroga,0001637
+0000925,Calle,Calle Alberdi,0000113
+0000926,Calle,Calle Belgrano,0000607
+0000927,Pasaje,Calle Paso de los Andes,0001369
+0000928,Calle,Avenida De los Proc Soldati,0001369
+0000929,Pasaje,Calle Congreso,0000760
+0000930,Calle,Calle Juan Domingo Peron,0000899
+0000931,Pasaje,Calle 1Er Centenario,0001615
+0000932,Calle,Calle Dr Mariano Moreno,0001620
+0000933,Pasaje,Calle Miguel Lillo,0000707
+0000934,Calle,Calle 11,0001369
+0000935,Pasaje,Calle Gral Jose G Artigas,0001615
+0000936,Calle,Calle Colombres,0001615
+0000937,Pasaje,Pasaje Ing Flavio Virla,0001157
+0000938,Calle,Calle Catamarca,0001413
+0000939,Calle,Calle Padre Garicio,0000449
+0000940,Calle,Pasaje 26 de Julio,0000760
+0000941,Calle,Calle Pbto Augusto Antonio Diaz,0000607
+0000942,Calle,Avenida De las Industrias,0000760
+0000943,Calle,Calle San Ignacio,0001177
+0000944,Calle,Pasaje Monteagudo,0000391
+0000945,Calle,Calle Gdor del Campo,0000391
+0000946,Calle,Diagonal Diag 5,0001369
+0000947,Pasaje,Calle 1 de Mayo,0001461
+0000948,Calle,Calle 12 de Octubre,0001445
+0000949,Calle,Calle Gral Guemes,0001516
+0000950,Calle,Calle Alberdi,0001536
+0000951,Calle,Pasaje Tte Benjamin Matienzo,0000113
+0000952,Pasaje,Calle Jose E Colombres,0001516
+0000953,Avenida,Calle Rivadavia,0000391
+0000954,Calle,Pasaje Piedrabuena,0001369
+0000955,Calle,Calle Dr Ricardo Balbin,0000760
+0000956,Calle,Pasaje Pje 6,0000607
+0000957,Calle,Calle Pellegrini,0000857
+0000958,Calle,Camino En Construccion,0001266
+0000959,Pasaje,Pasaje Cap Juanes de Artaza,0001369
+0000960,Pasaje,Calle 9 de Julio,0001413
+0000961,Calle,Pasaje Juan Maria Gutierrez,0001369
+0000962,Pasaje,Calle Cochabamba,0001413
+0000963,Calle,Pasaje Abregu,0001620
+0000964,Calle,Calle Jose Manuel Estrada,0001369
+0000965,Avenida,Pasaje San Jose,0001637
+0000966,Calle,Calle Crisostomo Alvarez,0000391
+0000967,Calle,Calle Isabel la Catolica,0001620
+0000968,Calle,Calle 25 de Mayo,0000391
+0000969,Pasaje,Calle Juan Maria Gutierrez,0001637
+0000970,Calle,Calle Misiones,0001637
+0000971,Calle,Calle 7,0000857
+0000972,Pasaje,Calle Diego de Villarroel,0000081
+0000973,Pasaje,Calle Constitucion,0001369
+0000974,Calle,Calle Costa Rica,0001369
+0000975,Calle,Pasaje Montevideo,0001369
+0000976,Pasaje,Calle Benjamin Lavaysse,0001369
+0000977,Calle,Calle 9 de Julio,0000760
+0000978,Calle,Calle S/C,0001369
+0000979,Calle,Calle Benigno Vallejo,0001369
+0000980,Calle,Pasaje Pje S/N 7,0000787
+0000981,Calle,Avenida Dr Manuel Belgrano,0001516
+0000982,Calle,Calle Prof R Marino,0001413
+0000983,Avenida,Calle Sold Ismael Maldonado,0001445
+0000984,Avenida,Calle Jose E Colombres,0001323
+0000985,Calle,Calle Islas Malvinas,0001620
+0000986,Calle,Calle 1,0001323
+0000987,Avenida,Pasaje Pje 62,0001369
+0000988,Pasaje,Pasaje Davalos,0001369
+0000989,Calle,Calle Congreso,0001637
+0000990,Calle,Pasaje Eduardo Aguero,0000935
+0000991,Avenida,Calle Los Nisperos,0000707
+0000992,Pasaje,Calle S/N 3,0001455
+0000993,Pasaje,Avenida Antonio Lafuente,0000082
+0000994,Calle,Calle Manuel Estoquin,0001157
+0000995,Calle,Calle German Pani,0001615
+0000996,Calle,Calle Cristobal Colon,0001620
+0000997,Avenida,Pasaje Cerrito,0001369
+0000998,Calle,Calle Bernardino Nieva,0001461
+0000999,Calle,Calle 1,0001157
+0001000,Calle,Pasaje Roberto J Payro,0001369
+0001001,Calle,Pasaje Pacifico Diaz,0001369
+0001002,Calle,Calle San Martin,0001413
+0001003,Pasaje,Calle Tucuman,0001111
+0001004,Calle,Pasaje Cesar Cramer,0001369
+0001005,Pasaje,Calle Perito F P Moreno,0001369
+0001006,Calle,Calle 17 de Octubre,0000082
+0001007,Calle,Calle Domingo F Sarmiento,0000899
+0001008,Avenida,Calle Cmte Franco,0000081
+0001009,Pasaje,Calle Colombres,0000708
+0001010,Calle,Calle Lisandro de la Torre,0001413
+0001011,Pasaje,Avenida El Tajamar,0000632
+0001012,Calle,Avenida Jujuy,0001369
+0001013,Calle,Calle Salta,0000113
+0001014,Ruta Provincial,Calle Rio de la Plata,0000391
+0001015,Calle,Avenida Carlos Pellegrini,0001369
+0001016,Pasaje,Pasaje Santiago del Estero,0000391
+0001017,Calle,Calle Ildefonso Muñecas,0001369
+0001018,Calle,Calle Pbto Padilla,0001485
+0001019,Calle,Avenida Domingo F Sarmiento,0001637
+0001020,Calle,Pasaje Javier Lopez,0000391
+0001021,Calle,Pasaje Pje 8,0001369
+0001022,Calle,Calle Catamarca,0001637
+0001023,Calle,Calle 3,0000318
+0001024,Calle,Calle Chacabuco,0001369
+0001025,Pasaje,Avenida Del Oeste,0001111
+0001026,Pasaje,Diagonal 45 A,0001369
+0001027,Calle,Calle San Martin,0000760
+0001028,Calle,Calle Pte M T de Alvear,0001637
+0001029,Pasaje,Calle Domingo Retondo,0001620
+0001030,Calle,Calle 1,0000318
+0001031,Calle,Calle Gral Manuel N Savio,0001369
+0001032,Calle,Pasaje Mendoza,0000760
+0001033,Calle,Calle Lucio Brandan,0000707
+0001034,Calle,Pasaje Fidel Lopez,0001369
+0001035,Calle,Calle Fernando Riera,0000760
+0001036,Pasaje,Calle Panama,0001157
+0001037,Calle,Avenida Libertador Norte,0000857
+0001038,Pasaje,Pasaje Pje 33,0001369
+0001039,Calle,Calle 9 de Julio,0001637
+0001040,Calle,Pasaje Independencia,0001369
+0001041,Calle,Calle 9 de Julio,0001266
+0001042,Pasaje,Calle Aconquija,0000449
+0001043,Pasaje,Ruta Provincial Rp 334,0001177
+0001044,Calle,Calle Gral Juan Lavalle,0001323
+0001045,Pasaje,Pasaje Jose Superi,0001369
+0001046,Pasaje,Calle Provincia de Corrientes,0001369
+0001047,Avenida,Calle T Combes,0001369
+0001048,Pasaje,Calle 25 de Mayo,0001485
+0001049,Calle,Calle 3,0001620
+0001050,Pasaje,Calle S/N 3,0000787
+0001051,Pasaje,Calle San Juan,0000935
+0001052,Calle,Calle Andres Chazarreta,0001413
+0001053,Pasaje,Calle Anselmo Rojo,0001369
+0001054,Calle,Pasaje El Transito,0001157
+0001055,Pasaje,Pasaje 20 de Junio,0001413
+0001056,Calle,Calle L N Alem,0000082
+0001057,Pasaje,Calle Tomas Pintos,0001637
+0001058,Pasaje,Pasaje Santiago de Liniers,0001369
+0001059,Calle,Calle 1,0001620
+0001060,Calle,Calle Alberdi,0001369
+0001061,Calle,Calle Santiago del Estero,0000760
+0001062,Calle,Calle N Herrera,0001369
+0001063,Calle,Calle Gral Juan Lavalle,0001157
+0001064,Avenida,Calle Thames,0001413
+0001065,Calle,Camino A la Esperanza,0000082
+0001066,Calle,Pasaje Polonia,0001369
+0001067,Calle,Calle 24 de Septiembre,0000607
+0001068,Calle,Pasaje Falucho,0001615
+0001069,Calle,Calle Saenz Peña,0000899
+0001070,Calle,Diagonal Norte,0001369
+0001071,Avenida,Calle Benjamin Matienzo,0000082
+0001072,Calle,Calle Melian de Leguizamo,0001369
+0001073,Calle,Pasaje Libertad,0000225
+0001074,Pasaje,Pasaje Diego de Rojas,0001157
+0001075,Calle,Calle Peru,0001157
+0001076,Pasaje,Pasaje Pje 12 15 Se,0001369
+0001077,Calle,Pasaje Prof del Moral,0001413
+0001078,Calle,Avenida Gral San Martin,0000935
+0001079,Calle,Pasaje Juan Hipolito Vieytes,0001369
+0001080,Calle,Calle Ramon Sema,0001615
+0001081,Calle,Pasaje Diaz Velez Castellanos,0001369
+0001082,Calle,Pasaje Gdor C Gutierrez,0001369
+0001083,Calle,Calle Colon,0001177
+0001084,Pasaje,Pasaje 27 de Febrero,0001369
+0001085,Calle,Calle Gral Paz,0001637
+0001086,Calle,Pasaje 14 Sureste,0001369
+0001087,Pasaje,Calle Pres Gral J A Roca,0000708
+0001088,Calle,Pasaje Tagle,0001369
+0001089,Pasaje,Pasaje Alvarez Condarco,0000113
+0001090,Calle,Calle Bernardino Rivadavia,0000113
+0001091,Avenida,Calle Lucas A Cordoba,0001369
+0001092,Calle,Calle San Martin,0001637
+0001093,Pasaje,Calle Finca San Luis,0000935
+0001094,Avenida,Calle 6,0000760
+0001095,Calle,Avenida Sarmiento,0001620
+0001096,Calle,Calle Estados Unidos,0001157
+0001097,Calle,Calle Venezuela,0001157
+0001098,Pasaje,Calle Sarmiento,0000449
+0001099,Ruta Provincial,Calle Hernandez,0000374
+0001100,Calle,Calle Francisco Prats,0001615
+0001101,Calle,Calle Cuba,0001369
+0001102,Calle,Avenida Roca,0000707
+0001103,Calle,Calle Lope de Vega,0001369
+0001104,Pasaje,Calle 3,0000787
+0001105,Calle,Pasaje Pje 53,0001369
+0001106,Calle,Calle Hernando de Magallanes,0001369
+0001107,Pasaje,Pasaje Cnel Jose Segundo Roca,0001369
+0001108,Calle,Calle Honduras,0001369
+0001109,Calle,Calle Francisco Cano,0000760
+0001110,Avenida,Calle Hermenegildo Rodriguez,0001157
+0001111,Pasaje,Calle Hileret,0000899
+0001112,Pasaje,Calle Dardo Molina,0001369
+0001113,Calle,Calle Libertad,0001177
+0001114,Calle,Calle Eva Duarte,0000082
+0001115,Calle,Pasaje Pje 12,0001369
+0001116,Calle,Calle Cordoba del Tucuman,0001461
+0001117,Calle,Calle Gral Manuel Belgrano,0000113
+0001118,Calle,Pasaje Maipu,0001157
+0001119,Calle,Calle Ricardo Rojas,0001369
+0001120,Calle,Pasaje Rep del Brasil,0001369
+0001121,Pasaje,Calle Corrientes,0000707
+0001122,Pasaje,Avenida De las Americas,0001369
+0001123,Ruta Provincial,Calle Pablo II,0001369
+0001124,Pasaje,Pasaje Inca Garcilazo,0000760
+0001125,Calle,Avenida Gral San Martin Norte,0001177
+0001126,Calle,Calle Caseros Este,0001413
+0001127,Calle,Calle Peru,0001620
+0001128,Calle,Calle Independencia,0000760
+0001129,Pasaje,Pasaje San Juan,0001157
+0001130,Pasaje,Ruta Provincial Rp 380,0001485
+0001131,Calle,Calle Jose Ignacio Rucci,0000760
+0001132,Calle,Calle 24 de Septiembre Este,0001620
+0001133,Calle,Calle Congreso,0001369
+0001134,Calle,Calle Gral Manuel Belgrano,0001536
+0001135,Calle,Pasaje Entre Rios,0001620
+0001136,Calle,Calle Dr Jose Ingenieros,0000760
+0001137,Calle,Calle Antartida Argentina,0000760
+0001138,Avenida,Pasaje Don Bosco,0001369
+0001139,Calle,Calle Groenlandia,0001157
+0001140,Pasaje,Calle Ejercito del Norte,0000707
+0001141,Pasaje,Avenida Savio,0001620
+0001142,Calle,Pasaje Martin Fierro,0000707
+0001143,Calle,Pasaje Jose Humberto Delgado,0000113
+0001144,Calle,Calle Jeronimo de Cabrera,0001369
+0001145,Pasaje,Calle 9,0001461
+0001146,Pasaje,Calle S/N 4,0001455
+0001147,Calle,Calle B Mitre,0000113
+0001148,Calle,Calle Tomas Venecia,0000376
+0001149,Calle,Calle Jose Warnes,0001369
+0001150,Calle,Calle 10 de Junio,0001369
+0001151,Calle,Calle Jose Frias Silva,0001369
+0001152,Avenida,Pasaje Ricardo A Paz,0001369
+0001153,Calle,Diagonal Diag 72,0001369
+0001154,Pasaje,Pasaje Ortiz,0001369
+0001155,Calle,Ruta Provincial Rp 327,0000863
+0001156,Pasaje,Pasaje Pje 3,0000376
+0001157,Calle,Calle Pbto M Alberti,0000760
+0001158,Calle,Calle 11,0000742
+0001159,Calle,Calle Tucuman,0001445
+0001160,Calle,Calle Mercedes de San Martin,0001369
+0001161,Calle,Pasaje Pje 19,0001369
+0001162,Pasaje,Pasaje Rio Negro,0000760
+0001163,Pasaje,Calle Roque Aragon,0001369
+0001164,Calle,Calle S/C,0000225
+0001165,Calle,Calle Dr Arturo Illia,0000760
+0001166,Calle,Calle 24 de Junio,0001157
+0001167,Calle,Calle Gral Cornelio Saavedra,0000760
+0001168,Pasaje,Calle Miguel Lillo,0001369
+0001169,Calle,Calle Federacion,0001369
+0001170,Calle,Avenida Tucuman,0001516
+0001171,Pasaje,Calle 8,0001615
+0001172,Calle,Pasaje Caceres,0001620
+0001173,Calle,Pasaje Pje 17,0001369
+0001174,Calle,Calle 25 de Mayo,0000760
+0001175,Calle,Calle Dr Nicolas Avellaneda,0001323
+0001176,Calle,Calle Cap Antonio M Taboada,0000391
+0001177,Calle,Pasaje Dr Jose Ignacio Araoz,0001369
+0001178,Calle,Pasaje Cristobal Colon,0001323
+0001179,Pasaje,Calle Juan XXIII,0000113
+0001180,Calle,Calle S/N 1,0000376
+0001181,Calle,Calle 68,0001369
+0001182,Calle,Calle Ramon Simon,0001620
+0001183,Calle,Calle Grunauer,0001449
+0001184,Calle,Avenida San Martin,0000787
+0001185,Calle,Calle Pres Gral J A Roca,0001177
+0001186,Pasaje,Pasaje Manuel Lopez Pondal,0001369
+0001187,Calle,Calle Bruselas,0001449
+0001188,Avenida,Pasaje Pje 8,0000607
+0001189,Calle,Diagonal Astrada,0001369
+0001190,Pasaje,Calle 47,0001369
+0001191,Calle,Calle 25 de Mayo de 1810,0001369
+0001192,Calle,Calle Domingo Colombres,0001449
+0001193,Calle,Calle Independencia,0001637
+0001194,Calle,Calle Nicaragua,0000760
+0001195,Calle,Pasaje Calchaquies,0001369
+0001196,Calle,Pasaje Thames,0001369
+0001197,Calle,Diagonal Diag 39,0001369
+0001198,Pasaje,Calle Neuquen,0000113
+0001199,Pasaje,Calle Lidoro J Quinteros,0001637
+0001200,Calle,Calle B Mitre,0000081
+0001201,Calle,Calle Bolivar,0000082
+0001202,Calle,Pasaje Sarogaroli,0000760
+0001203,Calle,Calle Amadeo Jacques,0001369
+0001204,Calle,Calle Gral Guemes,0001445
+0001205,Calle,Pasaje Mons Padilla y Barceña,0001369
+0001206,Calle,Calle Thames,0000081
+0001207,Calle,Calle Libertador,0001157
+0001208,Pasaje,Calle 20 de Junio,0000082
+0001209,Calle,Calle Las Heras,0000082
+0001210,Pasaje,Calle Jose Padilla,0000113
+0001211,Calle,Calle Gral M de Azcuenaga,0001157
+0001212,Calle,Calle Antartida Argentina,0001637
+0001213,Calle,Pasaje Dr Bernardo Houssay,0001369
+0001214,Calle,Calle 7,0000742
+0001215,Calle,Calle G Leston de Guzman,0001157
+0001216,Pasaje,Calle Benjamin Matienzo,0001615
+0001217,Calle,Calle Juan Heller,0001615
+0001218,Calle,Calle San Juan,0001111
+0001219,Calle,Calle Sgto Juan B Cabral,0000082
+0001220,Pasaje,Pasaje Chile,0001157
+0001221,Calle,Calle M Ulloa,0000760
+0001222,Calle,Avenida Dr Manuel Belgrano,0000391
+0001223,Calle,Calle S/C,0000742
+0001224,Pasaje,Pasaje Santos Dumont,0001369
+0001225,Pasaje,Calle Bat de Junin,0001369
+0001226,Calle,Calle Matienzo,0000081
+0001227,Pasaje,Calle Entre Rios,0000391
+0001228,Pasaje,Calle Juan XXIII,0000081
+0001229,Pasaje,Diagonal Jose Silva,0001369
+0001230,Calle,Calle Teniente Berdina,0000567
+0001231,Pasaje,Calle Juan Sanchez,0000449
+0001232,Calle,Calle C Barros,0000081
+0001233,Calle,Pasaje Bascary,0001615
+0001234,Pasaje,Pasaje Dominguez,0001369
+0001235,Calle,Calle Marañon,0001637
+0001236,Calle,Calle Rivadavia,0001266
+0001237,Calle,Calle Atahualpa Yupanqui,0001413
+0001238,Calle,Calle Mendoza,0000707
+0001239,Calle,Calle Dr Arturo Illia,0001637
+0001240,Calle,Calle Yamandu Rodriguez,0001369
+0001241,Pasaje,Calle 3 N,0000318
+0001242,Pasaje,Calle 25 de Mayo,0001637
+0001243,Calle,Pasaje Moya,0001620
+0001244,Pasaje,Calle 25 de Mayo,0001266
+0001245,Calle,Pasaje Pje 1,0000607
+0001246,Calle,Calle Provincia de Buenos Aires,0001369
+0001247,Pasaje,Calle 6,0001615
+0001248,Calle,Calle Celedonio Gutierrez,0000391
+0001249,Calle,Calle Gral las Heras,0001157
+0001250,Avenida,Calle Alberdi,0000225
+0001251,Pasaje,Pasaje Padilla,0000760
+0001252,Calle,Calle S/N 2,0001455
+0001253,Calle,Calle Florida,0000707
+0001254,Calle,Calle Ing Bretau,0001455
+0001255,Pasaje,Pasaje Pje 2,0000607
+0001256,Pasaje,Calle Provincia de la Rioja,0001369
+0001257,Avenida,Calle 2,0001413
+0001258,Calle,Calle Santiago,0001413
+0001259,Calle,Pasaje Juan Agustin Garcia,0001369
+0001260,Pasaje,Pasaje Honorio Molina,0001369
+0001261,Calle,Calle Maipu,0001449
+0001262,Calle,Pasaje Liniers,0000857
+0001263,Calle,Pasaje Guayaquil,0001369
+0001264,Calle,Pasaje Parana,0000391
+0001265,Pasaje,Calle Benjamin Araoz,0000081
+0001266,Pasaje,Pasaje Dorrego,0000760
+0001267,Calle,Calle Monteagudo,0001615
+0001268,Calle,Calle Santiago del Estero,0001369
+0001269,Pasaje,Pasaje Pje 24,0001369
+0001270,Pasaje,Calle Dominguez Zoilo,0000113
+0001271,Calle,Calle Gral Simon Bolivar,0001369
+0001272,Calle,Calle Miguel Antonio Gonzalez,0000607
+0001273,Pasaje,Calle Libertad,0001111
+0001274,Calle,Calle Inca Garcilaso de la Vega,0001369
+0001275,Pasaje,Calle 1 de Mayo,0000899
+0001276,Avenida,Pasaje 1 de Mayo,0000082
+0001277,Pasaje,Pasaje Treinta y Tres Orientales,0001369
+0001278,Pasaje,Calle 13,0001461
+0001279,Calle,Pasaje Pje 31,0001369
+0001280,Calle,Calle Araoz de Lamadrid,0000113
+0001281,Calle,Calle Lucas A Cordoba,0000225
+0001282,Calle,Pasaje Felix Frias,0001369
+0001283,Calle,Calle Dominga de Corbazan,0000760
+0001284,Calle,Calle Islas Malvinas,0001461
+0001285,Calle,Avenida Pres Gral J A Roca,0000113
+0001286,Pasaje,Pasaje Lugones,0000082
+0001287,Calle,Calle Godoy Cruz,0000760
+0001288,Pasaje,Calle Prospero Mena,0001369
+0001289,Calle,Calle Obispo Jose Eusebio Colombres,0000935
+0001290,Calle,Pasaje 12 de Octubre,0000857
+0001291,Calle,Pasaje Pje 23,0001369
+0001292,Calle,Avenida Liniers,0001615
+0001293,Pasaje,Calle Salta,0001177
+0001294,Pasaje,Calle Provincia de Entre Rios,0001369
+0001295,Calle,Pasaje Miguel Ocaranza,0001157
+0001296,Avenida,Calle Thames,0001369
+0001297,Pasaje,Calle Federico Kosef,0000935
+0001298,Calle,Calle Rovelli,0001413
+0001299,Calle,Calle Brasil,0001620
+0001300,Calle,Pasaje Pje 4,0000607
+0001301,Calle,Pasaje Pje S/N 3,0000899
+0001302,Calle,Diagonal Isla de Cerdeña,0001369
+0001303,Calle,Calle Dr Luis Maria Drago,0001369
+0001304,Pasaje,Calle Alvarez Condarco,0000113
+0001305,Calle,Pasaje Posadas,0001369
+0001306,Calle,Pasaje Ambrio Nougues,0001369
+0001307,Calle,Calle S/N 2,0000787
+0001308,Calle,Calle Juan XXIII,0001369
+0001309,Calle,Pasaje Grecia,0001369
+0001310,Calle,Calle Rivadavia,0001615
+0001311,Calle,Pasaje Jose E Colombres,0001369
+0001312,Calle,Avenida Democracia,0001369
+0001313,Pasaje,Pasaje Pje 21,0001369
+0001314,Pasaje,Pasaje Avellaneda,0001615
+0001315,Calle,Calle Pres N Avellaneda,0001637
+0001316,Pasaje,Calle La Pampa,0001620
+0001317,Calle,Calle Riobamba,0001620
+0001318,Calle,Ruta Nacional Rn 34,0000498
+0001319,Calle,Calle Alberto Rougues,0001369
+0001320,Avenida,Calle Pedro Leskow,0000760
+0001321,Calle,Calle Islas Malvinas,0000760
+0001322,Pasaje,Calle Agustina de Fernandez,0000081
+0001323,Pasaje,Pasaje Leopoldo Lugones,0001369
+0001324,Avenida,Calle Catamarca,0000449
+0001325,Pasaje,Pasaje 41 Sureste,0001369
+0001326,Pasaje,Calle Neuquen,0001369
+0001327,Calle,Calle Comunal 8,0000498
+0001328,Pasaje,Calle Santa Fe,0000391
+0001329,Calle,Calle 12 de Octubre,0001369
+0001330,Calle,Pasaje Vera y Aragon,0001369
+0001331,Calle,Pasaje Pje 8 Ne,0001369
+0001332,Calle,Calle Utinger Este,0001413
+0001333,Calle,Avenida Belgrano,0001620
+0001334,Pasaje,Pasaje Gral Cornelio Saavedra,0000911
+0001335,Pasaje,Calle San Luis,0000449
+0001336,Pasaje,Calle Velez Sarsfield,0001620
+0001337,Calle,Calle 7,0000787
+0001338,Pasaje,Calle S/N 1,0001177
+0001339,Calle,Calle Ginebra,0001620
+0001340,Pasaje,Calle Alvarez Condarco,0000081
+0001341,Calle,Pasaje Pje 45,0001369
+0001342,Calle,Calle Charcas,0001369
+0001343,Pasaje,Calle 9 de Julio,0000449
+0001344,Calle,Calle Monte Libano,0000113
+0001345,Calle,Calle Pres Gral J A Roca,0001620
+0001346,Calle,Calle Pablo Paz Rojas,0000760
+0001347,Pasaje,Calle Jose Frias Silva,0000225
+0001348,Calle,Calle 2 Este Oeste,0001101
+0001349,Calle,Calle Dr Juan Jose Paso,0000082
+0001350,Calle,Pasaje Pje 35,0001369
+0001351,Pasaje,Pasaje Yapeyu,0000760
+0001352,Pasaje,Calle 9 de Julio,0000607
+0001353,Calle,Pasaje Juramento,0000760
+0001354,Pasaje,Camino La Quebrada,0000113
+0001355,Calle,Calle Roma,0001449
+0001356,Calle,Calle Virgen del Carmen,0001620
+0001357,Pasaje,Calle 2 Norte Sur,0001101
+0001358,Calle,Avenida Del Peru Norte,0001413
+0001359,Pasaje,Calle Inmaculada Concepcion,0001461
+0001360,Calle,Pasaje Araoz,0001369
+0001361,Ruta Provincial,Pasaje Roberto Koch,0001369
+0001362,Calle,Avenida B Mitre,0001369
+0001363,Calle,Pasaje Francisco Pizarro,0001369
+0001364,Pasaje,Pasaje Mercado y Villacorta,0001369
+0001365,Calle,Calle 1,0001413
+0001366,Pasaje,Pasaje Pje 14,0001369
+0001367,Pasaje,Calle Alberdi,0001455
+0001368,Pasaje,Calle San Lorenzo Oeste,0001620
+0001369,Calle,Calle Moreno,0001413
+0001370,Calle,Calle Saavedra,0000113
+0001371,Pasaje,Calle Santa Rosa de Lima,0000760
+0001372,Calle,Pasaje Pje 9 no,0001369
+0001373,Pasaje,Pasaje Santa Maria,0001620
+0001374,Pasaje,Pasaje Gral Tomas Guido,0000857
+0001375,Pasaje,Calle Pantaleon Fernandez,0001369
+0001376,Calle,Pasaje Tuyuti,0001369
+0001377,Pasaje,Calle Misiones,0001111
+0001378,Calle,Diagonal Diag 45,0001369
+0001379,Calle,Pasaje Brasil,0000225
+0001380,Calle,Calle Mendoza,0000081
+0001381,Calle,Calle Octaviano Vera,0001615
+0001382,Pasaje,Pasaje Jose Aragon,0001157
+0001383,Pasaje,Calle 3,0000760
+0001384,Calle,Calle Colombia,0001620
+0001385,Avenida,Calle Dr Juan Jose Paso,0000113
+0001386,Calle,Pasaje Pje 41,0001369
+0001387,Pasaje,Calle Ejercito del Norte,0001369
+0001388,Calle,Calle Belgrano,0000632
+0001389,Calle,Camino Del Peru,0001369
+0001390,Calle,Calle Domingo F Sarmiento,0000374
+0001391,Calle,Pasaje Martin Fierro,0001369
+0001392,Pasaje,Pasaje Estanislao del Campo,0001369
+0001393,Calle,Calle 1,0000760
+0001394,Calle,Pasaje Velez Sarsfield,0001620
+0001395,Pasaje,Calle Dr M de Avellaneda,0000760
+0001396,Pasaje,Calle Moreno,0000760
+0001397,Calle,Pasaje Benjamin Paz,0001369
+0001398,Pasaje,Calle Gdor Luis Cruz,0000760
+0001399,Calle,Pasaje Ayacucho,0000857
+0001400,Pasaje,Calle San Martin,0000607
+0001401,Calle,Ruta Provincial Rp 301,0001485
+0001402,Calle,Calle 12,0001461
+0001403,Calle,Calle Nicaragua,0001369
+0001404,Calle,Pasaje Granadera,0000708
+0001405,Calle,Calle 9 de Julio,0001157
+0001406,Calle,Pasaje Prospero Mena,0001413
+0001407,Calle,Pasaje Dr Herbetta,0000081
+0001408,Calle,Pasaje La Plata,0001369
+0001409,Pasaje,Calle Paraguay,0001157
+0001410,Calle,Calle Laprida,0000081
+0001411,Pasaje,Pasaje Dr Bernardo de Irigoyen,0001369
+0001412,Calle,Calle San Luis,0000742
+0001413,Calle,Pasaje Jose Santillan,0001369
+0001414,Calle,Pasaje Justo de la Vega,0001369
+0001415,Pasaje,Pasaje Rep de Siria,0001369
+0001416,Pasaje,Calle Comunal 10,0000498
+0001417,Calle,Pasaje Rep de Bolivia,0001157
+0001418,Ruta Provincial,Calle Carlos Andujar,0001615
+0001419,Avenida,Calle Alvarez Condarco,0000857
+0001420,Avenida,Calle España,0000081
+0001421,Calle,Calle Batalla de Maipu,0000081
+0001422,Calle,Pasaje Pje 92,0001369
+0001423,Calle,Pasaje Las Malvinas,0001413
+0001424,Pasaje,Calle Tierra del Fuego,0001620
+0001425,Calle,Avenida Gral Jose Maria Paz,0001157
+0001426,Calle,Calle Uttinger,0001413
+0001427,Calle,Pasaje Ruben Dario,0001369
+0001428,Calle,Calle Dr Nicolas Avellaneda,0001449
+0001429,Calle,Calle Chiclana,0001369
+0001430,Pasaje,Calle Alvarez Condarco,0001369
+0001431,Calle,Calle Muñecas,0000760
+0001432,Calle,Pasaje Pje 5,0000857
+0001433,Calle,Calle Villa Alem,0000632
+0001434,Calle,Calle Bernabe Araoz,0001157
+0001435,Calle,Pasaje Bat de Ituzaingo,0001369
+0001436,Calle,Pasaje Pablo Rojas Paz,0001157
+0001437,Calle,Calle Andres Chazarreta,0000449
+0001438,Calle,Pasaje Echecopar,0001369
+0001439,Calle,Calle Villa del Ex Ingenio Viejo,0001485
+0001440,Avenida,Pasaje 17 de Agosto,0000911
+0001441,Calle,Calle 3 Norte Sur,0001101
+0001442,Pasaje,Calle 3,0001266
+0001443,Calle,Calle 8,0001157
+0001444,Calle,Calle S/N 6,0001177
+0001445,Calle,Calle Antori,0001369
+0001446,Pasaje,Calle 1,0001266
+0001447,Pasaje,Ruta Nacional Rn 38,0001449
+0001448,Pasaje,Calle Colonia 3,0000935
+0001449,Calle,Diagonal Diag 49,0001369
+0001450,Pasaje,Calle M de la Orden,0001177
+0001451,Pasaje,Pasaje Chueca,0001369
+0001452,Calle,Calle Americo Vespucio,0001157
+0001453,Calle,Pasaje Ibatin,0001369
+0001454,Calle,Calle Rio Parana,0001637
+0001455,Calle,Calle Paraguay,0001620
+0001456,Pasaje,Calle Publica,0000707
+0001457,Pasaje,Pasaje Laprida,0000899
+0001458,Pasaje,Pasaje Islas Orcadas del Sur,0001369
+0001459,Calle,Calle Dr Balazar Tejerina,0001157
+0001460,Calle,Ruta Provincial Amberes,0000707
+0001461,Pasaje,Avenida San Martin,0000082
+0001462,Calle,Avenida Alberdi,0000081
+0001463,Pasaje,Calle Pres Gral J A Roca,0000391
+0001464,Calle,Calle Saavedra,0001615
+0001465,Calle,Calle Pedro G Sal,0001369
+0001466,Calle,Pasaje Juan C Lafinur,0001369
+0001467,Ruta Provincial,Calle 2,0000857
+0001468,Calle,Calle San Jose,0001445
+0001469,Calle,Calle S/N 3,0000376
+0001470,Calle,Calle Rivadavia,0001177
+0001471,Calle,Calle Cabildo,0000082
+0001472,Calle,Pasaje Miguel Lillo,0000225
+0001473,Pasaje,Calle Cordoba,0000742
+0001474,Calle,Calle 24 de Septiembre,0000707
+0001475,Calle,Calle 7 de Mayo,0000449
+0001476,Pasaje,Calle Buenos Aires,0000911
+0001477,Pasaje,Calle Crisostomo Alvarez,0000935
+0001478,Calle,Diagonal Diag 7,0001369
+0001479,Calle,Calle Gral Cornelio Saavedra,0001177
+0001480,Calle,Calle Carmen P de Tamayo,0001637
+0001481,Pasaje,Calle Jorge Newbery,0001637
+0001482,Calle,Calle 25 de Mayo,0001177
+0001483,Calle,Avenida Belgrano,0001445
+0001484,Calle,Calle Guatemala,0001157
+0001485,Calle,Pasaje Ernesto Padilla,0001369
+0001486,Pasaje,Calle 12 de Octubre,0000449
+0001487,Calle,Calle Manuela Pedraza,0000081
+0001488,Pasaje,Calle F Garcia de Garcia,0001369
+0001489,Calle,Pasaje 12 So,0001369
+0001490,Calle,Pasaje Francisco Olmos,0000911
+0001491,Calle,Pasaje Patagonia,0001369
+0001492,Calle,Calle Cazador de Necochea,0001445
+0001493,Calle,Pasaje 24 Se,0001369
+0001494,Calle,Pasaje Pje 90,0001369
+0001495,Calle,Diagonal Chaco,0001369
+0001496,Calle,Calle Esteban Echeverria,0001637
+0001497,Calle,Calle Gral Guemes,0000081
+0001498,Pasaje,Calle S/N 1,0001620
+0001499,Pasaje,Calle 4 Este Oeste,0001101
+0001500,Calle,Pasaje Las Rosas,0000391
+0001501,Calle,Pasaje Gaboto,0001369
+0001502,Calle,Pasaje Tomas Espora,0001369
+0001503,Pasaje,Calle Soberania Argentina,0001369
+0001504,Calle,Calle España,0001369
+0001505,Calle,Pasaje Uruguay,0001369
+0001506,Calle,Calle Heredia,0001369
+0001507,Ruta Provincial,Pasaje Jose Hernandez,0000113
+0001508,Ruta Provincial,Calle Batalla de Maipu,0001369
+0001509,Calle,Calle Pres Roque Saenz Peña,0000113
+0001510,Pasaje,Calle French,0001369
+0001511,Calle,Ruta Provincial Escaba,0001637
+0001512,Calle,Calle Urquiza,0000760
+0001513,Calle,Calle Ecuador,0001369
+0001514,Calle,Calle Julio Prebisch,0001369
+0001515,Calle,Calle Alberdi,0000374
+0001516,Calle,Calle Comunal 9,0000498
+0001517,Calle,Pasaje Pje 29,0001369
+0001518,Calle,Calle Clemente Alvarez,0001413
+0001519,Calle,Calle Uruguay,0001157
+0001520,Calle,Pasaje Joaquin Castellanos,0001369
+0001521,Calle,Pasaje Miguel Cane,0001369
+0001522,Avenida,Calle Nuestra Señora del Valle,0001485
+0001523,Calle,Calle Baltazar Aguirre,0000449
+0001524,Calle,Calle 6,0001157
+0001525,Calle,Pasaje Ovidio Lagos,0001369
+0001526,Pasaje,Calle Peru,0001637
+0001527,Pasaje,Calle San Juan,0001413
+0001528,Calle,Calle Islas Malvinas,0001369
+0001529,Calle,Calle Dr Emilio Castelar,0001369
+0001530,Calle,Pasaje Jose Garcia,0001369
+0001531,Pasaje,Calle Rufino Cossio,0001369
+0001532,Calle,Pasaje Fray Luis Beltran,0001369
+0001533,Calle,Calle Dr Nicolas Avellaneda,0001461
+0001534,Avenida,Calle Manuel Casas,0001369
+0001535,Calle,Calle Santa Fe,0000760
+0001536,Calle,Calle Martin Fierro,0001157
+0001537,Pasaje,Calle F Cayetano Rodriguez,0000391
+0001538,Calle,Calle G Araoz,0001369
+0001539,Calle,Calle La Plata,0000449
+0001540,Pasaje,Calle 9 de Julio,0000863
+0001541,Calle,Calle Ernesto Tornquist,0000449
+0001542,Pasaje,Pasaje Bernardino Rivadavia,0000899
+0001543,Pasaje,Pasaje Pje 78,0001369
+0001544,Calle,Calle Cruz del Norte,0000935
+0001545,Avenida,Calle Constitucion,0000707
+0001546,Calle,Calle Larrea,0000113
+0001547,Calle,Pasaje Fray Manuel Perez,0000760
+0001548,Calle,Calle Belgrano,0001615
+0001549,Calle,Calle Dr Ramon Carrillo,0000449
+0001550,Calle,Calle J Shadlichs,0001177
+0001551,Calle,Ruta Provincial Rp 322,0000081
+0001552,Calle,Ruta Provincial Rp 323,0000318
+0001553,Calle,Calle Lola Mora,0000082
+0001554,Avenida,Pasaje Guyana,0001369
+0001555,Pasaje,Calle Pres Gral J A Roca,0001485
+0001556,Calle,Calle 10,0001461
+0001557,Calle,Calle Mons David,0001413
+0001558,Pasaje,Calle Araoz,0001455
+0001559,Calle,Calle Herminia Vigo,0000707
+0001560,Calle,Calle Vicente Gallo,0001369
+0001561,Calle,Calle Gral Heredia,0000863
+0001562,Calle,Diagonal Biologia,0001369
+0001563,Calle,Calle Jose Ignacio Gorriti,0001369
+0001564,Calle,Acceso Norte,0001536
+0001565,Pasaje,Calle Jose Hernandez,0001461
+0001566,Calle,Calle Jose Vignoli,0001637
+0001567,Calle,Calle 2,0000899
+0001568,Pasaje,Avenida Libertador Gral San Martin,0000449
+0001569,Calle,Calle Florida,0000899
+0001570,Pasaje,Calle Antartida Argentina,0001157
+0001571,Calle,Camino Del Peru,0000225
+0001572,Calle,Calle 25 de Mayo,0000911
+0001573,Calle,Pasaje Dr Juan Jose Paso,0000760
+0001574,Pasaje,Pasaje Pje 49,0001369
+0001575,Calle,Calle Rep del Paraguay,0001369
+0001576,Avenida,Calle Uruguay,0001620
+0001577,Calle,Calle San Miguel de Tucuman,0001323
+0001578,Calle,Pasaje Pje S/N 3,0000787
+0001579,Calle,Calle Congresales de Tucuman,0000081
+0001580,Calle,Calle Avellaneda,0000081
+0001581,Pasaje,Avenida S/C,0000113
+0001582,Calle,Calle Dr Juan Brigido Teran,0001157
+0001583,Avenida,Calle Dr Arturo Illia,0001323
+0001584,Avenida,Pasaje Virrey P de Cevallos,0001369
+0001585,Pasaje,Calle Gral Cornelio Saavedra,0001323
+0001586,Calle,Calle Leocadio Paz,0001157
+0001587,Pasaje,Pasaje Pje 48,0001369
+0001588,Calle,Calle 25 de Mayo,0001323
+0001589,Calle,Pasaje,0001620
+0001590,Pasaje,Pasaje Sarratea,0001369
+0001591,Calle,Calle Rep de Peru,0000760
+0001592,Calle,Avenida Libertador,0000374
+0001593,Pasaje,Calle Lola Mora,0000113
+0001594,Calle,Diagonal Diag 12,0001369
+0001595,Pasaje,Calle San Martin,0000863
+0001596,Calle,Diagonal Diag 8,0001369
+0001597,Avenida,Calle Gral Guemes,0001369
+0001598,Calle,Calle Gral M de Azcuenaga,0000760
+0001599,Calle,Diagonal Derqui,0001369
+0001600,Pasaje,Calle Jose E Colombres,0001369
+0001601,Pasaje,Calle Gral Cornelio Saavedra,0001157
+0001602,Calle,Calle Mitre,0001177
+0001603,Calle,Calle 25 de Mayo,0001157
+0001604,Calle,Avenida San Martin,0001615
+0001605,Calle,Pasaje Pje 6,0001369
+0001606,Calle,Calle La Rioja Este,0001413
+0001607,Calle,Calle Chacabuco,0000707
+0001608,Calle,Pasaje Agustin Molina,0001369
+0001609,Calle,Calle Obligado,0001369
+0001610,Calle,Calle Bernabe Araoz,0000391
+0001611,Pasaje,Calle Domingo F Sarmiento,0000113
+0001612,Calle,Calle Granillo Darragueira,0001369
+0001613,Calle,Calle 9 de Julio,0001445
+0001614,Avenida,Calle Colonia 1,0000935
+0001615,Calle,Diagonal Frias Juan,0001369
+0001616,Pasaje,Pasaje Cossio,0001413
+0001617,Calle,Calle Cap H Viola,0001445
+0001618,Calle,Calle 20 de Junio,0001157
+0001619,Calle,Pasaje Cañete Cruz,0001369
+0001620,Calle,Calle Teniente Manuel Basail,0001157
+0001621,Pasaje,Pasaje Santa Rita,0001157
+0001622,Calle,Calle Reconquista Oeste,0001413
+0001623,Calle,Calle Rio Sali,0001369
+0001624,Calle,Calle Pedro Leon Gallo,0001369
+0001625,Avenida,Pasaje España,0001615
+0001626,Pasaje,Calle Atahualpa Yupanqui,0001516
+0001627,Pasaje,Avenida Marina Alfaro,0001369
+0001628,Calle,Calle Sgto Juan B Cabral,0001157
+0001629,Calle,Calle 24 de Septiembre,0000081
+0001630,Calle,Calle Belgrano,0000708
+0001631,Calle,Calle Dr Manuel Belgrano,0001449
+0001632,Calle,Pasaje Jose Hernandez,0000857
+0001633,Calle,Calle 9,0000742
+0001634,Calle,Avenida Dr Manuel Belgrano,0001369
+0001635,Pasaje,Avenida Benjamin Araoz,0001369
+0001636,Pasaje,Pasaje Santiago Silva,0000760
+0001637,Pasaje,Calle Santa Cruz,0001620
+0001638,Calle,Pasaje Liniers,0000787
+0001639,Calle,Calle Panama,0001369
+0001640,Calle,Calle Dr Alfredo Palacios,0001369
+0001641,Avenida,Pasaje Paso de los Andes,0001157
+0001642,Calle,Calle Dr Mariano Moreno,0001516
+0001643,Calle,Calle S/N 3,0001177
+0001644,Calle,Pasaje Dr G Araoz Alfaro,0001369
+0001645,Calle,Calle Santiago,0000449
+0001646,Pasaje,Pasaje Avellaneda,0001620
+0001647,Calle,Calle Bertres,0000760
+0001648,Calle,Avenida Ejercito del Norte,0001369
+0001649,Pasaje,Calle Centenario,0001369
+0001650,Calle,Calle Velez Sarsfield,0001413
+0001651,Calle,Pasaje Trejo y Sanabria,0001369
+0001652,Pasaje,Pasaje Dr Ricardo Balbin,0001413
+0001653,Calle,Calle Larrea,0001615
+0001654,Avenida,Calle Pbto Manuel Ballesteros,0001485
+0001655,Pasaje,Calle Gral Juan Lavalle,0001369
+0001656,Calle,Calle Fray Mamerto Esquiu,0001157
+0001657,Calle,Calle Dr Bernardo Monteagudo,0000113
+0001658,Calle,Diagonal Alejandro Heredia,0001369
+0001659,Calle,Calle S/C,0000113
+0001660,Calle,Calle Gral J J de Urquiza,0001323
+0001661,Calle,Calle Benjamin Matienzo,0000391
+0001662,Pasaje,Calle Comunal 11,0000498
+0001663,Calle,Pasaje Islas Malvinas,0001157
+0001664,Avenida,Calle Sarmiento,0000081
+0001665,Calle,Calle Peru,0001369
+0001666,Calle,Avenida Saenz Peña,0001413
+0001667,Pasaje,Calle Castro Barros,0001413
+0001668,Calle,Pasaje Libertad,0001615
+0001669,Calle,Calle 20 de Junio,0001620
+0001670,Calle,Calle Pte J D Peron,0001323
+0001671,Pasaje,Calle Dr Mariano Moreno,0001323
+0001672,Calle,Calle Gral J J de Urquiza,0001157
+0001673,Pasaje,Pasaje E Acosta,0000760
+0001674,Pasaje,Calle Sgto Juan B Cabral,0001620
+0001675,Calle,Calle Misiones,0000707
+0001676,Pasaje,Calle Guemes,0001177
+0001677,Pasaje,Avenida Av 69,0001369
+0001678,Calle,Pasaje Dr Enzo Bordabehere,0001369
+0001679,Pasaje,Pasaje La Pampa,0001369
+0001680,Calle,Calle Dr Mariano Moreno,0001157
+0001681,Avenida,Ruta Nacional Rn 9,0001157
+0001682,Calle,Calle Brasil,0001637
+0001683,Pasaje,Calle Estados Unidos,0001369
+0001684,Pasaje,Calle Venezuela,0001369
+0001685,Calle,Calle 1 Norte,0000318
+0001686,Pasaje,Calle Managua,0000632
+0001687,Ruta Provincial,Calle Florentino Ameghino,0001323
+0001688,Calle,Pasaje Jose Ignacio Bass,0001369
+0001689,Calle,Pasaje Falucho,0001461
+0001690,Calle,Pasaje 40 Noroeste,0001369
+0001691,Calle,Calle Horacio Poviña,0001369
+0001692,Calle,Calle H Descole,0001369
+0001693,Pasaje,Calle Elpidio Gonzalez,0001615
+0001694,Calle,Avenida Cristobal Colon,0001369
+0001695,Calle,Calle Batalla de Maipu,0000225
+0001696,Calle,Calle Mendoza,0000742
+0001697,Pasaje,Calle Vespaciano Brizuela,0001413
+0001698,Calle,Diagonal Diag 51,0001369
+0001699,Calle,Calle 2 N,0000318
+0001700,Calle,Pasaje Pje 9,0000607
+0001701,Calle,Calle 24 de Septiembre,0000857
+0001702,Pasaje,Calle Chile,0001615
+0001703,Calle,Pasaje Luis Braille,0001369
+0001704,Calle,Calle Rawson,0001637
+0001705,Calle,Diagonal Diag 33,0001369
+0001706,Calle,Calle Gral San Martin,0000632
+0001707,Calle,Pasaje Nicolas Rodriguez Peña,0001369
+0001708,Pasaje,Calle La Pampa,0001637
+0001709,Avenida,Avenida Ibatin,0000760
+0001710,Calle,Pasaje Pje 32,0001369
+0001711,Calle,Calle Sold Ismael Maldonado,0000567
+0001712,Calle,Calle Luis Delacroix,0001157
+0001713,Calle,Calle Francisco de Aguirre,0000081
+0001714,Calle,Calle Martin Fierro,0000391
+0001715,Pasaje,Calle 24 de Septiembre,0001369
+0001716,Calle,Calle Adan Quiroga,0000449
+0001717,Calle,Pasaje Cabildo de 1810,0001369
+0001718,Calle,Calle Dorrego,0001615
+0001719,Pasaje,Avenida Independencia,0000707
+0001720,Pasaje,Calle 2,0000742
+0001721,Calle,Calle 11,0001615
+0001722,Calle,Pasaje 12 Sudeste,0001369
+0001723,Calle,Calle Cap Caceres,0000567
+0001724,Calle,Calle 5,0000899
+0001725,Ruta Provincial,Calle 5 Este Oeste,0001101
+0001726,Calle,Pasaje Saravia,0001369
+0001727,Calle,Calle Malvinas Argentinas,0001615
+0001728,Calle,Pasaje Matienzo,0000857
+0001729,Calle,Pasaje Pje S/N 4,0000787
+0001730,Calle,Calle S/N 2,0000376
+0001731,Pasaje,Pasaje Lucas A Cordoba,0001157
+0001732,Calle,Pasaje Falucho,0000760
+0001733,Calle,Calle Bat de Tucuman,0000760
+0001734,Calle,Pasaje Maldonado,0001620
+0001735,Calle,Calle Libertad,0000081
+0001736,Calle,Avenida Oeste Norte,0001413
+0001737,Calle,Calle Olegario V Andrade,0001369
+0001738,Calle,Pasaje Santa Catalina,0000760
+0001739,Calle,Pasaje 36 So,0001369
+0001740,Calle,Calle Pacheco de Melo,0001369
+0001741,Pasaje,Pasaje Alfonsina Storni,0001369
+0001742,Calle,Ruta Provincial Rp 306,0000376
+0001743,Calle,Calle Pres Gral J A Roca,0001637
+0001744,Calle,Calle Benjamin Villafañe,0000391
+0001745,Avenida,Calle Catamarca,0000707
+0001746,Calle,Calle Ibatin,0000707
+0001747,Calle,Calle Miguelillo,0000081
+0001748,Boulevard,Pasaje Lima,0001369
+0001749,Pasaje,Calle F Cayetano Rodriguez,0000760
+0001750,Pasaje,Calle Primera Junta,0000082
+0001751,Calle,Calle Mitre,0001111
+0001752,Pasaje,Pasaje Aristobulo del Valle,0001369
+0001753,Pasaje,Calle Huemul,0001369
+0001754,Pasaje,Calle Madrid,0001620
+0001755,Pasaje,Calle 9 de Julio,0001461
+0001756,Calle,Calle Misiones,0000082
+0001757,Calle,Pasaje Pje S/N 1,0000899
+0001758,Calle,Calle Sgto Miguel Antonio Moya,0000567
+0001759,Avenida,Calle Gral Tomas Guido,0001369
+0001760,Calle,Calle San Luis,0000707
+0001761,Calle,Calle Joaquin V Gonzalez,0000708
+0001762,Ruta Provincial,Calle 7,0001615
+0001763,Pasaje,Pasaje 27 42 no,0001369
+0001764,Calle,Avenida Alfredo Guzman,0000760
+0001765,Calle,Calle 9,0000787
+0001766,Calle,Calle Salta,0001413
+0001767,Pasaje,Calle 9 de Julio,0000707
+0001768,Calle,Calle S/C,0001615
+0001769,Pasaje,Calle Los Andes,0001413
+0001770,Calle,Pasaje Molina,0001413
+0001771,Calle,Calle Progreso,0001157
+0001772,Calle,Calle Paraguay,0001413
+0001773,Calle,Calle Gral San Martin,0000113
+0001774,Calle,Pasaje Pje 1,0000411
+0001775,Calle,Pasaje Dr Saavedra Lamas,0001369
+0001776,Calle,Calle Comb de las Piedras,0001369
+0001777,Calle,Acceso Sur,0001536
+0001778,Calle,Calle Colombia,0001637
+0001779,Calle,Diagonal Diag 66,0001369
+0001780,Calle,Calle Facundo Quiroga,0001615
+0001781,Pasaje,Calle S/C,0000857
+0001782,Calle,Ruta Provincial Rp 303,0000787
+0001783,Calle,Calle Corrientes,0000391
+0001784,Pasaje,Calle Cab 1Ro Mendez,0000567
+0001785,Calle,Calle Haiti,0001369
+0001786,Pasaje,Calle Salta,0000760
+0001787,Calle,Calle Primera Junta,0000113
+0001788,Calle,Pasaje Pje 2,0000411
+0001789,Calle,Calle Congreso,0000082
+0001790,Calle,Calle Obispo Jose Eusebio Colombres,0000760
+0001791,Calle,Diagonal Dr Alberto Jose Paz,0001157
+0001792,Calle,Calle Dr Bernardo Monteagudo,0001369
+0001793,Calle,Calle Marcelino Cesareo,0000760
+0001794,Calle,Calle Salomon Rodriguez,0000760
+0001795,Avenida,Calle Rivadavia,0001445
+0001796,Calle,Calle 3,0001323
+0001797,Calle,Calle Justo J de Urquiza Este,0001620
+0001798,Pasaje,Calle Vicente Lopez y Planes,0001369
+0001799,Calle,Pasaje Falucho,0001637
+0001800,Calle,Diagonal Gdor Clemente Zavaleta,0001369
+0001801,Pasaje,Calle 20 de Junio,0000391
+0001802,Pasaje,Calle S/N 4,0001177
+0001803,Pasaje,Calle 8,0001461
+0001804,Calle,Avenida Dr Nicolas Avellaneda,0000857
+0001805,Calle,Calle Delfin Gigena,0001157
+0001806,Calle,Calle L Mora Prolong,0000113
+0001807,Calle,Boulevard Sur,0001111
+0001808,Calle,Pasaje Almafuerte,0001369
+0001809,Calle,Pasaje Pje 3,0001413
+0001810,Calle,Calle 25 de Mayo,0001445
+0001811,Calle,Pasaje Pje 27,0001369
+0001812,Calle,Pasaje Octaviano Vera,0001369
+0001813,Calle,Pasaje Pres Gral J A Roca,0001323
+0001814,Pasaje,Pasaje Chile,0001369
+0001815,Calle,Calle San Lorenzo,0001413
+0001816,Calle,Calle Martin Rodriguez,0001369
+0001817,Pasaje,Calle 3,0001157
+0001818,Pasaje,Avenida Dr Nicolas Avellaneda,0001369
+0001819,Calle,Calle Cap Caceres,0001445
+0001820,Pasaje,Calle Jose Hernandez,0001369
+0001821,Calle,Ruta Provincial Ruta Prov 308,0001637
+0001822,Pasaje,Pasaje Gutierrez,0000760
+0001823,Calle,Diagonal Eva Peron,0000911
+0001824,Calle,Calle Pte H Yrigoyen,0001615
+0001825,Pasaje,Calle Catamarca,0000082
+0001826,Calle,Calle Juan Manuel de Rosas,0000760
+0001827,Pasaje,Pasaje Dr Luis Saenz Peña,0001369
+0001828,Pasaje,Diagonal Pineda,0001369
+0001829,Calle,Calle Libertad,0001369
+0001830,Pasaje,Pasaje I J Nougues,0001369
+0001831,Avenida,Calle Campos de las Carreras,0000760
+0001832,Avenida,Calle 8,0000760
+0001833,Calle,Calle Islas Malvinas Argentinas,0001445
+0001834,Calle,Calle Miguel de Unamuno,0001369
+0001835,Calle,Calle Torres Posse,0001369
+0001836,Calle,Calle Diego de Villarroel,0001615
+0001837,Calle,Calle La Rioja,0000707
+0001838,Calle,Calle S/C,0000708
+0001839,Calle,Calle Alberdi,0001615
+0001840,Pasaje,Calle Inca Garcilaso,0001369
+0001841,Calle,Calle Santiago del Estero,0000707
+0001842,Calle,Pasaje Cnel Manuel Dorrego,0001369
+0001843,Calle,Calle Senador Araujo,0000449
+0001844,Calle,Calle Diego de Rojas,0000391
+0001845,Calle,Pasaje Gdor Jose Rondeau,0001323
+0001846,Pasaje,Calle Delfin Gallo,0001369
+0001847,Calle,Pasaje Sgto Juan B Cabral,0000113
+0001848,Calle,Calle Salta,0001637
+0001849,Calle,Calle Lima,0001369
+0001850,Pasaje,Calle Joaquin V Gonzalez,0001177
+0001851,Pasaje,Calle Obispo Jose Eusebio Colombres,0001637
+0001852,Calle,Calle Jose Marmol,0001620
+0001853,Pasaje,Calle Inmigrantes Arabes,0001369
+0001854,Calle,Calle Ayacucho,0001620
+0001855,Pasaje,Calle Finca Risso,0001516
+0001856,Calle,Avenida Independencia,0000081
+0001857,Calle,Calle Marandini,0001637
+0001858,Calle,Calle Gdor Juan M Campero,0000113
+0001859,Pasaje,Pasaje Pje 39,0001369
+0001860,Calle,Calle 5 Este,0000318
+0001861,Calle,Calle San Martin de Porres,0000760
+0001862,Calle,Diagonal Diag 68,0001369
+0001863,Pasaje,Pasaje Pje 90 So,0001369
+0001864,Avenida,Diagonal Diag 2,0001369
+0001865,Avenida,Pasaje Jose M Serrano,0001369
+0001866,Calle,Pasaje Pje 37,0001369
+0001867,Calle,Calle Padre Scrochi,0001461
+0001868,Calle,Calle Buenos Aires,0001413
+0001869,Pasaje,Calle 6,0001461
+0001870,Calle,Calle Lucas A Cordoba,0001615
+0001871,Calle,Calle Urquiza,0000449
+0001872,Calle,Calle Domingo F Sarmiento,0000935
+0001873,Calle,Calle Esperanza,0001369
+0001874,Calle,Calle Echeverria,0001620
+0001875,Calle,Calle Rojas,0000081
+0001876,Calle,Calle 12,0000742
+0001877,Pasaje,Pasaje Pje 1,0000857
+0001878,Calle,Calle Juan Manuel de Rosas,0001637
+0001879,Pasaje,Calle Florentino Ameghino,0000391
+0001880,Pasaje,Pasaje Pje S/N 2,0000899
+0001881,Calle,Pasaje Vuelta de Obligado,0001369
+0001882,Calle,Calle 9 de Julio,0001536
+0001883,Calle,Pasaje Monserrat,0001369
+0001884,Pasaje,Calle 24 de Diciembre,0000760
+0001885,Calle,Pasaje Pje 1,0001369
+0001886,Calle,Calle San Lorenzo,0001637
+0001887,Calle,Calle S/N 2,0001177
+0001888,Pasaje,Pasaje Pje 2,0000857
+0001889,Pasaje,Calle Dr Marcos Paz,0001369
+0001890,Pasaje,Pasaje Boulogne Sur Mer,0001369
+0001891,Calle,Pasaje Juan Agustin Maza,0001369
+0001892,Pasaje,Calle Buenos Aires,0000760
+0001893,Pasaje,Pasaje Pje 47,0001369
+0001894,Calle,Avenida Del Trabajo,0001461
+0001895,Calle,Avenida Gaspar Lasalle,0001369
+0001896,Pasaje,Calle Mexico,0001369
+0001897,Avenida,Calle Entre Rios,0001111
+0001898,Calle,Calle Castro Barros,0001369
+0001899,Calle,Calle Libertad,0000899
+0001900,Calle,Calle Las Tipas,0000113
+0001901,Calle,Calle Domingo Matheu,0001369
+0001902,Calle,Calle Gral San Martin,0001369
+0001903,Pasaje,Pasaje Pje 2,0001369
+0001904,Calle,Calle Eusebio Aguero,0001461
+0001905,Pasaje,Calle 10 Noreste,0001369
+0001906,Calle,Calle Congreso de Tucuman,0000707
+0001907,Calle,Calle Primera Junta,0000857
+0001908,Pasaje,Calle Alsina,0001637
+0001909,Pasaje,Pasaje Esteban A Gascon,0001369
+0001910,Calle,Calle Levinson,0001615
+0001911,Calle,Calle 9 de Julio,0000081
+0001912,Calle,Calle Cnel Juan Pringles,0001369
+0001913,Calle,Pasaje Humberto Primo,0000760
+0001914,Calle,Pasaje Balcarce,0000081
+0001915,Calle,Calle Jose Manuel Estrada,0001177
+0001916,Pasaje,Pasaje Pje S/N 5,0000787
+0001917,Calle,Calle Juan Jose Castelli,0001369
+0001918,Ruta Provincial,Pasaje 31 Suroeste,0001369
+0001919,Pasaje,Calle Lidoro J Quinteros,0000707
+0001920,Avenida,Calle Gregorio Jesus Diaz,0000935
+0001921,Calle,Calle Sold Gonzalez,0001445
+0001922,Calle,Pasaje Vicente Gallo,0001369
+0001923,Calle,Calle Dr A Alsina,0000113
+0001924,Calle,Calle 16,0001615
+0001925,Calle,Calle Alberdi,0000708
+0001926,Calle,Pasaje Laguna de Chavez,0001369
+0001927,Calle,Avenida Del Este,0001111
+0001928,Calle,Avenida Mitre,0001266
+0001929,Calle,Calle Misiones,0001369
+0001930,Calle,Calle S/N 5,0001455
+0001931,Calle,Calle San Lorenzo,0001536
+0001932,Pasaje,Pasaje Mendoza,0000113
+0001933,Pasaje,Calle Dr Vicente Gallo,0000081
+0001934,Calle,Calle Miguel Perilli,0001620
+0001935,Calle,Calle S/C,0000935
+0001936,Calle,Calle Martin Vargas,0000863
+0001937,Calle,Calle Monteagudo,0000760
+0001938,Pasaje,Calle Colonia 9,0000935
+0001939,Calle,Calle Las Moreras,0000081
+0001940,Calle,Pasaje Niño Jesus de Praga,0000935
+0001941,Calle,Calle Gral Heredia,0000081
+0001942,Calle,Pasaje Pje 4,0000857
+0001943,Calle,Pasaje Falucho,0001369
+0001944,Pasaje,Calle San Martin,0001536
+0001945,Calle,Calle Gabriela Mistral,0001615
+0001946,Calle,Calle Benjamin Matienzo,0001637
+0001947,Pasaje,Pasaje Pje 12 A Noroeste,0001369
+0001948,Calle,Calle Almagro,0001461
+0001949,Calle,Diagonal Diag 10,0001369
+0001950,Calle,Calle Ntra Señora del Rosario,0001413
+0001951,Calle,Calle Francia,0001369
+0001952,Pasaje,Pasaje Pereda,0001369
+0001953,Pasaje,Pasaje Ecuador,0000225
+0001954,Calle,Pasaje Pres J Figueroa Alcorta,0001369
+0001955,Calle,Calle Junin,0001413
+0001956,Calle,Pasaje Dr Juan Jose Paso,0001516
+0001957,Calle,Pasaje 19 de Junio,0001637
+0001958,Calle,Calle John Kennedy,0001637
+0001959,Calle,Calle Rivadavia,0001413
+0001960,Calle,Pasaje De la Merced,0001369
+0001961,Pasaje,Avenida Independencia,0001369
+0001962,Ruta Provincial,Calle Pte J D Peron,0001485
+0001963,Calle,Calle Miguel Lillo,0001615
+0001964,Calle,Calle Floresta,0001111
+0001965,Calle,Calle Provincia de Formosa,0001369
+0001966,Pasaje,Calle Gral Guemes,0000787
+0001967,Calle,Pasaje Tacuari,0000760
+0001968,Calle,Calle 25 de Mayo,0001413
+0001969,Calle,Pasaje Malvinas,0001369
+0001970,Calle,Calle San Martin,0000081
+0001971,Calle,Calle Provincia de Santa Fe,0001369
+0001972,Calle,Pasaje Antonio Maria Saenz,0001369
+0001973,Pasaje,Pasaje John Kennedy,0001369
+0001974,Pasaje,Calle Raul Colombres,0001369
+0001975,Calle,Calle Dr Juan Brigido Teran,0000760
+0001976,Pasaje,Calle Gral Baigorria,0000857
+0001977,Calle,Calle Dardo Rocha,0001369
+0001978,Pasaje,Calle Papa Leon XIII,0001369
+0001979,Pasaje,Calle Dr Nicolas Avellaneda,0000225
+0001980,Avenida,Pasaje Rojas,0001615
+0001981,Calle,Calle Florencio Varela,0001637
+0001982,Calle,Ruta Nacional Rn 39,0000707
+0001983,Calle,Ruta Provincial Rp 324,0000707
+0001984,Calle,Pasaje Avellaneda,0000760
+0001985,Calle,Avenida Domingo F Sarmiento,0001369
+0001986,Calle,Calle Parana,0000082
+0001987,Pasaje,Calle Jose M de Oro,0000081
+0001988,Calle,Calle Juan Gutenberg,0001369
+0001989,Calle,Calle Hileret,0001177
+0001990,Pasaje,Diagonal 29 84  90 no,0001369
+0001991,Calle,Calle Pte M T de Alvear,0001369
+0001992,Pasaje,Calle Virgen de Fatima,0000760
+0001993,Calle,Calle Rep de Bolivia,0001369
+0001994,Pasaje,Calle 41,0001369
+0001995,Calle,Calle Sgto Juan B Cabral,0001413
+0001996,Calle,Calle Manuela de Pedraza,0000760
+0001997,Calle,Calle Italia,0000760
+0001998,Calle,Pasaje 4 Sureste,0001369
+0001999,Calle,Pasaje Pje 7,0000607
+0002000,Calle,Calle Corrientes,0000760
+0002001,Pasaje,Calle Dorrego,0001157
+0002002,Pasaje,Calle Monteagudo,0001637
+0002003,Calle,Calle 35,0001369
+0002004,Calle,Pasaje Burmeister,0001369
+0002005,Pasaje,Calle Hipolito Yrigoyen,0001620
+0002006,Pasaje,Calle 9 de Julio,0001369
+0002007,Pasaje,Calle Sastre,0001637
+0002008,Calle,Calle 5,0000787
+0002009,Calle,Calle Provincia de Cordoba,0001369
+0002010,Calle,Pasaje San Cayetano,0000911
+0002011,Calle,Calle Hipolito Yrigoyen,0001455
+0002012,Pasaje,Calle John Kennedy,0000081
+0002013,Calle,Pasaje Santiago Vas,0000935
+0002014,Calle,Calle Sgto Juarez,0001445
+0002015,Calle,Calle 20 de Junio,0000760
+0002016,Calle,Calle Las Heras,0000760
+0002017,Calle,Calle 56 Suroeste,0001369
+0002018,Calle,Pasaje La Paz,0001369
+0002019,Calle,Pasaje Payro,0000760
+0002020,Calle,Calle Camino,0001266
+0002021,Pasaje,Calle Manuel Lainez,0001615
+0002022,Pasaje,Calle Santa Fe,0001111
+0002023,Pasaje,Calle 12,0000787
+0002024,Pasaje,Calle Alberdi,0001177
+0002025,Avenida,Calle Batalla de Caseros,0000760
+0002026,Pasaje,Calle Gdor Juan Luis Nougues,0001637
+0002027,Avenida,Pasaje Olegario V Andrade,0001157
+0002028,Pasaje,Ruta Provincial Rp 306,0001157
+0002029,Pasaje,Calle Jujuy,0001620
+0002030,Calle,Calle Dr Aybar,0001637
+0002031,Calle,Calle 4,0000899
+0002032,Calle,Pasaje Leon Rougues,0001369
+0002033,Calle,Calle Provincia de San Luis,0001369
+0002034,Calle,Calle 1 de Julio,0000449
+0002035,Calle,Calle Publica 2,0000707
+0002036,Calle,Calle Jose Garibaldi,0000113
+0002037,Calle,Calle Democracia,0001637
+0002038,Calle,Calle M Aguado Oeste,0001620
+0002039,Calle,Pasaje Rondeau,0000760
+0002040,Calle,Pasaje Costa Rica,0001157
+0002041,Calle,Calle Dr Juan Brigido Teran,0001637
+0002042,Calle,Pasaje Isidro Arancibia,0000760
+0002043,Pasaje,Calle Carlos Pellegrini,0000899
+0002044,Calle,Pasaje Azopardo,0001369
+0002045,Pasaje,Pasaje Pbto F Figueroa,0000760
+0002046,Pasaje,Avenida Andres Villa,0001369
+0002047,Pasaje,Calle Congreso,0000899
+0002048,Calle,Calle 10,0000742
+0002049,Calle,Calle H s Padilla,0001177
+0002050,Pasaje,Calle Comunal 4,0000498
+0002051,Calle,Calle Bat de Suipacha,0001369
+0002052,Pasaje,Camino Los Agudos,0001620
+0002053,Calle,Calle Juan Carlos Cruz,0000760
+0002054,Calle,Pasaje Dr Eliseo Canton,0001369
+0002055,Calle,Calle Rivadavia,0001637
+0002056,Pasaje,Calle Fray Luis Beltran,0001157
+0002057,Calle,Pasaje Pje S/N 6,0000787
+0002058,Calle,Calle Pte J D Peron,0001461
+0002059,Calle,Pasaje Pje S/N 1,0000787
+0002060,Calle,Calle San Martin,0000857
+0002061,Avenida,Pasaje Gral Juan Arenales,0001369
+0002062,Calle,Calle 7,0001157
+0002063,Calle,Calle Fray Mamerto Esquiu,0000760
+0002064,Calle,Calle Ernesto Padilla,0001455
+0002065,Avenida,Calle Lucas A Cordoba,0000935
+0002066,Pasaje,Calle Oeste,0001620
+0002067,Calle,Calle Manuel Lizondo Borda,0001369
+0002068,Calle,Pasaje Pje 40,0001369
+0002069,Calle,Pasaje Virrey Vertiz,0001369
+0002070,Calle,Calle Dr A Alsina,0001369
+0002071,Calle,Calle Ayacucho,0001449
+0002072,Calle,Pasaje Piossek,0001369
+0002073,Avenida,Pasaje Pje 9 Ne,0001369
+0002074,Avenida,Pasaje Belisario Lopez,0001369
+0002075,Pasaje,Calle 15,0001461
+0002076,Calle,Calle Ayohuma,0001620
+0002077,Pasaje,Calle Americo Vespucio,0001369
+0002078,Calle,Calle Gral Guemes Oeste,0001620
+0002079,Pasaje,Pasaje Francisco de Lamadrid,0001369
+0002080,Calle,Calle Gral Jose Maria Paz,0000935
+0002081,Calle,Calle Jose Frias y Araujo,0001369
+0002082,Pasaje,Calle Corrientes,0001637
+0002083,Pasaje,Calle Gdero Baigorria,0001369
+0002084,Calle,Calle 23,0001615
+0002085,Pasaje,Calle Catamarca,0000899
+0002086,Calle,Calle Cmte Luis Piedrabuena,0000787
+0002087,Calle,Calle Dr Manuel Belgrano,0000899
+0002088,Calle,Pasaje Gdor Miguel Nougues,0001369
+0002089,Pasaje,Pasaje Hipolito Bouchard,0001369
+0002090,Pasaje,Pasaje 45 Suroeste,0001369
+0002091,Calle,Pasaje Roca,0000760
+0002092,Pasaje,Avenida Islas Malvinas,0000935
+0002093,Pasaje,Pasaje Larrea,0001369
+0002094,Calle,Avenida Del Peru Sur,0001413
+0002095,Pasaje,Pasaje Jose Camilo Paz,0001369
+0002096,Calle,Pasaje Cap H Mejia de Miraval,0001369
+0002097,Pasaje,Calle B Mitre,0001615
+0002098,Calle,Calle Las Heras,0001637
+0002099,Pasaje,Diagonal Diag 92,0001369
+0002100,Calle,Calle Gdor Pedro F Riera,0000911
+0002101,Calle,Calle Francisco de Laprida,0001323
+0002102,Calle,Calle Sgto Juan B Cabral,0001637
+0002103,Calle,Calle San Luis,0000899
+0002104,Calle,Calle Sgto Juan B Cabral,0001266
+0002105,Calle,Calle Pedro B Gramajo,0000863
+0002106,Avenida,Calle 25 de Mayo,0001536
+0002107,Calle,Calle Pte H Yrigoyen,0001323
+0002108,Avenida,Calle Mercedes Pacheco,0000082
+0002109,Calle,Calle 9 de Julio,0000899
+0002110,Calle,Calle Balcarce,0001157
+0002111,Calle,Pasaje 27 44 no,0001369
+0002112,Calle,Calle 29 de Agosto,0001637
+0002113,Calle,Pasaje Pje 72,0001369
+0002114,Calle,Pasaje Barrialito,0001369
+0002115,Calle,Pasaje Maria Auxiliadora,0001369
+0002116,Pasaje,Calle Rivadavia,0000081
+0002117,Pasaje,Calle 7,0001620
+0002118,Calle,Pasaje America,0001413
+0002119,Calle,Calle Malvinas,0001637
+0002120,Calle,Pasaje Inmaculada Concepcion,0001637
+0002121,Calle,Calle Osvaldo Costello,0001413
+0002122,Calle,Calle 4 de Junio,0000449
+0002123,Pasaje,Calle Alberti,0001413
+0002124,Calle,Camino A Ischilon,0000863
+0002125,Calle,Pasaje Cnel de Marina Rosales,0001369
+0002126,Calle,Calle Ramirez de Velazco,0001369
+0002127,Calle,Calle S/C,0001620
+0002128,Calle,Calle Gral J A Lavalleja,0001369
+0002129,Calle,Calle 25 de Mayo,0000081
+0002130,Pasaje,Avenida Gdor del Campo,0001369
+0002131,Calle,Calle Alberdi,0001323
+0002132,Calle,Calle Gdor Gral Balcarce,0001323
+0002133,Calle,Calle 11,0000787
+0002134,Calle,Avenida Himno Patrio,0001461
+0002135,Calle,Diagonal Diag 1,0001413
+0002136,Calle,Pasaje Sgto Gomez,0001369
+0002137,Calle,Calle Pte D F Sarmiento,0001323
+0002138,Calle,Calle La Pampa,0001111
+0002139,Calle,Calle Chaco,0001620
+0002140,Pasaje,Calle Gral Juan M de Pueyrredon,0000113
+0002141,Pasaje,Calle Alberdi,0001157
+0002142,Calle,Calle Prospero Garcia,0001369
+0002143,Ruta Provincial,Avenida Miguel M Campero,0001637
+0002144,Calle,Avenida L N Alem,0001615
+0002145,Calle,Pasaje Francisco J Lopez,0001369
+0002146,Calle,Calle T M de Anchorena,0001369
+0002147,Pasaje,Pasaje Edmundo D Amicis,0001369
+0002148,Calle,Calle Santiago Ramon y Cajal,0001369
+0002149,Calle,Pasaje 65 Suroeste,0001369
+0002150,Avenida,Diagonal De la Torre,0001369
+0002151,Calle,Calle Dr Nicolas Avellaneda,0000863
+0002152,Calle,Calle San Martin,0000899
+0002153,Calle,Pasaje Jose Benito Gonzalez,0001369
+0002154,Calle,Pasaje Corrientes,0001620
+0002155,Calle,Calle Paulo IV,0000113
+0002156,Pasaje,Pasaje Primera Junta,0001369
+0002157,Calle,Calle Suipacha,0000082
+0002158,Avenida,Calle Juan Calchaqui,0001455
+0002159,Calle,Calle Dr Mariano Moreno,0001637
+0002160,Calle,Pasaje Dr Federico Leloir,0000760
+0002161,Calle,Pasaje Martin Berho,0000391
+0002162,Calle,Calle Congreso de Tucuman,0001369
+0002163,Calle,Pasaje 25 de Mayo,0000857
+0002164,Calle,Pasaje Escalada de San Martin,0001369
+0002165,Calle,Calle Francisco de Laprida,0001620
+0002166,Pasaje,Pasaje Gorriti,0001620
+0002167,Avenida,Calle Lola Mora,0000391
+0002168,Calle,Pasaje Santa Cruz,0000760
+0002169,Calle,Calle Fray Sta Maria de Oro,0001413
+0002170,Calle,Pasaje Araoz,0001615
+0002171,Pasaje,Calle Laprida,0000082
+0002172,Calle,Calle Salta,0000449
+0002173,Pasaje,Calle Lidoro J Quinteros,0001369
+0002174,Calle,Calle Florentino Ameghino,0001637
+0002175,Calle,Calle S/C,0000787
+0002176,Calle,Calle La Rioja,0000899
+0002177,Calle,Avenida Mons Gregorio de Jesus Diaz,0001157
+0002178,Calle,Calle Salta,0001516
+0002179,Calle,Avenida Fernando Mate de Luna,0001369
+0002180,Calle,Calle Dr Jose Ingenieros,0001369
+0002181,Pasaje,Calle Guemes,0001413
+0002182,Calle,Calle 10,0000787
+0002183,Calle,Calle 4,0000742
+0002184,Ruta Provincial,Calle Dr Manuel Belgrano,0000225
+0002185,Calle,Diagonal,0001455
+0002186,Calle,Calle 3,0001413
+0002187,Calle,Calle Ricardo Bascari,0000376
+0002188,Calle,Pasaje De los Proceres,0000082
+0002189,Calle,Pasaje Santa Fe,0001413
+0002190,Calle,Calle Diego de Villarroel,0001620
+0002191,Pasaje,Calle L N Alem,0001177
+0002192,Pasaje,Calle Asuncion,0001413
+0002193,Calle,Calle Honduras,0001157
+0002194,Pasaje,Calle Alberdi,0001620
+0002195,Calle,Pasaje Gral Simon Bolivar,0000760
+0002196,Calle,Calle Necochea,0001369
+0002197,Calle,Calle Bat de Salta,0000225
+0002198,Calle,Calle Dr M de Avellaneda,0001413
+0002199,Calle,Calle 9,0001615
+0002200,Calle,Calle Portugal,0001413
+0002201,Pasaje,Calle Pbto M Alberti,0001369
+0002202,Calle,Pasaje Rep del Brasil,0001157
+0002203,Calle,Calle Mario Bravo,0001177
+0002204,Calle,Calle Pres Bernardino Rivadavia,0001323
+0002205,Calle,Calle Comunal 12,0000498
+0002206,Calle,Calle Gral Cornelio Saavedra,0001369
+0002207,Calle,Calle Patricias Argentinas,0001369
+0002208,Calle,Calle España,0000113
+0002209,Pasaje,Calle Crisostomo Alvarez,0001369
+0002210,Calle,Calle Tte Benjamin Matienzo,0000374
+0002211,Calle,Calle Alejandro Heredia,0001615
+0002212,Calle,Pasaje Atahualpa Yupanqui,0001369
+0002213,Calle,Pasaje Pje 3,0000607
+0002214,Pasaje,Calle Estefano Nasif,0000082
+0002215,Pasaje,Ruta Provincial Rp 302,0001157
+0002216,Pasaje,Calle Ayacucho,0000760
+0002217,Pasaje,Calle La Plata,0001369
+0002218,Pasaje,Calle Dr Mariano Moreno,0000081
+0002219,Pasaje,Pasaje Mariano Sanchez de Loria,0001369
+0002220,Calle,Calle 6,0000899
+0002221,Calle,Calle Saavedra,0001637
+0002222,Calle,Avenida Francisco de Aguirre,0001369
+0002223,Calle,Calle Diego de Rojas,0001615
+0002224,Calle,Calle Dr Amadeo Sabattini,0000082
+0002225,Calle,Calle S/N 1,0000607
+0002226,Avenida,Calle R Alvarado,0001369
+0002227,Calle,Calle Viamonte,0001369
+0002228,Pasaje,Pasaje 86 Noroeste,0001369
+0002229,Calle,Calle Dr Juan Jose Paso,0001637
+0002230,Calle,Avenida Ing Jose Sortheix,0001637
+0002231,Calle,Calle Alvarez Condarco,0001615
+0002232,Calle,Calle Obispo Jose Eusebio Colombres,0001157
+0002233,Calle,Calle Alfonsina Storni,0000113
+0002234,Calle,Calle Entre Rios,0001413
+0002235,Calle,Calle Godoy Cruz,0000081
+0002236,Calle,Calle S/C,0000391
+0002237,Calle,Calle Bat de Suipacha,0000225
+0002238,Pasaje,Pasaje E Rodriguez,0001369
+0002239,Calle,Avenida Gral San Martin Sur,0001177
+0002240,Avenida,Calle Aristobulo del Valle,0001620
+0002241,Pasaje,Calle Saenz Peña,0000391
+0002242,Calle,Calle Dr Laguna,0000081
+0002243,Calle,Pasaje Jorge Luis Borges,0000760
+0002244,Calle,Calle Pablo Barton,0000935
+0002245,Calle,Pasaje 37 So,0001369
+0002246,Avenida,Calle Bernardino Rivadavia,0001516
+0002247,Avenida,Calle Dr Nicolas Avellaneda,0000374
+0002248,Calle,Calle San Martin,0000225
+0002249,Pasaje,Calle A Perez Palavecino,0001369
+0002250,Calle,Calle Entre Rios,0000760
+0002251,Calle,Calle Eva Peron,0001637
+0002252,Pasaje,Calle El Carmen,0000449
+0002253,Calle,Pasaje Mons Gregorio de Jesus Diaz,0001157
+0002254,Pasaje,Calle Blas Parera,0000760
+0002255,Calle,Calle Publica 1,0001111
+0002256,Pasaje,Ruta Provincial Rp 329,0001266
+0002257,Calle,Calle 1 de Mayo,0001157
+0002258,Calle,Calle Juan XXIII,0000935
+0002259,Avenida,Calle Julio Maidana,0001637
+0002260,Calle,Calle Cordoba,0001516
+0002261,Calle,Calle Buenos Aires,0000449
+0002262,Calle,Calle Maipu,0000082
+0002263,Calle,Pasaje Pje 18,0001369
+0002264,Calle,Pasaje Ing Suarez,0001369
+0002265,Calle,Calle Prof Garcia Soriano,0001369
+0002266,Calle,Pasaje Paraguay,0001620
+0002267,Pasaje,Calle 2,0001615
+0002268,Calle,Calle Portugal,0001637
+0002269,Calle,Calle Dr Mariano Moreno,0000857
+0002270,Calle,Calle La Providencia,0001461
+0002271,Ruta Provincial,Calle 8,0000742
+0002272,Calle,Calle 25 de Mayo,0000899
+0002273,Calle,Pasaje Atahualpa,0001369
+0002274,Calle,Calle Alte G Brown,0001413
+0002275,Ruta Provincial,Calle Cnel Juan Pringles,0000787
+0002276,Pasaje,Calle Jose E Colombres,0000113
+0002277,Calle,Calle Belgrano,0001266
+0002278,Pasaje,Calle Moreno,0000113
+0002279,Calle,Calle Constitucion Nacional,0001369
+0002280,Calle,Calle Benejan,0001369
+0002281,Calle,Pasaje Benito Lynch,0001369
+0002282,Pasaje,Calle Estrada,0000787
+0002283,Pasaje,Calle Dr Mariano Moreno,0001369
+0002284,Calle,Calle Martin Berho,0001369
+0002285,Pasaje,Calle Laprida,0001615
+0002286,Calle,Pasaje Juan XXIII,0000449
+0002287,Calle,Pasaje La Pinta,0001620
+0002288,Calle,Pasaje Juan Cruz Varela,0001369
+0002289,Calle,Pasaje 2 de Abril,0000113
+0002290,Calle,Pasaje Cabeza,0001413
+0002291,Calle,Pasaje Avila,0001369
+0002292,Avenida,Calle 1,0000411
+0002293,Calle,Calle Mario Bravo,0001157
+0002294,Calle,Calle Alberdi,0000391
+0002295,Calle,Calle Alte G Brown,0000760
+0002296,Calle,Calle 4,0000787
+0002297,Calle,Calle Gral Manuel Belgrano,0001323
+0002298,Calle,Avenida Inmigrantes Arabes,0001369
+0002299,Calle,Calle Virgen del Valle,0000760
+0002300,Calle,Pasaje Gral Guemes,0001323
+0002301,Pasaje,Calle Entre Rios,0001637
+0002302,Calle,Calle Sabina Petrelli,0000787
+0002303,Pasaje,Calle J Cerrano,0000081
+0002304,Calle,Calle Godoy Cruz,0001369
+0002305,Pasaje,Calle Prof del Castillo,0001369
+0002306,Pasaje,Calle S/C,0001485
+0002307,Calle,Calle Provincia de Jujuy,0001369
+0002308,Pasaje,Calle La Rioja,0000742
+0002309,Pasaje,Calle Comunal 6,0000498
+0002310,Calle,Pasaje Roma,0001369
+0002311,Calle,Calle Dalmacio Quiles,0000113
+0002312,Pasaje,Avenida Ramon Paz Posse,0001157
+0002313,Calle,Pasaje Manuel Garcia Morente,0001369
+0002314,Calle,Calle Isabel la Catolica,0001369
+0002315,Pasaje,Calle Gral Manuel Belgrano,0001157
+0002316,Calle,Calle Riobamba,0001449
+0002317,Calle,Calle Cnel Zelaya,0001369
+0002318,Pasaje,Avenida Santo Cristo,0001157
+0002319,Pasaje,Avenida Pte J D Peron,0000911
+0002320,Pasaje,Calle Salas y Valdez,0001369
+0002321,Avenida,Pasaje Jose Cabrera,0001369
+0002322,Calle,Calle Jujuy,0001413
+0002323,Pasaje,Calle Santa Fe,0001413
+0002324,Calle,Pasaje Miguel Diaz,0001369
+0002325,Calle,Calle La Paz,0001413
+0002326,Ruta Provincial,Pasaje Canal de Beagle,0001369
+0002327,Calle,Calle Reyes Catolicos,0001157
+0002328,Calle,Pasaje Esteban de Luca,0001369
+0002329,Calle,Calle Azcuenaga,0001615
+0002330,Ruta Provincial,Calle Dr Manuel Belgrano,0000863
+0002331,Calle,Avenida Mitre,0001620
+0002332,Calle,Calle San Juan,0000707
+0002333,Pasaje,Calle Alfonsina Storni,0000857
+0002334,Pasaje,Calle Independencia,0000225
+0002335,Calle,Calle Bernardino Rivadavia,0001620
+0002336,Pasaje,Calle Ginebra,0001449
+0002337,Calle,Calle Anacleto Tobar,0001369
+0002338,Calle,Calle Republica,0000449
+0002339,Calle,Pasaje Pje 12 B Noroeste,0001369
+0002340,Pasaje,Calle A Lincoln,0001369
+0002341,Calle,Calle Eudoro Araoz,0001369
+0002342,Calle,Calle Cabildo,0001266
+0002343,Calle,Ruta Provincial Rp 308,0001323
+0002344,Calle,Calle 25 de Mayo,0000449
+0002345,Calle,Calle Chile,0001413
+0002346,Calle,Calle Provincia de Chubut,0001369
+0002347,Calle,Ruta Provincial Rp 332,0000899
+0002348,Calle,Pasaje Pje 9,0001369
+0002349,Calle,Calle 25 de Mayo,0000607
+0002350,Calle,Pasaje J de Garay,0001369
+0002351,Calle,Calle Roca,0000449
+0002352,Calle,Calle Lamadrid,0000708
+0002353,Calle,Calle Dr Nicolas Avellaneda,0000707
+0002354,Calle,Pasaje Lola Mora,0001461
+0002355,Calle,Pasaje Pareda,0000857
+0002356,Pasaje,Calle San Martin,0001455
+0002357,Calle,Pasaje Antonio de Aragon,0001369
+0002358,Pasaje,Diagonal Diag 70 no,0001369
+0002359,Calle,Calle Juan Domingo Peron,0001637
+0002360,Calle,Calle Muñecas,0000081
+0002361,Calle,Calle Alte G Brown,0001637
+0002362,Calle,Calle 24 de Septiembre,0000082
+0002363,Calle,Calle 9 de Julio,0000787
+0002364,Calle,Calle Pedro N Berreta,0001369
+0002365,Calle,Avenida 25 de Mayo,0001620
+0002366,Calle,Calle Dean Funes,0001369
+0002367,Pasaje,Calle Buenos Aires,0001111
+0002368,Calle,Calle Caseros,0001615
+0002369,Calle,Calle Corrientes,0001516
+0002370,Calle,Calle España,0000708
+0002371,Calle,Calle Boedo,0001413
+0002372,Calle,Calle Avellaneda,0001266
+0002373,Pasaje,Calle Isabel Belmont,0001637
+0002374,Ruta Provincial,Pasaje Pje 49 Suroeste,0001369
+0002375,Calle,Calle Cacique Tupac Amaru,0001455
+0002376,Calle,Pasaje Gramajo,0001413
+0002377,Calle,Calle Fray Sta Maria de Oro,0001369
+0002378,Calle,Pasaje Pje 47 Suroeste,0001369
+0002379,Ruta Provincial,Pasaje Amadeo Rizatto,0001369
+0002380,Avenida,Calle Constantino Iosa,0001615
+0002381,Calle,Pasaje Provincia de Santa Cruz,0001369
+0002382,Calle,Pasaje Roman Figueroa,0001369
+0002383,Pasaje,Calle Fray Manuel Perez,0001157
+0002384,Calle,Calle Mameren,0001369
+0002385,Avenida,Pasaje Alfredo Guzman,0000225
+0002386,Calle,Calle Luis F Nougues,0001369
+0002387,Pasaje,Calle San Salvador,0001369
+0002388,Calle,Pasaje Lola Mora,0000760
+0002389,Calle,Calle 24 de Septiembre,0000113
+0002390,Pasaje,Calle 1,0000857
+0002391,Calle,Pasaje Renteria,0001369
+0002392,Pasaje,Pasaje Lourdes,0000760
+0002393,Pasaje,Pasaje Libertad,0001637
+0002394,Calle,Avenida Irineo Leguizamo,0001369
+0002395,Calle,Calle Marapac,0001637
