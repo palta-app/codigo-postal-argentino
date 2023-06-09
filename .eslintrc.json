@@ -1,9 +1,19 @@
 {
+    "globals": {
+        "document": "readonly",
+        "globalThis": "readonly",
+        "console": "readonly"
+    },
     "rules": {
         "indent": ["error", 4],
         "no-unused-vars": "error",
         "no-warning-comments": "warn",
-        "quotes": ["warn", "single"]
+        "quotes": ["warn", "single"],
+        "vars-on-top": "error",
+        "no-var": "error",
+        "no-undef": "error",
+        "import/no-unresolved": "error",
+        "node/no-missing-import": "error"
     },
     "parserOptions": {
         "ecmaVersion": "latest",
