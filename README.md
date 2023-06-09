@@ -30,3 +30,20 @@ La estructura de la solución se compone de dos Spiders. La primera ([postal_cod
 La segunda Spider [localities](https://github.com/jpradas1/codigo-postal-argentino/tree/main/localities) es la que se encarga verdaderamente de exraer cada uno de los CPA. Con ayuda de los datos extraidos por la primera Spider, esta extrae las [localidades](https://github.com/jpradas1/codigo-postal-argentino/blob/main/data/locality.csv) de cada ciudad como su codigo postal. Sin embargo, no todas las localidades están representadas por un único CPA sino que son las calles de cada localidad que tienen su propio CPA, como se explicó anteriormente. Por lo tanto, para cada una de estas localidades se extrae la [calle, el número, su paridad y su CPA](https://github.com/jpradas1/codigo-postal-argentino/blob/main/data/street.csv). Una vez más la data es almacenada en al misma base de datos SQL alimantada según [pipeline.py](https://github.com/jpradas1/codigo-postal-argentino/blob/main/localities/localities/pipelines.py) de esta Spider. Aun así se ha guardado en formato CSV las data relacionada con el estado o provincia de Buenos Aires cuyas ciudades inicien con "A".
 
 ## Ejecución
+Para correr adecuadamente el código (los pasos a mostrar son para una máquina con GNU/Linux):
+### Virtual Environment
+El primer paso es crear un entorno virtual
+```
+python -m venv venv
+source venv/bin/activate
+```
+Una vez activado el entorno virtual continuamos con la descarga de las librarías necesarias
+```
+pip install -r requirements.txt
+```
+### Spiders
+La primera Spider a ejecutar espostal_code:
+```
+cd postal_code
+scrapy crawl councountry="argentina"
+```
