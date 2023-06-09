@@ -16,7 +16,7 @@ Las localidades `Lesca` y `Tablada Oeste` se encuentra dentro de Entre Ríos y n
 
 <img src='./assets/falla-encontrada-2.png'/>
 
-## Correr el archivo principal
+## Correr el archivo principal (Como funciona el Repositorio)
 
 Con el comando `pnpm start`, corre el programa de consola interactivo.. dentro de las cuales tenemos 3 opciones para elegir:
 
@@ -25,3 +25,12 @@ Con el comando `pnpm start`, corre el programa de consola interactivo.. dentro d
 -   Opcion 2: Consultar el `CPA` dando como informacion: Provincia, Localidad, Calle y altura.
 
 -   Opcion 3: Consultar a que provincia, localidad, calle y altura (si corresponde) pertenece el `CPA` proporcionado.
+
+## Aclaraciones importantes (nombrar que queria hacer originalmente, pero que entregue por el tiempo...)
+
+Me gustaria aclarar, que este resultado llegado no es el final, sigo trabajando en ello. Originalmente pensé en hacer un programa de consola interactivo, en donde hayan 4 opciones:
+
+-   Opcion 1:
+-   Opcion 2:
+-   Opcion 3:
+-   Opcion 4:
