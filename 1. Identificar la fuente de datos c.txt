@@ -1,0 +1,11 @@
+1. Identificar la fuente de datos confiable: Investiga sitios web gubernamentales, servicios postales u otras fuentes oficiales que puedan proporcionar la información de los CPAs en su nueva versión de 8 caracteres. Asegúrate de utilizar fuentes confiables y cumplir con los términos de uso y las políticas de privacidad.
+
+2. Analizar la estructura de la página web: Examina cómo se presenta la información de los CPAs en la página web seleccionada. Observa si los datos están disponibles en una tabla, en un formulario de búsqueda u otra estructura. Esto te ayudará a comprender cómo extraer los datos de manera efectiva.
+
+3. Desarrollar un scraper: Utiliza Python u otro lenguaje de programación para desarrollar un scraper. Puedes utilizar bibliotecas como BeautifulSoup o Scrapy para navegar por el sitio web, enviar consultas de búsqueda y extraer los datos de los CPAs en su nueva versión. Asegúrate de respetar los términos de uso y no sobrecargar los servidores.
+
+4. Procesar y almacenar los datos: Una vez que hayas obtenido los datos de los CPAs, procesa la información y almacénala en un formato adecuado, como una base de datos o un archivo CSV. Asegúrate de estructurar los datos de manera que sean fáciles de acceder y compartir con la comunidad.
+
+5. Mantener la información actualizada: Ten en cuenta que los CPAs pueden cambiar con el tiempo. Planifica una estrategia para mantener los datos actualizados, ya sea ejecutando el scraper periódicamente o buscando fuentes confiables que proporcionen actualizaciones automáticas.
+
+6. Compartir los datos con la comunidad: Si deseas compartir los datos recopilados con la comunidad argentina, considera la posibilidad de alojarlos en un repositorio público o crear una plataforma donde otros puedan acceder y utilizar la información. Asegúrate de respetar los derechos de autor y las políticas de uso de la información.
