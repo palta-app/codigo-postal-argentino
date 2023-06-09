@@ -1,0 +1,1094 @@
+{
+    "provinceName": "Tierra del Fuego",
+    "provinceLink": "https://codigo-postal.co/argentina/tierra-del-fuego/",
+    "locationsCount": 18606,
+    "locationWithCPALink": 91,
+    "locations": [
+        {
+            "locationId": 18516,
+            "locationName": "Aserradero Arroyo",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/aserradero-arroyo/",
+            "cpa": {
+                "code": [
+                    "V9420XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18517,
+            "locationName": "Bahia Lapataia",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/bahia-lapataia/",
+            "cpa": {
+                "code": [
+                    "V9410XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18518,
+            "locationName": "Base Aerea Teniente Matienzo",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/base-aerea-teniente-matienzo/",
+            "cpa": {
+                "code": [
+                    "V9411XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18519,
+            "locationName": "Base Aerea Vicecomod Marambio",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/base-aerea-vicecomod-marambio/",
+            "cpa": {
+                "code": [
+                    "V9411XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18520,
+            "locationName": "Base Belgrano",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/base-belgrano/",
+            "cpa": {
+                "code": [
+                    "V9411XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18521,
+            "locationName": "Base Belgrano 2",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/base-belgrano-2/",
+            "cpa": {
+                "code": [
+                    "V9411XAQ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18522,
+            "locationName": "Base Belgrano 3",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/base-belgrano-3/",
+            "cpa": {
+                "code": [
+                    "V9411XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18523,
+            "locationName": "Base Cientifica Tte Jubany",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/base-cientifica-tte-jubany/",
+            "cpa": {
+                "code": [
+                    "V9411XAO"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18524,
+            "locationName": "Base Ejercito Esperanza",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/base-ejercito-esperanza/",
+            "cpa": {
+                "code": [
+                    "V9411XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18525,
+            "locationName": "Base Ejercito Gral San Martin",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/base-ejercito-gral-san-martin/",
+            "cpa": {
+                "code": [
+                    "V9411XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18526,
+            "locationName": "Base Ejercito Primavera",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/base-ejercito-primavera/",
+            "cpa": {
+                "code": [
+                    "V9411XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18527,
+            "locationName": "Base Ejercito Sobral",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/base-ejercito-sobral/",
+            "cpa": {
+                "code": [
+                    "V9411XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18528,
+            "locationName": "Base Orcadas",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/base-orcadas/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18529,
+            "locationName": "Cabaña Ruby",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/cabana-ruby/",
+            "cpa": {
+                "code": [
+                    "V9420XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18530,
+            "locationName": "Cabo San Pablo",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/cabo-san-pablo/",
+            "cpa": {
+                "code": [
+                    "V9420XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18531,
+            "locationName": "Campamento Central Ypf",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/campamento-central-ypf/",
+            "cpa": {
+                "code": [
+                    "V9420XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18532,
+            "locationName": "Campamento los Chorrillos",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/campamento-los-chorrillos/",
+            "cpa": {
+                "code": [
+                    "V9420XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18533,
+            "locationName": "Comisaria Radman",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/comisaria-radman/",
+            "cpa": {
+                "code": [
+                    "V9420XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18534,
+            "locationName": "Destacamento Melchior",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/destacamento-melchior/",
+            "cpa": {
+                "code": [
+                    "V9411XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18535,
+            "locationName": "El Paramo",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/el-paramo/",
+            "cpa": {
+                "code": [
+                    "V9420XCI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18536,
+            "locationName": "Estacion Aeronaval",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estacion-aeronaval/",
+            "cpa": {
+                "code": [
+                    "V9420XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18537,
+            "locationName": "Estacion Cientifica Alte Brown",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estacion-cientifica-alte-brown/",
+            "cpa": {
+                "code": [
+                    "V9411XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18538,
+            "locationName": "Estacion Osn",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estacion-osn/",
+            "cpa": {
+                "code": [
+                    "V9420XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18539,
+            "locationName": "Estancia Aurelia",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-aurelia/",
+            "cpa": {
+                "code": [
+                    "V9420XBQ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18540,
+            "locationName": "Estancia Buenos Aires",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-buenos-aires/",
+            "cpa": {
+                "code": [
+                    "V9420XAR"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18541,
+            "locationName": "Estancia Carmen",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-carmen/",
+            "cpa": {
+                "code": [
+                    "V9420XAS"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18542,
+            "locationName": "Estancia Cauchico",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-cauchico/",
+            "cpa": {
+                "code": [
+                    "V9420XCF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18543,
+            "locationName": "Estancia Costancia",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-costancia/",
+            "cpa": {
+                "code": [
+                    "V9420XCG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18544,
+            "locationName": "Estancia Cullen",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-cullen/",
+            "cpa": {
+                "code": [
+                    "V9420XCH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18545,
+            "locationName": "Estancia Despedida",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-despedida/",
+            "cpa": {
+                "code": [
+                    "V9420XCA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18546,
+            "locationName": "Estancia Dos Hemanas",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-dos-hemanas/",
+            "cpa": {
+                "code": [
+                    "V9420XAT"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18547,
+            "locationName": "Estancia el Roble",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-el-roble/",
+            "cpa": {
+                "code": [
+                    "V9420XAU"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18548,
+            "locationName": "Estancia el Rodeo",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-el-rodeo/",
+            "cpa": {
+                "code": [
+                    "V9420XAV"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18549,
+            "locationName": "Estancia el Salvador",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-el-salvador/",
+            "cpa": {
+                "code": [
+                    "V9420XBA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18550,
+            "locationName": "Estancia Guazu Cue",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-guazu-cue/",
+            "cpa": {
+                "code": [
+                    "V9420XBB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18551,
+            "locationName": "Estancia Harberton",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-harberton/",
+            "cpa": {
+                "code": [
+                    "V9410XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18552,
+            "locationName": "Estancia Herminita",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-herminita/",
+            "cpa": {
+                "code": [
+                    "V9420XAW"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18553,
+            "locationName": "Estancia Ines",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-ines/",
+            "cpa": {
+                "code": [
+                    "V9420XAX"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18554,
+            "locationName": "Estancia Jose Menendez",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-jose-menendez/",
+            "cpa": {
+                "code": [
+                    "V9420XAY"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18555,
+            "locationName": "Estancia la Criolla",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-la-criolla/",
+            "cpa": {
+                "code": [
+                    "V9420XAZ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18556,
+            "locationName": "Estancia la Fueguina",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-la-fueguina/",
+            "cpa": {
+                "code": [
+                    "V9420XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18557,
+            "locationName": "Estancia la Indiana",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-la-indiana/",
+            "cpa": {
+                "code": [
+                    "V9420XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18558,
+            "locationName": "Estancia la Porteña",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-la-portena/",
+            "cpa": {
+                "code": [
+                    "V9420XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18559,
+            "locationName": "Estancia las Hijas",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-las-hijas/",
+            "cpa": {
+                "code": [
+                    "V9420XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18560,
+            "locationName": "Estancia las Violetas",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-las-violetas/",
+            "cpa": {
+                "code": [
+                    "V9420XAM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18561,
+            "locationName": "Estancia Laura",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-laura/",
+            "cpa": {
+                "code": [
+                    "V9420XAN"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18562,
+            "locationName": "Estancia Libertad",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-libertad/",
+            "cpa": {
+                "code": [
+                    "V9420XAO"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18563,
+            "locationName": "Estancia los Cerros",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-los-cerros/",
+            "cpa": {
+                "code": [
+                    "V9420XAP"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18564,
+            "locationName": "Estancia los Flamencos",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-los-flamencos/",
+            "cpa": {
+                "code": [
+                    "V9420XAQ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18565,
+            "locationName": "Estancia Maria Behety",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-maria-behety/",
+            "cpa": {
+                "code": [
+                    "V9420XBF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18566,
+            "locationName": "Estancia Maria Cristina",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-maria-cristina/",
+            "cpa": {
+                "code": [
+                    "V9420XBG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18567,
+            "locationName": "Estancia Maria Luisa",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-maria-luisa/",
+            "cpa": {
+                "code": [
+                    "V9420XBH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18568,
+            "locationName": "Estancia Marina",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-marina/",
+            "cpa": {
+                "code": [
+                    "V9420XBI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18569,
+            "locationName": "Estancia Miramonte",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-miramonte/",
+            "cpa": {
+                "code": [
+                    "V9420XBJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18570,
+            "locationName": "Estancia Pirinaica",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-pirinaica/",
+            "cpa": {
+                "code": [
+                    "V9420XBR"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18571,
+            "locationName": "Estancia Policarpo",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-policarpo/",
+            "cpa": {
+                "code": [
+                    "V9420XBS"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18572,
+            "locationName": "Estancia Rio Claro",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-rio-claro/",
+            "cpa": {
+                "code": [
+                    "V9420XBT"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18573,
+            "locationName": "Estancia Rio Ewan",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-rio-ewan/",
+            "cpa": {
+                "code": [
+                    "V9420XBC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18574,
+            "locationName": "Estancia Rio Irigoyen",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-rio-irigoyen/",
+            "cpa": {
+                "code": [
+                    "V9420XBD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18575,
+            "locationName": "Estancia Rivadavia",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-rivadavia/",
+            "cpa": {
+                "code": [
+                    "V9420XBE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18576,
+            "locationName": "Estancia Rolito",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-rolito/",
+            "cpa": {
+                "code": [
+                    "V9420XBU"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18577,
+            "locationName": "Estancia Rosita",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-rosita/",
+            "cpa": {
+                "code": [
+                    "V9420XBV"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18578,
+            "locationName": "Estancia Ruby",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-ruby/",
+            "cpa": {
+                "code": [
+                    "V9420XBW"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18579,
+            "locationName": "Estancia San Jose",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-san-jose/",
+            "cpa": {
+                "code": [
+                    "V9420XBX"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18580,
+            "locationName": "Estancia San Julio",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-san-julio/",
+            "cpa": {
+                "code": [
+                    "V9420XBY"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18581,
+            "locationName": "Estancia San Justo",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-san-justo/",
+            "cpa": {
+                "code": [
+                    "V9420XBZ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18582,
+            "locationName": "Estancia San Martin",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-san-martin/",
+            "cpa": {
+                "code": [
+                    "V9420XBK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18583,
+            "locationName": "Estancia San Pablo",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-san-pablo/",
+            "cpa": {
+                "code": [
+                    "V9420XBL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18584,
+            "locationName": "Estancia Santa Ana",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-santa-ana/",
+            "cpa": {
+                "code": [
+                    "V9420XBM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18585,
+            "locationName": "Estancia Sara",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-sara/",
+            "cpa": {
+                "code": [
+                    "V9420XBN"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18586,
+            "locationName": "Estancia Tepi",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-tepi/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18587,
+            "locationName": "Estancia Viamonte",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/estancia-viamonte/",
+            "cpa": {
+                "code": [
+                    "V9420XBP"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18588,
+            "locationName": "Frigorifico Cap",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/frigorifico-cap/",
+            "cpa": {
+                "code": [
+                    "V9420XCB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18589,
+            "locationName": "Hosteria Kaiken",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/hosteria-kaiken/",
+            "cpa": {
+                "code": [
+                    "V9410XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18590,
+            "locationName": "Isla de los Estados",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/isla-de-los-estados/",
+            "cpa": {
+                "code": [
+                    "V9410XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18591,
+            "locationName": "Isla Gran Malvina",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/isla-gran-malvina/",
+            "cpa": {
+                "code": [
+                    "V9409XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18592,
+            "locationName": "Isla Joinville",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/isla-joinville/",
+            "cpa": {
+                "code": [
+                    "V9411XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18593,
+            "locationName": "Isla Shetland del Sur",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/isla-shetland-del-sur/",
+            "cpa": {
+                "code": [
+                    "V9411XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18594,
+            "locationName": "Isla Soledad",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/isla-soledad/",
+            "cpa": {
+                "code": [
+                    "V9409XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18595,
+            "locationName": "Islas Georgias del Sur",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/islas-georgias-del-sur/",
+            "cpa": {
+                "code": [
+                    "V9411XAM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18596,
+            "locationName": "Islas Orcadas del Sur",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/islas-orcadas-del-sur/",
+            "cpa": {
+                "code": [
+                    "V9411XAN"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18597,
+            "locationName": "Islas Sandwich del Sur",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/islas-sandwich-del-sur/",
+            "cpa": {
+                "code": [
+                    "V9411XAR"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18598,
+            "locationName": "Lago Khami",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/lago-khami/",
+            "cpa": {
+                "code": [
+                    "V9420XCC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18599,
+            "locationName": "Mision Salesiana Mñor Fagnano",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/mision-salesiana-mnor-fagnano/",
+            "cpa": {
+                "code": [
+                    "V9420XCL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18600,
+            "locationName": "Punta Maria",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/punta-maria/",
+            "cpa": {
+                "code": [
+                    "V9420XCD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18601,
+            "locationName": "Rio Grande",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/rio-grande/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/tierra-del-fuego/calles-de-rio-grande/"
+            }
+        },
+        {
+            "locationId": 18602,
+            "locationName": "San Sebastian",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/san-sebastian/",
+            "cpa": {
+                "code": [
+                    "V9420XCJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18603,
+            "locationName": "Santa Ines",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/santa-ines/",
+            "cpa": {
+                "code": [
+                    "V9420XCK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18604,
+            "locationName": "Seccion Aviles  Estancia San J",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/seccion-aviles-estancia-san-j/",
+            "cpa": {
+                "code": [
+                    "V9420XCE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 18605,
+            "locationName": "Tolhuin",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/tolhuin/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/tierra-del-fuego/calles-de-tolhuin/"
+            }
+        },
+        {
+            "locationId": 18606,
+            "locationName": "Ushuaia",
+            "locationLink": "https://codigo-postal.co/argentina/tierra-del-fuego/ushuaia/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/tierra-del-fuego/calles-de-ushuaia/"
+            }
+        }
+    ]
+}

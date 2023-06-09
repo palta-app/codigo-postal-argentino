@@ -1,0 +1,2460 @@
+{
+    "provinceName": "Santa Cruz",
+    "provinceLink": "https://codigo-postal.co/argentina/santa-cruz/",
+    "locationsCount": 15890,
+    "locationWithCPALink": 208,
+    "locations": [
+        {
+            "locationId": 15683,
+            "locationName": "28 de Noviembre",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/28-de-noviembre/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/santa-cruz/calles-de-28-de-noviembre/"
+            }
+        },
+        {
+            "locationId": 15684,
+            "locationName": "Aguada a Pique",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/aguada-a-pique/",
+            "cpa": {
+                "code": [
+                    "Z9051XAR"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15685,
+            "locationName": "Aguada Alegre",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/aguada-alegre/",
+            "cpa": {
+                "code": [
+                    "Z9310XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15686,
+            "locationName": "Aguada Escondida",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/aguada-escondida/",
+            "cpa": {
+                "code": [
+                    "Z9019XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15687,
+            "locationName": "Aguada Grande",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/aguada-grande/",
+            "cpa": {
+                "code": [
+                    "Z9053XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15688,
+            "locationName": "Aguada la Oveja",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/aguada-la-oveja/",
+            "cpa": {
+                "code": [
+                    "Z9051XAS"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15689,
+            "locationName": "Alma Grande",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/alma-grande/",
+            "cpa": {
+                "code": [
+                    "Z9015XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15690,
+            "locationName": "An Aike",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/an-aike/",
+            "cpa": {
+                "code": [
+                    "Z9400XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15691,
+            "locationName": "Bahia Langara",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/bahia-langara/",
+            "cpa": {
+                "code": [
+                    "Z9011XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15692,
+            "locationName": "Bahia Laura",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/bahia-laura/",
+            "cpa": {
+                "code": [
+                    "Z9310XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15693,
+            "locationName": "Bahia Tranquila",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/bahia-tranquila/",
+            "cpa": {
+                "code": [
+                    "Z9405XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15694,
+            "locationName": "Bajo Caracoles",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/bajo-caracoles/",
+            "cpa": {
+                "code": [
+                    "Z9315XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15695,
+            "locationName": "Bajo Fuego",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/bajo-fuego/",
+            "cpa": {
+                "code": [
+                    "Z9310XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15696,
+            "locationName": "Bella Vista",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/bella-vista/",
+            "cpa": {
+                "code": [
+                    "Z9401XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15697,
+            "locationName": "Cabo Blanco",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/cabo-blanco/",
+            "cpa": {
+                "code": [
+                    "Z9051XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15698,
+            "locationName": "Cabo de las Virgenes",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/cabo-de-las-virgenes/",
+            "cpa": {
+                "code": [
+                    "Z9400XAR"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15699,
+            "locationName": "Cabo Tres Puntas",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/cabo-tres-puntas/",
+            "cpa": {
+                "code": [
+                    "Z9051XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15700,
+            "locationName": "Caleta Olivia",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/caleta-olivia/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/santa-cruz/calles-de-caleta-olivia/"
+            }
+        },
+        {
+            "locationId": 15701,
+            "locationName": "Cameron",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/cameron/",
+            "cpa": {
+                "code": [
+                    "Z9017XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15702,
+            "locationName": "Campamento Dorotea",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/campamento-dorotea/",
+            "cpa": {
+                "code": [
+                    "Z9407XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15703,
+            "locationName": "Camuzu Aike",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/camuzu-aike/",
+            "cpa": {
+                "code": [
+                    "Z9400XAS"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15704,
+            "locationName": "Cañada de las Vacas",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/canada-de-las-vacas/",
+            "cpa": {
+                "code": [
+                    "Z9300XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15705,
+            "locationName": "Cañadon 11 de Setiembre",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/canadon-11-de-setiembre/",
+            "cpa": {
+                "code": [
+                    "Z9310XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15706,
+            "locationName": "Cañadon Botello",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/canadon-botello/",
+            "cpa": {
+                "code": [
+                    "Z9040XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15707,
+            "locationName": "Cañadon de las Vacas",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/canadon-de-las-vacas/",
+            "cpa": {
+                "code": [
+                    "Z9300XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15708,
+            "locationName": "Cañadon del Rancho",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/canadon-del-rancho/",
+            "cpa": {
+                "code": [
+                    "Z9300XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15709,
+            "locationName": "Cañadon del Toro",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/canadon-del-toro/",
+            "cpa": {
+                "code": [
+                    "Z9303XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15710,
+            "locationName": "Cañadon Fabre",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/canadon-fabre/",
+            "cpa": {
+                "code": [
+                    "Z9400XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15711,
+            "locationName": "Cañadon Leon",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/canadon-leon/",
+            "cpa": {
+                "code": [
+                    "Z9311XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15712,
+            "locationName": "Cañadon Molinari",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/canadon-molinari/",
+            "cpa": {
+                "code": [
+                    "Z9311XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15713,
+            "locationName": "Cañadon Pluma",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/canadon-pluma/",
+            "cpa": {
+                "code": [
+                    "Z9017XAT"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15714,
+            "locationName": "Cañadon Seco",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/canadon-seco/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/santa-cruz/calles-de-canadon-seco/"
+            }
+        },
+        {
+            "locationId": 15715,
+            "locationName": "Cancha Carrera",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/cancha-carrera/",
+            "cpa": {
+                "code": [
+                    "Z9400XAT"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15716,
+            "locationName": "Cap",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/cap/",
+            "cpa": {
+                "code": [
+                    "Z9400XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15717,
+            "locationName": "Cara Mala",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/cara-mala/",
+            "cpa": {
+                "code": [
+                    "Z9313XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15718,
+            "locationName": "Cerro Alto",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/cerro-alto/",
+            "cpa": {
+                "code": [
+                    "Z9053XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15719,
+            "locationName": "Cerro la Setenta",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/cerro-la-setenta/",
+            "cpa": {
+                "code": [
+                    "Z9017XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15720,
+            "locationName": "Cerro Mangrullo",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/cerro-mangrullo/",
+            "cpa": {
+                "code": [
+                    "Z9011XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15721,
+            "locationName": "Cerro Moro",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/cerro-moro/",
+            "cpa": {
+                "code": [
+                    "Z9019XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15722,
+            "locationName": "Cerro Negro",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/cerro-negro/",
+            "cpa": {
+                "code": [
+                    "Z9053XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15723,
+            "locationName": "Cerro Palique",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/cerro-palique/",
+            "cpa": {
+                "code": [
+                    "Z9400XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15724,
+            "locationName": "Cerro Puntudo",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/cerro-puntudo/",
+            "cpa": {
+                "code": [
+                    "Z9051XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15725,
+            "locationName": "Cerro Redondo",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/cerro-redondo/",
+            "cpa": {
+                "code": [
+                    "Z9051XAT",
+                    "Z9051XAT"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15726,
+            "locationName": "Cerro Renzel",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/cerro-renzel/",
+            "cpa": {
+                "code": [
+                    "Z9017XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15727,
+            "locationName": "Cerro Silva",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/cerro-silva/",
+            "cpa": {
+                "code": [
+                    "Z9017XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15728,
+            "locationName": "Chall Aike",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/chall-aike/",
+            "cpa": {
+                "code": [
+                    "Z9400XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15729,
+            "locationName": "Charles Fuhr",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/charles-fuhr/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/santa-cruz/calles-de-charles-fuhr/"
+            }
+        },
+        {
+            "locationId": 15730,
+            "locationName": "Chonque",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/chonque/",
+            "cpa": {
+                "code": [
+                    "Z9303XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15731,
+            "locationName": "Colonia Carlos Pellegrini",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/colonia-carlos-pellegrini/",
+            "cpa": {
+                "code": [
+                    "Z9017XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15732,
+            "locationName": "Colonia Leandro N Alem",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/colonia-leandro-n-alem/",
+            "cpa": {
+                "code": [
+                    "Z9040XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15733,
+            "locationName": "Comandante Luis Piedrabuena",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/comandante-luis-piedrabuena/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/santa-cruz/calles-de-comandante-luis-piedrabuena/"
+            }
+        },
+        {
+            "locationId": 15734,
+            "locationName": "Condor",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/condor/",
+            "cpa": {
+                "code": [
+                    "Z9400XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15735,
+            "locationName": "Condor Clif",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/condor-clif/",
+            "cpa": {
+                "code": [
+                    "Z9405XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15736,
+            "locationName": "Coronel Guarumba",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/coronel-guarumba/",
+            "cpa": {
+                "code": [
+                    "Z9400XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15737,
+            "locationName": "Coronel Martin Irigoyen",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/coronel-martin-irigoyen/",
+            "cpa": {
+                "code": [
+                    "Z9407XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15738,
+            "locationName": "Cueva de las Manos",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/cueva-de-las-manos/",
+            "cpa": {
+                "code": [
+                    "Z9017XAS"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15739,
+            "locationName": "Desamparados",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/desamparados/",
+            "cpa": {
+                "code": [
+                    "Z9053XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15740,
+            "locationName": "El Baile",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/el-baile/",
+            "cpa": {
+                "code": [
+                    "Z9303XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15741,
+            "locationName": "El Barbucho",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/el-barbucho/",
+            "cpa": {
+                "code": [
+                    "Z9053XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15742,
+            "locationName": "El Calafate",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/el-calafate/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/santa-cruz/calles-de-el-calafate/"
+            }
+        },
+        {
+            "locationId": 15743,
+            "locationName": "El Cerrito",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/el-cerrito/",
+            "cpa": {
+                "code": [
+                    "Z9405XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15744,
+            "locationName": "El Chalten",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/el-chalten/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/santa-cruz/calles-de-el-chalten/"
+            }
+        },
+        {
+            "locationId": 15745,
+            "locationName": "El Chara",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/el-chara/",
+            "cpa": {
+                "code": [
+                    "Z9051XAU"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15746,
+            "locationName": "El Guadal",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/el-guadal/",
+            "cpa": {
+                "code": [
+                    "Z9303XAT",
+                    "Z9303XAT"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15747,
+            "locationName": "El Hueco",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/el-hueco/",
+            "cpa": {
+                "code": [
+                    "Z9051XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15748,
+            "locationName": "El Loro",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/el-loro/",
+            "cpa": {
+                "code": [
+                    "Z9051XAP"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15749,
+            "locationName": "El Pan de Azucar",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/el-pan-de-azucar/",
+            "cpa": {
+                "code": [
+                    "Z9303XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15750,
+            "locationName": "El Paso",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/el-paso/",
+            "cpa": {
+                "code": [
+                    "Z9303XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15751,
+            "locationName": "El Pluma",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/el-pluma/",
+            "cpa": {
+                "code": [
+                    "Z9017XAU"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15752,
+            "locationName": "El Polvorin",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/el-polvorin/",
+            "cpa": {
+                "code": [
+                    "Z9051XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15753,
+            "locationName": "El Portezuelo",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/el-portezuelo/",
+            "cpa": {
+                "code": [
+                    "Z9040XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15754,
+            "locationName": "El Salado",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/el-salado/",
+            "cpa": {
+                "code": [
+                    "Z9313XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15755,
+            "locationName": "El Turbio",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/el-turbio/",
+            "cpa": {
+                "code": [
+                    "Z9407XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15756,
+            "locationName": "El Zurdo",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/el-zurdo/",
+            "cpa": {
+                "code": [
+                    "Z9401XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15757,
+            "locationName": "Estacion Ing Atilio Cappa",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/estacion-ing-atilio-cappa/",
+            "cpa": {
+                "code": [
+                    "Z9400XAN"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15758,
+            "locationName": "Faro Cabo Guardian",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/faro-cabo-guardian/",
+            "cpa": {
+                "code": [
+                    "Z9313XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15759,
+            "locationName": "Faro Campana",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/faro-campana/",
+            "cpa": {
+                "code": [
+                    "Z9313XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15760,
+            "locationName": "Fitz Roy",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/fitz-roy/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/santa-cruz/calles-de-fitz-roy/"
+            }
+        },
+        {
+            "locationId": 15761,
+            "locationName": "Floradora",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/floradora/",
+            "cpa": {
+                "code": [
+                    "Z9053XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15762,
+            "locationName": "Fortaleza",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/fortaleza/",
+            "cpa": {
+                "code": [
+                    "Z9401XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15763,
+            "locationName": "Fuentes de Coyle",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/fuentes-de-coyle/",
+            "cpa": {
+                "code": [
+                    "Z9401XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15764,
+            "locationName": "Garminue",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/garminue/",
+            "cpa": {
+                "code": [
+                    "Z9303XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15765,
+            "locationName": "Gaypon",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/gaypon/",
+            "cpa": {
+                "code": [
+                    "Z9407XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15766,
+            "locationName": "Glencross",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/glencross/",
+            "cpa": {
+                "code": [
+                    "Z9407XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15767,
+            "locationName": "Gobernador Gregores",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/gobernador-gregores/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/santa-cruz/calles-de-gobernador-gregores/"
+            }
+        },
+        {
+            "locationId": 15768,
+            "locationName": "Gobernador Mayer",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/gobernador-mayer/",
+            "cpa": {
+                "code": [
+                    "Z9400XAO"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15769,
+            "locationName": "Gobernador Moyano",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/gobernador-moyano/",
+            "cpa": {
+                "code": [
+                    "Z9050XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15770,
+            "locationName": "Guardaparque Fitz Roy",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/guardaparque-fitz-roy/",
+            "cpa": {
+                "code": [
+                    "Z9301XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15771,
+            "locationName": "H Yrigoyen Lago Posadas",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/h-yrigoyen-lago-posadas/",
+            "cpa": {
+                "code": [
+                    "Z9315XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15772,
+            "locationName": "Hotel las Horquetas",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/hotel-las-horquetas/",
+            "cpa": {
+                "code": [
+                    "Z9315XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15773,
+            "locationName": "India Muerta",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/india-muerta/",
+            "cpa": {
+                "code": [
+                    "Z9017XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15774,
+            "locationName": "Ingeniero Atilio Cappa",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/ingeniero-atilio-cappa/",
+            "cpa": {
+                "code": [
+                    "Z9400XAU"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15775,
+            "locationName": "Ingeniero Pallavicini",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/ingeniero-pallavicini/",
+            "cpa": {
+                "code": [
+                    "Z9040XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15776,
+            "locationName": "Jaramillo",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/jaramillo/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/santa-cruz/calles-de-jaramillo/"
+            }
+        },
+        {
+            "locationId": 15777,
+            "locationName": "Jelaina",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/jelaina/",
+            "cpa": {
+                "code": [
+                    "Z9015XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15778,
+            "locationName": "Julia Dufour",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/julia-dufour/",
+            "cpa": {
+                "code": [
+                    "Z9407XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15779,
+            "locationName": "Kilometro 8",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/kilometro-8/",
+            "cpa": {
+                "code": [
+                    "Z9050XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15780,
+            "locationName": "Koluel Kaike",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/koluel-kaike/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/santa-cruz/calles-de-koluel-kaike/"
+            }
+        },
+        {
+            "locationId": 15781,
+            "locationName": "La Aguada",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/la-aguada/",
+            "cpa": {
+                "code": [
+                    "Z9051XAV"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15782,
+            "locationName": "La Antonia",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/la-antonia/",
+            "cpa": {
+                "code": [
+                    "Z9015XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15783,
+            "locationName": "La Argentina",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/la-argentina/",
+            "cpa": {
+                "code": [
+                    "Z9017XAM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15784,
+            "locationName": "La Asturiana",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/la-asturiana/",
+            "cpa": {
+                "code": [
+                    "Z9040XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15785,
+            "locationName": "La Barreta",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/la-barreta/",
+            "cpa": {
+                "code": [
+                    "Z9303XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15786,
+            "locationName": "La Central",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/la-central/",
+            "cpa": {
+                "code": [
+                    "Z9051XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15787,
+            "locationName": "La Esperanza",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/la-esperanza/",
+            "cpa": {
+                "code": [
+                    "Z9401XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15788,
+            "locationName": "La Estela",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/la-estela/",
+            "cpa": {
+                "code": [
+                    "Z9051XAW"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15789,
+            "locationName": "La Esther",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/la-esther/",
+            "cpa": {
+                "code": [
+                    "Z9011XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15790,
+            "locationName": "La Fecundidad",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/la-fecundidad/",
+            "cpa": {
+                "code": [
+                    "Z9051XAQ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15791,
+            "locationName": "La Federica",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/la-federica/",
+            "cpa": {
+                "code": [
+                    "Z9301XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15792,
+            "locationName": "La Florida",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/la-florida/",
+            "cpa": {
+                "code": [
+                    "Z9301XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15793,
+            "locationName": "La Guardia",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/la-guardia/",
+            "cpa": {
+                "code": [
+                    "Z9015XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15794,
+            "locationName": "La Julia",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/la-julia/",
+            "cpa": {
+                "code": [
+                    "Z9303XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15795,
+            "locationName": "La Leona",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/la-leona/",
+            "cpa": {
+                "code": [
+                    "Z9303XAU"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15796,
+            "locationName": "La Madrugada",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/la-madrugada/",
+            "cpa": {
+                "code": [
+                    "Z9051XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15797,
+            "locationName": "La Manchuria",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/la-manchuria/",
+            "cpa": {
+                "code": [
+                    "Z9311XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15798,
+            "locationName": "La Margarita",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/la-margarita/",
+            "cpa": {
+                "code": [
+                    "Z9051XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15799,
+            "locationName": "La Maria",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/la-maria/",
+            "cpa": {
+                "code": [
+                    "Z9017XAV"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15800,
+            "locationName": "La Peninsula",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/la-peninsula/",
+            "cpa": {
+                "code": [
+                    "Z9311XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15801,
+            "locationName": "La Pigmea",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/la-pigmea/",
+            "cpa": {
+                "code": [
+                    "Z9303XAM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15802,
+            "locationName": "La Porteña",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/la-portena/",
+            "cpa": {
+                "code": [
+                    "Z9303XAN"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15803,
+            "locationName": "La Protegida",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/la-protegida/",
+            "cpa": {
+                "code": [
+                    "Z9051XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15804,
+            "locationName": "La Rosa",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/la-rosa/",
+            "cpa": {
+                "code": [
+                    "Z9015XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15805,
+            "locationName": "La Rosada",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/la-rosada/",
+            "cpa": {
+                "code": [
+                    "Z9051XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15806,
+            "locationName": "La Victoria",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/la-victoria/",
+            "cpa": {
+                "code": [
+                    "Z9051XAN"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15807,
+            "locationName": "La Violeta",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/la-violeta/",
+            "cpa": {
+                "code": [
+                    "Z9051XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15808,
+            "locationName": "Lago Argentino",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/lago-argentino/",
+            "cpa": {
+                "code": [
+                    "Z9405XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15809,
+            "locationName": "Lago Buenos Aires",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/lago-buenos-aires/",
+            "cpa": {
+                "code": [
+                    "Z9040XAE",
+                    "Z9040XAE"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15810,
+            "locationName": "Lago Cardiel",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/lago-cardiel/",
+            "cpa": {
+                "code": [
+                    "Z9301XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15811,
+            "locationName": "Lago Pueyrredon",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/lago-pueyrredon/",
+            "cpa": {
+                "code": [
+                    "Z9310XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15812,
+            "locationName": "Lago Roca",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/lago-roca/",
+            "cpa": {
+                "code": [
+                    "Z9405XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15813,
+            "locationName": "Lago San Martin",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/lago-san-martin/",
+            "cpa": {
+                "code": [
+                    "Z9301XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15814,
+            "locationName": "Lago Strobel",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/lago-strobel/",
+            "cpa": {
+                "code": [
+                    "Z9311XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15815,
+            "locationName": "Lago Tar",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/lago-tar/",
+            "cpa": {
+                "code": [
+                    "Z9301XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15816,
+            "locationName": "Laguna Colorada",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/laguna-colorada/",
+            "cpa": {
+                "code": [
+                    "Z9400XAP"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15817,
+            "locationName": "Laguna Grande",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/laguna-grande/",
+            "cpa": {
+                "code": [
+                    "Z9303XAO"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15818,
+            "locationName": "Las Heras",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/las-heras/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/santa-cruz/calles-de-las-heras/"
+            }
+        },
+        {
+            "locationId": 15819,
+            "locationName": "Las Horquetas",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/las-horquetas/",
+            "cpa": {
+                "code": [
+                    "Z9400XAQ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15820,
+            "locationName": "Las Masitas",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/las-masitas/",
+            "cpa": {
+                "code": [
+                    "Z9017XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15821,
+            "locationName": "Las Mercedes",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/las-mercedes/",
+            "cpa": {
+                "code": [
+                    "Z9303XAP"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15822,
+            "locationName": "Las Piramides",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/las-piramides/",
+            "cpa": {
+                "code": [
+                    "Z9017XAO"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15823,
+            "locationName": "Leandro Niceforo Alem",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/leandro-niceforo-alem/",
+            "cpa": {
+                "code": [
+                    "Z9017XAQ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15824,
+            "locationName": "Los Antiguos",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/los-antiguos/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/santa-cruz/calles-de-los-antiguos/"
+            }
+        },
+        {
+            "locationId": 15825,
+            "locationName": "Los Manantiales",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/los-manantiales/",
+            "cpa": {
+                "code": [
+                    "Z9313XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15826,
+            "locationName": "Los Perales",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/los-perales/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/santa-cruz/calles-de-los-perales/"
+            }
+        },
+        {
+            "locationId": 15827,
+            "locationName": "Mata Magallanes",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/mata-magallanes/",
+            "cpa": {
+                "code": [
+                    "Z9017XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15828,
+            "locationName": "Mazaredo",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/mazaredo/",
+            "cpa": {
+                "code": [
+                    "Z9051XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15829,
+            "locationName": "Meseta Guengue",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/meseta-guengue/",
+            "cpa": {
+                "code": [
+                    "Z9017XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15830,
+            "locationName": "Mina 3",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/mina-3/",
+            "cpa": {
+                "code": [
+                    "Z9407XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15831,
+            "locationName": "Minerales",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/minerales/",
+            "cpa": {
+                "code": [
+                    "Z9015XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15832,
+            "locationName": "Monte Aymond",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/monte-aymond/",
+            "cpa": {
+                "code": [
+                    "Z9400XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15833,
+            "locationName": "Monte Ceballos",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/monte-ceballos/",
+            "cpa": {
+                "code": [
+                    "Z9040XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15834,
+            "locationName": "Monte Verde",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/monte-verde/",
+            "cpa": {
+                "code": [
+                    "Z9019XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15835,
+            "locationName": "Morro Chico",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/morro-chico/",
+            "cpa": {
+                "code": [
+                    "Z9407XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15836,
+            "locationName": "Nacimientos del Pluma",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/nacimientos-del-pluma/",
+            "cpa": {
+                "code": [
+                    "Z9040XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15837,
+            "locationName": "Palermo Aike",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/palermo-aike/",
+            "cpa": {
+                "code": [
+                    "Z9400XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15838,
+            "locationName": "Pali Aike",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/pali-aike/",
+            "cpa": {
+                "code": [
+                    "Z9400XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15839,
+            "locationName": "Pampa Verdum",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/pampa-verdum/",
+            "cpa": {
+                "code": [
+                    "Z9017XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15840,
+            "locationName": "Paso Charles Fhur",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/paso-charles-fhur/",
+            "cpa": {
+                "code": [
+                    "Z9405XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15841,
+            "locationName": "Paso de los Indios",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/paso-de-los-indios/",
+            "cpa": {
+                "code": [
+                    "Z9303XAQ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15842,
+            "locationName": "Paso del Aguila",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/paso-del-aguila/",
+            "cpa": {
+                "code": [
+                    "Z9311XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15843,
+            "locationName": "Paso del Medio",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/paso-del-medio/",
+            "cpa": {
+                "code": [
+                    "Z9400XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15844,
+            "locationName": "Paso del Rio Santa Cruz",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/paso-del-rio-santa-cruz/",
+            "cpa": {
+                "code": [
+                    "Z9303XAR"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15845,
+            "locationName": "Paso Gregores",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/paso-gregores/",
+            "cpa": {
+                "code": [
+                    "Z9050XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15846,
+            "locationName": "Paso Ibañez",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/paso-ibanez/",
+            "cpa": {
+                "code": [
+                    "Z9303XAS"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15847,
+            "locationName": "Paso Rio la Leona",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/paso-rio-la-leona/",
+            "cpa": {
+                "code": [
+                    "Z9301XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15848,
+            "locationName": "Paso Roballo",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/paso-roballo/",
+            "cpa": {
+                "code": [
+                    "Z9315XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15849,
+            "locationName": "Pellegrini",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/pellegrini/",
+            "cpa": {
+                "code": [
+                    "Z9017XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15850,
+            "locationName": "Peninsula Maipu",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/peninsula-maipu/",
+            "cpa": {
+                "code": [
+                    "Z9301XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15851,
+            "locationName": "Perito Moreno",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/perito-moreno/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/santa-cruz/calles-de-perito-moreno/"
+            }
+        },
+        {
+            "locationId": 15852,
+            "locationName": "Pico Truncado",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/pico-truncado/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/santa-cruz/calles-de-pico-truncado/"
+            }
+        },
+        {
+            "locationId": 15853,
+            "locationName": "Piedra Clavada",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/piedra-clavada/",
+            "cpa": {
+                "code": [
+                    "Z9301XAJ",
+                    "Z9301XAJ"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15854,
+            "locationName": "Pueblo Nuevo",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/pueblo-nuevo/",
+            "cpa": {
+                "code": [
+                    "Z9407XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15855,
+            "locationName": "Puente Blanco",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/puente-blanco/",
+            "cpa": {
+                "code": [
+                    "Z9407XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15856,
+            "locationName": "Puerto Deseado",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/puerto-deseado/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/santa-cruz/calles-de-puerto-deseado/"
+            }
+        },
+        {
+            "locationId": 15857,
+            "locationName": "Puerto San Julian",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/puerto-san-julian/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/santa-cruz/calles-de-puerto-san-julian/"
+            }
+        },
+        {
+            "locationId": 15858,
+            "locationName": "Puerto Santa Cruz",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/puerto-santa-cruz/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/santa-cruz/calles-de-puerto-santa-cruz/"
+            }
+        },
+        {
+            "locationId": 15859,
+            "locationName": "Punta Bandera",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/punta-bandera/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/santa-cruz/calles-de-punta-bandera/"
+            }
+        },
+        {
+            "locationId": 15860,
+            "locationName": "Punta del Lago Viedma",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/punta-del-lago-viedma/",
+            "cpa": {
+                "code": [
+                    "Z9301XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15861,
+            "locationName": "Punta del Monte",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/punta-del-monte/",
+            "cpa": {
+                "code": [
+                    "Z9400XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15862,
+            "locationName": "Punta Loyola",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/punta-loyola/",
+            "cpa": {
+                "code": [
+                    "Z9400XAM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15863,
+            "locationName": "Punta Mercedes",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/punta-mercedes/",
+            "cpa": {
+                "code": [
+                    "Z9313XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15864,
+            "locationName": "Quien Sabe",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/quien-sabe/",
+            "cpa": {
+                "code": [
+                    "Z9405XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15865,
+            "locationName": "Rincon de los Morros",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/rincon-de-los-morros/",
+            "cpa": {
+                "code": [
+                    "Z9407XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15866,
+            "locationName": "Rio Bote",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/rio-bote/",
+            "cpa": {
+                "code": [
+                    "Z9405XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15867,
+            "locationName": "Rio Calafate",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/rio-calafate/",
+            "cpa": {
+                "code": [
+                    "Z9405XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15868,
+            "locationName": "Rio Chico",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/rio-chico/",
+            "cpa": {
+                "code": [
+                    "Z9303XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15869,
+            "locationName": "Rio Fenix",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/rio-fenix/",
+            "cpa": {
+                "code": [
+                    "Z9040XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15870,
+            "locationName": "Rio Gallegos",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/rio-gallegos/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/santa-cruz/calles-de-rio-gallegos/"
+            }
+        },
+        {
+            "locationId": 15871,
+            "locationName": "Rio Mitre",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/rio-mitre/",
+            "cpa": {
+                "code": [
+                    "Z9405XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15872,
+            "locationName": "Rio Turbio",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/rio-turbio/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/santa-cruz/calles-de-rio-turbio/"
+            }
+        },
+        {
+            "locationId": 15873,
+            "locationName": "Rospentek",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/rospentek/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/santa-cruz/calles-de-rospentek/"
+            }
+        },
+        {
+            "locationId": 15874,
+            "locationName": "Rospentek Aike",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/rospentek-aike/",
+            "cpa": {
+                "code": [
+                    "Z9407XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15875,
+            "locationName": "San Benito",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/san-benito/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/santa-cruz/calles-de-san-benito/"
+            }
+        },
+        {
+            "locationId": 15876,
+            "locationName": "Sarai",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/sarai/",
+            "cpa": {
+                "code": [
+                    "Z9051XAM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15877,
+            "locationName": "Sierra de la Ventana",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/sierra-de-la-ventana/",
+            "cpa": {
+                "code": [
+                    "Z9303XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15878,
+            "locationName": "Tamel Aike",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/tamel-aike/",
+            "cpa": {
+                "code": [
+                    "Z9315XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15879,
+            "locationName": "Tapi Aike",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/tapi-aike/",
+            "cpa": {
+                "code": [
+                    "Z9420XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15880,
+            "locationName": "Tauel Aike",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/tauel-aike/",
+            "cpa": {
+                "code": [
+                    "Z9303XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15881,
+            "locationName": "Tehuelches",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/tehuelches/",
+            "cpa": {
+                "code": [
+                    "Z9019XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15882,
+            "locationName": "Tellier",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/tellier/",
+            "cpa": {
+                "code": [
+                    "Z9050XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15883,
+            "locationName": "Tres Cerros",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/tres-cerros/",
+            "cpa": {
+                "code": [
+                    "Z9050XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15884,
+            "locationName": "Tres Lagos",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/tres-lagos/",
+            "cpa": {
+                "code": [
+                    "Z9301XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15885,
+            "locationName": "Tres Puntas",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/tres-puntas/",
+            "cpa": {
+                "code": [
+                    "Z9051XAO"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15886,
+            "locationName": "Tucu Tucu",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/tucu-tucu/",
+            "cpa": {
+                "code": [
+                    "Z9311XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15887,
+            "locationName": "Ventisquero Moreno",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/ventisquero-moreno/",
+            "cpa": {
+                "code": [
+                    "Z9405XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15888,
+            "locationName": "Yacimiento Cerro Vanguardia",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/yacimiento-cerro-vanguardia/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15889,
+            "locationName": "Yegua Muerta",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/yegua-muerta/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 15890,
+            "locationName": "Zanjon del Pescado",
+            "locationLink": "https://codigo-postal.co/argentina/santa-cruz/zanjon-del-pescado/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        }
+    ]
+}

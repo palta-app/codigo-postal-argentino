@@ -1,0 +1,388 @@
+id,name,zip,state
+9603,Abra Verde,F5470XAI,La Rioja
+9604,Agua Blanca,F5471XAX,La Rioja
+9605,Agua Colorada,F5275XAD,La Rioja
+9606,Agua de la Piedra,F5475XAI,La Rioja
+9607,Agua de Piedra,F5470XAJ,La Rioja
+9608,Aguada,F5301XBB,La Rioja
+9609,Aguadita,F5385XAV,La Rioja
+9610,Aguayo,F5473XAN,La Rioja
+9611,Aicuña,F5361XAC,La Rioja
+9613,Alcazar,F5385XAB,La Rioja
+9614,Algarrobo Grande,F5473XAR,La Rioja
+9615,Alpasinche,F5325XAD,La Rioja
+9616,Altillo del Medio,F5274XAI,La Rioja
+9617,Alto Bayo,F5470XAK,La Rioja
+9618,Alto Carrizal,F5361XAO,La Rioja
+9619,Alto Jaguel,F5359XAH,La Rioja
+9620,Amana,F5386XAO,La Rioja
+9621,Ambil,F5475XAM,La Rioja
+9622,Amilgancho,F5300XAF,La Rioja
+9624,Ampata,F5300XBK,La Rioja
+9625,Amuschina,F5329XAE,La Rioja
+9626,Anchico,F5301XAF,La Rioja
+9627,Anchumbil,F5361XAM,La Rioja
+9628,Andolucas,F5329XAF,La Rioja
+9630,Angulos,F5361XAP,La Rioja
+9634,Arauco,F5311XAB,La Rioja
+9636,Bajo Corral de Isaac,F5473XAM,La Rioja
+9637,Bajo de Gallo,F5386XAA,La Rioja
+9638,Bajo Grande,F5383XAP,La Rioja
+9639,Bajo Hondo,F5473XAA,La Rioja
+9640,Bajo Jaguel,F5359XAI,La Rioja
+9641,Balde del Quebracho,F5473XAB,La Rioja
+9642,Balde Salado,F5274XAD,La Rioja
+9643,Balde San Isidro,F5386XAD,La Rioja
+9644,Baldes de Pacheco,F5276XAI,La Rioja
+9645,Bañados del Pantano,F5310XAC,La Rioja
+9647,Barranquitas,F5474XAD,La Rioja
+9649,Bayo Muerto,F5470XAT,La Rioja
+9650,Bazan,F5306XAA,La Rioja
+9651,Bella Vista,F5381XAB,La Rioja
+9652,Boca de la Quebrada,F5359XAL,La Rioja
+9653,Buena Vista,F5359XAB,La Rioja
+9654,Cachiyuyal,F5367XAB,La Rioja
+9656,Campo Tres Pozos,F5301XAM,La Rioja
+9657,Cañada Honda,F5470XAE,La Rioja
+9658,Cañada Verde,F5471XAJ,La Rioja
+9659,Capihuas,F5327XAF,La Rioja
+9660,Carrizal,F5361XBC,La Rioja
+9661,Carrizal Estacion Fcgb,F5300XBJ,La Rioja
+9662,Carrizalillo,F5385XBD,La Rioja
+9663,Casa Pintada,F5359XAJ,La Rioja
+9664,Casagate,F5385XBE,La Rioja
+9665,Casangate,F5385XAU,La Rioja
+9666,Casas Viejas,F5471XAV,La Rioja
+9668,Catinzaco,F5374XAB,La Rioja
+9669,Catinzaco Embarcadero Fcgb,F5374XAC,La Rioja
+9670,Catuna,F5275XAK,La Rioja
+9671,Cebollar,F5300XAP,La Rioja
+9672,Cerro Negro,F5327XAG,La Rioja
+9675,Chañarmuyo,F5361XAY,La Rioja
+9676,Chaupihuasi,F5327XAC,La Rioja
+9677,Chelcos,F5475XAK,La Rioja
+9679,Chepes Viejos,F5470XAQ,La Rioja
+9682,Chimenea,F5385XAL,La Rioja
+9683,Chulo,F5380XAA,La Rioja
+9684,Chumbicha,F5300XBL,La Rioja
+9686,Cisco,F5383XAQ,La Rioja
+9687,Colonia Alfredo,F5380XAL,La Rioja
+9688,Colonia Ortiz de Ocampo,F5275XAL,La Rioja
+9689,Comandante Leal,F5274XAM,La Rioja
+9690,Cordobita,F5327XAD,La Rioja
+9691,Corral de Isaac,F5471XAK,La Rioja
+9692,Cortaderas,F5381XAE,La Rioja
+9693,Cortaderas Embarcadero Fcgb,F5474XAB,La Rioja
+9694,Cuatro Esquinas,F5473XAO,La Rioja
+9695,Cueva del Chacho,F5386XAB,La Rioja
+9696,Cuipan,F5329XAG,La Rioja
+9698,Dique de Anzulon,F5275XAM,La Rioja
+9699,Dique los Sauces,F5300XBN,La Rioja
+9701,El Abra,F5473XAC,La Rioja
+9702,El Altillo,F5355XAA,La Rioja
+9703,El Alto,F5470XAG,La Rioja
+9704,El Balde,F5471XAL,La Rioja
+9705,El Barranco,F5385XAM,La Rioja
+9706,El Barreal,F5470XAH,La Rioja
+9707,El Barrial,F5471XBJ,La Rioja
+9708,El Bayito,F5301XAN,La Rioja
+9709,El Bordo,F5276XAC,La Rioja
+9710,El Calden,F5717XAB,La Rioja
+9711,El Cantadero,F5300XAX,La Rioja
+9712,El Carrizal,F5475XAE,La Rioja
+9713,El Carrizal Tama,F5385XAA,La Rioja
+9714,El Catorce,F5474XAC,La Rioja
+9715,El Cerco,F5475XAF,La Rioja
+9716,El Chiflon,F5386XAC,La Rioja
+9717,El Chocoy,F5361XAR,La Rioja
+9718,El Chuschin,F5361XAF,La Rioja
+9719,El Chusco,F5276XAJ,La Rioja
+9720,El Cienago,F5275XAN,La Rioja
+9721,El Cincuenta,F5470XAF,La Rioja
+9722,El Condado,F5355XAB,La Rioja
+9723,El Consuelo,F5274XAF,La Rioja
+9724,El Divisadero,F5470XAA,La Rioja
+9725,El Duraznillo,F5300XAQ,La Rioja
+9726,El Escondido,F5301XAO,La Rioja
+9727,El Estanquito,F5301XBI,La Rioja
+9728,El Fraile,F5274XAJ,La Rioja
+9729,El Fuerte,F5351XAC,La Rioja
+9730,El Garabato,F5380XAF,La Rioja
+9731,El Horno,F5357XAA,La Rioja
+9732,El Huaco,F5301XBD,La Rioja
+9733,El Jumeal,F5365XAA,La Rioja
+9734,El Medanito,F5272XAA,La Rioja
+9735,El Medano,F5263XAD,La Rioja
+9736,El Mollar,F5381XAA,La Rioja
+9737,El Molle,F5350XAB,La Rioja
+9738,El Pedregal,F5361XAS,La Rioja
+9739,El Plumerillo,F5300XAY,La Rioja
+9740,El Portezuelo,F5385XAN,La Rioja
+9741,El Potrerillo,F5475XAH,La Rioja
+9742,El Potrerillo R V Peñaloza,F5475XAJ,La Rioja
+9743,El Potrero,F5385XAP,La Rioja
+9744,El Pueblito,F5327XAE,La Rioja
+9745,El Puesto,F5385XAC,La Rioja
+9746,El Quebrachal,F5383XAB,La Rioja
+9747,El Quebracho,F5383XAG,La Rioja
+9748,El Quemado,F5475XAC,La Rioja
+9749,El Retamal,F5385XBR,La Rioja
+9750,El Retamo,F5380XAB,La Rioja
+9751,El Retiro,F5325XAA,La Rioja
+9752,El Rodeo,F5471XBK,La Rioja
+9753,El Rosario,F5263XAB,La Rioja
+9754,El Tala,F5471XAW,La Rioja
+9755,El Valdecito,F5473XAD,La Rioja
+9756,El Valle,F5301XAP,La Rioja
+9757,El Vallecito,F5473XAP,La Rioja
+9758,El Verde,F5275XAE,La Rioja
+9759,El Zapallar,F5353XAA,La Rioja
+9760,Esperanza de los Cerrillos,F5263XAC,La Rioja
+9761,Esquina del Norte,F5380XAJ,La Rioja
+9762,Esquina del Sud,F5383XAH,La Rioja
+9763,Esquina Grande,F5275XAF,La Rioja
+9764,Estacion 69,F5300XAZ,La Rioja
+9766,Estancia de Maiz,F5361XAG,La Rioja
+9767,Falda de Citan,F5385XAD,La Rioja
+9769,Flamenco,F5300XBA,La Rioja
+9770,Francisco Ortiz de Ocampo,F5275XAG,La Rioja
+9771,Gobernador Gordillo,F5380XAH,La Rioja
+9772,Guachin,F5367XAC,La Rioja
+9774,Guayapa,F5386XAI,La Rioja
+9775,Huaco,F5301XBE,La Rioja
+9776,Huaja,F5385XAQ,La Rioja
+9777,Hunquillal,F5274XAG,La Rioja
+9778,Iliar,F5383XAI,La Rioja
+9779,Ilisco,F5471XAB,La Rioja
+9780,Illisca,F5470XAR,La Rioja
+9781,Ismiango,F5301XBC,La Rioja
+9782,Jague,F5359XAK,La Rioja
+9783,Jesus Maria,F5300XAH,La Rioja
+9784,Kilometro 619,F5272XAB,La Rioja
+9785,Kilometro 645,F5276XAB,La Rioja
+9786,Kilometro 682,F5275XAP,La Rioja
+9787,Kilometro 732,F5717XAA,La Rioja
+9788,Kilometro 861,F5300XAI,La Rioja
+9789,Kilometro 875,F5300XAJ,La Rioja
+9790,Kilometro 891,F5313XAC,La Rioja
+9791,Kilometro 921,F5313XAD,La Rioja
+9792,La Aguada,F5470XAL,La Rioja
+9793,La Aguadita,F5275XAH,La Rioja
+9794,La America,F5473XAE,La Rioja
+9795,La Antigua,F5301XAQ,La Rioja
+9796,La Armonia,F5359XAM,La Rioja
+9797,La Banda,F5359XAD,La Rioja
+9798,La Buena Estrella,F5301XAB,La Rioja
+9799,La Buena Suerte,F5300XAB,La Rioja
+9800,La Calera,F5471XAY,La Rioja
+9801,La Callana,F5471XAZ,La Rioja
+9802,La Carrizana,F5470XAS,La Rioja
+9803,La Chilca,F5473XAF,La Rioja
+9804,La Chimenea,F5383XAA,La Rioja
+9805,La Cienaga,F5350XAG,La Rioja
+9806,La Consulta,F5470XAM,La Rioja
+9807,La Cuadra,F5361XAT,La Rioja
+9808,La Dora,F5475XAD,La Rioja
+9809,La Envidia,F5473XAH,La Rioja
+9810,La Escondida,F5471XBL,La Rioja
+9811,La Esperanza,F5300XAC,La Rioja
+9812,La Esquina,F5473XAI,La Rioja
+9813,La Flor,F5300XAK,La Rioja
+9814,La Florida,F5276XAD,La Rioja
+9815,La Higuera,F5361XBA,La Rioja
+9816,La Huerta,F5383XAK,La Rioja
+9817,La Igualdad,F5474XAA,La Rioja
+9818,La Invernada,F5380XAI,La Rioja
+9819,La Isla,F5274XAO,La Rioja
+9820,La Jarilla,F5471XBA,La Rioja
+9821,La Laguna,F5471XBB,La Rioja
+9822,La Lancha,F5300XAL,La Rioja
+9823,La Lata,F5300XAM,La Rioja
+9824,La Libertad,F5473XAJ,La Rioja
+9825,La Lomita,F5385XAE,La Rioja
+9826,La Maravilla,F5351XAD,La Rioja
+9827,La Merced,F5385XAF,La Rioja
+9828,La Pampa,F5359XAC,La Rioja
+9829,La Perlita,F5350XAC,La Rioja
+9830,La Pintada,F5470XAN,La Rioja
+9831,La Pirgua,F5325XAB,La Rioja
+9832,La Plaza,F5329XAB,La Rioja
+9833,La Primavera,F5470XAO,La Rioja
+9834,La Puntilla,F5360XAC,La Rioja
+9835,La Ramadita,F5300XAD,La Rioja
+9836,La Reforma,F5471XBC,La Rioja
+9837,La Represa,F5471XAI,La Rioja
+9839,La Rosilla,F5301XAC,La Rioja
+9840,La Serena,F5380XAC,La Rioja
+9841,La Tordilla,F5471XAD,La Rioja
+9842,La Torre,F5386XAE,La Rioja
+9843,La Trampa,F5383XAL,La Rioja
+9844,La Yesera,F5471XAE,La Rioja
+9845,Las Aguaditas,F5355XAC,La Rioja
+9846,Las Barrancas,F5471XAH,La Rioja
+9847,Las Bombas,F5301XBF,La Rioja
+9848,Las Cañas,F5300XAN,La Rioja
+9849,Las Catas,F5301XAD,La Rioja
+9850,Las Gredas,F5365XAC,La Rioja
+9851,Las Higueras,F5385XAH,La Rioja
+9852,Las Higuerillas,F5300XBB,La Rioja
+9853,Las Padercitas,F5355XAF,La Rioja
+9854,Las Palomas,F5275XAI,La Rioja
+9855,Las Peñas,F5301XBH,La Rioja
+9856,Las Salinas,F5471XBD,La Rioja
+9857,Las Sierras Bravas,F5301XAE,La Rioja
+9858,Las Talas,F5329XAC,La Rioja
+9859,Las Toscas,F5471XBE,La Rioja
+9860,Las Tucumanesas,F5361XAH,La Rioja
+9861,Las Tuscas,F5470XAD,La Rioja
+9862,Las Vertientes,F5276XAE,La Rioja
+9864,Loma Larga,F5385XBH,La Rioja
+9865,Lorohuasi,F5325XAC,La Rioja
+9867,Los Alanices,F5275XAJ,La Rioja
+9868,Los Algarrobos,F5385XAW,La Rioja
+9869,Los Baldecitos,F5386XAJ,La Rioja
+9870,Los Baldes,F5310XAD,La Rioja
+9871,Los Barriacitos,F5274XAA,La Rioja
+9872,Los Barrialitos,F5274XAH,La Rioja
+9873,Los Bordos,F5380XAM,La Rioja
+9874,Los Cerrillos,F5300XAE,La Rioja
+9875,Los Colorados,F5386XAF,La Rioja
+9876,Los Corias,F5471XAO,La Rioja
+9877,Los Corrales,F5361XAU,La Rioja
+9878,Los Frances,F5350XAD,La Rioja
+9879,Los Mistoles,F5275XAA,La Rioja
+9880,Los Mogotes Colorados,F5386XAK,La Rioja
+9882,Los Nacimientos,F5353XAB,La Rioja
+9883,Los Olivares,F5327XAA,La Rioja
+9884,Los Olmos,F5470XAU,La Rioja
+9885,Los Oros,F5470XAB,La Rioja
+9889,Los Tambillos,F5361XAE,La Rioja
+9890,Machigasta,F5311XAC,La Rioja
+9893,Mascasin,F5471XAP,La Rioja
+9894,Medano,F5300XAR,La Rioja
+9895,Mesillas Blancas,F5301XAR,La Rioja
+9897,Miranda,F5367XAD,La Rioja
+9898,Mollaco,F5385XAX,La Rioja
+9899,Monte Grande,F5383XAD,La Rioja
+9900,Nacate,F5385XAY,La Rioja
+9901,Nepes,F5276XAF,La Rioja
+9903,Ñoqueves,F5471XAQ,La Rioja
+9904,Nueva Esperanza,F5473XAS,La Rioja
+9905,Olpas,F5275XAB,La Rioja
+9907,Pacatala,F5385XAI,La Rioja
+9908,Padercitas,F5355XAD,La Rioja
+9909,Pagancillo,F5369XAA,La Rioja
+9910,Paganzo,F5386XAG,La Rioja
+9911,Palo Labrado,F5380XAD,La Rioja
+9912,Paraje Monte Grande,F5276XAK,La Rioja
+9913,Parecitas,F5355XAG,La Rioja
+9914,Paso San Isidro,F5351XAB,La Rioja
+9915,Pastos Largos,F5355XAH,La Rioja
+9917,Peñas Blancas,F5359XAE,La Rioja
+9918,Piedra de Talampaya,F5361XAJ,La Rioja
+9919,Piedra Larga,F5475XAA,La Rioja
+9920,Piedra Pintada,F5361XAI,La Rioja
+9923,Plaza Nueva,F5365XAD,La Rioja
+9924,Plaza Vieja,F5361XAV,La Rioja
+9925,Polco,F5380XAN,La Rioja
+9926,Portezuelo de los Arce,F5471XAR,La Rioja
+9927,Potrero Grande,F5359XAF,La Rioja
+9928,Pozo Blanco,F5301XAS,La Rioja
+9929,Pozo de Avila,F5300XAS,La Rioja
+9930,Pozo de la Orilla,F5380XAE,La Rioja
+9931,Pozo de la Piedra,F5473XAT,La Rioja
+9932,Pozo de la Yegua,F5310XAF,La Rioja
+9933,Pozo de Piedra,F5473XAK,La Rioja
+9934,Pozo del Medio,F5274XAB,La Rioja
+9935,Pozo Escondido,F5300XBD,La Rioja
+9936,Puerta de la Quebrada,F5300XAT,La Rioja
+9937,Puerto Alegre,F5361XAB,La Rioja
+9938,Puerto del Valle,F5301XAT,La Rioja
+9939,Puesto de Carrizo,F5471XAM,La Rioja
+9940,Puesto de los Sanchez,F5471XAF,La Rioja
+9941,Puesto Dichoso,F5471XAN,La Rioja
+9942,Puesto Talita,F5386XAL,La Rioja
+9943,Puluchan,F5385XBI,La Rioja
+9944,Punta de Agua,F5355XAI,La Rioja
+9946,Punta del Cerro,F5470XAC,La Rioja
+9947,Punta del Negro,F5300XAV,La Rioja
+9948,Quebrachal,F5381XAG,La Rioja
+9949,Quebracho Herrado,F5380XAK,La Rioja
+9950,Quebrada de los Condores,F5385XBP,La Rioja
+9951,Quebrada del Vallecito,F5471XAS,La Rioja
+9952,Real del Cadillo,F5471XAT,La Rioja
+9953,Represa de la Punta,F5386XAM,La Rioja
+9954,Represa del Monte,F5470XAV,La Rioja
+9955,Retamal,F5385XAZ,La Rioja
+9956,Rio de las Cañas,F5385XBA,La Rioja
+9957,Rios de las Mesadas,F5385XBM,La Rioja
+9958,Rios de los Colcoles,F5385XBN,La Rioja
+9959,Rivadavia,F5355XAE,La Rioja
+9960,Salana,F5385XBB,La Rioja
+9961,Salicas,F5327XAB,La Rioja
+9962,Salinas de Bustos,F5386XAH,La Rioja
+9963,Salinas del Leoncito,F5361XAK,La Rioja
+9964,Samay Huasi,F5360XAA,La Rioja
+9965,San Agustin,F5300XBE,La Rioja
+9966,San Antonio,F5470XAW,La Rioja
+9967,San Bernardo,F5350XAA,La Rioja
+9968,San Cristobal,F5274XAC,La Rioja
+9969,San Guillermo,F5300XBF,La Rioja
+9970,San Ignacio,F5301XAW,La Rioja
+9971,San Isidro,F5471XBM,La Rioja
+9972,San Javier,F5300XBG,La Rioja
+9973,San Jose,F5471XAU,La Rioja
+9974,San Juan,F5300XBH,La Rioja
+9975,San Lorenzo,F5301XAH,La Rioja
+9976,San Martin,F5300XAO,La Rioja
+9978,San Nicolas,F5473XAL,La Rioja
+9979,San Pedro,F5385XBJ,La Rioja
+9980,San Rafael,F5471XBF,La Rioja
+9981,San Ramon,F5385XBK,La Rioja
+9982,San Roque,F5385XBL,La Rioja
+9983,San Solano,F5475XAG,La Rioja
+9984,San Vicente,F5470XAX,La Rioja
+9986,Santa Ana,F5301XAK,La Rioja
+9987,Santa Barbara,F5381XAF,La Rioja
+9988,Santa Clara,F5351XAA,La Rioja
+9989,Santa Cruz,F5470XAP,La Rioja
+9990,Santa Elena,F5361XAN,La Rioja
+9991,Santa Florentina,F5367XAA,La Rioja
+9992,Santa Lucia,F5380XAO,La Rioja
+9993,Santa Rita la Zanja,F5276XAA,La Rioja
+9994,Santa Rosa,F5300XBI,La Rioja
+9995,Santa Teresa,F5301XAL,La Rioja
+9998,Santo Domingo Famatina,F5361XBB,La Rioja
+9999,Schaqui,F5329XAA,La Rioja
+10000,Señor de la Peña,F5310XAE,La Rioja
+10001,Siempre Verde,F5473XAW,La Rioja
+10002,Sierra Brava,F5301XAA,La Rioja
+10003,Sierra de los Quinteros,F5385XBO,La Rioja
+10004,Simbolar,F5276XAG,La Rioja
+10005,Solca,F5385XAS,La Rioja
+10006,Suriyaco,F5329XAD,La Rioja
+10007,Tala Verde,F5383XAN,La Rioja
+10008,Talamuyuna,F5304XAB,La Rioja
+10009,Talva,F5381XAD,La Rioja
+10011,Tasquin,F5385XAJ,La Rioja
+10012,Termas,F5386XAN,La Rioja
+10013,Termas de Santa Teresita,F5313XAA,La Rioja
+10014,Tilimuqui,F5361XAA,La Rioja
+10015,Tinocan,F5313XAB,La Rioja
+10016,Torrecitas,F5275XAC,La Rioja
+10017,Totoral,F5471XBG,La Rioja
+10018,Trampa del Tigre,F5300XAW,La Rioja
+10019,Tres Cerros,F5361XAL,La Rioja
+10020,Tres Cruces,F5383XAF,La Rioja
+10021,Tuani,F5385XAT,La Rioja
+10022,Tuizon,F5385XAK,La Rioja
+10023,Tuyubil,F5329XAH,La Rioja
+10024,Udpinango,F5311XAA,La Rioja
+10026,Valle Hermoso,F5359XAG,La Rioja
+10027,Verde Olivo,F5276XAH,La Rioja
+10028,Vichigasta,F5374XAA,La Rioja
+10029,Villa Bustos,F5301XBG,La Rioja
+10030,Villa Casana,F5471XAA,La Rioja
+10032,Villa Chepes,F5471XBI,La Rioja
+10034,Villa Nidia,F5473XAX,La Rioja
+10035,Villa San Jose de Vinchina,F5359XAN,La Rioja

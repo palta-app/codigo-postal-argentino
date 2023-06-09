@@ -1,0 +1,3864 @@
+{
+    "provinceName": "Chubut",
+    "provinceLink": "https://codigo-postal.co/argentina/chubut/",
+    "locationsCount": 3856,
+    "locationWithCPALink": 326,
+    "locations": [
+        {
+            "locationId": 3531,
+            "locationName": "28 de Julio",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/28-de-julio/",
+            "cpa": {
+                "code": [
+                    "U9107XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3532,
+            "locationName": "Aguada de las Tejas",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/aguada-de-las-tejas/",
+            "cpa": {
+                "code": [
+                    "U9121XBM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3533,
+            "locationName": "Aguada del Pito",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/aguada-del-pito/",
+            "cpa": {
+                "code": [
+                    "U9121XBF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3534,
+            "locationName": "Aldea Apeleg",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/aldea-apeleg/",
+            "cpa": {
+                "code": [
+                    "U9033XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3535,
+            "locationName": "Aldea Beleiro",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/aldea-beleiro/",
+            "cpa": {
+                "code": [
+                    "U9037XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3536,
+            "locationName": "Aldea Escolar",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/aldea-escolar/",
+            "cpa": {
+                "code": [
+                    "U9203XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3537,
+            "locationName": "Alto de las Plumas",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/alto-de-las-plumas/",
+            "cpa": {
+                "code": [
+                    "U9101XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3538,
+            "locationName": "Alto Rio Mayo",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/alto-rio-mayo/",
+            "cpa": {
+                "code": [
+                    "U9037XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3539,
+            "locationName": "Alto Rio Pico",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/alto-rio-pico/",
+            "cpa": {
+                "code": [
+                    "U9225XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3540,
+            "locationName": "Alto Rio Senguer",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/alto-rio-senguer/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/chubut/calles-de-alto-rio-senguer/"
+            }
+        },
+        {
+            "locationId": 3541,
+            "locationName": "Angostura",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/angostura/",
+            "cpa": {
+                "code": [
+                    "U9105XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3542,
+            "locationName": "Angostura Segunda",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/angostura-segunda/",
+            "cpa": {
+                "code": [
+                    "U9105XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3543,
+            "locationName": "Arenoso",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/arenoso/",
+            "cpa": {
+                "code": [
+                    "U9225XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3544,
+            "locationName": "Arroyo Chalia",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/arroyo-chalia/",
+            "cpa": {
+                "code": [
+                    "U9035XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3545,
+            "locationName": "Arroyo el Mosquito",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/arroyo-el-mosquito/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/chubut/calles-de-arroyo-el-mosquito/"
+            }
+        },
+        {
+            "locationId": 3546,
+            "locationName": "Arroyo Gato",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/arroyo-gato/",
+            "cpa": {
+                "code": [
+                    "U9033XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3547,
+            "locationName": "Arroyo Guilaia",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/arroyo-guilaia/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3548,
+            "locationName": "Arroyo Percy",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/arroyo-percy/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3549,
+            "locationName": "Arroyo Pescado",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/arroyo-pescado/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3550,
+            "locationName": "Arroyo Quilla",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/arroyo-quilla/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3551,
+            "locationName": "Arroyo Verde",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/arroyo-verde/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3552,
+            "locationName": "Bahia Bustamante",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/bahia-bustamante/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3553,
+            "locationName": "Bahia Cracher",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/bahia-cracher/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3554,
+            "locationName": "Bahia Solano",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/bahia-solano/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3555,
+            "locationName": "Bajada del Diablo",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/bajada-del-diablo/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3556,
+            "locationName": "Bajada Moreno",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/bajada-moreno/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3557,
+            "locationName": "Bajo Bartolo",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/bajo-bartolo/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3558,
+            "locationName": "Bajo de los Huesos",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/bajo-de-los-huesos/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3559,
+            "locationName": "Bajo del Gualicho",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/bajo-del-gualicho/",
+            "cpa": {
+                "code": [
+                    "U9121XAV"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3560,
+            "locationName": "Bajo la Cancha",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/bajo-la-cancha/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3561,
+            "locationName": "Bajo las Damajuanas",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/bajo-las-damajuanas/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3562,
+            "locationName": "Barrio Astra",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/barrio-astra/",
+            "cpa": {
+                "code": [
+                    "U9003XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3563,
+            "locationName": "Base Aeronaval Almirante Iriza",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/base-aeronaval-almirante-iriza/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3564,
+            "locationName": "Betesta",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/betesta/",
+            "cpa": {
+                "code": [
+                    "U9105XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3565,
+            "locationName": "Blancuntre",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/blancuntre/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3566,
+            "locationName": "Boca de la Zanja",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/boca-de-la-zanja/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3567,
+            "locationName": "Boca Zanja Sud",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/boca-zanja-sud/",
+            "cpa": {
+                "code": [
+                    "U9107XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3568,
+            "locationName": "Boquete Bolson",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/boquete-bolson/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3569,
+            "locationName": "Bryn Brown",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/bryn-brown/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3570,
+            "locationName": "Bryn Gwyn",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/bryn-gwyn/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3571,
+            "locationName": "Buen Pasto",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/buen-pasto/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3572,
+            "locationName": "Buenos Aires Chico",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/buenos-aires-chico/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3573,
+            "locationName": "Cabaña del Valle",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/cabana-del-valle/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3574,
+            "locationName": "Cabeza de Buey",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/cabeza-de-buey/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3575,
+            "locationName": "Cabo Raso",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/cabo-raso/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3576,
+            "locationName": "Cachel",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/cachel/",
+            "cpa": {
+                "code": [
+                    "U9201XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3577,
+            "locationName": "Cajon de Ginebra Chico",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/cajon-de-ginebra-chico/",
+            "cpa": {
+                "code": [
+                    "U9201XBD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3578,
+            "locationName": "Cajon de Ginebra Grande",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/cajon-de-ginebra-grande/",
+            "cpa": {
+                "code": [
+                    "U9201XBC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3579,
+            "locationName": "Caleta Cordova",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/caleta-cordova/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3580,
+            "locationName": "Caleta Valdez",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/caleta-valdez/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3581,
+            "locationName": "Camarones",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/camarones/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/chubut/calles-de-camarones/"
+            }
+        },
+        {
+            "locationId": 3582,
+            "locationName": "Campamento Villegas",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/campamento-villegas/",
+            "cpa": {
+                "code": [
+                    "U9107XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3583,
+            "locationName": "Cañada Bagual",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/canada-bagual/",
+            "cpa": {
+                "code": [
+                    "U9207XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3584,
+            "locationName": "Cañadon Bagual",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/canadon-bagual/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3585,
+            "locationName": "Cañadon Blanco",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/canadon-blanco/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3586,
+            "locationName": "Cañadon Caliente",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/canadon-caliente/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3587,
+            "locationName": "Cañadon Carril",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/canadon-carril/",
+            "cpa": {
+                "code": [
+                    "U9020XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3588,
+            "locationName": "Cañadon Chacay",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/canadon-chacay/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3589,
+            "locationName": "Cañadon Chileno",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/canadon-chileno/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3590,
+            "locationName": "Cañadon Ferrais",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/canadon-ferrais/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3591,
+            "locationName": "Cañadon Grande",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/canadon-grande/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3592,
+            "locationName": "Cañadon la Madera",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/canadon-la-madera/",
+            "cpa": {
+                "code": [
+                    "U9220XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3593,
+            "locationName": "Cañadon Lagarto",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/canadon-lagarto/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3594,
+            "locationName": "Cañadon Lopez",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/canadon-lopez/",
+            "cpa": {
+                "code": [
+                    "U9009XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3595,
+            "locationName": "Cañadon Pedro Ex Valle Hermoso",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/canadon-pedro-ex-valle-hermoso/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3596,
+            "locationName": "Cañadon Tacho",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/canadon-tacho/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3597,
+            "locationName": "Carhue Niyeo",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/carhue-niyeo/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3598,
+            "locationName": "Carrenleufu",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/carrenleufu/",
+            "cpa": {
+                "code": [
+                    "U9201XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3599,
+            "locationName": "Casa Blanca",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/casa-blanca/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3600,
+            "locationName": "Catayco",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/catayco/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3601,
+            "locationName": "Cerro Centinela",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/cerro-centinela/",
+            "cpa": {
+                "code": [
+                    "U9203XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3602,
+            "locationName": "Cerro Condor",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/cerro-condor/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3603,
+            "locationName": "Cerro Fofocahuel",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/cerro-fofocahuel/",
+            "cpa": {
+                "code": [
+                    "U9213XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3604,
+            "locationName": "Cerro Lonco Trapial",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/cerro-lonco-trapial/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3605,
+            "locationName": "Cerro Mallaco",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/cerro-mallaco/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3606,
+            "locationName": "Cerro Negro",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/cerro-negro/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3607,
+            "locationName": "Cerro Pichalao",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/cerro-pichalao/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3608,
+            "locationName": "Cerro Radal",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/cerro-radal/",
+            "cpa": {
+                "code": [
+                    "U8430XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3609,
+            "locationName": "Cerro Santa Ana",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/cerro-santa-ana/",
+            "cpa": {
+                "code": [
+                    "U9100XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3610,
+            "locationName": "Chacay Este",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/chacay-este/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3611,
+            "locationName": "Chacay Oeste",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/chacay-oeste/",
+            "cpa": {
+                "code": [
+                    "U9121XBR"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3612,
+            "locationName": "Chacra de Austin",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/chacra-de-austin/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3613,
+            "locationName": "Charque Chico",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/charque-chico/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3614,
+            "locationName": "Chasico",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/chasico/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3615,
+            "locationName": "Cholila",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/cholila/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3616,
+            "locationName": "Colan Conhue",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/colan-conhue/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3617,
+            "locationName": "Colelache",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/colelache/",
+            "cpa": {
+                "code": [
+                    "U9121XBJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3618,
+            "locationName": "Colhue Huapi",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/colhue-huapi/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3619,
+            "locationName": "Colonia 16 de Octubre",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/colonia-16-de-octubre/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3620,
+            "locationName": "Colonia Cushamen",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/colonia-cushamen/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3621,
+            "locationName": "Colonia Epulef",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/colonia-epulef/",
+            "cpa": {
+                "code": [
+                    "U9201XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3622,
+            "locationName": "Colonia Germania",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/colonia-germania/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3623,
+            "locationName": "Comodoro Rivadavia",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/comodoro-rivadavia/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3624,
+            "locationName": "Corcovado",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/corcovado/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3625,
+            "locationName": "Corralitos",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/corralitos/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3626,
+            "locationName": "Costa Chubut",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/costa-chubut/",
+            "cpa": {
+                "code": [
+                    "U9210XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3627,
+            "locationName": "Costa del Lepa",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/costa-del-lepa/",
+            "cpa": {
+                "code": [
+                    "U9201XBF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3628,
+            "locationName": "Costa Rio Chico",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/costa-rio-chico/",
+            "cpa": {
+                "code": [
+                    "U9020XAN"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3629,
+            "locationName": "Cushamen",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/cushamen/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3630,
+            "locationName": "Dique Florentino Ameghino",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/dique-florentino-ameghino/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3631,
+            "locationName": "Doctor Ricardo Rojas",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/doctor-ricardo-rojas/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3632,
+            "locationName": "Dolavon",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/dolavon/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3633,
+            "locationName": "Dos Pozos",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/dos-pozos/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3634,
+            "locationName": "Ebenecer",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/ebenecer/",
+            "cpa": {
+                "code": [
+                    "U9107XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3635,
+            "locationName": "El Alamo",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/el-alamo/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3636,
+            "locationName": "El Argentino",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/el-argentino/",
+            "cpa": {
+                "code": [
+                    "U9105XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3637,
+            "locationName": "El Boquete",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/el-boquete/",
+            "cpa": {
+                "code": [
+                    "U9210XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3638,
+            "locationName": "El Cajon",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/el-cajon/",
+            "cpa": {
+                "code": [
+                    "U9217XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3639,
+            "locationName": "El Calafate",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/el-calafate/",
+            "cpa": {
+                "code": [
+                    "U9201XAZ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3640,
+            "locationName": "El Canquel",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/el-canquel/",
+            "cpa": {
+                "code": [
+                    "U9207XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3641,
+            "locationName": "El Chacay",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/el-chacay/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/chubut/calles-de-el-chacay/"
+            }
+        },
+        {
+            "locationId": 3642,
+            "locationName": "El Chalet",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/el-chalet/",
+            "cpa": {
+                "code": [
+                    "U9207XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3643,
+            "locationName": "El Cherque",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/el-cherque/",
+            "cpa": {
+                "code": [
+                    "U9223XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3644,
+            "locationName": "El Coihue",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/el-coihue/",
+            "cpa": {
+                "code": [
+                    "U9211XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3645,
+            "locationName": "El Coite",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/el-coite/",
+            "cpa": {
+                "code": [
+                    "U9033XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3646,
+            "locationName": "El Colhue",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/el-colhue/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/chubut/calles-de-el-colhue/"
+            }
+        },
+        {
+            "locationId": 3647,
+            "locationName": "El Cronometro",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/el-cronometro/",
+            "cpa": {
+                "code": [
+                    "U9201XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3648,
+            "locationName": "El Cuche",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/el-cuche/",
+            "cpa": {
+                "code": [
+                    "U9201XAQ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3649,
+            "locationName": "El Desempeño",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/el-desempeno/",
+            "cpa": {
+                "code": [
+                    "U9120XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3650,
+            "locationName": "El Escorial",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/el-escorial/",
+            "cpa": {
+                "code": [
+                    "U9121XAZ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3651,
+            "locationName": "El Hoyo",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/el-hoyo/",
+            "cpa": {
+                "code": [
+                    "U9211XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3652,
+            "locationName": "El Jaguel",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/el-jaguel/",
+            "cpa": {
+                "code": [
+                    "U9111XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3653,
+            "locationName": "El Kaquel",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/el-kaquel/",
+            "cpa": {
+                "code": [
+                    "U9201XAR"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3654,
+            "locationName": "El Maiten",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/el-maiten/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/chubut/calles-de-el-maiten/"
+            }
+        },
+        {
+            "locationId": 3655,
+            "locationName": "El Mirador",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/el-mirador/",
+            "cpa": {
+                "code": [
+                    "U9201XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3656,
+            "locationName": "El Mirasol",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/el-mirasol/",
+            "cpa": {
+                "code": [
+                    "U9101XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3657,
+            "locationName": "El Molle",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/el-molle/",
+            "cpa": {
+                "code": [
+                    "U9220XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3658,
+            "locationName": "El Pajarito",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/el-pajarito/",
+            "cpa": {
+                "code": [
+                    "U9201XBA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3659,
+            "locationName": "El Pastizal",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/el-pastizal/",
+            "cpa": {
+                "code": [
+                    "U9121XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3660,
+            "locationName": "El Piquillin",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/el-piquillin/",
+            "cpa": {
+                "code": [
+                    "U9121XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3661,
+            "locationName": "El Portezuelo",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/el-portezuelo/",
+            "cpa": {
+                "code": [
+                    "U9201XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3662,
+            "locationName": "El Porvenir",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/el-porvenir/",
+            "cpa": {
+                "code": [
+                    "U9033XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3663,
+            "locationName": "El Poyo",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/el-poyo/",
+            "cpa": {
+                "code": [
+                    "U9201XAS"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3664,
+            "locationName": "El Quilimuay",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/el-quilimuay/",
+            "cpa": {
+                "code": [
+                    "U9121XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3665,
+            "locationName": "El Ruano",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/el-ruano/",
+            "cpa": {
+                "code": [
+                    "U9121XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3666,
+            "locationName": "El Salitral",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/el-salitral/",
+            "cpa": {
+                "code": [
+                    "U9121XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3667,
+            "locationName": "El Shaman",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/el-shaman/",
+            "cpa": {
+                "code": [
+                    "U9223XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3668,
+            "locationName": "El Sombrero",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/el-sombrero/",
+            "cpa": {
+                "code": [
+                    "U9207XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3669,
+            "locationName": "El Trebol",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/el-trebol/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/chubut/calles-de-el-trebol/"
+            }
+        },
+        {
+            "locationId": 3670,
+            "locationName": "El Triana",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/el-triana/",
+            "cpa": {
+                "code": [
+                    "U9037XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3671,
+            "locationName": "El Tropezon",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/el-tropezon/",
+            "cpa": {
+                "code": [
+                    "U9220XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3672,
+            "locationName": "El Turbio",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/el-turbio/",
+            "cpa": {
+                "code": [
+                    "U9210XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3673,
+            "locationName": "Empalme a Astra",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/empalme-a-astra/",
+            "cpa": {
+                "code": [
+                    "U9003XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3674,
+            "locationName": "Empalme Puerto Lobos",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/empalme-puerto-lobos/",
+            "cpa": {
+                "code": [
+                    "U8532XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3675,
+            "locationName": "Enrique Hermitte",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/enrique-hermitte/",
+            "cpa": {
+                "code": [
+                    "U9020XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3676,
+            "locationName": "Epuyen",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/epuyen/",
+            "cpa": {
+                "code": [
+                    "U9211XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3677,
+            "locationName": "Esquel",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/esquel/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/chubut/calles-de-esquel/"
+            }
+        },
+        {
+            "locationId": 3678,
+            "locationName": "Estancia el Moro",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/estancia-el-moro/",
+            "cpa": {
+                "code": [
+                    "U9121XBW"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3679,
+            "locationName": "Estancia la Mimosa",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/estancia-la-mimosa/",
+            "cpa": {
+                "code": [
+                    "U9201XAT"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3680,
+            "locationName": "Estancia Nueva Lubecka",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/estancia-nueva-lubecka/",
+            "cpa": {
+                "code": [
+                    "U9227XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3681,
+            "locationName": "Estancia Pampa Chica",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/estancia-pampa-chica/",
+            "cpa": {
+                "code": [
+                    "U9201XAU"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3682,
+            "locationName": "Facundo",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/facundo/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3683,
+            "locationName": "Fithen Verin",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/fithen-verin/",
+            "cpa": {
+                "code": [
+                    "U9210XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3684,
+            "locationName": "Fitirhuin",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/fitirhuin/",
+            "cpa": {
+                "code": [
+                    "U9210XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3685,
+            "locationName": "Florentino Ameghino",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/florentino-ameghino/",
+            "cpa": {
+                "code": [
+                    "U9100XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3686,
+            "locationName": "Fofo Cahuel",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/fofo-cahuel/",
+            "cpa": {
+                "code": [
+                    "U9213XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3687,
+            "locationName": "Frontera de Rio Pico",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/frontera-de-rio-pico/",
+            "cpa": {
+                "code": [
+                    "U9225XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3688,
+            "locationName": "Futaleufu",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/futaleufu/",
+            "cpa": {
+                "code": [
+                    "U9203XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3689,
+            "locationName": "Gaiman",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/gaiman/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/chubut/calles-de-gaiman/"
+            }
+        },
+        {
+            "locationId": 3690,
+            "locationName": "Gan Gan",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/gan-gan/",
+            "cpa": {
+                "code": [
+                    "U9121XBX"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3691,
+            "locationName": "Garayalde",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/garayalde/",
+            "cpa": {
+                "code": [
+                    "U9111XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3692,
+            "locationName": "Gastre",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/gastre/",
+            "cpa": {
+                "code": [
+                    "U9121XBA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3693,
+            "locationName": "Glasfryn",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/glasfryn/",
+            "cpa": {
+                "code": [
+                    "U9105XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3694,
+            "locationName": "Gobernador Costa",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/gobernador-costa/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/chubut/calles-de-gobernador-costa/"
+            }
+        },
+        {
+            "locationId": 3695,
+            "locationName": "Gualjaina",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/gualjaina/",
+            "cpa": {
+                "code": [
+                    "U9201XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3696,
+            "locationName": "Hito 43",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/hito-43/",
+            "cpa": {
+                "code": [
+                    "U9225XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3697,
+            "locationName": "Hito 45",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/hito-45/",
+            "cpa": {
+                "code": [
+                    "U9039XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3698,
+            "locationName": "Hito 50",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/hito-50/",
+            "cpa": {
+                "code": [
+                    "U9039XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3699,
+            "locationName": "Holdich",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/holdich/",
+            "cpa": {
+                "code": [
+                    "U9009XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3700,
+            "locationName": "Ing Bruno J Thomae",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/ing-bruno-j-thomae/",
+            "cpa": {
+                "code": [
+                    "U9210XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3701,
+            "locationName": "Jose de San Martin",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/jose-de-san-martin/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/chubut/calles-de-jose-de-san-martin/"
+            }
+        },
+        {
+            "locationId": 3702,
+            "locationName": "Kilometro 11",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/kilometro-11/",
+            "cpa": {
+                "code": [
+                    "U9000XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3703,
+            "locationName": "Kilometro 191",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/kilometro-191/",
+            "cpa": {
+                "code": [
+                    "U9020XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3704,
+            "locationName": "La Bombilla",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/la-bombilla/",
+            "cpa": {
+                "code": [
+                    "U9207XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3705,
+            "locationName": "La Cancha",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/la-cancha/",
+            "cpa": {
+                "code": [
+                    "U9039XAF",
+                    "U9039XAF"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3706,
+            "locationName": "La Castellana",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/la-castellana/",
+            "cpa": {
+                "code": [
+                    "U9111XAF",
+                    "U9111XAF"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3707,
+            "locationName": "La Corona",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/la-corona/",
+            "cpa": {
+                "code": [
+                    "U9121XAS"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3708,
+            "locationName": "La Lancha",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/la-lancha/",
+            "cpa": {
+                "code": [
+                    "U9200XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3709,
+            "locationName": "La Laurita",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/la-laurita/",
+            "cpa": {
+                "code": [
+                    "U9033XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3710,
+            "locationName": "La Nicolasa",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/la-nicolasa/",
+            "cpa": {
+                "code": [
+                    "U9039XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3711,
+            "locationName": "La Pepita",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/la-pepita/",
+            "cpa": {
+                "code": [
+                    "U9033XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3712,
+            "locationName": "La Primavera",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/la-primavera/",
+            "cpa": {
+                "code": [
+                    "U9201XBB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3713,
+            "locationName": "La Rosilla",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/la-rosilla/",
+            "cpa": {
+                "code": [
+                    "U9121XAT"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3714,
+            "locationName": "La Salamanca",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/la-salamanca/",
+            "cpa": {
+                "code": [
+                    "U9007XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3715,
+            "locationName": "La Siberia",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/la-siberia/",
+            "cpa": {
+                "code": [
+                    "U9039XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3716,
+            "locationName": "Lago Blanco",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/lago-blanco/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/chubut/calles-de-lago-blanco/"
+            }
+        },
+        {
+            "locationId": 3717,
+            "locationName": "Lago Carlos Pellegrini",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/lago-carlos-pellegrini/",
+            "cpa": {
+                "code": [
+                    "U9217XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3718,
+            "locationName": "Lago Fontana",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/lago-fontana/",
+            "cpa": {
+                "code": [
+                    "U9033XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3719,
+            "locationName": "Lago Lezana",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/lago-lezana/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/chubut/calles-de-lago-lezana/"
+            }
+        },
+        {
+            "locationId": 3720,
+            "locationName": "Lago Musters",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/lago-musters/",
+            "cpa": {
+                "code": [
+                    "U9023XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3721,
+            "locationName": "Lago Paz",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/lago-paz/",
+            "cpa": {
+                "code": [
+                    "U9225XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3722,
+            "locationName": "Lago Puelo",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/lago-puelo/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/chubut/calles-de-lago-puelo/"
+            }
+        },
+        {
+            "locationId": 3723,
+            "locationName": "Lago Rivadavia",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/lago-rivadavia/",
+            "cpa": {
+                "code": [
+                    "U9217XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3724,
+            "locationName": "Lago Rosario",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/lago-rosario/",
+            "cpa": {
+                "code": [
+                    "U9203XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3725,
+            "locationName": "Lago Verde",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/lago-verde/",
+            "cpa": {
+                "code": [
+                    "U9225XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3726,
+            "locationName": "Lago Vintter",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/lago-vintter/",
+            "cpa": {
+                "code": [
+                    "U9225XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3727,
+            "locationName": "Laguna Blanca",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/laguna-blanca/",
+            "cpa": {
+                "code": [
+                    "U9220XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3728,
+            "locationName": "Laguna de Vacas",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/laguna-de-vacas/",
+            "cpa": {
+                "code": [
+                    "U9121XCE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3729,
+            "locationName": "Laguna del Mate",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/laguna-del-mate/",
+            "cpa": {
+                "code": [
+                    "U9020XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3730,
+            "locationName": "Laguna Fria",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/laguna-fria/",
+            "cpa": {
+                "code": [
+                    "U9121XBY"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3731,
+            "locationName": "Laguna Grande",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/laguna-grande/",
+            "cpa": {
+                "code": [
+                    "U9107XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3732,
+            "locationName": "Laguna Palacio",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/laguna-palacio/",
+            "cpa": {
+                "code": [
+                    "U9020XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3733,
+            "locationName": "Laguna Rincon del Moro",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/laguna-rincon-del-moro/",
+            "cpa": {
+                "code": [
+                    "U9207XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3734,
+            "locationName": "Laguna Terraplen",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/laguna-terraplen/",
+            "cpa": {
+                "code": [
+                    "U9200XAM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3735,
+            "locationName": "Laguna Verde",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/laguna-verde/",
+            "cpa": {
+                "code": [
+                    "U9220XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3736,
+            "locationName": "Lagunita Salada",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/lagunita-salada/",
+            "cpa": {
+                "code": [
+                    "U9121XBB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3737,
+            "locationName": "Languiñeo",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/languineo/",
+            "cpa": {
+                "code": [
+                    "U9201XAV"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3738,
+            "locationName": "Larralde",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/larralde/",
+            "cpa": {
+                "code": [
+                    "U9121XAU"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3739,
+            "locationName": "Las Chapas",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/las-chapas/",
+            "cpa": {
+                "code": [
+                    "U9107XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3740,
+            "locationName": "Las Cortaderas",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/las-cortaderas/",
+            "cpa": {
+                "code": [
+                    "U9207XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3741,
+            "locationName": "Las Golondrinas",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/las-golondrinas/",
+            "cpa": {
+                "code": [
+                    "U8431XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3742,
+            "locationName": "Las Horquetas",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/las-horquetas/",
+            "cpa": {
+                "code": [
+                    "U9207XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3743,
+            "locationName": "Las Mulas",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/las-mulas/",
+            "cpa": {
+                "code": [
+                    "U9225XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3744,
+            "locationName": "Las Pampas",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/las-pampas/",
+            "cpa": {
+                "code": [
+                    "U9225XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3745,
+            "locationName": "Las Plumas",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/las-plumas/",
+            "cpa": {
+                "code": [
+                    "U9101XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3746,
+            "locationName": "Las Pulgas",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/las-pulgas/",
+            "cpa": {
+                "code": [
+                    "U9020XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3747,
+            "locationName": "Las Salinas",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/las-salinas/",
+            "cpa": {
+                "code": [
+                    "U9201XAW"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3748,
+            "locationName": "Legua 24",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/legua-24/",
+            "cpa": {
+                "code": [
+                    "U9203XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3749,
+            "locationName": "Leleque",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/leleque/",
+            "cpa": {
+                "code": [
+                    "U9217XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3750,
+            "locationName": "Lenzanilleo",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/lenzanilleo/",
+            "cpa": {
+                "code": [
+                    "U9220XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3751,
+            "locationName": "Loma Redonda",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/loma-redonda/",
+            "cpa": {
+                "code": [
+                    "U9105XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3752,
+            "locationName": "Loreto",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/loreto/",
+            "cpa": {
+                "code": [
+                    "U9121XAO"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3753,
+            "locationName": "Los Altares",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/los-altares/",
+            "cpa": {
+                "code": [
+                    "U9207XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3754,
+            "locationName": "Los Cipreses",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/los-cipreses/",
+            "cpa": {
+                "code": [
+                    "U9203XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3755,
+            "locationName": "Los Corralitos",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/los-corralitos/",
+            "cpa": {
+                "code": [
+                    "U9220XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3756,
+            "locationName": "Los Manantiales",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/los-manantiales/",
+            "cpa": {
+                "code": [
+                    "U9207XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3757,
+            "locationName": "Los Tamariscos",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/los-tamariscos/",
+            "cpa": {
+                "code": [
+                    "U9031XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3758,
+            "locationName": "Maesteg",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/maesteg/",
+            "cpa": {
+                "code": [
+                    "U9105XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3759,
+            "locationName": "Malaspina",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/malaspina/",
+            "cpa": {
+                "code": [
+                    "U9111XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3760,
+            "locationName": "Mallin Blanco",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/mallin-blanco/",
+            "cpa": {
+                "code": [
+                    "U9201XAX"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3761,
+            "locationName": "Mallin Grande",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/mallin-grande/",
+            "cpa": {
+                "code": [
+                    "U9121XBZ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3762,
+            "locationName": "Mallin Grande Corcovado",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/mallin-grande-corcovado/",
+            "cpa": {
+                "code": [
+                    "U9121XAX"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3763,
+            "locationName": "Manantial Grande",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/manantial-grande/",
+            "cpa": {
+                "code": [
+                    "U9020XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3764,
+            "locationName": "Manantiales Behr",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/manantiales-behr/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/chubut/calles-de-manantiales-behr/"
+            }
+        },
+        {
+            "locationId": 3765,
+            "locationName": "Mata Grande",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/mata-grande/",
+            "cpa": {
+                "code": [
+                    "U9220XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3766,
+            "locationName": "Matucana",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/matucana/",
+            "cpa": {
+                "code": [
+                    "U9200XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3767,
+            "locationName": "Mayoco",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/mayoco/",
+            "cpa": {
+                "code": [
+                    "U9200XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3768,
+            "locationName": "Medanos",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/medanos/",
+            "cpa": {
+                "code": [
+                    "U9121XAP"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3769,
+            "locationName": "Nahuel Pan Estacion Fcgr",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/nahuel-pan-estacion-fcgr/",
+            "cpa": {
+                "code": [
+                    "U9200XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3770,
+            "locationName": "Niriguao",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/niriguao/",
+            "cpa": {
+                "code": [
+                    "U9223XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3771,
+            "locationName": "Niriguce Pampa",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/niriguce-pampa/",
+            "cpa": {
+                "code": [
+                    "U9223XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3772,
+            "locationName": "Ñorquinco Sud",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/norquinco-sud/",
+            "cpa": {
+                "code": [
+                    "U8415XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3773,
+            "locationName": "Painaluf",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/painaluf/",
+            "cpa": {
+                "code": [
+                    "U9121XCA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3774,
+            "locationName": "Pampa de Agnia",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/pampa-de-agnia/",
+            "cpa": {
+                "code": [
+                    "U9201XAY"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3775,
+            "locationName": "Pampa del Castillo",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/pampa-del-castillo/",
+            "cpa": {
+                "code": [
+                    "U9000XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3776,
+            "locationName": "Pampa Pelada",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/pampa-pelada/",
+            "cpa": {
+                "code": [
+                    "U9007XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3777,
+            "locationName": "Pampa Salamanca",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/pampa-salamanca/",
+            "cpa": {
+                "code": [
+                    "U9000XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3778,
+            "locationName": "Pampa Tepuel",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/pampa-tepuel/",
+            "cpa": {
+                "code": [
+                    "U9201XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3779,
+            "locationName": "Paraje Entre Rios",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/paraje-entre-rios/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/chubut/calles-de-paraje-entre-rios/"
+            }
+        },
+        {
+            "locationId": 3780,
+            "locationName": "Parque Nacional los Alerces",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/parque-nacional-los-alerces/",
+            "cpa": {
+                "code": [
+                    "U9201XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3781,
+            "locationName": "Paso de Indios",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/paso-de-indios/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/chubut/calles-de-paso-de-indios/"
+            }
+        },
+        {
+            "locationId": 3782,
+            "locationName": "Paso de Torres",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/paso-de-torres/",
+            "cpa": {
+                "code": [
+                    "U9020XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3783,
+            "locationName": "Paso del Sapo",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/paso-del-sapo/",
+            "cpa": {
+                "code": [
+                    "U9201XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3784,
+            "locationName": "Paso Moreno",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/paso-moreno/",
+            "cpa": {
+                "code": [
+                    "U9033XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3785,
+            "locationName": "Pastos Blancos",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/pastos-blancos/",
+            "cpa": {
+                "code": [
+                    "U9033XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3786,
+            "locationName": "Pico Salamanca",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/pico-salamanca/",
+            "cpa": {
+                "code": [
+                    "U9000XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3787,
+            "locationName": "Piedra Parada",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/piedra-parada/",
+            "cpa": {
+                "code": [
+                    "U9201XAM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3788,
+            "locationName": "Piedra Shotel",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/piedra-shotel/",
+            "cpa": {
+                "code": [
+                    "U9227XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3789,
+            "locationName": "Pirre Mahuida",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/pirre-mahuida/",
+            "cpa": {
+                "code": [
+                    "U9121XBC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3790,
+            "locationName": "Playa Union",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/playa-union/",
+            "cpa": {
+                "code": [
+                    "U9103XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3791,
+            "locationName": "Pocitos de Quichaura",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/pocitos-de-quichaura/",
+            "cpa": {
+                "code": [
+                    "U9201XAN"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3792,
+            "locationName": "Puente Hendre",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/puente-hendre/",
+            "cpa": {
+                "code": [
+                    "U9101XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3793,
+            "locationName": "Puerto Lobos",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/puerto-lobos/",
+            "cpa": {
+                "code": [
+                    "U8532XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3794,
+            "locationName": "Puerto Madryn",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/puerto-madryn/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/chubut/calles-de-puerto-madryn/"
+            }
+        },
+        {
+            "locationId": 3795,
+            "locationName": "Puerto Piramides",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/puerto-piramides/",
+            "cpa": {
+                "code": [
+                    "U9121XAQ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3796,
+            "locationName": "Puerto San Roman",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/puerto-san-roman/",
+            "cpa": {
+                "code": [
+                    "U9121XAR"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3797,
+            "locationName": "Punta Bajos",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/punta-bajos/",
+            "cpa": {
+                "code": [
+                    "U9121XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3798,
+            "locationName": "Punta Delgada",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/punta-delgada/",
+            "cpa": {
+                "code": [
+                    "U9121XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3799,
+            "locationName": "Punta Ninfas",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/punta-ninfas/",
+            "cpa": {
+                "code": [
+                    "U9103XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3800,
+            "locationName": "Punta Norte",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/punta-norte/",
+            "cpa": {
+                "code": [
+                    "U9121XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3801,
+            "locationName": "Punta Quiroga",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/punta-quiroga/",
+            "cpa": {
+                "code": [
+                    "U9120XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3802,
+            "locationName": "Putrachoique",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/putrachoique/",
+            "cpa": {
+                "code": [
+                    "U9223XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3803,
+            "locationName": "Rada Tilly",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/rada-tilly/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/chubut/calles-de-rada-tilly/"
+            }
+        },
+        {
+            "locationId": 3804,
+            "locationName": "Ranquil Huao",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/ranquil-huao/",
+            "cpa": {
+                "code": [
+                    "U9213XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3805,
+            "locationName": "Rawson",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/rawson/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/chubut/calles-de-rawson/"
+            }
+        },
+        {
+            "locationId": 3806,
+            "locationName": "Rio Carrileufu",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/rio-carrileufu/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/chubut/calles-de-rio-carrileufu/"
+            }
+        },
+        {
+            "locationId": 3807,
+            "locationName": "Rio Chico",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/rio-chico/",
+            "cpa": {
+                "code": [
+                    "U9000XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3808,
+            "locationName": "Rio Corinto",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/rio-corinto/",
+            "cpa": {
+                "code": [
+                    "U9203XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3809,
+            "locationName": "Rio Frias",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/rio-frias/",
+            "cpa": {
+                "code": [
+                    "U9033XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3810,
+            "locationName": "Rio Mayo",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/rio-mayo/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/chubut/calles-de-rio-mayo/"
+            }
+        },
+        {
+            "locationId": 3811,
+            "locationName": "Rio Pico",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/rio-pico/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/chubut/calles-de-rio-pico/"
+            }
+        },
+        {
+            "locationId": 3812,
+            "locationName": "Ruta 3 Kilometro 1646",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/ruta-3-kilometro-1646/",
+            "cpa": {
+                "code": [
+                    "U9111XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3813,
+            "locationName": "Ruta 3 Kilometro 1711",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/ruta-3-kilometro-1711/",
+            "cpa": {
+                "code": [
+                    "U9111XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3814,
+            "locationName": "Sacanana",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/sacanana/",
+            "cpa": {
+                "code": [
+                    "U9121XBE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3815,
+            "locationName": "Salinas Chicas",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/salinas-chicas/",
+            "cpa": {
+                "code": [
+                    "U9121XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3816,
+            "locationName": "Salinas Grandes",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/salinas-grandes/",
+            "cpa": {
+                "code": [
+                    "U9121XAM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3817,
+            "locationName": "San Jose",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/san-jose/",
+            "cpa": {
+                "code": [
+                    "U9121XAN"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3818,
+            "locationName": "Sarmiento",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/sarmiento/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/chubut/calles-de-sarmiento/"
+            }
+        },
+        {
+            "locationId": 3819,
+            "locationName": "Seprucal",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/seprucal/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3820,
+            "locationName": "Siempre Viva",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/siempre-viva/",
+            "cpa": {
+                "code": [
+                    "U9213XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3821,
+            "locationName": "Sierra Chata",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/sierra-chata/",
+            "cpa": {
+                "code": [
+                    "U9121XCC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3822,
+            "locationName": "Sierra Chica",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/sierra-chica/",
+            "cpa": {
+                "code": [
+                    "U9121XAW"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3823,
+            "locationName": "Sierra Colorada",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/sierra-colorada/",
+            "cpa": {
+                "code": [
+                    "U9111XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3824,
+            "locationName": "Sierra Corrientes",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/sierra-corrientes/",
+            "cpa": {
+                "code": [
+                    "U9020XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3825,
+            "locationName": "Sierra Cuadrada",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/sierra-cuadrada/",
+            "cpa": {
+                "code": [
+                    "U9007XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3826,
+            "locationName": "Sierra de Tecka",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/sierra-de-tecka/",
+            "cpa": {
+                "code": [
+                    "U9200XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3827,
+            "locationName": "Sierra Nevada Buen Pasto",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/sierra-nevada-buen-pasto/",
+            "cpa": {
+                "code": [
+                    "U9023XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3828,
+            "locationName": "Sierra Nevada Paso de Indios",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/sierra-nevada-paso-de-indios/",
+            "cpa": {
+                "code": [
+                    "U9207XAM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3829,
+            "locationName": "Sierra Overa Chicas y Grandes",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/sierra-overa-chicas-y-grandes/",
+            "cpa": {
+                "code": [
+                    "U9007XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3830,
+            "locationName": "Sierra Rosada",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/sierra-rosada/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3831,
+            "locationName": "Sierra Victoria",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/sierra-victoria/",
+            "cpa": {
+                "code": [
+                    "U9020XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3832,
+            "locationName": "Sol de Mayo",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/sol-de-mayo/",
+            "cpa": {
+                "code": [
+                    "U9103XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3833,
+            "locationName": "Sunica",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/sunica/",
+            "cpa": {
+                "code": [
+                    "U9200XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3834,
+            "locationName": "Talagapa",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/talagapa/",
+            "cpa": {
+                "code": [
+                    "U9121XBT"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3835,
+            "locationName": "Taquetren",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/taquetren/",
+            "cpa": {
+                "code": [
+                    "U9201XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3836,
+            "locationName": "Tatuen",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/tatuen/",
+            "cpa": {
+                "code": [
+                    "U9121XBU"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3837,
+            "locationName": "Tecka",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/tecka/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/chubut/calles-de-tecka/"
+            }
+        },
+        {
+            "locationId": 3838,
+            "locationName": "Telsen",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/telsen/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/chubut/calles-de-telsen/"
+            }
+        },
+        {
+            "locationId": 3839,
+            "locationName": "Toma de los Canales",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/toma-de-los-canales/",
+            "cpa": {
+                "code": [
+                    "U9107XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3840,
+            "locationName": "Toro Hosco",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/toro-hosco/",
+            "cpa": {
+                "code": [
+                    "U9207XAN"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3841,
+            "locationName": "Trelew",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/trelew/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/chubut/calles-de-trelew/"
+            }
+        },
+        {
+            "locationId": 3842,
+            "locationName": "Treorki",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/treorki/",
+            "cpa": {
+                "code": [
+                    "U9105XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3843,
+            "locationName": "Tres Picos",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/tres-picos/",
+            "cpa": {
+                "code": [
+                    "U9220XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3844,
+            "locationName": "Trevelin",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/trevelin/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/chubut/calles-de-trevelin/"
+            }
+        },
+        {
+            "locationId": 3845,
+            "locationName": "Uzcudun",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/uzcudun/",
+            "cpa": {
+                "code": [
+                    "U9100XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3846,
+            "locationName": "Valle del Rio Chubut",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/valle-del-rio-chubut/",
+            "cpa": {
+                "code": [
+                    "U9121XAY"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3847,
+            "locationName": "Valle del Tecka",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/valle-del-tecka/",
+            "cpa": {
+                "code": [
+                    "U9201XAO"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3848,
+            "locationName": "Valle Frio",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/valle-frio/",
+            "cpa": {
+                "code": [
+                    "U9203XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3849,
+            "locationName": "Valle Garin",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/valle-garin/",
+            "cpa": {
+                "code": [
+                    "U9201XAP"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3850,
+            "locationName": "Valle Hermoso",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/valle-hermoso/",
+            "cpa": {
+                "code": [
+                    "U9020XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3851,
+            "locationName": "Valle Hondo",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/valle-hondo/",
+            "cpa": {
+                "code": [
+                    "U9221XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3852,
+            "locationName": "Valle Huemules",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/valle-huemules/",
+            "cpa": {
+                "code": [
+                    "U9039XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3853,
+            "locationName": "Valle los Martires",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/valle-los-martires/",
+            "cpa": {
+                "code": [
+                    "U9105XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3854,
+            "locationName": "Villa Futalaufquen",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/villa-futalaufquen/",
+            "cpa": {
+                "code": [
+                    "U9200XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3855,
+            "locationName": "Villa Ines",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/villa-ines/",
+            "cpa": {
+                "code": [
+                    "U9105XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 3856,
+            "locationName": "Villa Lago Rivadavia",
+            "locationLink": "https://codigo-postal.co/argentina/chubut/villa-lago-rivadavia/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/chubut/calles-de-villa-lago-rivadavia/"
+            }
+        }
+    ]
+}

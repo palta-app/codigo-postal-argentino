@@ -1,0 +1,30 @@
+{
+  "name": "codigo-postal-argentino",
+  "version": "1.0.0",
+  "description": "¡Buenas! En Palta estamos teniendo un problema y es que no encontramos una API que nos proporcione con exactitud una consulta para obtener un CPA (Código Postal Argentino) en su nueva versión de 8 caracteres (ejemplo M5500BBA), para ello hemos pensado que tal vez la solución sea armar un scraper para consultarlo o descargar la data dentro de alguna web y poder almacenarla para compartirla con la comunidad Argentina.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseCorrientes/codigo-postal-argentino.git"
+  },
+  "author": "Jose Garcia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoseCorrientes/codigo-postal-argentino/issues"
+  },
+  "homepage": "https://github.com/JoseCorrientes/codigo-postal-argentino#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "exceljs": "^4.3.0",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

@@ -1,0 +1,1403 @@
+id,name,zip,state
+3857,9 de Julio,X5272XAB,Córdoba
+3858,Abburra,X5220XAT,Córdoba
+3859,Achiras,X5875XAC,Córdoba
+3860,Acollarado,X5216XAE,Córdoba
+3861,Acostilla,X5871XAD,Córdoba
+3863,Agua de Crespin,X5285XAD,Córdoba
+3864,Agua de las Piedras,X5221XAT,Córdoba
+3865,Agua de Oro,X5248XAB,Córdoba
+3866,Agua de Tala,X5155XAL,Córdoba
+3867,Agua del Tala,X5243XAA,Córdoba
+3868,Agua Hedionda,X5216XAF,Córdoba
+3869,Agua Pintada,X5212XAO,Córdoba
+3870,Aguada del Monte,X5209XAY,Córdoba
+3871,Aguadita,X5209XAZ,Córdoba
+3872,Aguas de Ramon,X5284XBB,Córdoba
+3873,Aguasacha,X5221XAF,Córdoba
+3877,Algarrobal,X5885XAB,Córdoba
+3878,Algarrobo,X5221XAM,Córdoba
+3881,Alpa Corral,X5801XAJ,Córdoba
+3882,Alpapuca,X5813XAE,Córdoba
+3884,Altautina,X5871XAQ,Córdoba
+3885,Alto Alegre,X5121XAB,Córdoba
+3886,Alto Castro,X5182XAD,Córdoba
+3887,Alto de Castillo,X5145XAK,Córdoba
+3888,Alto de Fierro,X5119XAG,Córdoba
+3889,Alto de Flores,X5203XAB,Córdoba
+3890,Alto de las Mulas,X5875XAD,Córdoba
+3891,Alto de los Quebrachos,X5281XAY,Córdoba
+3892,Alto de San Pedro,X5174XAB,Córdoba
+3893,Alto del Durazno,X5119XAI,Córdoba
+3894,Alto del Tala,X5295XAA,Córdoba
+3895,Alto Grande,X5893XAC,Córdoba
+3896,Alto Resbaloso,X5885XAO,Córdoba
+3897,Alto Verde,X5205XAA,Córdoba
+3899,Amboy,X5199XAK,Córdoba
+3900,Ambul,X5299XAN,Córdoba
+3901,Ana Zumaran,X5905XAA,Córdoba
+3902,Angostura,X5155XAM,Córdoba
+3903,Animi,X5107XAG,Córdoba
+3905,Antonio Catalano,X6271XAC,Córdoba
+3906,Arbol Blanco,X5216XAG,Córdoba
+3907,Arbol Chato,X2432XAE,Córdoba
+3908,Arboles Blancos,X5873XAC,Córdoba
+3909,Arcoyo,X5297XAO,Córdoba
+3911,Aromito,X2341XAA,Córdoba
+3913,Arroyo,X5297XAI,Córdoba
+3916,Arroyo de Alvarez,X2434XAB,Córdoba
+3917,Arroyo del Pino,X5901XAD,Córdoba
+3918,Arroyo la Higuera,X5889XAG,Córdoba
+3919,Arroyo los Patos,X5889XAH,Córdoba
+3920,Arroyo San Antonio,X5859XAG,Córdoba
+3921,Arroyo Santa Catalina,X5825XAA,Córdoba
+3922,Arroyo Santana,X5819XAG,Córdoba
+3923,Arroyo Seco,X5196XAE,Córdoba
+3924,Arroyo Toledo,X5819XAH,Córdoba
+3925,Arsenal Jose Maria Rojas,X5825XAB,Córdoba
+3926,Ascochinga,X5117XAA,Córdoba
+3927,Assunta,X2671XAC,Córdoba
+3928,Atahona,X5225XAB,Córdoba
+3929,Athos Pampa,X5194XAD,Córdoba
+3930,Atumi Pampa,X5196XAF,Córdoba
+3933,Avellaneda,X5212XAP,Córdoba
+3938,Bajada Nueva,X5813XAA,Córdoba
+3939,Bajo Chico,X5189XAM,Córdoba
+3940,Bajo Chico Bajo Grande,X5101XAB,Córdoba
+3941,Bajo de Fernandez,X5101XAN,Córdoba
+3942,Bajo de Gomez,X5961XAB,Córdoba
+3943,Bajo de Olmos,X5221XAN,Córdoba
+3944,Bajo del Burro,X2662XAC,Córdoba
+3945,Bajo del Carmen,X5189XAF,Córdoba
+3946,Bajo el Molino,X5887XAA,Córdoba
+3947,Bajo Galindez,X5961XAE,Córdoba
+3948,Bajo Grande,X5101XBA,Córdoba
+3949,Bajo Hondo,X5231XAA,Córdoba
+3950,Bajo Lindo,X5270XAI,Córdoba
+3951,Balbuena,X5248XAC,Córdoba
+3952,Balde de la Mora,X5871XAL,Córdoba
+3953,Balde de la Orilla,X5871XAC,Córdoba
+3954,Balde Lindo,X5871XAR,Córdoba
+3958,Balneario Guglieri,X5137XAV,Córdoba
+3959,Banda de Varela,X5875XAA,Córdoba
+3960,Barranca Yaco,X5212XAQ,Córdoba
+3961,Barreto,X2671XAD,Córdoba
+3962,Barrial,X5281XAS,Córdoba
+3963,Barrialitos,X5284XAX,Córdoba
+3964,Barrio Belgrano,X2550XAB,Córdoba
+3965,Barrio Dean Funes,X5123XAL,Córdoba
+3966,Barrio del Libertador,X5850XAA,Córdoba
+3967,Barrio la Feria,X5870XAB,Córdoba
+3968,Barrio la Fortuna,X2594XAC,Córdoba
+3969,Barrio Loza,X5111XAA,Córdoba
+3970,Barrio Muller,X5143XAC,Córdoba
+3971,Batan,X5155XAN,Córdoba
+3972,Belen,X5220XAH,Córdoba
+3974,Bella Vista,X5284XAY,Córdoba
+3978,Beuce,X5244XAN,Córdoba
+3980,Blas de Rosales,X5125XAA,Córdoba
+3981,Boca del Rio,X5885XAN,Córdoba
+3982,Bordo de los Espinosa,X5209XAM,Córdoba
+3983,Bosque Alegre,X5186XAA,Córdoba
+3986,Buen Retiro,X5155XAK,Córdoba
+3987,Buena Vista,X5295XAF,Córdoba
+3988,Buey Muerto,X5131XAW,Córdoba
+3990,Burmeister,X6225XAA,Córdoba
+4021,Cabeza de Buey,X5229XAK,Córdoba
+4022,Cabindo,X5221XAU,Córdoba
+4023,Cachi Yaco,X5209XAN,Córdoba
+4024,Cachiyullo,X5284XAL,Córdoba
+4025,Cajon del Rio,X5184XAI,Córdoba
+4026,Calabalumba,X5282XAL,Córdoba
+4027,Calasuya,X5201XAU,Córdoba
+4030,Calera Central,X5151XAH,Córdoba
+4031,Calmayo,X5191XAC,Córdoba
+4032,Camarones,X5205XAB,Córdoba
+4035,Camino a Punta del Agua,X5101XBB,Córdoba
+4036,Camoati,X5231XAB,Córdoba
+4037,Campamento Minnetti,X5149XAB,Córdoba
+4038,Campo Alegre,X5221XAV,Córdoba
+4039,Campo Alvarez,X5229XAD,Córdoba
+4040,Campo Ambroggio,X5915XAA,Córdoba
+4041,Campo Bandillo,X5943XAA,Córdoba
+4042,Campo Beiro,X2421XAG,Córdoba
+4043,Campo Boero,X2426XAB,Córdoba
+4044,Campo Bourdichon,X5149XAD,Córdoba
+4045,Campo Calvo,X2423XAE,Córdoba
+4046,Campo Coyunda,X5139XAG,Córdoba
+4047,Campo de la Torre,X5801XAK,Córdoba
+4048,Campo de las Piedras,X5236XAA,Córdoba
+4049,Campo General Paz,X2555XAB,Córdoba
+4050,Campo Grande,X5231XAC,Córdoba
+4051,Campo la Luisa,X2423XAD,Córdoba
+4052,Campo la Piedra,X5221XBF,Córdoba
+4053,Campo Ramallo,X5225XAJ,Córdoba
+4054,Campo Rossiano,X5987XAD,Córdoba
+4055,Campo San Antonio,X5821XAF,Córdoba
+4056,Campo San Juan,X6271XAB,Córdoba
+4057,Campo Sol de Mayo,X2679XAA,Córdoba
+4059,Candelaria,X5287XAD,Córdoba
+4060,Candelaria Sud,X5221XBI,Córdoba
+4061,Candonga,X5111XAD,Córdoba
+4062,Cantera los Vieras,X5212XAR,Córdoba
+4063,Canteras Alta Gracia,X5186XAE,Córdoba
+4064,Canteras el Manzano,X5107XAE,Córdoba
+4065,Canteras el Sauce,X5107XAD,Córdoba
+4066,Canteras Iguazu,X5285XAK,Córdoba
+4067,Canteras Kilometro 428,X5200XAF,Córdoba
+4068,Canteras la Calera,X5151XAF,Córdoba
+4069,Canteras los Morales,X5238XAB,Córdoba
+4070,Canteras Quilpo,X5281XAN,Córdoba
+4072,Capilla de Cosme,X5101XAY,Córdoba
+4073,Capilla de Dolores,X5125XAN,Córdoba
+4075,Capilla de Romero,X5873XAB,Córdoba
+4076,Capilla de San Antonio,X2559XAB,Córdoba
+4077,Capilla de Siton,X5231XAN,Córdoba
+4078,Capilla de Tegua,X5813XAF,Córdoba
+4079,Capilla del Carmen,X5963XAB,Córdoba
+4081,Capilla la Esperanza,X5129XAJ,Córdoba
+4082,Capilla San Antonio,X2432XAD,Córdoba
+4083,Capilla San Antonio de Yucat,X5936XAA,Córdoba
+4084,Capilla Santa Rosa,X2415XAB,Córdoba
+4085,Carahuasi,X5196XAG,Córdoba
+4086,Carlomagno,X5925XAC,Córdoba
+4088,Carnero Yaco,X5246XAB,Córdoba
+4089,Caroya,X5223XAA,Córdoba
+4091,Carrizal,X5285XAL,Córdoba
+4092,Cartaberol,X5871XBD,Córdoba
+4093,Casa Bamba,X5151XAC,Córdoba
+4094,Casa Blanca,X5295XAB,Córdoba
+4095,Casa de Piedra,X5891XAE,Córdoba
+4096,Casa Grande,X5162XAA,Córdoba
+4097,Casa Nueva,X5155XAO,Córdoba
+4098,Casa Serrana Huerta Grande,X5175XAA,Córdoba
+4099,Casas Vejas,X5246XAC,Córdoba
+4100,Casas Viejas,X5285XAM,Córdoba
+4101,Cascadas,X5178XAA,Córdoba
+4102,Caspichuma,X5209XBA,Córdoba
+4103,Caspicuchana,X5209XAL,Córdoba
+4104,Cassaffousth Estacion Fcgb,X5149XAG,Córdoba
+4105,Castellanos,X5129XAK,Córdoba
+4107,Cayuqueo,X5901XAA,Córdoba
+4108,Cerro Blanco,X5191XAD,Córdoba
+4109,Cerro Bola,X5293XAA,Córdoba
+4110,Cerro Colorado,X5821XAG,Córdoba
+4111,Cerro de la Cruz,X5200XAG,Córdoba
+4112,Cerro Negro,X5221XAK,Córdoba
+4113,Cerro San Lorenzo,X5821XAH,Córdoba
+4114,Cerros Asperos,X5859XAA,Córdoba
+4118,Chacha del Rey,X5282XAJ,Córdoba
+4119,Chacras,X5284XAZ,Córdoba
+4120,Chacras del Potrero,X5284XAS,Córdoba
+4121,Chacras del Sauce,X5244XAC,Córdoba
+4122,Chacras Viejas,X5242XAA,Córdoba
+4124,Chalacea,X5229XAC,Córdoba
+4125,Chamico,X5299XAB,Córdoba
+4126,Chancani,X5871XBE,Córdoba
+4127,Chaquinchuna,X5870XAC,Córdoba
+4128,Characato,X5287XAC,Córdoba
+4129,Charbonier,X5282XAI,Córdoba
+4130,Charcas Norte,X5127XAD,Córdoba
+4133,Chile Corral al Aguada,X5246XAE,Córdoba
+4135,Chilli Corral,X5246XAF,Córdoba
+4136,Chipitin,X5244XAO,Córdoba
+4137,Chua,X5871XAK,Córdoba
+4140,Chuchiras,X5875XAB,Córdoba
+4143,Cienaga de Allende,X5891XAC,Córdoba
+4144,Cienaga de Britos,X5297XAQ,Córdoba
+4145,Cienaga del Coro,X5289XAA,Córdoba
+4147,Cnia Hogar Velez Sarsfield,X5119XAA,Córdoba
+4148,Cnia Vacaciones de Empleado,X5857XAD,Córdoba
+4150,Colonia 10 de Julio,X2349XAD,Córdoba
+4151,Colonia 25 los Surgentes,X2581XAA,Córdoba
+4152,Colonia Alemana,X5196XAH,Córdoba
+4153,Colonia Almada,X5987XAE,Córdoba
+4154,Colonia Angelita,X5941XAA,Córdoba
+4155,Colonia Anita,X2413XAD,Córdoba
+4156,Colonia Arroyo de Alvarez,X2436XAC,Córdoba
+4157,Colonia Ballesteros,X2662XAA,Córdoba
+4158,Colonia Banco Pcia Bs As,X5155XAH,Córdoba
+4159,Colonia Barge,X2659XAA,Córdoba
+4160,Colonia Beiro,X2421XAE,Córdoba
+4162,Colonia Boero,X6270XAC,Córdoba
+4163,Colonia Botturi,X2419XAB,Córdoba
+4164,Colonia Bremen,X2651XAB,Córdoba
+4166,Colonia Calchaqui,X2580XAA,Córdoba
+4168,Colonia Ceferina,X2415XAC,Córdoba
+4169,Colonia Cortadera,X2436XAA,Córdoba
+4170,Colonia Cosme Sud,X5101XBC,Córdoba
+4171,Colonia Coyunda,X2435XAB,Córdoba
+4172,Colonia Cristina,X2424XAB,Córdoba
+4173,Colonia Dean Funes,X5847XAB,Córdoba
+4174,Colonia del Banco Nacion,X2428XAA,Córdoba
+4175,Colonia Dolores,X5809XAA,Córdoba
+4176,Colonia Dorotea,X6270XAD,Córdoba
+4177,Colonia Dos Hermanos,X2421XAB,Córdoba
+4178,Colonia el Carmen Paraje,X5801XAL,Córdoba
+4179,Colonia el Chaja,X2594XAA,Córdoba
+4181,Colonia el Milagro,X2424XAC,Córdoba
+4182,Colonia el Trabajo,X2424XAD,Córdoba
+4183,Colonia Eugenia,X2413XAE,Córdoba
+4184,Colonia Garzon,X5987XAF,Córdoba
+4185,Colonia General Deheza,X5945XAA,Córdoba
+4186,Colonia Gorchs,X2415XAA,Córdoba
+4187,Colonia Hamburgo,X5933XAA,Córdoba
+4188,Colonia Holandesa,X5131XAE,Córdoba
+4190,Colonia Iturraspe,X2413XAB,Córdoba
+4191,Colonia la Argentina,X6140XAB,Córdoba
+4192,Colonia la Calle,X5196XAD,Córdoba
+4193,Colonia la Carmensita,X6141XAA,Córdoba
+4194,Colonia la Celestina,X5847XAC,Córdoba
+4195,Colonia la Leoncita,X2559XAC,Córdoba
+4196,Colonia la Lola,X2650XAA,Córdoba
+4197,Colonia la Magdalena de Oro,X6132XAB,Córdoba
+4198,Colonia la Morocha,X2423XAB,Córdoba
+4199,Colonia la Muriucha,X2580XAB,Córdoba
+4200,Colonia la Palestina,X2645XAA,Córdoba
+4201,Colonia la Piedra,X5801XAA,Córdoba
+4202,Colonia la Primavera,X5933XAB,Córdoba
+4203,Colonia la Providencia,X6120XAD,Córdoba
+4204,Colonia la Tordilla,X2435XAA,Córdoba
+4205,Colonia la Trinchera,X2417XAA,Córdoba
+4206,Colonia las Cuatro Esquinas,X5135XAB,Córdoba
+4207,Colonia las Pichanas,X2433XAF,Córdoba
+4208,Colonia Lavarello,X2415XAD,Córdoba
+4209,Colonia Ledesma,X2662XAB,Córdoba
+4210,Colonia los Vascos,X2189XAA,Córdoba
+4211,Colonia Luque,X5850XAD,Córdoba
+4212,Colonia Maipu,X2684XAA,Córdoba
+4214,Colonia Maschi,X2559XAD,Córdoba
+4215,Colonia Maunier,X2349XAB,Córdoba
+4216,Colonia Milessi,X2349XAC,Córdoba
+4217,Colonia Montes Negros,X5875XAE,Córdoba
+4218,Colonia Nuevo Piamonte,X2415XAE,Córdoba
+4219,Colonia Orcovi,X5841XAC,Córdoba
+4220,Colonia Palo Labrado,X2415XAF,Córdoba
+4221,Colonia Paso Carril,X5801XAM,Córdoba
+4222,Colonia Prodamonte,X2413XAA,Córdoba
+4223,Colonia Progreso,X2645XAB,Córdoba
+4225,Colonia Sagrada Familia,X5125XAG,Córdoba
+4227,Colonia San Ignacio,X5189XAI,Córdoba
+4228,Colonia San Isidro,X5189XAQ,Córdoba
+4229,Colonia San Pedro,X2421XAA,Córdoba
+4230,Colonia San Rafael,X2433XAD,Córdoba
+4231,Colonia Santa Ana,X6123XAE,Córdoba
+4232,Colonia Santa Catalina,X5851XAD,Córdoba
+4233,Colonia Santa Margarita,X5933XAC,Córdoba
+4234,Colonia Santa Maria,X2423XAA,Córdoba
+4235,Colonia Santa Paula,X5805XAA,Córdoba
+4236,Colonia Santa Rita,X5936XAB,Córdoba
+4238,Colonia Tacurales,X2421XAF,Córdoba
+4239,Colonia Tirolesa,X5101XAJ,Córdoba
+4240,Colonia Toro Pujio,X5189XAJ,Córdoba
+4241,Colonia Udine,X2417XAD,Córdoba
+4242,Colonia Valle Grande,X6121XAA,Córdoba
+4244,Colonia Veinticinco,X2592XAA,Córdoba
+4245,Colonia Vicente Aguero,X5221XAC,Córdoba
+4246,Colonia Videla,X5965XAA,Córdoba
+4248,Colonia Yareta,X5137XAA,Córdoba
+4249,Colonia Yucat Sud,X5917XAA,Córdoba
+4250,Colonias,X2436XAD,Córdoba
+4251,Columbo,X5220XAG,Córdoba
+4252,Come Tierra,X5875XAF,Córdoba
+4253,Comechingones,X5153XAG,Córdoba
+4254,Concepcion,X5871XAT,Córdoba
+4255,Condor Huasi,X5871XAU,Córdoba
+4256,Conlara,X5873XAD,Córdoba
+4257,Constitucion,X5125XAH,Córdoba
+4258,Copacabana,X5201XAX,Córdoba
+4259,Copina,X5153XAD,Córdoba
+4261,Corimayo,X5184XAC,Córdoba
+4262,Corito,X5200XAH,Córdoba
+4265,Corral de Barranca,X5221XAW,Córdoba
+4267,Corral de Caballos,X5870XAJ,Córdoba
+4268,Corral de Gomez,X5139XAC,Córdoba
+4269,Corral de Guardia,X5940XAA,Córdoba
+4270,Corral de Mulas,X5945XAB,Córdoba
+4271,Corral del Bajo,X5913XAF,Córdoba
+4272,Corral del Rey,X5249XAC,Córdoba
+4273,Corral Viejo,X5246XAG,Córdoba
+4275,Corralito San Javier,X5879XAA,Córdoba
+4276,Cortaderas,X2661XAA,Córdoba
+4278,Costa Alegre,X5963XAG,Córdoba
+4280,Costa del Rio Quinto,X6271XAD,Córdoba
+4281,Costa del Tambo,X5801XAB,Córdoba
+4283,Cotagaita,X2419XAA,Córdoba
+4284,Cristina,X2424XAA,Córdoba
+4289,Cruz del Quemado,X5221XAX,Córdoba
+4290,Cruz Mojada,X5212XAS,Córdoba
+4291,Cuatro Caminos,X2550XAC,Córdoba
+4292,Cuatro Vientos,X5801XAN,Córdoba
+4293,Cuchilla Nevada,X5155XAI,Córdoba
+4294,Cuchillo Yaco,X5295XAC,Córdoba
+4295,Cuesta Blanca,X5152XAB,Córdoba
+4296,Curapaligue,X6120XAE,Córdoba
+4298,De la Serna,X6271XAE,Córdoba
+4301,Demarchi,X2684XAB,Córdoba
+4302,Desaguadero,X5284XAT,Córdoba
+4304,Desvio Chalacea,X5229XAA,Córdoba
+4305,Desvio el Volcan,X5299XAQ,Córdoba
+4306,Desvio Kilometro 57,X2625XAC,Córdoba
+4309,Diez Rios,X5875XAN,Córdoba
+4310,Dique Chico,X5189XAY,Córdoba
+4312,Dique las Vaquerias,X5168XAB,Córdoba
+4313,Dique los Molinos,X5192XAA,Córdoba
+4314,Dique San Roque,X5149XAF,Córdoba
+4317,Dolores San Esteban,X5182XAB,Córdoba
+4318,Domingo Funes,X5164XAA,Córdoba
+4319,Dos Arroyos,X5189XAG,Córdoba
+4320,Dos Lagunas,X5813XAG,Córdoba
+4321,Dos Rios,X5155XAG,Córdoba
+4322,Dos Rosas,X2349XAA,Córdoba
+4323,Duarte Quiros,X5119XAJ,Córdoba
+4325,Durazno,X5244XAP,Córdoba
+4326,El Aguila Blanca,X5184XAD,Córdoba
+4327,El Alcalde,X5131XAP,Córdoba
+4328,El Algadobal,X5885XAC,Córdoba
+4329,El Algarrobal,X5249XAD,Córdoba
+4330,El Algarrobo,X5221XAQ,Córdoba
+4331,El Algodonal,X5107XAC,Córdoba
+4332,El Alto,X5885XAQ,Córdoba
+4334,El Arbol,X6127XAC,Córdoba
+4336,El Bagual,X5137XAD,Córdoba
+4337,El Bajo,X5889XAA,Córdoba
+4338,El Baldecito,X5182XAG,Córdoba
+4339,El Barreal,X5270XAJ,Córdoba
+4340,El Barrial,X5285XAN,Córdoba
+4341,El Bordo,X5871XAJ,Córdoba
+4342,El Bosque,X5229XAE,Córdoba
+4344,El Callejon,X5172XAB,Córdoba
+4345,El Cano,X5821XAJ,Córdoba
+4346,El Caracol,X5284XBA,Córdoba
+4347,El Carmen,X5197XAA,Córdoba
+4349,El Carrilito,X5963XAC,Córdoba
+4350,El Carrizal,X5282XAG,Córdoba
+4352,El Cerrito,X5205XAD,Córdoba
+4353,El Cerro,X5875XAG,Córdoba
+4354,El Chacho,X5272XAA,Córdoba
+4355,El Chanchito,X5218XAJ,Córdoba
+4356,El Chingolo,X5019XAD,Córdoba
+4357,El Chiquillan,X5813XAI,Córdoba
+4358,El Coro,X5212XAH,Córdoba
+4359,El Corte,X5889XAB,Córdoba
+4360,El Creston de Piedra,X5236XAG,Córdoba
+4361,El Crispin,X5129XAB,Córdoba
+4362,El Cuadrado,X5172XAD,Córdoba
+4363,El Descanso,X2434XAC,Córdoba
+4364,El Desmonte,X5244XAX,Córdoba
+4365,El Diquecito,X5151XAB,Córdoba
+4366,El Divisadero,X5212XAI,Córdoba
+4367,El Dorado,X2651XAD,Córdoba
+4368,El Duraznito,X5801XAP,Córdoba
+4369,El Durazno,X5155XAA,Córdoba
+4370,El Espinal,X5133XAB,Córdoba
+4371,El Espinillal,X5813XAJ,Córdoba
+4372,El Espinillo,X5131XAF,Córdoba
+4373,El Estanque,X5212XAJ,Córdoba
+4374,El Florentino,X5951XAB,Córdoba
+4375,El Florida,X2432XAB,Córdoba
+4377,El Frances,X5282XAE,Córdoba
+4378,El Fuertecito,X2428XAC,Córdoba
+4379,El Gabino,X5248XAJ,Córdoba
+4380,El Gallego,X5248XAK,Córdoba
+4381,El Gateado,X5101XAL,Córdoba
+4382,El Guaico,X5285XAO,Córdoba
+4383,El Guanaco,X5231XAE,Córdoba
+4384,El Guindo,X5244XAY,Córdoba
+4385,El Ialita,X5212XAK,Córdoba
+4386,El Jordan,X5248XAL,Córdoba
+4387,El Jume,X5218XAB,Córdoba
+4388,El Jumial,X5947XAA,Córdoba
+4389,El Laurel,X5248XAM,Córdoba
+4390,El Manantial,X5819XAA,Córdoba
+4391,El Mangrullo,X5249XAF,Córdoba
+4393,El Medanito,X5871XBK,Córdoba
+4394,El Mirador,X5891XAB,Córdoba
+4395,El Mojoncito,X5218XAK,Córdoba
+4396,El Molino,X5214XAJ,Córdoba
+4397,El Moyano,X5272XAC,Córdoba
+4398,El Noy,X6127XAD,Córdoba
+4399,El Ochenta,X5020XAH,Córdoba
+4400,El Ojo de Agua,X5203XAF,Córdoba
+4401,El Overo,X2563XAC,Córdoba
+4402,El Pampero,X6273XAB,Córdoba
+4403,El Panal,X2580XAC,Córdoba
+4404,El Pantanillo,X5885XAA,Córdoba
+4405,El Pantano,X5244XAA,Córdoba
+4407,El Paraiso,X5218XAL,Córdoba
+4408,El Paso,X5203XAG,Córdoba
+4409,El Paso de la Pampa,X5871XAW,Córdoba
+4410,El Pastor,X5151XAD,Córdoba
+4411,El Payador,X5151XAE,Córdoba
+4412,El Pedacito,X5236XAB,Córdoba
+4413,El Perchel,X5166XAA,Córdoba
+4414,El Pertigo,X5201XAR,Córdoba
+4415,El Peruel,X5155XAP,Córdoba
+4416,El Pilcado,X5155XAQ,Córdoba
+4417,El Pingo,X5178XAB,Córdoba
+4419,El Portezuelo,X5196XAJ,Córdoba
+4420,El Portillo,X5200XAS,Córdoba
+4421,El Porvenir,X2651XAC,Córdoba
+4422,El Potosi,X5801XAC,Córdoba
+4423,El Potrero,X5155XAR,Córdoba
+4424,El Pozo,X5233XAA,Córdoba
+4425,El Prado,X5248XAN,Córdoba
+4426,El Progreso,X5235XAB,Córdoba
+4427,El Pueblito,X5875XAO,Córdoba
+4428,El Puente,X5172XAG,Córdoba
+4429,El Puesto,X5284XAN,Córdoba
+4430,El Puesto los Cabrera,X5218XAD,Córdoba
+4431,El Quebrachal,X5012XAC,Córdoba
+4432,El Quebrachito,X5109XAB,Córdoba
+4433,El Quebracho,X5218XAE,Córdoba
+4434,El Quicho,X5270XAE,Córdoba
+4435,El Ranchito,X5218XAF,Córdoba
+4436,El Rastreador,X6121XAC,Córdoba
+4437,El Reymundo,X5220XAP,Córdoba
+4438,El Rincon,X5871XAE,Córdoba
+4439,El Rio,X5285XAP,Córdoba
+4440,El Rodeito,X5201XAS,Córdoba
+4441,El Rodeo,X5291XAI,Córdoba
+4442,El Rosario,X5205XAC,Córdoba
+4443,El Salto,X5282XAM,Córdoba
+4444,El Salto Norte,X5854XAB,Córdoba
+4445,El Sauce,X5289XAB,Córdoba
+4446,El Sauzal,X5887XAF,Córdoba
+4447,El Sebil,X5244XAQ,Córdoba
+4448,El Silverio,X5248XAP,Córdoba
+4449,El Simbol,X5249XAI,Córdoba
+4450,El Simbolar,X5281XAZ,Córdoba
+4451,El Sunchal,X5291XAJ,Córdoba
+4452,El Tajamar,X5885XAE,Córdoba
+4453,El Tala,X5201XAJ,Córdoba
+4454,El Talar,X5107XAJ,Córdoba
+4455,El Talita,X5212XAT,Córdoba
+4456,El Talita Villa Gral Mitre,X5236XAC,Córdoba
+4457,El Tambero,X5212XAU,Córdoba
+4458,El Tambo,X5801XAD,Córdoba
+4460,El Tomillo,X5149XAE,Córdoba
+4461,El Torreon,X5864XAA,Córdoba
+4462,El Tostado,X5137XAH,Córdoba
+4463,El Trabajo,X2424XAE,Córdoba
+4464,El Triangulo,X2572XAC,Córdoba
+4465,El Tule,X5249XAJ,Córdoba
+4466,El Tuscal,X5216XAH,Córdoba
+4467,El Vado,X5182XAF,Córdoba
+4468,El Vallecito,X5172XAC,Córdoba
+4469,El Vallesito,X5291XAK,Córdoba
+4470,El Veinticinco,X5214XAE,Córdoba
+4471,El Vence,X5231XAR,Córdoba
+4472,El Vergel,X5155XAS,Córdoba
+4473,El Vismal,X5233XAB,Córdoba
+4474,El Zaino,X5149XAC,Córdoba
+4475,El Zapallar,X5233XAC,Córdoba
+4476,El Zapato,X5184XAF,Córdoba
+4479,Encrucijada,X5231XAF,Córdoba
+4480,Enfermera Kelly,X2587XAA,Córdoba
+4481,Escobas,X5282XAH,Córdoba
+4482,Escuela de Artilleria,X5101XAQ,Córdoba
+4483,Esperanza,X5131XAQ,Córdoba
+4484,Espinillo,X5203XAC,Córdoba
+4487,Esquina del Alambre,X5281XBA,Córdoba
+4488,Est Candelaria Norte,X5235XAC,Córdoba
+4489,Est Juarez Celman,X5145XAJ,Córdoba
+4490,Estacion Achiras,X5821XAI,Córdoba
+4491,Estacion Bell Ville,X2550XAE,Córdoba
+4492,Estacion Calchin,X5969XAA,Córdoba
+4493,Estacion Caroya,X5220XAS,Córdoba
+4494,Estacion Colonia Tirolesa,X5131XAM,Córdoba
+4496,Estacion Punta de Agua,X5843XAA,Córdoba
+4497,Estacion Soto,X5284XAB,Córdoba
+4498,Estancia Bottaro,X5229XAM,Córdoba
+4499,Estancia de Guadalupe,X5291XAL,Córdoba
+4500,Estancia Dos Rios,X5155XAE,Córdoba
+4501,Estancia el Carmen,X5131XAH,Córdoba
+4503,Estancia el Nacional,X5244XAR,Córdoba
+4504,Estancia el Taco,X5229XAL,Córdoba
+4505,Estancia Gorosito,X5212XAL,Córdoba
+4506,Estancia la Chiquita,X2428XAE,Córdoba
+4507,Estancia la Morocha,X2428XAF,Córdoba
+4508,Estancia la Punta del Agua,X5186XAH,Córdoba
+4510,Estancia las Margaritas,X2671XAE,Córdoba
+4511,Estancia las Mercedes,X5229XAN,Córdoba
+4512,Estancia las Rosas,X5229XAO,Córdoba
+4513,Estancia los Matorrales,X5987XAC,Córdoba
+4515,Estancia Vieja,X5152XAD,Córdoba
+4517,Eufrasio Loza,X5248XAQ,Córdoba
+4518,Fabrica Militar,X5900XAE,Córdoba
+4519,Fabrica Militar Rio Tercero,X5850XAB,Córdoba
+4520,Falda de los Reartes,X5189XAH,Córdoba
+4521,Falda del Carmen,X5187XAC,Córdoba
+4522,Ferreyra,X5925XAD,Córdoba
+4523,Flora,X2525XAA,Córdoba
+4524,Fragueyro,X5847XAA,Córdoba
+4525,Fray Cayetano Rodriguez,X6120XAF,Córdoba
+4527,Galpon Chico,X5967XAB,Córdoba
+4528,Gavilan,X6132XAA,Córdoba
+4533,General las Heras,X5101XAR,Córdoba
+4535,General Ortiz de Ocampo,X5151XAI,Córdoba
+4536,General Pueyrredon,X6140XAA,Córdoba
+4538,General Soler,X6142XAA,Córdoba
+4539,General Viamonte,X2651XAE,Córdoba
+4540,Glorialdo Fernandez,X5837XAB,Córdoba
+4541,Golpe de Agua,X5187XAB,Córdoba
+4542,Graciela,X5209XAJ,Córdoba
+4543,Gruta de San Antonio,X5172XAE,Córdoba
+4544,Guallascate,X5244XAS,Córdoba
+4545,Guanaco Boleado,X5875XAP,Córdoba
+4546,Guanaco Muerto,X5281XAD,Córdoba
+4547,Guardia Vieja,X6120XAA,Córdoba
+4548,Guasapampa,X5285XAS,Córdoba
+4549,Guasta,X5155XAF,Córdoba
+4551,Guindas,X5821XAK,Córdoba
+4552,Gutemberg,X5249XBH,Córdoba
+4553,Haras San Antonio,X5236XAI,Córdoba
+4554,Haras Santa Martha,X5123XAE,Córdoba
+4556,Higuerias,X5131XAN,Córdoba
+4557,Higuerillas,X5125XAI,Córdoba
+4559,Holmberg,X5825XAC,Córdoba
+4560,Hornillos,X5885XAT,Córdoba
+4561,Hospital Flia Domingo Funes,X5165XAA,Córdoba
+4563,Huanchilla Sud,X6121XAD,Córdoba
+4564,Huascha,X5280XAA,Córdoba
+4565,Huasta,X5875XAQ,Córdoba
+4566,Hucle,X5887XAG,Córdoba
+4570,Iglesia Vieja,X5270XAA,Córdoba
+4571,Impira,X5987XAA,Córdoba
+4572,Independencia,X5988XAB,Córdoba
+4573,India Muerta,X5913XAD,Córdoba
+4574,Ingeniero Bertini,X5200XAI,Córdoba
+4576,Invernada,X5209XBB,Córdoba
+4577,Irigoyen,X5168XAA,Córdoba
+4578,Ischilin,X5201XAD,Córdoba
+4579,Isla de San Antonio,X5214XAR,Córdoba
+4580,Isla del Cerro,X5129XAC,Córdoba
+4581,Isla Larga,X5129XAD,Córdoba
+4582,Isla Verde,X5893XAE,Córdoba
+4583,Isleta Negra,X2559XAF,Córdoba
+4585,Iti Huasi,X5203XAD,Córdoba
+4586,Jaime Peter,X5218XAC,Córdoba
+4588,Jarillas,X5209XBC,Córdoba
+4589,Jeanmaire,X2424XAF,Córdoba
+4590,Jeronimo Cortes,X5141XAA,Córdoba
+4592,Jose de la Quintana,X5189XAP,Córdoba
+4594,Juan Bautista Alberdi,X5891XAF,Córdoba
+4595,Juan Garcia,X5212XAV,Córdoba
+4597,Julio Argentino Roca,X6134XAA,Córdoba
+4598,Jume,X5209XBD,Córdoba
+4600,Kilegruman,X2625XAA,Córdoba
+4601,Kilometro 25,X5107XAF,Córdoba
+4602,Kilometro 25 la Carbonada,X5020XAG,Córdoba
+4603,Kilometro 267,X5901XAB,Córdoba
+4604,Kilometro 271,X5139XAA,Córdoba
+4605,Kilometro 294,X5137XAJ,Córdoba
+4606,Kilometro 316,X5137XAI,Córdoba
+4607,Kilometro 364,X5229XAF,Córdoba
+4608,Kilometro 394,X5238XAA,Córdoba
+4609,Kilometro 430,X5200XAU,Córdoba
+4610,Kilometro 450,X5218XAM,Córdoba
+4611,Kilometro 505,X5280XAB,Córdoba
+4612,Kilometro 531,X2424XAG,Córdoba
+4613,Kilometro 541,X5284XAA,Córdoba
+4614,Kilometro 545,X5801XAR,Córdoba
+4615,Kilometro 55,X6121XAE,Córdoba
+4616,Kilometro 57,X2619XAA,Córdoba
+4617,Kilometro 579,X5168XAD,Córdoba
+4618,Kilometro 581,X2432XAA,Córdoba
+4619,Kilometro 592,X5166XAB,Córdoba
+4620,Kilometro 608,X5149XAH,Córdoba
+4621,Kilometro 658,X5125XAJ,Córdoba
+4622,Kilometro 679,X5020XAF,Córdoba
+4623,Kilometro 680 Ruta 9,X5020XAE,Córdoba
+4624,Kilometro 691,X5125XAK,Córdoba
+4625,Kilometro 692,X5020XAD,Córdoba
+4626,Kilometro 711,X5125XAD,Córdoba
+4627,Kilometro 730,X5019XAC,Córdoba
+4628,Kilometro 745,X5220XAJ,Córdoba
+4629,Kilometro 784,X5212XAW,Córdoba
+4630,Kilometro 807,X5212XAX,Córdoba
+4631,Kilometro 827,X5212XAG,Córdoba
+4632,Kilometro 832,X5200XAE,Córdoba
+4633,Kilometro 859,X5214XAC,Córdoba
+4634,Kilometro 865,X5214XAB,Córdoba
+4635,Kilometro 881,X5214XAK,Córdoba
+4636,Kilometro 907,X5216XAK,Córdoba
+4637,Kilometro 931,X5216XAJ,Córdoba
+4638,La Abra,X5281XAA,Córdoba
+4639,La Aguada,X5212XAY,Córdoba
+4640,La Aguadita,X5299XAI,Córdoba
+4641,La Argentina,X5293XAF,Córdoba
+4642,La Aura,X5218XAN,Córdoba
+4643,La Banda,X5249XAL,Córdoba
+4644,La Barranca,X5214XAL,Córdoba
+4645,La Barranquita,X5833XAA,Córdoba
+4646,La Batalla,X5201XAC,Córdoba
+4647,La Batea,X5270XAH,Córdoba
+4648,La Betania,X5189XAS,Córdoba
+4649,La Bismutina,X5291XAV,Córdoba
+4650,La Botija,X5214XAD,Córdoba
+4651,La Brianza,X5848XAB,Córdoba
+4652,La Buena Parada,X5129XAG,Córdoba
+4657,La Cajuela,X2563XAD,Córdoba
+4658,La Calera,X5297XAD,Córdoba
+4659,La Cantera,X5168XAE,Córdoba
+4660,La Carbonera,X5280XAC,Córdoba
+4662,La Carolina,X5841XAA,Córdoba
+4663,La Cascada,X5845XAA,Córdoba
+4665,La Celina,X5125XAL,Córdoba
+4667,La Chacra,X5212XAZ,Córdoba
+4668,La Chicharra,X5249XAM,Córdoba
+4669,La Choza,X5196XAK,Córdoba
+4670,La Cienaga,X5133XAC,Córdoba
+4671,La Cocha,X5101XBD,Córdoba
+4672,La Colonia,X5201XAA,Córdoba
+4673,La Colorada,X5831XAA,Córdoba
+4674,La Compasion,X5871XAV,Córdoba
+4675,La Concepcion,X5281XBC,Córdoba
+4676,La Cortadera,X2434XAD,Córdoba
+4677,La Costa,X5282XAN,Córdoba
+4678,La Cotita,X5220XAD,Córdoba
+4679,La Cruz,X5249XAO,Córdoba
+4680,La Cumbre,X5801XAF,Córdoba
+4681,La Cumbrecita,X5194XAC,Córdoba
+4682,La Curva,X2434XAA,Córdoba
+4683,La Dora,X5229XAG,Córdoba
+4684,La Dormida,X5817XAB,Córdoba
+4685,La Esperanza,X5231XAU,Córdoba
+4686,La Esquina,X5295XAE,Córdoba
+4687,La Estacada,X5212XAA,Córdoba
+4688,La Estancia,X5291XAW,Córdoba
+4689,La Estancita,X5111XAC,Córdoba
+4690,La Estrella,X5129XAH,Córdoba
+4692,La Florida,X5214XAM,Córdoba
+4694,La Fronda,X5282XAD,Córdoba
+4695,La Frontera,X2433XAA,Córdoba
+4696,La Fuente,X5879XAB,Córdoba
+4697,La Gilda,X5848XAA,Córdoba
+4698,La Gramilla,X5282XAA,Córdoba
+4699,La Granadilla,X5187XAD,Córdoba
+4700,La Granja,X5115XAB,Córdoba
+4702,La Guardia,X5891XAG,Córdoba
+4703,La Herradura,X5900XAB,Córdoba
+4705,La Higuerita,X5201XAI,Córdoba
+4706,La Invernada,X5801XAY,Córdoba
+4707,La Isabela,X5200XAT,Córdoba
+4708,La Isla,X5186XAL,Córdoba
+4709,La Isleta,X5963XAD,Córdoba
+4710,La Isolina,X5186XAG,Córdoba
+4711,La Italiana,X2651XAF,Córdoba
+4712,La Jarilla,X5871XAB,Córdoba
+4713,La Laguna,X5205XAE,Córdoba
+4714,La Lagunilla,X5119XAH,Córdoba
+4715,La Lilia,X5281XAC,Córdoba
+4716,La Linea,X5871XAX,Córdoba
+4717,La Luz,X6271XAA,Córdoba
+4718,La Majada,X5212XBA,Córdoba
+4719,La Maza,X5231XAH,Córdoba
+4720,La Mercantil,X5841XAB,Córdoba
+4721,La Mesada,X5200XAV,Córdoba
+4722,La Mesilla,X5285XAA,Córdoba
+4723,La Milka,X2400XAA,Córdoba
+4724,La Mostaza,X5137XAM,Córdoba
+4725,La Mudana,X5299XAJ,Córdoba
+4726,La Nacional,X6275XAC,Córdoba
+4727,La Oscuridad,X5255XAA,Córdoba
+4728,La Paisanita,X5186XAF,Córdoba
+4730,La Palma,X5231XAI,Córdoba
+4731,La Palmerina,X5913XAB,Córdoba
+4732,La Pampa,X5117XAD,Córdoba
+4735,La Patria,X5871XAF,Córdoba
+4736,La Paz,X5117XAE,Córdoba
+4737,La Penca,X6279XAA,Córdoba
+4738,La Perlita,X6271XAF,Córdoba
+4739,La Piedra Blanca,X5246XAJ,Córdoba
+4740,La Piedra Movediza,X5184XAK,Córdoba
+4741,La Pintada,X5271XAA,Córdoba
+4742,La Playa,X5289XAC,Córdoba
+4744,La Plaza,X5244XAD,Córdoba
+4745,La Poblacion,X5875XAH,Córdoba
+4746,La Pobladora,X5945XAC,Córdoba
+4747,La Porfia,X5119XAD,Córdoba
+4749,La Posta,X5227XAF,Córdoba
+4751,La Primavera,X5172XAA,Córdoba
+4752,La Providencia,X5231XAV,Córdoba
+4753,La Puerta,X5281XAE,Córdoba
+4754,La Puerta Villa de Soto,X5284XAU,Córdoba
+4755,La Quebrada,X5172XAH,Córdoba
+4756,La Quinta,X5209XAU,Córdoba
+4757,La Quintana,X5249XAQ,Córdoba
+4758,La Ramada,X6123XAA,Córdoba
+4759,La Ramoncita,X5813XAC,Córdoba
+4760,La Redencion,X5105XAA,Córdoba
+4761,La Reduccion,X2594XAB,Córdoba
+4762,La Reina,X5925XAA,Córdoba
+4763,La Represa,X2436XAB,Córdoba
+4764,La Rinconada,X5233XAD,Córdoba
+4765,La Rinconada Candelaria,X5249XAR,Córdoba
+4766,La Rosarina,X5951XAC,Córdoba
+4767,La Ruda,X5214XAN,Córdoba
+4768,La Selva,X5212XBB,Córdoba
+4770,La Siena,X5875XAI,Córdoba
+4771,La Sierrita,X5297XAF,Córdoba
+4772,La Soledad,X5249XAS,Córdoba
+4773,La Tablada,X5299XAK,Córdoba
+4774,La Tigra,X5949XAA,Córdoba
+4775,La Toma,X5280XAD,Córdoba
+4776,La Totorilla,X5209XBF,Córdoba
+4777,La Trampa,X5871XBA,Córdoba
+4778,La Travesia,X5875XAJ,Córdoba
+4779,La Trinchera,X2417XAB,Córdoba
+4780,La Tuna,X5212XBC,Córdoba
+4781,La Tuna Tinoco,X5131XAB,Córdoba
+4782,La Udine,X2413XAC,Córdoba
+4783,La Usina,X5168XAF,Córdoba
+4784,La Ventana,X5870XAF,Córdoba
+4785,La Veronica,X5801XAZ,Córdoba
+4786,La Vicenta,X2417XAC,Córdoba
+4787,La Victoria,X5231XAX,Córdoba
+4788,La Virginia,X5281XAF,Córdoba
+4789,La Zanja,X5201XAY,Córdoba
+4790,La Zara,X5913XAC,Córdoba
+4791,La Zarita,X5913XAA,Córdoba
+4794,Ladera Yacus,X5246XBA,Córdoba
+4795,Laguna Brava,X5244XAT,Córdoba
+4796,Laguna Clara,X5813XAD,Córdoba
+4797,Laguna de Gomez,X5244XAU,Córdoba
+4799,Laguna Larga Sud,X5988XAA,Córdoba
+4800,Laguna Oscura,X6144XAA,Córdoba
+4801,Laguna Seca,X5829XAC,Córdoba
+4802,Lagunilla,X5101XBE,Córdoba
+4803,Lagunillas,X5807XAA,Córdoba
+4804,Larsen,X6275XAD,Córdoba
+4805,Las Abahacas,X5801XBA,Córdoba
+4806,Las Abras,X5270XAG,Córdoba
+4807,Las Acacias,X5129XAE,Córdoba
+4809,Las Aguaditas,X5201XAZ,Córdoba
+4810,Las Albahacas,X5801XBG,Córdoba
+4811,Las Aleras,X5270XAB,Córdoba
+4812,Las Aromas,X5231XAS,Córdoba
+4814,Las Astillas,X5220XAF,Córdoba
+4815,Las Averias,X5135XAH,Córdoba
+4816,Las Bajadas,X5851XAB,Córdoba
+4817,Las Bandurrias,X5236XAK,Córdoba
+4818,Las Bandurrias Norte,X5225XAI,Córdoba
+4822,Las Cabras,X5127XAB,Córdoba
+4823,Las Calecitas,X5801XAI,Córdoba
+4824,Las Caleras,X5819XAF,Córdoba
+4825,Las Calles,X5885XAG,Córdoba
+4826,Las Canteras,X5218XAQ,Córdoba
+4827,Las Cardas,X5248XAS,Córdoba
+4828,Las Casitas,X5158XAA,Córdoba
+4829,Las Cebollas,X5885XAH,Córdoba
+4830,Las Chacras,X5297XAG,Córdoba
+4832,Las Cinco Cuadras,X5841XAD,Córdoba
+4833,Las Conanitas,X5885XAI,Córdoba
+4834,Las Cortaderas,X5295XAM,Córdoba
+4835,Las Crucecitas,X5201XAN,Córdoba
+4836,Las Cuatro Esquinas,X5900XAC,Córdoba
+4837,Las Cusenadas,X5109XAE,Córdoba
+4838,Las Delicias,X5212XBD,Córdoba
+4839,Las Encadenadas,X5109XAF,Córdoba
+4840,Las Encrucijadas,X5871XBH,Córdoba
+4841,Las Ensenadas,X5153XAJ,Córdoba
+4842,Las Flores,X5249XAV,Córdoba
+4843,Las Gamas,X5817XAC,Córdoba
+4844,Las Gemelas,X5184XAG,Córdoba
+4845,Las Gramillas,X5246XAK,Córdoba
+4846,Las Guindas,X5801XAS,Córdoba
+4847,Las Heras,X5101XAS,Córdoba
+4849,Las Higuerillas,X5131XAO,Córdoba
+4850,Las Higueritas,X5199XAJ,Córdoba
+4851,Las Hileras,X5137XAC,Córdoba
+4852,Las Horquetas,X5244XAV,Córdoba
+4853,Las Isletillas,X5931XAB,Córdoba
+4854,Las Jarillas,X5871XBJ,Córdoba
+4855,Las Juntas,X5203XAE,Córdoba
+4857,Las Lagunitas,X2568XAA,Córdoba
+4858,Las Latas,X5272XAF,Córdoba
+4859,Las Lomas,X5284XAD,Córdoba
+4860,Las Lomitas,X5212XAN,Córdoba
+4861,Las Manzanas,X5212XAM,Córdoba
+4862,Las Masitas,X5231XAP,Córdoba
+4863,Las Mercedes,X5249XAX,Córdoba
+4864,Las Merceditas,X2572XAD,Córdoba
+4865,Las Mojarras,X5909XAA,Córdoba
+4866,Las Moras,X5801XBD,Córdoba
+4867,Las Oscuras,X5871XAG,Córdoba
+4868,Las Overias,X2559XAG,Córdoba
+4869,Las Palmas,X5299XAD,Córdoba
+4870,Las Palmeras,X2559XAH,Córdoba
+4871,Las Palmitas,X5221XAS,Córdoba
+4872,Las Palomas,X5870XAM,Córdoba
+4873,Las Palomitas,X5201XAO,Córdoba
+4874,Las Pampillas,X5182XAC,Córdoba
+4878,Las Pencas,X5200XAX,Córdoba
+4880,Las Pichanas,X5900XAD,Córdoba
+4881,Las Piedras Anchas,X5212XBE,Córdoba
+4882,Las Piedritas,X5281XAV,Córdoba
+4883,Las Piguas,X5129XAF,Córdoba
+4884,Las Playas,X5172XAF,Córdoba
+4885,Las Playas Lozada,X5101XBF,Córdoba
+4886,Las Quintas,X5244XAJ,Córdoba
+4887,Las Rabonas,X5885XAJ,Córdoba
+4888,Las Rosas,X5295XAD,Córdoba
+4889,Las Saladas,X5137XAU,Córdoba
+4890,Las Sierras,X5212XBF,Córdoba
+4891,Las Sierritas,X5199XAA,Córdoba
+4892,Las Tapias,X5281XAW,Córdoba
+4893,Las Tinajeras,X5284XAW,Córdoba
+4894,Las Toscas,X5214XAF,Córdoba
+4895,Las Totoritas,X5285XAI,Córdoba
+4896,Las Trancas,X5246XAL,Córdoba
+4897,Las Tres Piedras,X5879XAC,Córdoba
+4898,Las Tuscas,X5218XAG,Córdoba
+4899,Las Vaquerias,X5184XAH,Córdoba
+4903,Las Vertientes de la Granja,X5107XAL,Córdoba
+4904,Latan Hall,X2625XAB,Córdoba
+4905,Lecueder,X6273XAD,Córdoba
+4906,Leguizamon,X6128XAA,Córdoba
+4908,Lo Machado,X5246XAM,Córdoba
+4909,Lobera,X5201XAF,Córdoba
+4910,Loma Blanca,X5209XAW,Córdoba
+4911,Loma Bola,X5879XAD,Córdoba
+4912,Loma de Piedra,X5244XAK,Córdoba
+4913,Loma Redonda,X5299XAA,Córdoba
+4914,Lomas del Trozo,X5137XAR,Córdoba
+4915,Lomitas,X5209XAX,Córdoba
+4916,Los Alamos,X5244XAL,Córdoba
+4917,Los Alfalfares,X6275XAA,Córdoba
+4918,Los Algarrobitos,X5281XAX,Córdoba
+4919,Los Algarrobos,X5189XAL,Córdoba
+4920,Los Alvarez,X5133XAD,Córdoba
+4921,Los Aviles,X5137XAK,Córdoba
+4922,Los Barriales,X5291XAU,Córdoba
+4923,Los Bordos,X5209XAP,Córdoba
+4924,Los Brinzes,X5201XAG,Córdoba
+4925,Los Cadillos,X5214XAP,Córdoba
+4926,Los Cajones,X5246XAN,Córdoba
+4927,Los Callejones,X5220XAQ,Córdoba
+4929,Los Cedros,X5101XBH,Córdoba
+4930,Los Cejas,X5201XAP,Córdoba
+4931,Los Cerrillos,X5209XAQ,Córdoba
+4932,Los Cerros,X5137XAT,Córdoba
+4933,Los Cerros Negros,X5821XAA,Córdoba
+4936,Los Cigarrales,X5107XAK,Córdoba
+4937,Los Cisnes,X2684XAC,Córdoba
+4938,Los Cocos,X5821XAD,Córdoba
+4939,Los Cometierra,X5221XAZ,Córdoba
+4941,Los Coquitos,X5201XAK,Córdoba
+4942,Los Desagues,X2421XAC,Córdoba
+4943,Los Dos Pozos,X5871XAA,Córdoba
+4944,Los Dos Rios,X5220XAA,Córdoba
+4945,Los Duraznos,X5220XAB,Córdoba
+4946,Los Eslabones,X5270XAC,Córdoba
+4947,Los Gauchos de Guemes,X6127XAA,Córdoba
+4948,Los Gigantes,X5155XAJ,Córdoba
+4949,Los Guevara,X5282XAK,Córdoba
+4950,Los Guindos,X5127XAE,Córdoba
+4951,Los Helechos,X5168XAC,Córdoba
+4952,Los Hormigueros,X5281XAH,Córdoba
+4954,Los Hoyos,X5249XAY,Córdoba
+4955,Los Huesos,X5153XAK,Córdoba
+4956,Los Jagueles,X5839XAB,Córdoba
+4957,Los Justes,X5249XAZ,Córdoba
+4958,Los Manguitos,X5873XAG,Córdoba
+4959,Los Mansillas,X5127XAC,Córdoba
+4960,Los Medanitos,X5871XAH,Córdoba
+4961,Los Medanos,X5815XAA,Córdoba
+4962,Los Miguelitos,X5137XAL,Córdoba
+4963,Los Miquiles,X5221XAR,Córdoba
+4964,Los Mistoles,X5281XAP,Córdoba
+4965,Los Mogotes,X5182XAE,Córdoba
+4967,Los Molles,X2561XAC,Córdoba
+4968,Los Morteros,X5214XAQ,Córdoba
+4969,Los Olivares,X5101XAX,Córdoba
+4970,Los Pantalles,X5284XAM,Córdoba
+4971,Los Pantanillos,X5125XAQ,Córdoba
+4972,Los Paraisos,X5187XAA,Córdoba
+4973,Los Paredones,X5282XAO,Córdoba
+4974,Los Pedernales,X5212XBH,Córdoba
+4975,Los Piquillines,X5282XAC,Córdoba
+4976,Los Pocitos,X5145XAI,Córdoba
+4977,Los Potreros,X5850XAC,Córdoba
+4978,Los Pozos,X5212XBI,Córdoba
+4979,Los Puentes,X5158XAB,Córdoba
+4980,Los Puestitos,X5200XAW,Córdoba
+4981,Los Quebrachitos,X5221XAD,Córdoba
+4982,Los Quebrachos,X5246XAT,Córdoba
+4983,Los Reartes,X5194XAA,Córdoba
+4984,Los Reyunos,X5925XAB,Córdoba
+4985,Los Ruices,X5201XAM,Córdoba
+4986,Los Sauces,X5282XAB,Córdoba
+4987,Los Socabones,X5214XAH,Córdoba
+4989,Los Tajamares,X5233XAE,Córdoba
+4990,Los Talares,X5299XAP,Córdoba
+4991,Los Tartagos,X5218XAA,Córdoba
+4992,Los Tasis,X2559XAI,Córdoba
+4993,Los Terrones,X5184XAL,Córdoba
+4994,Los Tres Pozos,X5851XAC,Córdoba
+4995,Los Troncos,X5246XAQ,Córdoba
+4996,Los Ucles,X2559XAJ,Córdoba
+4997,Los Valdes,X5270XAD,Córdoba
+4998,Los Vazquez,X5125XAE,Córdoba
+5002,Lucio V Mansilla,X5216XAC,Córdoba
+5003,Luis Sauze,X2423XAC,Córdoba
+5005,Lutti,X5859XAB,Córdoba
+5008,Macha,X5211XAB,Córdoba
+5009,Majada de Santiago,X5287XAA,Córdoba
+5010,Majadilla,X5203XAA,Córdoba
+5013,Mallin,X5155XAU,Córdoba
+5015,Manantiales,X2671XAA,Córdoba
+5016,Mandala,X5284XAE,Córdoba
+5018,Manguitas,X5873XAH,Córdoba
+5019,Maquinista Gallini,X5227XAE,Córdoba
+5020,Mar Azul,X5199XAB,Córdoba
+5022,Maria,X5925XAE,Córdoba
+5024,Matacos,X2659XAB,Córdoba
+5027,Maunier,X2421XAD,Córdoba
+5029,Media Luna,X5125XAF,Córdoba
+5030,Media Naranja,X5281XAO,Córdoba
+5031,Melideo,X6270XAA,Córdoba
+5034,Mesa de Mariano,X5285XAE,Córdoba
+5035,Mesillas,X5153XAL,Córdoba
+5037,Mi Valle,X5101XBG,Córdoba
+5038,Miguel Salas,X6128XAB,Córdoba
+5039,Miguelito,X5225XAD,Córdoba
+5040,Mina Araujo,X5297XAN,Córdoba
+5042,Mina la Bismutina,X5291XAM,Córdoba
+5043,Miquilos,X5221XAG,Córdoba
+5044,Miraflores,X5272XAD,Córdoba
+5046,Modestino Pizarro,X6273XAA,Córdoba
+5048,Mogigasta,X5891XAA,Córdoba
+5049,Mogote Verde,X5291XAN,Córdoba
+5050,Molinari,X5166XAC,Córdoba
+5051,Molinos,X5212XAB,Córdoba
+5052,Monsalvo,X5851XAA,Córdoba
+5054,Monte Castillo,X2563XAE,Córdoba
+5057,Monte de los Lazos,X5900XAF,Córdoba
+5058,Monte de Toro Pujio,X5135XAG,Córdoba
+5059,Monte del Frayle,X5931XAC,Córdoba
+5060,Monte del Rosario,X5129XAL,Córdoba
+5061,Monte Grande,X2417XAE,Córdoba
+5062,Monte Grande Rafael Garcia,X5119XAK,Córdoba
+5063,Monte la Invernada,X5801XAT,Córdoba
+5067,Monte Redondo,X2423XAF,Córdoba
+5070,Movado,X5209XAT,Córdoba
+5071,Mula Muerta,X5221XAE,Córdoba
+5072,Mussi,X5299XAL,Córdoba
+5073,Navarro,X5209XAA,Córdoba
+5074,Nazca,X6270XAE,Córdoba
+5075,Negro Huasi,X5280XAI,Córdoba
+5077,Nicho,X5870XAH,Córdoba
+5079,Nido del Aguila,X5889XAC,Córdoba
+5080,Ninalquin,X5291XAO,Córdoba
+5081,Nintes,X5220XAK,Córdoba
+5085,Nueva Andalucia,X5101XAU,Córdoba
+5086,Nueva Esperanza,X5280XAE,Córdoba
+5088,Obregon,X5189XAT,Córdoba
+5089,Ojo de Agua,X5293XAD,Córdoba
+5090,Ojo de Agua de Totox,X5293XAE,Córdoba
+5093,Olivares San Nicolas,X5280XAJ,Córdoba
+5094,Olmos,X2684XAD,Córdoba
+5095,Onagoity,X6227XAA,Córdoba
+5097,Ongamira,X5184XAA,Córdoba
+5098,Oratorio de Peralta,X5125XAR,Córdoba
+5099,Orcosuni,X5214XAA,Córdoba
+5101,Oro Grueso,X5287XAB,Córdoba
+5102,Overa Negra,X5951XAA,Córdoba
+5103,Pachango,X5893XAA,Córdoba
+5104,Pacheco de Melo,X6121XAF,Córdoba
+5105,Pajas Blancas,X5111XAB,Córdoba
+5106,Pajonal,X5291XAP,Córdoba
+5107,Palo Cortado,X5280XAF,Córdoba
+5108,Palo Labrado,X5281XAI,Córdoba
+5109,Palo Negro,X5961XAC,Córdoba
+5110,Palo Parado,X5281XAJ,Córdoba
+5111,Palo Quemado,X5284XAF,Córdoba
+5112,Paloma Pozo,X5284XAG,Córdoba
+5113,Pampa de Achala,X5153XAH,Córdoba
+5114,Pampa de Olaen,X5166XAD,Córdoba
+5117,Panaholma,X5893XAF,Córdoba
+5118,Parque Siquiman,X5158XAC,Córdoba
+5121,Paso Cabral,X5817XAD,Córdoba
+5122,Paso Castellanos,X5145XAG,Córdoba
+5123,Paso de los Gallegos,X2433XAE,Córdoba
+5124,Paso de Montoya,X5284XAP,Córdoba
+5125,Paso de Velez,X5972XAB,Córdoba
+5126,Paso del Durazno,X5803XAB,Córdoba
+5127,Paso del Sauce,X5101XAV,Córdoba
+5128,Paso del Silverio,X5246XAR,Córdoba
+5129,Paso Grande,X5291XAQ,Córdoba
+5130,Paso las Tropas,X5887XAL,Córdoba
+5131,Paso Sandialito,X5819XAB,Córdoba
+5133,Pastos Altos,X5807XAB,Córdoba
+5134,Paunero,X5738XAA,Córdoba
+5135,Pavin,X6121XAB,Córdoba
+5136,Pedania Candelaria Sud,X5231XAD,Córdoba
+5137,Pedro E Funes,X2671XAB,Córdoba
+5138,Pedro E Vivas,X5127XAF,Córdoba
+5139,Permanentes,X5821XAB,Córdoba
+5140,Pichanas,X5284XAQ,Córdoba
+5141,Piedra Blanca,X5285XAB,Córdoba
+5142,Piedra Grande,X5168XAG,Córdoba
+5143,Piedra Movediza,X5174XAC,Córdoba
+5145,Piedras Amontonadas,X5284XAO,Córdoba
+5146,Piedras Anchas,X5291XAR,Córdoba
+5147,Piedras Blancas,X5174XAD,Córdoba
+5148,Piedras Grandes,X5172XAI,Córdoba
+5149,Piedrita Blanca,X5271XAB,Córdoba
+5150,Piedritas Rosadas,X5295XAN,Córdoba
+5152,Pinas,X2572XAB,Córdoba
+5153,Pincen,X6271XAG,Córdoba
+5155,Pisco Huasi,X5244XAF,Córdoba
+5156,Pitoa,X5295XAO,Córdoba
+5157,Playa Grande,X5139XAH,Córdoba
+5158,Plaza Bruno,X2436XAE,Córdoba
+5159,Plaza de Mercedes,X5137XAN,Córdoba
+5160,Plaza Minetti,X5967XAA,Córdoba
+5161,Plaza Rodriguez,X5987XAB,Córdoba
+5162,Plaza San Francisco,X2401XAA,Córdoba
+5163,Plujunta,X5141XAB,Córdoba
+5164,Pocho,X5299XAE,Córdoba
+5165,Pocito del Campo,X5248XAG,Córdoba
+5167,Potrero de Funes,X5189XAU,Córdoba
+5168,Potrero de Garay,X5189XAN,Córdoba
+5169,Potrero de Lujan,X5191XAA,Córdoba
+5170,Potrero de Marques,X5297XAA,Córdoba
+5171,Potrero de Tutzer,X5186XAD,Córdoba
+5172,Pozo Conca,X5221XBA,Córdoba
+5173,Pozo Correa,X5221XBB,Córdoba
+5174,Pozo de Juancho,X5246XAS,Córdoba
+5175,Pozo de la Esquina,X5133XAE,Córdoba
+5176,Pozo de la Loma,X5125XAM,Córdoba
+5177,Pozo de la Pampa,X5871XAM,Córdoba
+5178,Pozo de las Ollas,X5249XBB,Córdoba
+5179,Pozo de las Yeguas,X5125XAO,Córdoba
+5180,Pozo de los Arboles,X5249XBC,Córdoba
+5181,Pozo de los Troncos,X5137XAO,Córdoba
+5182,Pozo de Molina,X5249XBD,Córdoba
+5183,Pozo del Avestruz,X5947XAB,Córdoba
+5184,Pozo del Barrial,X5272XAE,Córdoba
+5186,Pozo del Chaja,X2433XAC,Córdoba
+5187,Pozo del Molle,X5873XAI,Córdoba
+5188,Pozo del Moro,X5225XAF,Córdoba
+5189,Pozo del Simbol,X5281XAQ,Córdoba
+5190,Pozo del Tigre,X5145XAH,Córdoba
+5191,Pozo la Piedra,X5135XAF,Córdoba
+5192,Pozo Nuevo,X5209XBG,Córdoba
+5193,Pozo Seco,X5285XAR,Córdoba
+5194,Pozo Solo,X5244XAG,Córdoba
+5195,Pretot Freyre,X6140XAC,Córdoba
+5196,Primavera,X5139XAB,Córdoba
+5197,Providencia,X5231XAO,Córdoba
+5198,Pueblo Alberdi,X5800XAA,Córdoba
+5199,Pueblo Argentino,X2580XAD,Córdoba
+5200,Pueblo Carlos Sauveran,X2581XAB,Córdoba
+5201,Pueblo Gambande,X2627XAA,Córdoba
+5203,Pueblo Pianelli,X5131XAT,Córdoba
+5204,Pueblo Rio Tercero,X2581XAC,Córdoba
+5205,Pueblo Viejo,X2555XAA,Córdoba
+5207,Puente los Molles,X5809XAB,Córdoba
+5208,Puente Rio Plujunta,X5139XAE,Córdoba
+5209,Puerta Colorada,X5817XAE,Córdoba
+5210,Puerta de la Quebrada,X5297XAH,Córdoba
+5211,Puesto de Afuera,X5131XAU,Córdoba
+5212,Puesto de Arriba,X5214XAG,Córdoba
+5213,Puesto de Batalla,X5218XAH,Córdoba
+5214,Puesto de Castro,X5233XAF,Córdoba
+5215,Puesto de Cerro,X5200XAQ,Córdoba
+5216,Puesto de Fierro,X5227XAB,Córdoba
+5217,Puesto de la Oveja,X5131XAA,Córdoba
+5218,Puesto de los Alamos,X5249XBK,Córdoba
+5219,Puesto de los Rodriguez,X5200XAP,Córdoba
+5220,Puesto de Luna,X5231XAL,Córdoba
+5221,Puesto de Pucheta,X5225XAA,Córdoba
+5222,Puesto de Vera,X5271XAC,Córdoba
+5223,Puesto del Gallo,X5281XAR,Córdoba
+5224,Puesto del Medio,X5200XAA,Córdoba
+5225,Puesto del Rosario,X5236XAD,Córdoba
+5226,Puesto el Abra,X5284XBG,Córdoba
+5227,Puesto Guzman,X5153XAI,Córdoba
+5228,Puesto Mulita,X5189XAB,Córdoba
+5229,Puesto Nuevo,X5209XAC,Córdoba
+5230,Puesto San Jose,X5242XAD,Córdoba
+5231,Puesto Viejo,X5244XAH,Córdoba
+5232,Punilla,X5184XAN,Córdoba
+5233,Punta del Agua,X5931XAD,Córdoba
+5234,Punta del Monte,X5249XBF,Córdoba
+5235,Pusisuna,X5299XAF,Córdoba
+5236,Quebrachitos,X2436XAF,Córdoba
+5239,Quebracho Solo,X5871XAN,Córdoba
+5240,Quebrachos,X5131XAV,Córdoba
+5241,Quebrada de los Pozos,X5885XAS,Córdoba
+5242,Quebrada de Luna,X5282XAR,Córdoba
+5243,Quebrada de Nona,X5184XAB,Córdoba
+5244,Quebrada del Horno,X5889XAL,Córdoba
+5246,Quilmes,X5270XAF,Córdoba
+5247,Quiscasacate,X5221XBK,Córdoba
+5248,Racedo,X5249XBL,Córdoba
+5250,Ramallo,X5225XAG,Córdoba
+5251,Ramblon,X5284XAH,Córdoba
+5252,Ramirez,X5289XAF,Córdoba
+5253,Ramon J Carcano,X5900XAG,Córdoba
+5254,Rangel,X5131XAS,Córdoba
+5255,Ranqueles,X6271XAH,Córdoba
+5256,Rara Fortuna,X5287XAE,Córdoba
+5257,Rayo Cortado,X5246XAV,Córdoba
+5258,Recreo Victoria,X5019XAA,Córdoba
+5260,Represa de Morales,X5285XAC,Córdoba
+5261,Rincon,X5961XAD,Córdoba
+5262,Rincon Casa Grande,X5162XAB,Córdoba
+5263,Rincon de Luna,X5197XAD,Córdoba
+5264,Rio Arriba,X5887XAM,Córdoba
+5267,Rio Chico,X5221XAB,Córdoba
+5269,Rio de Jaime,X5875XAR,Córdoba
+5270,Rio de la Poblacion,X5280XAG,Córdoba
+5271,Rio de las Manzanas,X5212XAC,Córdoba
+5272,Rio de los Sauces,X5221XBL,Córdoba
+5273,Rio de los Talas,X5221XAH,Córdoba
+5274,Rio del Durazno,X5197XAB,Córdoba
+5275,Rio Dulce,X5249XBG,Córdoba
+5276,Rio Grande,X5172XAJ,Córdoba
+5277,Rio Grande Amboy,X5197XAC,Córdoba
+5278,Rio Hondo,X5297XAB,Córdoba
+5279,Rio los Molinos,X5189XAO,Córdoba
+5280,Rio Pedro,X5246XAU,Córdoba
+5281,Rio Pinto,X5221XAI,Córdoba
+5283,Rio San Miguel,X5249XBQ,Córdoba
+5284,Rio Seco,X5284XAI,Córdoba
+5287,Rio Viejo,X5249XBI,Córdoba
+5288,Rodeito,X5209XAD,Córdoba
+5289,Rodeo de los Caballos,X5821XAE,Córdoba
+5290,Rodeo de Piedra,X5875XAT,Córdoba
+5291,Rodeo las Yeguas,X5821XAC,Córdoba
+5292,Rodeo Viejo,X5801XAX,Córdoba
+5293,Rojas,X5246XAY,Córdoba
+5295,Ruiz Diaz de Guzman,X6120XAB,Córdoba
+5296,Rumiaco,X5289XAD,Córdoba
+5297,Rumihuasi,X5285XAQ,Córdoba
+5298,Ruta 111 Kilometro 14,X5101XAH,Córdoba
+5299,Ruta 19 Kilometro 317,X5125XAC,Córdoba
+5301,Sagrada Familia,X5297XAC,Córdoba
+5303,Sajon,X5200XAB,Córdoba
+5306,Salguero,X6120XAC,Córdoba
+5309,Salto,X5873XAN,Córdoba
+5312,San Ambrosio,X5848XAD,Córdoba
+5313,San Antonio,X5281XAK,Córdoba
+5315,San Antonio de Bella Vista,X5236XAJ,Córdoba
+5317,San Antonio de Yucat,X5936XAC,Córdoba
+5318,San Antonio Norte,X5119XAL,Córdoba
+5319,San Bartolo,X5249XBJ,Córdoba
+5320,San Bartolome,X5801XAE,Córdoba
+5322,San Bernardo,X5200XAC,Córdoba
+5323,San Buenaventura,X5164XAD,Córdoba
+5324,San Carlos,X5212XAD,Córdoba
+5326,San Cristobal,X5107XAA,Córdoba
+5328,San Eusebio,X2561XAA,Córdoba
+5331,San Gabriel,X5244XAI,Córdoba
+5332,San Geronimo,X5297XAP,Córdoba
+5333,San Ignacio,X5182XAH,Córdoba
+5334,San Isidro,X5281XAL,Córdoba
+5335,San Javier,X5875XAM,Córdoba
+5336,San Jeronimo,X5297XAR,Córdoba
+5337,San Joaquin,X6123XAC,Córdoba
+5338,San Jorge,X5117XAC,Córdoba
+5339,San Jose,X5166XAG,Córdoba
+5341,San Jose de las Salinas,X5216XAD,Córdoba
+5343,San Juancito,X5249XBR,Córdoba
+5344,San Lorenzo,X5221XBC,Córdoba
+5345,San Lucas Norte,X5837XAA,Córdoba
+5346,San Luis,X5209XAE,Córdoba
+5349,San Martin,X5249XBM,Córdoba
+5350,San Meliton,X2664XAA,Córdoba
+5351,San Miguel,X5212XAE,Córdoba
+5352,San Miguel San Vicente,X5871XBF,Córdoba
+5353,San Nicolas,X5281XBB,Córdoba
+5354,San Pablo,X5220XAN,Córdoba
+5355,San Pedro,X2559XAA,Córdoba
+5356,San Pedro de San Alberto,X5871XBI,Córdoba
+5357,San Pedro de Toyos,X5200XAK,Córdoba
+5359,San Pellegrino,X5221XBD,Córdoba
+5360,San Rafael,X5139XAD,Córdoba
+5361,San Ramon,X5249XBO,Córdoba
+5362,San Roque,X5149XAI,Córdoba
+5363,San Roque las Arrias,X5231XAW,Córdoba
+5364,San Salvador,X5282XAP,Córdoba
+5365,San Sebastian,X5889XAF,Córdoba
+5366,San Vicente,X5200XAJ,Córdoba
+5367,Sanabria,X5901XAC,Córdoba
+5368,Santa Ana,X5284XAJ,Córdoba
+5369,Santa Catalina,X5221XBN,Córdoba
+5370,Santa Cecilia,X2561XAB,Córdoba
+5371,Santa Clara,X6123XAD,Córdoba
+5372,Santa Cristina,X6134XAB,Córdoba
+5373,Santa Cruz,X5201XBB,Córdoba
+5374,Santa Elena,X5131XAK,Córdoba
+5376,Santa Isabel,X5282XAQ,Córdoba
+5377,Santa Lucia,X5229XAI,Córdoba
+5378,Santa Magdalena,X6127XAB,Córdoba
+5379,Santa Maria,X2651XAA,Córdoba
+5381,Santa Maria de Sobremonte,X5209XAH,Córdoba
+5382,Santa Monica,X5197XAE,Córdoba
+5383,Santa Rita,X5200XAL,Córdoba
+5384,Santa Rosa,X5166XAE,Córdoba
+5387,Santa Rosa Huerta Grande,X5174XAA,Córdoba
+5388,Santa Sabina,X5221XBE,Córdoba
+5389,Santa Teresa,X5221XAA,Córdoba
+5390,Santa Victoria,X2675XAA,Córdoba
+5391,Santanilla,X5248XAU,Córdoba
+5393,Santo Domingo,X5209XAI,Córdoba
+5394,Santo Tomas,X5220XAC,Córdoba
+5395,Sapansoto,X5291XAS,Córdoba
+5396,Sarlaco,X5196XAB,Córdoba
+5397,Sarmica,X5925XAF,Córdoba
+5400,Sauce Arriba,X5182XAA,Córdoba
+5401,Sauce Chiquito,X5200XAM,Córdoba
+5402,Sauce de los Quevedos,X5295XAI,Córdoba
+5403,Sauce Punco,X5200XAN,Córdoba
+5406,Segunda Usina,X5857XAB,Córdoba
+5407,Sendas Grandes,X5284XAK,Córdoba
+5410,Sevilla,X5205XAF,Córdoba
+5411,Sierra Blanca,X5819XAC,Córdoba
+5412,Sierra de Abregu,X5291XAE,Córdoba
+5413,Sierra de las Paredes,X5291XAF,Córdoba
+5414,Sierras Morenas,X5189XAC,Córdoba
+5415,Simbolar,X5281XAU,Córdoba
+5417,Soconcho,X5191XAB,Córdoba
+5418,Socorro,X5209XAK,Córdoba
+5419,Solar los Molinos,X5189XAD,Córdoba
+5421,Soledad,X5137XAG,Córdoba
+5422,Soria,X5829XAA,Córdoba
+5423,Suco,X5837XAC,Córdoba
+5424,Sunchal,X5291XAG,Córdoba
+5425,Suncho Huico,X5184XAE,Córdoba
+5426,Tabanillo,X5870XAI,Córdoba
+5427,Tabaquillo,X5280XAK,Córdoba
+5428,Taco Pozo,X5235XAA,Córdoba
+5429,Tacurel,X6123XAB,Córdoba
+5430,Tajamares,X5231XAK,Córdoba
+5432,Tala Cruz,X5859XAF,Córdoba
+5433,Tala del Rio Seco,X5284XAV,Córdoba
+5434,Tala Huasi,X5153XAA,Córdoba
+5435,Tala Norte,X5131XAR,Córdoba
+5436,Tala Sud,X5127XAA,Córdoba
+5437,Talaini,X5291XAH,Córdoba
+5440,Tanti Lomas,X5155XAB,Córdoba
+5441,Tanti Nuevo,X5155XAC,Córdoba
+5442,Taruca Pampa,X5299XAM,Córdoba
+5443,Tasacuna,X5284XBD,Córdoba
+5444,Tasma,X5893XAH,Córdoba
+5445,Tegua,X5813XAM,Córdoba
+5446,Tejeda,X5125XAB,Córdoba
+5447,Tercer Cuerpo del Ejercito,X5101XAK,Córdoba
+5448,Tercera,X5189XAE,Córdoba
+5450,Tigre Muerto,X5859XAC,Córdoba
+5451,Tilquicho,X5873XAK,Córdoba
+5453,Tinoco,X5131XAL,Córdoba
+5454,Tintizaco,X5229XAJ,Córdoba
+5456,Todos los Santos,X5201XAE,Córdoba
+5458,Tomas Echenique,X6271XAI,Córdoba
+5459,Tordilla Norte,X5135XAD,Córdoba
+5460,Toro Muerto,X5295XAJ,Córdoba
+5461,Toro Pujio,X5139XAF,Córdoba
+5462,Tosno,X5289XAE,Córdoba
+5464,Totora Guasi,X5284XBE,Córdoba
+5465,Totoral,X5229XAB,Córdoba
+5466,Totoralejos,X5216XAL,Córdoba
+5467,Totoritas,X5291XAT,Córdoba
+5468,Totrilla,X5201XAT,Córdoba
+5470,Tres Arboles,X5285XAF,Córdoba
+5472,Tres Esquinas,X5291XAC,Córdoba
+5473,Tres Lomas,X5291XAD,Córdoba
+5474,Tres Pozos,X5972XAC,Córdoba
+5475,Trinchera,X5940XAB,Córdoba
+5476,Tristan Narvaja,X5149XAA,Córdoba
+5477,Tronco Pozo,X5223XAB,Córdoba
+5480,Tuscal,X5216XAA,Córdoba
+5484,Uritorco,X5184XAM,Córdoba
+5485,Usina Nuclear Embalse,X5859XAD,Córdoba
+5486,Vacas Blancas,X5143XAB,Córdoba
+5487,Valle del Sol,X5107XAH,Córdoba
+5488,Valle Dorado,X5864XAC,Córdoba
+5490,Valle Verde,X5115XAA,Córdoba
+5491,Vanguardia,X5246XAX,Córdoba
+5494,Villa Aguada de los Reyes,X5857XAC,Córdoba
+5495,Villa Ahora,X5166XAF,Córdoba
+5496,Villa Albertina,X5221XAL,Córdoba
+5498,Villa Alpina,X5194XAB,Córdoba
+5499,Villa Amancay,X5199XAE,Córdoba
+5500,Villa Angelica,X5885XAK,Córdoba
+5503,Villa Aurora,X5900XAH,Córdoba
+5504,Villa Berna,X5194XAE,Córdoba
+5505,Villa Bustos,X5164XAB,Córdoba
+5506,Villa Caeiro,X5164XAC,Córdoba
+5507,Villa Candelaria Norte,X5249XAB,Córdoba
+5509,Villa Carlos Pellegrini,X5186XAJ,Córdoba
+5511,Villa Cerro Negro,X5221XAJ,Córdoba
+5512,Villa Ciudad de America,X5189XAV,Córdoba
+5513,Villa Ciudad Pque los Reartes,X5189XAX,Córdoba
+5514,Villa Clodomira,X5885XAL,Córdoba
+5515,Villa Colimba,X5201XAB,Córdoba
+5517,Villa Corazon de Maria,X5101XAF,Córdoba
+5518,Villa Costa Azul,X5153XAE,Córdoba
+5519,Villa Cuesta Blanca,X5153XAF,Córdoba
+5525,Villa del Lago,X5151XAG,Córdoba
+5526,Villa del Parque,X5903XAA,Córdoba
+5527,Villa del Prado,X5186XAB,Córdoba
+5529,Villa del Tala,X5859XAH,Córdoba
+5531,Villa Diaz,X5109XAC,Córdoba
+5533,Villa el Chacay,X5801XBE,Córdoba
+5534,Villa el Corcovado,X5197XAG,Córdoba
+5536,Villa el Torreon,X5199XAF,Córdoba
+5537,Villa Elisa,X2594XAD,Córdoba
+5538,Villa Emilia,X5900XAA,Córdoba
+5539,Villa Esquiu,X5012XAB,Córdoba
+5540,Villa Flor Serrana,X5155XAD,Córdoba
+5543,Villa General Mitre,X5236XAF,Córdoba
+5545,Villa Gracia,X5153XAB,Córdoba
+5546,Villa Gutierrez,X5212XAF,Córdoba
+5548,Villa Independencia,X5153XAC,Córdoba
+5550,Villa la Coba,X5819XAD,Córdoba
+5551,Villa la Rancherita,X5189XAR,Córdoba
+5552,Villa Lago Azul,X5199XAG,Córdoba
+5553,Villa las Mercedes,X5107XAI,Córdoba
+5554,Villa Leonor,X5109XAD,Córdoba
+5555,Villa los Altos,X5111XAF,Córdoba
+5556,Villa los Aromos,X5186XAK,Córdoba
+5557,Villa los Leones,X5281XAT,Córdoba
+5558,Villa los Patos,X2550XAF,Córdoba
+5559,Villa Mar Chiquita,X5137XAF,Córdoba
+5560,Villa Maria,X5220XAO,Córdoba
+5561,Villa Mirea,X5020XAB,Córdoba
+5562,Villa Moderna,X6275XAE,Córdoba
+5563,Villa Naturaleza,X5864XAB,Córdoba
+5566,Villa Parque Siquiman,X5152XAA,Córdoba
+5567,Villa Posse,X5020XAA,Córdoba
+5569,Villa Quillinzo,X5859XAE,Córdoba
+5570,Villa Rafael Benegas,X5885XAM,Córdoba
+5572,Villa Rosario del Saladillo,X5233XAG,Córdoba
+5575,Villa San Esteban,X5947XAC,Córdoba
+5576,Villa San Javier,X5199XAH,Córdoba
+5577,Villa San Miguel,X5111XAG,Córdoba
+5579,Villa Santa Maria,X5186XAC,Córdoba
+5580,Villa Santa Rita,X5801XBF,Córdoba
+5581,Villa Santa Rosa,X5133XAG,Córdoba
+5582,Villa Sarmiento,X6273XAC,Córdoba
+5583,Villa Satyta,X5189XAW,Córdoba
+5584,Villa Sierras del Lago,X5857XAA,Córdoba
+5585,Villa Suiza Argentina,X5156XAA,Córdoba
+5586,Villa Taninga,X5295XAG,Córdoba
+5587,Villa Tortosa,X5109XAA,Córdoba
+5589,Villa Vaudagna,X2435XAD,Córdoba
+5590,Villa Vieja,X2426XAA,Córdoba
+5592,Viso,X5295XAH,Córdoba
+5593,Vista Alegre,X5197XAF,Córdoba
+5594,Vivero,X6128XAC,Córdoba
+5596,Watt,X6270XAB,Córdoba
+5598,Yacanto,X5877XAA,Córdoba
+5599,Yanacato,X5248XAW,Córdoba
+5600,Yatay,X5841XAE,Córdoba
+5602,Yerba Buena,X5200XAD,Córdoba
+5603,Yocsina,X5101XAZ,Córdoba
+5604,Zapata,X5873XAJ,Córdoba
+5605,Zapoloco,X5839XAC,Córdoba

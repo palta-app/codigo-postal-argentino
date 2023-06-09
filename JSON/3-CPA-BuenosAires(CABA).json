@@ -1,0 +1,20 @@
+{
+    "provinceName": "Buenos Aires (CABA)",
+    "provinceLink": "https://codigo-postal.co/argentina/capital-federal/",
+    "locationsCount": 2020,
+    "locationWithCPALink": 1,
+    "locations": [
+        {
+            "locationId": 2020,
+            "locationName": "Ciudad Autonoma de Buenos Aires",
+            "locationLink": "https://codigo-postal.co/argentina/capital-federal/ciudad-autonoma-buenos-aires/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        }
+    ]
+}

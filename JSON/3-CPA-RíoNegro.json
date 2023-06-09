@@ -1,0 +1,3897 @@
+{
+    "provinceName": "Río Negro",
+    "provinceLink": "https://codigo-postal.co/argentina/rio-negro/",
+    "locationsCount": 12705,
+    "locationWithCPALink": 333,
+    "locations": [
+        {
+            "locationId": 12373,
+            "locationName": "6 de Octubre",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/6-de-octubre/",
+            "cpa": {
+                "code": [
+                    "R8134XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12374,
+            "locationName": "Aguada Cecilio",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/aguada-cecilio/",
+            "cpa": {
+                "code": [
+                    "R8534XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12375,
+            "locationName": "Aguada de Guerra",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/aguada-de-guerra/",
+            "cpa": {
+                "code": [
+                    "R8424XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12376,
+            "locationName": "Aguada de los Pajaritos",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/aguada-de-los-pajaritos/",
+            "cpa": {
+                "code": [
+                    "R8301XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12377,
+            "locationName": "Aguada de Piedra",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/aguada-de-piedra/",
+            "cpa": {
+                "code": [
+                    "R8422XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12378,
+            "locationName": "Aguada del Loro",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/aguada-del-loro/",
+            "cpa": {
+                "code": [
+                    "R8520XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12379,
+            "locationName": "Aguada Guzman",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/aguada-guzman/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-aguada-guzman/"
+            }
+        },
+        {
+            "locationId": 12380,
+            "locationName": "Aguara",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/aguara/",
+            "cpa": {
+                "code": [
+                    "R8307XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12381,
+            "locationName": "Alanitos",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/alanitos/",
+            "cpa": {
+                "code": [
+                    "R8301XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12382,
+            "locationName": "Allen",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/allen/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-allen/"
+            }
+        },
+        {
+            "locationId": 12383,
+            "locationName": "Anecon Chico",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/anecon-chico/",
+            "cpa": {
+                "code": [
+                    "R8418XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12384,
+            "locationName": "Anecon Grande",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/anecon-grande/",
+            "cpa": {
+                "code": [
+                    "R8416XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12385,
+            "locationName": "Arroyo Blanco",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/arroyo-blanco/",
+            "cpa": {
+                "code": [
+                    "R8403XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12386,
+            "locationName": "Arroyo Chacay",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/arroyo-chacay/",
+            "cpa": {
+                "code": [
+                    "R8401XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12387,
+            "locationName": "Arroyo de la Ventana",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/arroyo-de-la-ventana/",
+            "cpa": {
+                "code": [
+                    "R8521XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12388,
+            "locationName": "Arroyo las Minas",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/arroyo-las-minas/",
+            "cpa": {
+                "code": [
+                    "R8415XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12389,
+            "locationName": "Arroyo los Berros",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/arroyo-los-berros/",
+            "cpa": {
+                "code": [
+                    "R8521XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12390,
+            "locationName": "Arroyo Salado",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/arroyo-salado/",
+            "cpa": {
+                "code": [
+                    "R8532XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12391,
+            "locationName": "Arroyo Tembrado",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/arroyo-tembrado/",
+            "cpa": {
+                "code": [
+                    "R8521XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12392,
+            "locationName": "Arroyo Verde",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/arroyo-verde/",
+            "cpa": {
+                "code": [
+                    "R8521XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12393,
+            "locationName": "Atraico",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/atraico/",
+            "cpa": {
+                "code": [
+                    "R8418XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12394,
+            "locationName": "Bahia Creek",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/bahia-creek/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-bahia-creek/"
+            }
+        },
+        {
+            "locationId": 12395,
+            "locationName": "Bajo del Gualicho",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/bajo-del-gualicho/",
+            "cpa": {
+                "code": [
+                    "R8520XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12396,
+            "locationName": "Bajo Rico",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/bajo-rico/",
+            "cpa": {
+                "code": [
+                    "R8360XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12397,
+            "locationName": "Balneario el Condor",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/balneario-el-condor/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-balneario-el-condor/"
+            }
+        },
+        {
+            "locationId": 12398,
+            "locationName": "Balneario las Grutas",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/balneario-las-grutas/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-balneario-las-grutas/"
+            }
+        },
+        {
+            "locationId": 12399,
+            "locationName": "Barda Colorada",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/barda-colorada/",
+            "cpa": {
+                "code": [
+                    "R8333XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12400,
+            "locationName": "Barda del Medio",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/barda-del-medio/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-barda-del-medio/"
+            }
+        },
+        {
+            "locationId": 12401,
+            "locationName": "Barril Niyeo",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/barril-niyeo/",
+            "cpa": {
+                "code": [
+                    "R8422XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12402,
+            "locationName": "Barrio Laguna",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/barrio-laguna/",
+            "cpa": {
+                "code": [
+                    "R8520XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12403,
+            "locationName": "Barrio Norte",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/barrio-norte/",
+            "cpa": {
+                "code": [
+                    "R8328XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12404,
+            "locationName": "Belisle Coronel",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/belisle-coronel/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-belisle-coronel/"
+            }
+        },
+        {
+            "locationId": 12405,
+            "locationName": "Benjamin Zorrilla",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/benjamin-zorrilla/",
+            "cpa": {
+                "code": [
+                    "R8360XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12406,
+            "locationName": "Boca de la Travesia",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/boca-de-la-travesia/",
+            "cpa": {
+                "code": [
+                    "R8505XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12407,
+            "locationName": "Caltrauna",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/caltrauna/",
+            "cpa": {
+                "code": [
+                    "R8424XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12408,
+            "locationName": "Campana Mahuida",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/campana-mahuida/",
+            "cpa": {
+                "code": [
+                    "R8532XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12409,
+            "locationName": "Cañadon Camallo",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/canadon-camallo/",
+            "cpa": {
+                "code": [
+                    "R8416XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12410,
+            "locationName": "Cañadon Chileno",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/canadon-chileno/",
+            "cpa": {
+                "code": [
+                    "R8417XBG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12411,
+            "locationName": "Cañadon del Corral",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/canadon-del-corral/",
+            "cpa": {
+                "code": [
+                    "R8412XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12412,
+            "locationName": "Canllequin",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/canllequin/",
+            "cpa": {
+                "code": [
+                    "R8417XAQ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12413,
+            "locationName": "Carhue",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/carhue/",
+            "cpa": {
+                "code": [
+                    "R8412XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12414,
+            "locationName": "Carri Yegua",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/carri-yegua/",
+            "cpa": {
+                "code": [
+                    "R8417XAR"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12415,
+            "locationName": "Carrilauquen",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/carrilauquen/",
+            "cpa": {
+                "code": [
+                    "R8418XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12416,
+            "locationName": "Casa Quemada",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/casa-quemada/",
+            "cpa": {
+                "code": [
+                    "R8412XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12417,
+            "locationName": "Cascada los Cantaros",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/cascada-los-cantaros/",
+            "cpa": {
+                "code": [
+                    "R8411XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12418,
+            "locationName": "Catriel",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/catriel/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-catriel/"
+            }
+        },
+        {
+            "locationId": 12419,
+            "locationName": "Cerro Abanico",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/cerro-abanico/",
+            "cpa": {
+                "code": [
+                    "R8424XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12420,
+            "locationName": "Cerro Alto",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/cerro-alto/",
+            "cpa": {
+                "code": [
+                    "R8403XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12421,
+            "locationName": "Cerro Mesa",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/cerro-mesa/",
+            "cpa": {
+                "code": [
+                    "R8415XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12422,
+            "locationName": "Cerro Policia",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/cerro-policia/",
+            "cpa": {
+                "code": [
+                    "R8333XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12423,
+            "locationName": "Cervantes",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/cervantes/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-cervantes/"
+            }
+        },
+        {
+            "locationId": 12424,
+            "locationName": "Chacalhua Ruca",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/chacalhua-ruca/",
+            "cpa": {
+                "code": [
+                    "R8415XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12425,
+            "locationName": "Chacay Huarruca",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/chacay-huarruca/",
+            "cpa": {
+                "code": [
+                    "R8415XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12426,
+            "locationName": "Chacras de Allen",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/chacras-de-allen/",
+            "cpa": {
+                "code": [
+                    "R8328XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12427,
+            "locationName": "Chaiful",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/chaiful/",
+            "cpa": {
+                "code": [
+                    "R8418XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12428,
+            "locationName": "Chasico",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/chasico/",
+            "cpa": {
+                "code": [
+                    "R8417XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12429,
+            "locationName": "Chelforo",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/chelforo/",
+            "cpa": {
+                "code": [
+                    "R8366XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12430,
+            "locationName": "Chenqueniyeu",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/chenqueniyeu/",
+            "cpa": {
+                "code": [
+                    "R8412XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12431,
+            "locationName": "Chichihuao",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/chichihuao/",
+            "cpa": {
+                "code": [
+                    "R8422XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12432,
+            "locationName": "Chichinales",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/chichinales/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-chichinales/"
+            }
+        },
+        {
+            "locationId": 12433,
+            "locationName": "Chimpay",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/chimpay/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-chimpay/"
+            }
+        },
+        {
+            "locationId": 12434,
+            "locationName": "China Muerta",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/china-muerta/",
+            "cpa": {
+                "code": [
+                    "R8505XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12435,
+            "locationName": "Chipauquil",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/chipauquil/",
+            "cpa": {
+                "code": [
+                    "R8536XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12436,
+            "locationName": "Chocori",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/chocori/",
+            "cpa": {
+                "code": [
+                    "R8503XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12437,
+            "locationName": "Choele Choel",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/choele-choel/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-choele-choel/"
+            }
+        },
+        {
+            "locationId": 12438,
+            "locationName": "Churquiñeo",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/churquineo/",
+            "cpa": {
+                "code": [
+                    "R8412XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12439,
+            "locationName": "Cinco Chañares",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/cinco-chanares/",
+            "cpa": {
+                "code": [
+                    "R8520XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12440,
+            "locationName": "Cinco Saltos",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/cinco-saltos/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-cinco-saltos/"
+            }
+        },
+        {
+            "locationId": 12441,
+            "locationName": "Cipolletti",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/cipolletti/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-cipolletti/"
+            }
+        },
+        {
+            "locationId": 12442,
+            "locationName": "Clemente Onelli",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/clemente-onelli/",
+            "cpa": {
+                "code": [
+                    "R8416XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12443,
+            "locationName": "Colan Conhue",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/colan-conhue/",
+            "cpa": {
+                "code": [
+                    "R8418XAN"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12444,
+            "locationName": "Coli Toro",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/coli-toro/",
+            "cpa": {
+                "code": [
+                    "R8418XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12445,
+            "locationName": "Colonia Alte Guerrico",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/colonia-alte-guerrico/",
+            "cpa": {
+                "code": [
+                    "R8307XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12446,
+            "locationName": "Colonia el Manzano",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/colonia-el-manzano/",
+            "cpa": {
+                "code": [
+                    "R8305XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12447,
+            "locationName": "Colonia General Frias",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/colonia-general-frias/",
+            "cpa": {
+                "code": [
+                    "R8501XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12448,
+            "locationName": "Colonia Josefa",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/colonia-josefa/",
+            "cpa": {
+                "code": [
+                    "R8363XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12449,
+            "locationName": "Colonia Julia y Echarren",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/colonia-julia-y-echarren/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-colonia-julia-y-echarren/"
+            }
+        },
+        {
+            "locationId": 12450,
+            "locationName": "Colonia la Luisa",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/colonia-la-luisa/",
+            "cpa": {
+                "code": [
+                    "R8503XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12451,
+            "locationName": "Colonia Regina",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/colonia-regina/",
+            "cpa": {
+                "code": [
+                    "R8336XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12452,
+            "locationName": "Colonia Rusa",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/colonia-rusa/",
+            "cpa": {
+                "code": [
+                    "R8332XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12453,
+            "locationName": "Colonia San Juan",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/colonia-san-juan/",
+            "cpa": {
+                "code": [
+                    "R8503XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12454,
+            "locationName": "Comallo",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/comallo/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-comallo/"
+            }
+        },
+        {
+            "locationId": 12455,
+            "locationName": "Comallo Abajo",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/comallo-abajo/",
+            "cpa": {
+                "code": [
+                    "R8416XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12456,
+            "locationName": "Comi Co",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/comi-co/",
+            "cpa": {
+                "code": [
+                    "R8424XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12457,
+            "locationName": "Cona Niyeu",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/cona-niyeu/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-cona-niyeu/"
+            }
+        },
+        {
+            "locationId": 12458,
+            "locationName": "Contralmirante Cordero",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/contralmirante-cordero/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-contralmirante-cordero/"
+            }
+        },
+        {
+            "locationId": 12459,
+            "locationName": "Contralmirante M Guerrico",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/contralmirante-m-guerrico/",
+            "cpa": {
+                "code": [
+                    "R8328XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12460,
+            "locationName": "Coquelen",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/coquelen/",
+            "cpa": {
+                "code": [
+                    "R8416XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12461,
+            "locationName": "Coronel Eugenio del Busto",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/coronel-eugenio-del-busto/",
+            "cpa": {
+                "code": [
+                    "R8138XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12462,
+            "locationName": "Coronel Francisco Sosa",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/coronel-francisco-sosa/",
+            "cpa": {
+                "code": [
+                    "R8503XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12463,
+            "locationName": "Coronel Juan Jose Gomez",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/coronel-juan-jose-gomez/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-coronel-juan-jose-gomez/"
+            }
+        },
+        {
+            "locationId": 12464,
+            "locationName": "Coronel Vidal",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/coronel-vidal/",
+            "cpa": {
+                "code": [
+                    "R8305XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12465,
+            "locationName": "Corral de los Pinos",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/corral-de-los-pinos/",
+            "cpa": {
+                "code": [
+                    "R8412XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12466,
+            "locationName": "Corralito",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/corralito/",
+            "cpa": {
+                "code": [
+                    "R8403XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12467,
+            "locationName": "Cos Zaures",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/cos-zaures/",
+            "cpa": {
+                "code": [
+                    "R8307XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12468,
+            "locationName": "Costa del Rio Azul",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/costa-del-rio-azul/",
+            "cpa": {
+                "code": [
+                    "R8430XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12469,
+            "locationName": "Costas del Pichi Leufu",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/costas-del-pichi-leufu/",
+            "cpa": {
+                "code": [
+                    "R8412XAR"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12470,
+            "locationName": "Cuatro Esquinas",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/cuatro-esquinas/",
+            "cpa": {
+                "code": [
+                    "R8324XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12471,
+            "locationName": "Cubanea",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/cubanea/",
+            "cpa": {
+                "code": [
+                    "R8501XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12472,
+            "locationName": "Cuenca Vidal",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/cuenca-vidal/",
+            "cpa": {
+                "code": [
+                    "R8301XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12473,
+            "locationName": "Cuesta del Ternero",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/cuesta-del-ternero/",
+            "cpa": {
+                "code": [
+                    "R9210XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12474,
+            "locationName": "Cura Lauquen",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/cura-lauquen/",
+            "cpa": {
+                "code": [
+                    "R8417XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12475,
+            "locationName": "Darwin",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/darwin/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-darwin/"
+            }
+        },
+        {
+            "locationId": 12476,
+            "locationName": "Dina Huapi",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/dina-huapi/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-dina-huapi/"
+            }
+        },
+        {
+            "locationId": 12477,
+            "locationName": "El Bolson",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/el-bolson/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-el-bolson/"
+            }
+        },
+        {
+            "locationId": 12478,
+            "locationName": "El Cacique",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/el-cacique/",
+            "cpa": {
+                "code": [
+                    "R8417XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12479,
+            "locationName": "El Cain",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/el-cain/",
+            "cpa": {
+                "code": [
+                    "R8422XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12480,
+            "locationName": "El Camaruro",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/el-camaruro/",
+            "cpa": {
+                "code": [
+                    "R8417XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12481,
+            "locationName": "El Cheiful",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/el-cheiful/",
+            "cpa": {
+                "code": [
+                    "R8418XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12482,
+            "locationName": "El Condor Estancia",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/el-condor-estancia/",
+            "cpa": {
+                "code": [
+                    "R8400XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12483,
+            "locationName": "El Cuy",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/el-cuy/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-el-cuy/"
+            }
+        },
+        {
+            "locationId": 12484,
+            "locationName": "El Dique",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/el-dique/",
+            "cpa": {
+                "code": [
+                    "R8500XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12485,
+            "locationName": "El Foyel",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/el-foyel/",
+            "cpa": {
+                "code": [
+                    "R8401XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12486,
+            "locationName": "El Gaucho Pobre",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/el-gaucho-pobre/",
+            "cpa": {
+                "code": [
+                    "R8417XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12487,
+            "locationName": "El Jardinero",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/el-jardinero/",
+            "cpa": {
+                "code": [
+                    "R8417XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12488,
+            "locationName": "El Manso",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/el-manso/",
+            "cpa": {
+                "code": [
+                    "R8430XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12489,
+            "locationName": "El Manzano",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/el-manzano/",
+            "cpa": {
+                "code": [
+                    "R8326XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12490,
+            "locationName": "El Moligue",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/el-moligue/",
+            "cpa": {
+                "code": [
+                    "R8418XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12491,
+            "locationName": "El Pantanoso",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/el-pantanoso/",
+            "cpa": {
+                "code": [
+                    "R8412XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12492,
+            "locationName": "El Porvenir",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/el-porvenir/",
+            "cpa": {
+                "code": [
+                    "R8503XAM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12493,
+            "locationName": "El Salado",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/el-salado/",
+            "cpa": {
+                "code": [
+                    "R8536XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12494,
+            "locationName": "Empalme Kilometro 648",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/empalme-kilometro-648/",
+            "cpa": {
+                "code": [
+                    "R8418XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12495,
+            "locationName": "Estancia las Julias",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/estancia-las-julias/",
+            "cpa": {
+                "code": [
+                    "R8363XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12496,
+            "locationName": "Falckner",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/falckner/",
+            "cpa": {
+                "code": [
+                    "R8534XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12497,
+            "locationName": "Ferri",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/ferri/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-ferri/"
+            }
+        },
+        {
+            "locationId": 12498,
+            "locationName": "Fita Ruin",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/fita-ruin/",
+            "cpa": {
+                "code": [
+                    "R8418XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12499,
+            "locationName": "Fitalancao",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/fitalancao/",
+            "cpa": {
+                "code": [
+                    "R8415XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12500,
+            "locationName": "Fitamiche",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/fitamiche/",
+            "cpa": {
+                "code": [
+                    "R8415XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12501,
+            "locationName": "Fitatimen",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/fitatimen/",
+            "cpa": {
+                "code": [
+                    "R8415XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12502,
+            "locationName": "Fortin Uno",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/fortin-uno/",
+            "cpa": {
+                "code": [
+                    "R8360XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12503,
+            "locationName": "Ganzu Lauquen",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/ganzu-lauquen/",
+            "cpa": {
+                "code": [
+                    "R8424XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12504,
+            "locationName": "General Conesa",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/general-conesa/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-general-conesa/"
+            }
+        },
+        {
+            "locationId": 12505,
+            "locationName": "General Enrique Godoy",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/general-enrique-godoy/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-general-enrique-godoy/"
+            }
+        },
+        {
+            "locationId": 12506,
+            "locationName": "General Fernandez Oro",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/general-fernandez-oro/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-general-fernandez-oro/"
+            }
+        },
+        {
+            "locationId": 12507,
+            "locationName": "General Liborio Bernal",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/general-liborio-bernal/",
+            "cpa": {
+                "code": [
+                    "R8500XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12508,
+            "locationName": "General Roca",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/general-roca/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-general-roca/"
+            }
+        },
+        {
+            "locationId": 12509,
+            "locationName": "Guardia Mitre",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/guardia-mitre/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-guardia-mitre/"
+            }
+        },
+        {
+            "locationId": 12510,
+            "locationName": "Hua Miche",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/hua-miche/",
+            "cpa": {
+                "code": [
+                    "R8417XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12511,
+            "locationName": "Huan Luan",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/huan-luan/",
+            "cpa": {
+                "code": [
+                    "R8418XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12512,
+            "locationName": "Ingeniero Huergo",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/ingeniero-huergo/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-ingeniero-huergo/"
+            }
+        },
+        {
+            "locationId": 12513,
+            "locationName": "Ingeniero Jacobacci",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/ingeniero-jacobacci/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-ingeniero-jacobacci/"
+            }
+        },
+        {
+            "locationId": 12514,
+            "locationName": "Ingeniero Zimmermann Resta",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/ingeniero-zimmermann-resta/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12515,
+            "locationName": "Ingenio San Lorenzo",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/ingenio-san-lorenzo/",
+            "cpa": {
+                "code": [
+                    "R8503XAN"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12516,
+            "locationName": "Iris",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/iris/",
+            "cpa": {
+                "code": [
+                    "R8324XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12517,
+            "locationName": "Isla Chica",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/isla-chica/",
+            "cpa": {
+                "code": [
+                    "R8363XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12518,
+            "locationName": "Isla Grande",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/isla-grande/",
+            "cpa": {
+                "code": [
+                    "R8361XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12519,
+            "locationName": "Jagüel Campo Monte",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/jaguel-campo-monte/",
+            "cpa": {
+                "code": [
+                    "R8520XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12520,
+            "locationName": "Jita Rusia",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/jita-rusia/",
+            "cpa": {
+                "code": [
+                    "R8417XAS"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12521,
+            "locationName": "Juan de Garay",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/juan-de-garay/",
+            "cpa": {
+                "code": [
+                    "R8134XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12522,
+            "locationName": "Kili Malal",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/kili-malal/",
+            "cpa": {
+                "code": [
+                    "R8417XAT"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12523,
+            "locationName": "Kilometro 1218",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/kilometro-1218/",
+            "cpa": {
+                "code": [
+                    "R8305XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12524,
+            "locationName": "La Adela",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/la-adela/",
+            "cpa": {
+                "code": [
+                    "R8138XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12525,
+            "locationName": "La Alianza",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/la-alianza/",
+            "cpa": {
+                "code": [
+                    "R8324XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12526,
+            "locationName": "La Angostura",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/la-angostura/",
+            "cpa": {
+                "code": [
+                    "R8417XAU"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12527,
+            "locationName": "La Bombilla",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/la-bombilla/",
+            "cpa": {
+                "code": [
+                    "R8520XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12528,
+            "locationName": "La Carolina",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/la-carolina/",
+            "cpa": {
+                "code": [
+                    "R8503XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12529,
+            "locationName": "La Chilena",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/la-chilena/",
+            "cpa": {
+                "code": [
+                    "R8417XAV"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12530,
+            "locationName": "La Criollita",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/la-criollita/",
+            "cpa": {
+                "code": [
+                    "R8417XAW"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12531,
+            "locationName": "La Elvira",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/la-elvira/",
+            "cpa": {
+                "code": [
+                    "R8360XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12532,
+            "locationName": "La Emilia",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/la-emilia/",
+            "cpa": {
+                "code": [
+                    "R8324XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12533,
+            "locationName": "La Esmeralda",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/la-esmeralda/",
+            "cpa": {
+                "code": [
+                    "R8324XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12534,
+            "locationName": "La Esperanza",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/la-esperanza/",
+            "cpa": {
+                "code": [
+                    "R8534XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12535,
+            "locationName": "La Estancia Vieja",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/la-estancia-vieja/",
+            "cpa": {
+                "code": [
+                    "R8324XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12536,
+            "locationName": "La Estrella",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/la-estrella/",
+            "cpa": {
+                "code": [
+                    "R8417XAX"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12537,
+            "locationName": "La Excurra",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/la-excurra/",
+            "cpa": {
+                "code": [
+                    "R8417XAY"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12538,
+            "locationName": "La Flecha",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/la-flecha/",
+            "cpa": {
+                "code": [
+                    "R8503XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12539,
+            "locationName": "La Granja",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/la-granja/",
+            "cpa": {
+                "code": [
+                    "R8501XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12540,
+            "locationName": "La Julia",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/la-julia/",
+            "cpa": {
+                "code": [
+                    "R8363XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12541,
+            "locationName": "La Loberia",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/la-loberia/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12542,
+            "locationName": "La Lucinda",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/la-lucinda/",
+            "cpa": {
+                "code": [
+                    "R8324XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12543,
+            "locationName": "La Maria Ines",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/la-maria-ines/",
+            "cpa": {
+                "code": [
+                    "R8138XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12544,
+            "locationName": "La Meseta",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/la-meseta/",
+            "cpa": {
+                "code": [
+                    "R8500XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12545,
+            "locationName": "La Mimosa",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/la-mimosa/",
+            "cpa": {
+                "code": [
+                    "R8417XAZ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12546,
+            "locationName": "La Porteña",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/la-portena/",
+            "cpa": {
+                "code": [
+                    "R8417XBA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12547,
+            "locationName": "La Primavera",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/la-primavera/",
+            "cpa": {
+                "code": [
+                    "R8520XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12548,
+            "locationName": "La Quebrada",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/la-quebrada/",
+            "cpa": {
+                "code": [
+                    "R8412XAS"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12549,
+            "locationName": "La Rinconada",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/la-rinconada/",
+            "cpa": {
+                "code": [
+                    "R8424XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12550,
+            "locationName": "La Rubia",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/la-rubia/",
+            "cpa": {
+                "code": [
+                    "R8417XBB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12551,
+            "locationName": "La Sara",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/la-sara/",
+            "cpa": {
+                "code": [
+                    "R8360XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12552,
+            "locationName": "La Vencedora",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/la-vencedora/",
+            "cpa": {
+                "code": [
+                    "R8417XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12553,
+            "locationName": "Lago Pellegrini",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/lago-pellegrini/",
+            "cpa": {
+                "code": [
+                    "R8305XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12554,
+            "locationName": "Laguna Blanca",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/laguna-blanca/",
+            "cpa": {
+                "code": [
+                    "R8417XBH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12555,
+            "locationName": "Laguna Cortes",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/laguna-cortes/",
+            "cpa": {
+                "code": [
+                    "R8520XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12556,
+            "locationName": "Laguna de la Prueba",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/laguna-de-la-prueba/",
+            "cpa": {
+                "code": [
+                    "R8520XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12557,
+            "locationName": "Laguna del Barro",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/laguna-del-barro/",
+            "cpa": {
+                "code": [
+                    "R8514XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12558,
+            "locationName": "Laguna del Monte",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/laguna-del-monte/",
+            "cpa": {
+                "code": [
+                    "R8514XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12559,
+            "locationName": "Laguna Frias",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/laguna-frias/",
+            "cpa": {
+                "code": [
+                    "R8411XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12560,
+            "locationName": "Laguna los Juncos",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/laguna-los-juncos/",
+            "cpa": {
+                "code": [
+                    "R8400XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12561,
+            "locationName": "Lagunita",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/lagunita/",
+            "cpa": {
+                "code": [
+                    "R8424XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12562,
+            "locationName": "Lamarque",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/lamarque/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-lamarque/"
+            }
+        },
+        {
+            "locationId": 12563,
+            "locationName": "Lanquiñeo",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/lanquineo/",
+            "cpa": {
+                "code": [
+                    "R8417XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12564,
+            "locationName": "Las Bayas",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/las-bayas/",
+            "cpa": {
+                "code": [
+                    "R8412XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12565,
+            "locationName": "Las Maquinas",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/las-maquinas/",
+            "cpa": {
+                "code": [
+                    "R8520XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12566,
+            "locationName": "Las Mellizas",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/las-mellizas/",
+            "cpa": {
+                "code": [
+                    "R8417XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12567,
+            "locationName": "Las Perlas",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/las-perlas/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-las-perlas/"
+            }
+        },
+        {
+            "locationId": 12568,
+            "locationName": "Las Piedras",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/las-piedras/",
+            "cpa": {
+                "code": [
+                    "R8134XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12569,
+            "locationName": "Lenzaniyen",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/lenzaniyen/",
+            "cpa": {
+                "code": [
+                    "R8424XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12570,
+            "locationName": "Loma Blanca",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/loma-blanca/",
+            "cpa": {
+                "code": [
+                    "R8424XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12571,
+            "locationName": "Lonco Vaca",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/lonco-vaca/",
+            "cpa": {
+                "code": [
+                    "R8417XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12572,
+            "locationName": "Los Costeros",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/los-costeros/",
+            "cpa": {
+                "code": [
+                    "R8417XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12573,
+            "locationName": "Los Juncos",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/los-juncos/",
+            "cpa": {
+                "code": [
+                    "R8422XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12574,
+            "locationName": "Los Manantiales",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/los-manantiales/",
+            "cpa": {
+                "code": [
+                    "R8422XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12575,
+            "locationName": "Los Menucos",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/los-menucos/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-los-menucos/"
+            }
+        },
+        {
+            "locationId": 12576,
+            "locationName": "Los Molinos",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/los-molinos/",
+            "cpa": {
+                "code": [
+                    "R8360XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12577,
+            "locationName": "Los Pirineos",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/los-pirineos/",
+            "cpa": {
+                "code": [
+                    "R8417XAM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12578,
+            "locationName": "Los Quebrachos",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/los-quebrachos/",
+            "cpa": {
+                "code": [
+                    "R8417XAN"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12579,
+            "locationName": "Los Repollos",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/los-repollos/",
+            "cpa": {
+                "code": [
+                    "R8430XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12580,
+            "locationName": "Los Sauces",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/los-sauces/",
+            "cpa": {
+                "code": [
+                    "R8307XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12581,
+            "locationName": "Luis Beltran",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/luis-beltran/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-luis-beltran/"
+            }
+        },
+        {
+            "locationId": 12582,
+            "locationName": "Luis M Zagaglia",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/luis-m-zagaglia/",
+            "cpa": {
+                "code": [
+                    "R8503XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12583,
+            "locationName": "Mainque",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/mainque/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-mainque/"
+            }
+        },
+        {
+            "locationId": 12584,
+            "locationName": "Mallin Ahogado",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/mallin-ahogado/",
+            "cpa": {
+                "code": [
+                    "R8430XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12585,
+            "locationName": "Mamuel Choique",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/mamuel-choique/",
+            "cpa": {
+                "code": [
+                    "R8415XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12586,
+            "locationName": "Mancha Blanca",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/mancha-blanca/",
+            "cpa": {
+                "code": [
+                    "R8520XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12587,
+            "locationName": "Mancullique",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/mancullique/",
+            "cpa": {
+                "code": [
+                    "R8422XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12588,
+            "locationName": "Maquinchao",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/maquinchao/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-maquinchao/"
+            }
+        },
+        {
+            "locationId": 12589,
+            "locationName": "Maria Cristina",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/maria-cristina/",
+            "cpa": {
+                "code": [
+                    "R8360XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12590,
+            "locationName": "Mata Negra",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/mata-negra/",
+            "cpa": {
+                "code": [
+                    "R8500XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12591,
+            "locationName": "Medanos Negros",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/medanos-negros/",
+            "cpa": {
+                "code": [
+                    "R8134XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12592,
+            "locationName": "Mencue",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/mencue/",
+            "cpa": {
+                "code": [
+                    "R8417XAO"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12593,
+            "locationName": "Menuco Vaca Muerta",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/menuco-vaca-muerta/",
+            "cpa": {
+                "code": [
+                    "R8412XAT"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12594,
+            "locationName": "Michi Honoca",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/michi-honoca/",
+            "cpa": {
+                "code": [
+                    "R8301XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12595,
+            "locationName": "Michihuao",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/michihuao/",
+            "cpa": {
+                "code": [
+                    "R8417XAP"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12596,
+            "locationName": "Ministro Ramos Mexia",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/ministro-ramos-mexia/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-ministro-ramos-mexia/"
+            }
+        },
+        {
+            "locationId": 12597,
+            "locationName": "Mulanillo",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/mulanillo/",
+            "cpa": {
+                "code": [
+                    "R8417XBC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12598,
+            "locationName": "Musters",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/musters/",
+            "cpa": {
+                "code": [
+                    "R8536XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12599,
+            "locationName": "Nahuel Niyeu",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/nahuel-niyeu/",
+            "cpa": {
+                "code": [
+                    "R8534XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12600,
+            "locationName": "Naupa Huen",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/naupa-huen/",
+            "cpa": {
+                "code": [
+                    "R8313XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12601,
+            "locationName": "Negro Muerto",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/negro-muerto/",
+            "cpa": {
+                "code": [
+                    "R8360XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12602,
+            "locationName": "Neneo Ruca",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/neneo-ruca/",
+            "cpa": {
+                "code": [
+                    "R8416XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12603,
+            "locationName": "Niluan",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/niluan/",
+            "cpa": {
+                "code": [
+                    "R8422XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12604,
+            "locationName": "Ñirihuao Estacion Fcgr",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/nirihuao-estacion-fcgr/",
+            "cpa": {
+                "code": [
+                    "R8400XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12605,
+            "locationName": "Ñorquinco",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/norquinco/",
+            "cpa": {
+                "code": [
+                    "R8415XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12606,
+            "locationName": "Nueva Carolina",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/nueva-carolina/",
+            "cpa": {
+                "code": [
+                    "R8503XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12607,
+            "locationName": "Nuevo Leon",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/nuevo-leon/",
+            "cpa": {
+                "code": [
+                    "R8514XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12608,
+            "locationName": "Ojos de Agua Embarcadero Fcgb",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/ojos-de-agua-embarcadero-fcgb/",
+            "cpa": {
+                "code": [
+                    "R8418XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12609,
+            "locationName": "Padre Alejandro Stefenelli",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/padre-alejandro-stefenelli/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-padre-alejandro-stefenelli/"
+            }
+        },
+        {
+            "locationId": 12610,
+            "locationName": "Paja Alta",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/paja-alta/",
+            "cpa": {
+                "code": [
+                    "R8536XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12611,
+            "locationName": "Palenque Niyeu",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/palenque-niyeu/",
+            "cpa": {
+                "code": [
+                    "R8417XBD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12612,
+            "locationName": "Panquehuao",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/panquehuao/",
+            "cpa": {
+                "code": [
+                    "R8412XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12613,
+            "locationName": "Paso Chacabuco",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/paso-chacabuco/",
+            "cpa": {
+                "code": [
+                    "R8401XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12614,
+            "locationName": "Paso Cordova",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/paso-cordova/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-paso-cordova/"
+            }
+        },
+        {
+            "locationId": 12615,
+            "locationName": "Paso de los Molles",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/paso-de-los-molles/",
+            "cpa": {
+                "code": [
+                    "R8412XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12616,
+            "locationName": "Paso del Limay",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/paso-del-limay/",
+            "cpa": {
+                "code": [
+                    "R8403XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12617,
+            "locationName": "Paso Flores",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/paso-flores/",
+            "cpa": {
+                "code": [
+                    "R8403XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12618,
+            "locationName": "Paso Lezcano",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/paso-lezcano/",
+            "cpa": {
+                "code": [
+                    "R8361XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12619,
+            "locationName": "Paso Miranda",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/paso-miranda/",
+            "cpa": {
+                "code": [
+                    "R8403XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12620,
+            "locationName": "Paso Piedra",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/paso-piedra/",
+            "cpa": {
+                "code": [
+                    "R8360XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12621,
+            "locationName": "Peñas Blancas",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/penas-blancas/",
+            "cpa": {
+                "code": [
+                    "R8307XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12622,
+            "locationName": "Percy H Scott",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/percy-h-scott/",
+            "cpa": {
+                "code": [
+                    "R8520XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12623,
+            "locationName": "Perito Moreno",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/perito-moreno/",
+            "cpa": {
+                "code": [
+                    "R8416XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12624,
+            "locationName": "Perito Moreno Estacion Fcgr",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/perito-moreno-estacion-fcgr/",
+            "cpa": {
+                "code": [
+                    "R8400XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12625,
+            "locationName": "Pichi Leufu",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/pichi-leufu/",
+            "cpa": {
+                "code": [
+                    "R8412XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12626,
+            "locationName": "Pichi Leufu Abajo",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/pichi-leufu-abajo/",
+            "cpa": {
+                "code": [
+                    "R8412XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12627,
+            "locationName": "Pichi Leufu Arriba",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/pichi-leufu-arriba/",
+            "cpa": {
+                "code": [
+                    "R8412XAM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12628,
+            "locationName": "Pichi Mahuida",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/pichi-mahuida/",
+            "cpa": {
+                "code": [
+                    "R8138XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12629,
+            "locationName": "Pilahue",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/pilahue/",
+            "cpa": {
+                "code": [
+                    "R8417XBE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12630,
+            "locationName": "Pilcaniyeu",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/pilcaniyeu/",
+            "cpa": {
+                "code": [
+                    "R8412XAN"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12631,
+            "locationName": "Pilquiniyeu",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/pilquiniyeu/",
+            "cpa": {
+                "code": [
+                    "R8416XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12632,
+            "locationName": "Pilquiniyeu del Limay",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/pilquiniyeu-del-limay/",
+            "cpa": {
+                "code": [
+                    "R8412XAO"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12633,
+            "locationName": "Planicie de Jaguelito",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/planicie-de-jaguelito/",
+            "cpa": {
+                "code": [
+                    "R8333XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12634,
+            "locationName": "Playa Bonita",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/playa-bonita/",
+            "cpa": {
+                "code": [
+                    "R8501XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12635,
+            "locationName": "Playas Doradas",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/playas-doradas/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-playas-doradas/"
+            }
+        },
+        {
+            "locationId": 12636,
+            "locationName": "Pomona",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/pomona/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-pomona/"
+            }
+        },
+        {
+            "locationId": 12637,
+            "locationName": "Portezuelo",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/portezuelo/",
+            "cpa": {
+                "code": [
+                    "R8415XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12638,
+            "locationName": "Pozo Moro",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/pozo-moro/",
+            "cpa": {
+                "code": [
+                    "R8520XAM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12639,
+            "locationName": "Pozo Salado",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/pozo-salado/",
+            "cpa": {
+                "code": [
+                    "R8514XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12640,
+            "locationName": "Prahuaniyeu",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/prahuaniyeu/",
+            "cpa": {
+                "code": [
+                    "R8424XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12641,
+            "locationName": "Primera Angostura",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/primera-angostura/",
+            "cpa": {
+                "code": [
+                    "R8505XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12642,
+            "locationName": "Puerto Blest",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/puerto-blest/",
+            "cpa": {
+                "code": [
+                    "R8411XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12643,
+            "locationName": "Puerto Ojo de Agua",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/puerto-ojo-de-agua/",
+            "cpa": {
+                "code": [
+                    "R8401XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12644,
+            "locationName": "Puerto San Antonio Este",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/puerto-san-antonio-este/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-puerto-san-antonio-este/"
+            }
+        },
+        {
+            "locationId": 12645,
+            "locationName": "Puerto Tigre Isla Victoria",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/puerto-tigre-isla-victoria/",
+            "cpa": {
+                "code": [
+                    "R8400XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12646,
+            "locationName": "Puesto Faria",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/puesto-faria/",
+            "cpa": {
+                "code": [
+                    "R8360XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12647,
+            "locationName": "Puesto Gaviña",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/puesto-gavina/",
+            "cpa": {
+                "code": [
+                    "R8503XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12648,
+            "locationName": "Punta de Agua",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/punta-de-agua/",
+            "cpa": {
+                "code": [
+                    "R8536XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12649,
+            "locationName": "Quempu Niyeu",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/quempu-niyeu/",
+            "cpa": {
+                "code": [
+                    "R8333XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12650,
+            "locationName": "Quetrequile",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/quetrequile/",
+            "cpa": {
+                "code": [
+                    "R8418XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12651,
+            "locationName": "Quinta Panal",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/quinta-panal/",
+            "cpa": {
+                "code": [
+                    "R8416XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12652,
+            "locationName": "Rayhuao",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/rayhuao/",
+            "cpa": {
+                "code": [
+                    "R8412XAP"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12653,
+            "locationName": "Repollos",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/repollos/",
+            "cpa": {
+                "code": [
+                    "R8415XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12654,
+            "locationName": "Rincon de Gastre",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/rincon-de-gastre/",
+            "cpa": {
+                "code": [
+                    "R8503XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12655,
+            "locationName": "Rinconada",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/rinconada/",
+            "cpa": {
+                "code": [
+                    "R8360XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12656,
+            "locationName": "Rio Chico",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/rio-chico/",
+            "cpa": {
+                "code": [
+                    "R8415XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12657,
+            "locationName": "Rio Colorado",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/rio-colorado/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-rio-colorado/"
+            }
+        },
+        {
+            "locationId": 12658,
+            "locationName": "Rio Salado",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/rio-salado/",
+            "cpa": {
+                "code": [
+                    "R8134XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12659,
+            "locationName": "Rio Villegas",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/rio-villegas/",
+            "cpa": {
+                "code": [
+                    "R8401XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12660,
+            "locationName": "Rucu Luan",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/rucu-luan/",
+            "cpa": {
+                "code": [
+                    "R8422XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12661,
+            "locationName": "Saco Viejo",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/saco-viejo/",
+            "cpa": {
+                "code": [
+                    "R8514XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12662,
+            "locationName": "Salitral Negro",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/salitral-negro/",
+            "cpa": {
+                "code": [
+                    "R8363XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12663,
+            "locationName": "San Antonio Oeste",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/san-antonio-oeste/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-san-antonio-oeste/"
+            }
+        },
+        {
+            "locationId": 12664,
+            "locationName": "San Carlos de Bariloche",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/san-carlos-de-bariloche/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-san-carlos-de-bariloche/"
+            }
+        },
+        {
+            "locationId": 12665,
+            "locationName": "San Javier",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/san-javier/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-san-javier/"
+            }
+        },
+        {
+            "locationId": 12666,
+            "locationName": "San Jorge",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/san-jorge/",
+            "cpa": {
+                "code": [
+                    "R8324XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12667,
+            "locationName": "San Juan",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/san-juan/",
+            "cpa": {
+                "code": [
+                    "R8503XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12668,
+            "locationName": "San Leon",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/san-leon/",
+            "cpa": {
+                "code": [
+                    "R8138XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12669,
+            "locationName": "San Lorenzo",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/san-lorenzo/",
+            "cpa": {
+                "code": [
+                    "R8503XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12670,
+            "locationName": "San Pedro",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/san-pedro/",
+            "cpa": {
+                "code": [
+                    "R8412XAQ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12671,
+            "locationName": "San Ramon",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/san-ramon/",
+            "cpa": {
+                "code": [
+                    "R8416XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12672,
+            "locationName": "San Simon",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/san-simon/",
+            "cpa": {
+                "code": [
+                    "R8503XAO"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12673,
+            "locationName": "Santa Elena",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/santa-elena/",
+            "cpa": {
+                "code": [
+                    "R8417XBF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12674,
+            "locationName": "Santa Genoveva",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/santa-genoveva/",
+            "cpa": {
+                "code": [
+                    "R8363XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12675,
+            "locationName": "Santa Gregoria",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/santa-gregoria/",
+            "cpa": {
+                "code": [
+                    "R8364XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12676,
+            "locationName": "Santa Nicolasa",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/santa-nicolasa/",
+            "cpa": {
+                "code": [
+                    "R8364XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12677,
+            "locationName": "Sargento Vidal",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/sargento-vidal/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-sargento-vidal/"
+            }
+        },
+        {
+            "locationId": 12678,
+            "locationName": "Sauce Blanco",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/sauce-blanco/",
+            "cpa": {
+                "code": [
+                    "R8360XAL",
+                    "R8360XAL"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12679,
+            "locationName": "Segunda Angostura",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/segunda-angostura/",
+            "cpa": {
+                "code": [
+                    "R8501XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12680,
+            "locationName": "Sierra Colorada",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/sierra-colorada/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-sierra-colorada/"
+            }
+        },
+        {
+            "locationId": 12681,
+            "locationName": "Sierra de la Ventana",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/sierra-de-la-ventana/",
+            "cpa": {
+                "code": [
+                    "R8521XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12682,
+            "locationName": "Sierra Grande",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/sierra-grande/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-sierra-grande/"
+            }
+        },
+        {
+            "locationId": 12683,
+            "locationName": "Sierra Paileman",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/sierra-paileman/",
+            "cpa": {
+                "code": [
+                    "R8521XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12684,
+            "locationName": "Teniente Maza Estacion Fcgr",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/teniente-maza-estacion-fcgr/",
+            "cpa": {
+                "code": [
+                    "R8534XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12685,
+            "locationName": "Tercera Zona",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/tercera-zona/",
+            "cpa": {
+                "code": [
+                    "R8336XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12686,
+            "locationName": "Travesia Castro",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/travesia-castro/",
+            "cpa": {
+                "code": [
+                    "R8503XAP"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12687,
+            "locationName": "Treneta",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/treneta/",
+            "cpa": {
+                "code": [
+                    "R8534XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12688,
+            "locationName": "Tres Ojos de Aguas",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/tres-ojos-de-aguas/",
+            "cpa": {
+                "code": [
+                    "R8416XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12689,
+            "locationName": "Tricaco",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/tricaco/",
+            "cpa": {
+                "code": [
+                    "R8332XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12690,
+            "locationName": "Tromeniyeu",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/tromeniyeu/",
+            "cpa": {
+                "code": [
+                    "R8422XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12691,
+            "locationName": "Tte Gral Eustaquio Frias",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/tte-gral-eustaquio-frias/",
+            "cpa": {
+                "code": [
+                    "R8501XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12692,
+            "locationName": "Tunquelen",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/tunquelen/",
+            "cpa": {
+                "code": [
+                    "R8409XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12693,
+            "locationName": "Vaca Lauquen",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/vaca-lauquen/",
+            "cpa": {
+                "code": [
+                    "R8422XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12694,
+            "locationName": "Valcheta",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/valcheta/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-valcheta/"
+            }
+        },
+        {
+            "locationId": 12695,
+            "locationName": "Valle Azul",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/valle-azul/",
+            "cpa": {
+                "code": [
+                    "R8336XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12696,
+            "locationName": "Valle de los Alamos",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/valle-de-los-alamos/",
+            "cpa": {
+                "code": [
+                    "R8307XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12697,
+            "locationName": "Viedma",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/viedma/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-viedma/"
+            }
+        },
+        {
+            "locationId": 12698,
+            "locationName": "Villa Alberdi",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/villa-alberdi/",
+            "cpa": {
+                "code": [
+                    "R8336XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12699,
+            "locationName": "Villa Llanquin",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/villa-llanquin/",
+            "cpa": {
+                "code": [
+                    "R8401XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12700,
+            "locationName": "Villa Manzano",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/villa-manzano/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-villa-manzano/"
+            }
+        },
+        {
+            "locationId": 12701,
+            "locationName": "Villa Mascardi",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/villa-mascardi/",
+            "cpa": {
+                "code": [
+                    "R8401XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12702,
+            "locationName": "Villa Regina",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/villa-regina/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/rio-negro/calles-de-villa-regina/"
+            }
+        },
+        {
+            "locationId": 12703,
+            "locationName": "Villa Turismo",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/villa-turismo/",
+            "cpa": {
+                "code": [
+                    "R8430XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12704,
+            "locationName": "Yaminue",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/yaminue/",
+            "cpa": {
+                "code": [
+                    "R8534XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12705,
+            "locationName": "Yuquinche",
+            "locationLink": "https://codigo-postal.co/argentina/rio-negro/yuquinche/",
+            "cpa": {
+                "code": [
+                    "R8418XAM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        }
+    ]
+}

@@ -1,0 +1,549 @@
+id,name,zip,state
+2852,10 de Mayo,H3705XER,Chaco
+2853,2 de Mayo,H3722XAO,Chaco
+2854,9 de Julio,H3714XBE,Chaco
+2855,Agua Buena,H3714XAA,Chaco
+2856,Aldea Forestal,H3530XAL,Chaco
+2857,Aleloy,H3703XAI,Chaco
+2858,Almirante Brown,H3701XAI,Chaco
+2859,Amambay,H3718XAA,Chaco
+2860,Arbol Solo,H3513XAH,Chaco
+2861,Arroyo Quintana,H3505XAM,Chaco
+2862,Avanzada,H3540XAB,Chaco
+2864,Bajo Hondo,H3705XCY,Chaco
+2865,Bajo Verde,H3705XDD,Chaco
+2869,Basail,H3516XAA,Chaco
+2870,Berlin,H3705XDE,Chaco
+2871,Bocas,H3536XAO,Chaco
+2872,Bolsa Grande,H3705XDF,Chaco
+2873,Botija,H3714XAB,Chaco
+2874,Cabañaro Pasaje,H3703XAS,Chaco
+2875,Cabeza de Tigre,H3540XAA,Chaco
+2876,Cabral,H3730XAR,Chaco
+2877,Cabral Cue,H3518XAJ,Chaco
+2878,Cacui,H3514XBC,Chaco
+2879,California,H3705XDG,Chaco
+2880,Campo de Galnasi,H3501XAB,Chaco
+2881,Campo de la Choza,H3514XAV,Chaco
+2882,Campo Echegaray,H3514XAW,Chaco
+2883,Campo el Aibal,H3705XDH,Chaco
+2884,Campo el Bermejo,H3509XAE,Chaco
+2885,Campo el Jacaranda,H3733XAC,Chaco
+2886,Campo el Onza,H3705XDI,Chaco
+2887,Campo Feldman,H3530XAB,Chaco
+2888,Campo Ferrando,H3730XAS,Chaco
+2889,Campo Grande,H3705XDJ,Chaco
+2891,Campo las Puertas,H3541XAC,Chaco
+2892,Campo Moreno,H3734XAD,Chaco
+2893,Campo Nuevo,H3541XAD,Chaco
+2894,Campo Overos,H3705XDK,Chaco
+2895,Campo Winter,H3509XAF,Chaco
+2896,Campo Zapa,H3722XAA,Chaco
+2897,Cancha Larga,H3518XAK,Chaco
+2898,Capitan Solari,H3515XAA,Chaco
+2899,Castellin,H3714XBF,Chaco
+2900,Cerrito,H3730XAQ,Chaco
+2901,Charadai,H3513XAA,Chaco
+2904,Ciervo Petiso,H3515XAC,Chaco
+2905,Cnia Agricola Pampa Napenay,H3706XAG,Chaco
+2906,Colonia Abate,H3732XAA,Chaco
+2907,Colonia Aborigen,H3531XAA,Chaco
+2908,Colonia Alelay,H3703XAT,Chaco
+2909,Colonia Bajo Hondo,H3700XAB,Chaco
+2910,Colonia Baranda,H3505XBA,Chaco
+2911,Colonia Barrera,H3732XAU,Chaco
+2913,Colonia Bermejo,H3509XAJ,Chaco
+2914,Colonia Bernardino Rivadavia,H3701XAB,Chaco
+2915,Colonia Blas Parera,H3531XAC,Chaco
+2916,Colonia Bravo,H3732XAB,Chaco
+2917,Colonia Cabeza de Buey,H3705XBB,Chaco
+2918,Colonia Cabral,H3518XAM,Chaco
+2920,Colonia Codutti,H3505XAV,Chaco
+2921,Colonia Coronel Brandsen,H3536XAA,Chaco
+2922,Colonia Coronel Dorrego,H3511XAB,Chaco
+2923,Colonia Cuero Quemado,H3722XAB,Chaco
+2924,Colonia Drydale,H3734XAE,Chaco
+2925,Colonia Echegaray,H3514XAX,Chaco
+2926,Colonia Economia,H3732XAC,Chaco
+2927,Colonia el Aguara,H3534XAC,Chaco
+2928,Colonia el Alazan,H3705XBC,Chaco
+2929,Colonia el Ciervo,H3509XAK,Chaco
+2930,Colonia el Curupi,H3541XAE,Chaco
+2931,Colonia el Fiscal,H3509XAL,Chaco
+2932,Colonia el Paraisal,H3530XAM,Chaco
+2933,Colonia el Pilar,H3505XAJ,Chaco
+2934,Colonia el Tigre,H3541XAF,Chaco
+2936,Colonia el Triangulo,H3732XAD,Chaco
+2938,Colonia Esperanza,H3509XAM,Chaco
+2939,Colonia Florencia,H3500XAK,Chaco
+2940,Colonia Fortuni,H3705XBE,Chaco
+2941,Colonia General Necochea,H3722XAC,Chaco
+2942,Colonia General Paz,H3530XAO,Chaco
+2943,Colonia Gualtieri,H3534XAO,Chaco
+2944,Colonia Hamburguesa,H3732XAL,Chaco
+2945,Colonia Herrera,H3536XAC,Chaco
+2946,Colonia Hipolito Vieytes,H3536XAE,Chaco
+2947,Colonia Indigena,H3705XBF,Chaco
+2948,Colonia Jose Marmol,H3700XAI,Chaco
+2949,Colonia Juan Jose Castelli,H3705XBG,Chaco
+2950,Colonia Juan Jose Paso,H3540XAC,Chaco
+2951,Colonia Juan Larrea,H3730XAD,Chaco
+2953,Colonia Juan Penco,H3514XAL,Chaco
+2954,Colonia la Avanzada,H3540XAP,Chaco
+2955,Colonia la Filomena,H3509XAN,Chaco
+2956,Colonia la Florida Chica,H3705XBH,Chaco
+2957,Colonia la Florida Grande,H3705XDM,Chaco
+2958,Colonia la Lola,H3534XAD,Chaco
+2959,Colonia la Maria Luisa,H3734XAB,Chaco
+2960,Colonia la Tota,H3734XAC,Chaco
+2961,Colonia las Avispas,H3540XAQ,Chaco
+2962,Colonia Leandro N Alem,H3534XAR,Chaco
+2963,Colonia los Ganzos,H3540XAX,Chaco
+2964,Colonia Lote 10,H3540XAO,Chaco
+2965,Colonia Lote 12,H3543XAD,Chaco
+2966,Colonia Lote 3,H3543XAE,Chaco
+2967,Colonia Lucinda,H3505XAU,Chaco
+2968,Colonia Malgratti,H3716XAC,Chaco
+2969,Colonia Mariano Sarratea,H3706XAC,Chaco
+2970,Colonia Matheu,H3540XAD,Chaco
+2971,Colonia Mixta,H3514XAM,Chaco
+2972,Colonia Monte Quemado,H3705XDN,Chaco
+2973,Colonia Necochea Sud,H3732XAO,Chaco
+2974,Colonia Palmira,H3500XAL,Chaco
+2975,Colonia Popular,H3505XAR,Chaco
+2976,Colonia Pueblo Viejo,H3531XAH,Chaco
+2977,Colonia Puente Philipon,H3514XAY,Chaco
+2978,Colonia Puente Uriburu,H3530XAC,Chaco
+2979,Colonia Quebrachales,H3733XAG,Chaco
+2980,Colonia Rio de Oro,H3518XAL,Chaco
+2981,Colonia Rodriguez Peña,H3511XAC,Chaco
+2982,Colonia Sabina,H3509XAO,Chaco
+2983,Colonia San Antonio,H3509XAP,Chaco
+2984,Colonia Santa Elena,H3536XAF,Chaco
+2985,Colonia Schmidt,H3730XAB,Chaco
+2986,Colonia Siete Arboles,H3509XAG,Chaco
+2987,Colonia Tacuari,H3516XAB,Chaco
+2988,Colonia Tañigo,H3733XAF,Chaco
+2989,Colonia Tres Lagunas,H3509XAQ,Chaco
+2990,Colonia Velez Sarsfield,H3703XAJ,Chaco
+2991,Colonia Welhers,H3732XAF,Chaco
+2993,Comandancia Frias,H3705XDP,Chaco
+2995,Coronel Avalos,H3505XAS,Chaco
+2996,Coronel Brandsen,H3536XAJ,Chaco
+2998,Corralito,H3705XDQ,Chaco
+3000,Costa Ine,H3505XAG,Chaco
+3001,Cote Lai,H3513XAB,Chaco
+3003,Cuatro Arboles,H3536XAK,Chaco
+3004,Cuatro Bocas,H3530XAN,Chaco
+3005,Curandu,H3536XAR,Chaco
+3006,Curva de Novoa,H3722XAM,Chaco
+3007,Doña Paula,H3705XDR,Chaco
+3008,Dos Boliches,H3722XAN,Chaco
+3009,El 14,H3518XAH,Chaco
+3010,El 15,H3509XAR,Chaco
+3011,El Aibal,H3705XDT,Chaco
+3012,El Asustado,H3705XDU,Chaco
+3013,El Bañado,H3516XAC,Chaco
+3014,El Boqueron,H3703XAK,Chaco
+3015,El Cajon,H3722XAK,Chaco
+3016,El Campamento,H3524XAA,Chaco
+3017,El Cañon,H3714XAP,Chaco
+3018,El Catorce,H3706XAD,Chaco
+3019,El Cuadrado,H3734XAH,Chaco
+3020,El Cuarenta y Seis,H3703XAY,Chaco
+3021,El Curundu,H3536XAG,Chaco
+3022,El Desierto,H3705XDV,Chaco
+3023,El Destierro,H3703XAQ,Chaco
+3024,El Espinillo,H3703XAE,Chaco
+3025,El Esquinero,H3543XAA,Chaco
+3026,El Estero,H3722XAY,Chaco
+3027,El Guanaco,H3714XAQ,Chaco
+3031,El Ñandubay,H3541XAG,Chaco
+3036,El Paraiso,H3714XAS,Chaco
+3037,El Perdido,H3509XBA,Chaco
+3039,El Pintado,H3705XCZ,Chaco
+3047,El Recovo,H3722XBA,Chaco
+3053,El Simbolar,H3705XDY,Chaco
+3055,El Totoral,H3534XAE,Chaco
+3065,Estancia el Sabalo,H3513XAS,Chaco
+3066,Estancia la Aurora,H3500XAG,Chaco
+3068,Estero Redondo,H3513XAI,Chaco
+3070,Ex Fortin Comandante Frias,H3705XED,Chaco
+3073,Ex Fortin Wilde,H3705XBQ,Chaco
+3082,Fortin Potrero,H3540XAK,Chaco
+3095,Guayaibi,H3536XAB,Chaco
+3097,Haumonia,H3543XAM,Chaco
+3099,Hivonnait,H3514XAN,Chaco
+3103,Invernada,H3543XAR,Chaco
+3105,Isla Antequera,H3505XAN,Chaco
+3109,Kilometro 1183,H3714XAN,Chaco
+3111,Kilometro 184,H3620XAA,Chaco
+3113,Kilometro 22,H3514XAK,Chaco
+3114,Kilometro 29,H3514XAO,Chaco
+3115,Kilometro 34,H3516XAD,Chaco
+3116,Kilometro 38,H3514XAC,Chaco
+3117,Kilometro 39,H3509XAH,Chaco
+3118,Kilometro 40,H3705XBN,Chaco
+3120,Kilometro 443,H3513XAJ,Chaco
+3121,Kilometro 474,H3513XAW,Chaco
+3122,Kilometro 48,H3509XAB,Chaco
+3123,Kilometro 498,H3543XAL,Chaco
+3124,Kilometro 5,H3514XAD,Chaco
+3125,Kilometro 501,H3513XAD,Chaco
+3126,Kilometro 519,H3513XAG,Chaco
+3127,Kilometro 520,H3543XAN,Chaco
+3128,Kilometro 523,H3505XAX,Chaco
+3129,Kilometro 525,H3545XAA,Chaco
+3130,Kilometro 53,H3543XAQ,Chaco
+3131,Kilometro 530,H3545XAB,Chaco
+3132,Kilometro 575,H3515XAD,Chaco
+3133,Kilometro 59,H3509XAC,Chaco
+3134,Kilometro 596,H3504XAA,Chaco
+3135,Kilometro 602,H3515XAG,Chaco
+3136,Kilometro 62,H3509XAT,Chaco
+3137,Kilometro 76 Rio Bermejo,H3526XAB,Chaco
+3138,Kilometro 841,H3703XAG,Chaco
+3139,Kilometro 855 Estacion,H3703XAR,Chaco
+3140,Kilometro 884,H3703XAH,Chaco
+3141,La Aguada,H3714XAU,Chaco
+3142,La Argentina,H3714XAV,Chaco
+3143,La Armonia,H3705XBS,Chaco
+3144,La Cañada,H3705XBT,Chaco
+3145,La Chaco,H3701XAF,Chaco
+3146,La China,H3714XAI,Chaco
+3147,La Chiquita,H3700XAJ,Chaco
+3148,La Choza,H3513XAE,Chaco
+3150,La Colonia,H3500XAA,Chaco
+3151,La Costosa,H3705XBU,Chaco
+3152,La Cuchilla,H3716XAE,Chaco
+3153,La Dificultad,H3515XAE,Chaco
+3154,La Economia,H3732XAH,Chaco
+3156,La Elaboradora,H3514XAE,Chaco
+3157,La Entrada,H3705XBV,Chaco
+3159,La Esperanza,H3705XBW,Chaco
+3160,La Estacion,H3705XBX,Chaco
+3161,La Evangelica,H3505XAT,Chaco
+3162,La Fidelidad,H3705XBY,Chaco
+3163,La Flecha,H3716XAD,Chaco
+3164,La Flojera,H3705XEI,Chaco
+3165,La Ganadera,H3505XBB,Chaco
+3166,La Gringa,H3705XEJ,Chaco
+3167,La Ilusion,H3714XAJ,Chaco
+3168,La Invernada,H3705XEK,Chaco
+3169,La Isla,H3503XAA,Chaco
+3171,La Libertad,H3705XDA,Chaco
+3172,La Liguria,H3501XAA,Chaco
+3173,La Loma,H3505XAH,Chaco
+3174,La Lucinda,H3505XAY,Chaco
+3175,La Magdalena,H3522XAG,Chaco
+3176,La Manuela,H3540XAR,Chaco
+3177,La Mascota,H3706XAE,Chaco
+3178,La Matanza,H3531XAE,Chaco
+3179,La Media Luna,H3705XEL,Chaco
+3180,La Mora,H3705XEM,Chaco
+3181,La Ñata,H3540XAL,Chaco
+3182,La Negra,H3505XAZ,Chaco
+3183,La Nueva,H3540XAI,Chaco
+3184,La Ofelia,H3540XAJ,Chaco
+3185,La Paloma,H3714XAW,Chaco
+3186,La Palometa,H3505XBC,Chaco
+3188,La Pilar,H3505XAC,Chaco
+3189,La Pinta,H3714XAE,Chaco
+3190,La Pobladora,H3703XAM,Chaco
+3191,La Posta,H3524XAE,Chaco
+3192,La Providencia,H3714XAF,Chaco
+3193,La Raquel,H3505XAW,Chaco
+3194,La Rinconada,H3705XEN,Chaco
+3195,La Sabana,H3513XAK,Chaco
+3196,La Saltarina,H3705XEO,Chaco
+3197,La Sara,H3714XAX,Chaco
+3198,La Soledad,H3705XEP,Chaco
+3199,La Suiza,H3540XAG,Chaco
+3200,La Tambora,H3534XAL,Chaco
+3201,La Tapera,H3540XAS,Chaco
+3203,La Tranquilidad,H3714XAY,Chaco
+3205,La Vicuña,H3513XAL,Chaco
+3206,La Viruela,H3540XAT,Chaco
+3207,La Zanja,H3705XEQ,Chaco
+3208,Laguna Beligay,H3505XAO,Chaco
+3209,Laguna Blanca,H3514XAT,Chaco
+3210,Laguna Escondida,H3514XAF,Chaco
+3211,Laguna Limpia,H3515XAB,Chaco
+3212,Laguna Patos,H3518XAN,Chaco
+3213,Lapachito,H3514XAP,Chaco
+3214,Lapacho,H3518XAO,Chaco
+3215,Las Banderas,H3536XAL,Chaco
+3216,Las Blancas,H3705XAT,Chaco
+3218,Las Carpas,H3714XBA,Chaco
+3219,Las Cuatro Bocas,H3701XAG,Chaco
+3220,Las Cuchillas,H3722XAP,Chaco
+3221,Las Cuchillas Cnia J Marmol,H3701XAA,Chaco
+3222,Las Delicias,H3714XBB,Chaco
+3223,Las Flores,H3705XAU,Chaco
+3225,Las Golondrinas,H3540XAY,Chaco
+3226,Las Golondrinas Sur,H3540XAU,Chaco
+3227,Las Hacheras,H3705XAV,Chaco
+3228,Las Leonas,H3732XAQ,Chaco
+3229,Las Lomitas,H3534XAN,Chaco
+3230,Las Maravillas,H3705XAW,Chaco
+3231,Las Mercedes,H3516XAE,Chaco
+3232,Las Moreras,H3540XAV,Chaco
+3234,Las Piedritas,H3722XAQ,Chaco
+3235,Las Rosas,H3518XAP,Chaco
+3236,Las Toscas,H3513XAM,Chaco
+3237,Las Vertientes,H3705XAX,Chaco
+3238,Liva,H3514XBA,Chaco
+3239,Loma Alta,H3509XAU,Chaco
+3240,Loma Florida,H3509XAV,Chaco
+3241,Lorena,H3714XAC,Chaco
+3242,Loro Blanco,H3718XAF,Chaco
+3243,Los Algarrobos,H3505XBD,Chaco
+3244,Los Barriles,H3705XAY,Chaco
+3245,Los Cerritos,H3722XAD,Chaco
+3246,Los Chinacos,H3722XAE,Chaco
+3247,Los Fortines,H3540XAM,Chaco
+3249,Los Gansos,H3540XAN,Chaco
+3250,Los Gualcos,H3730XAL,Chaco
+3251,Los Magos,H3714XBT,Chaco
+3252,Los Palmares,H3516XAF,Chaco
+3253,Los Porongos,H3705XAZ,Chaco
+3254,Los Pozos,H3511XAA,Chaco
+3255,Los Quebrachitos,H3734XAK,Chaco
+3256,Los Quirquinchos,H3705XBA,Chaco
+3257,Los Tigres,H3714XBU,Chaco
+3258,Los Tobas,H3714XBR,Chaco
+3259,Los Tunales,H3705XAH,Chaco
+3260,Lote 1,H3543XAO,Chaco
+3261,Lote 10,H3701XAH,Chaco
+3262,Lote 11,H3701XAJ,Chaco
+3263,Lote 12,H3543XAB,Chaco
+3264,Lote 14,H3534XAP,Chaco
+3265,Lote 15 Escuela 268,H3522XAE,Chaco
+3266,Lote 15 la Sabana,H3513XAX,Chaco
+3267,Lote 16 Escuela 204,H3522XAF,Chaco
+3268,Lote 17,H3543XAJ,Chaco
+3269,Lote 18 Pozo Colorado,H3545XAC,Chaco
+3270,Lote 23,H3534XAQ,Chaco
+3271,Lote 23 Samuhu,H3543XAP,Chaco
+3272,Lote 24,H3543XAI,Chaco
+3273,Lote 25,H3543XAF,Chaco
+3274,Lote 3,H3534XAH,Chaco
+3275,Lote 33,H3714XBS,Chaco
+3276,Lote 34,H3706XAH,Chaco
+3277,Lote 4 Colonia Pastoril,H3536XAP,Chaco
+3278,Lote 4 Quitilipi,H3530XAH,Chaco
+3279,Lote 42,H3534XAF,Chaco
+3280,Lote 43 Escuela 250,H3530XAK,Chaco
+3281,Lote 48 Colonia Mixta,H3514XAQ,Chaco
+3282,Lote 53 Colonia Mixta,H3514XAR,Chaco
+3283,Lote 7,H3543XAG,Chaco
+3284,Lote 77,H3730XAM,Chaco
+3285,Lote 8,H3543XAH,Chaco
+3286,Lote 9,H3513XAT,Chaco
+3288,Lote Ocho,H3705XAI,Chaco
+3290,Macomitas,H3513XAN,Chaco
+3291,Madre de Dios,H3714XCD,Chaco
+3293,Malbalaes,H3701XAE,Chaco
+3295,Manantiales,H3705XAE,Chaco
+3297,Maria Sara,H3505XBE,Chaco
+3298,Martinez de Hoz,H3536XAM,Chaco
+3300,Mieres,H3524XAC,Chaco
+3301,Ministro Ramon Gomez,H3732XAI,Chaco
+3302,Miraflores,H3705XAF,Chaco
+3303,Miramar,H3705XAJ,Chaco
+3304,Mision Angelicana,H3705XAK,Chaco
+3305,Mision Nueva Pompeya,H3705XAB,Chaco
+3306,Molle Marcado,H3705XAL,Chaco
+3307,Monte Caseros,H3705XAM,Chaco
+3309,Napenay,H3706XAA,Chaco
+3310,Ntra Señora de la Concepcion,H3703XAP,Chaco
+3311,Nueva Poblacion,H3705XAG,Chaco
+3312,Nueva Union,H3705XAN,Chaco
+3313,Nueva York,H3714XCE,Chaco
+3314,Obraje la Vicuña,H3513XAO,Chaco
+3315,Palmar Central,H3732XAR,Chaco
+3316,Palmar Norte,H3732XAJ,Chaco
+3317,Palo Blanco,H3714XBW,Chaco
+3318,Palo Marcado,H3705XAP,Chaco
+3319,Pampa Aguado,H3700XAC,Chaco
+3320,Pampa Aguara,H3703XAN,Chaco
+3321,Pampa Alegria,H3700XAD,Chaco
+3322,Pampa Alelai,H3703XAX,Chaco
+3324,Pampa Alsina,H3718XAB,Chaco
+3325,Pampa Avila,H3730XAP,Chaco
+3326,Pampa Bandera,H3534XAG,Chaco
+3327,Pampa Barrera,H3730XAF,Chaco
+3328,Pampa Bolsa,H3714XBX,Chaco
+3329,Pampa Borracho,H3708XAA,Chaco
+3330,Pampa Brugnoli,H3722XAR,Chaco
+3331,Pampa Cabrera,H3730XAI,Chaco
+3332,Pampa Cabure,H3714XAG,Chaco
+3333,Pampa Castro,H3705XAO,Chaco
+3334,Pampa Cejas,H3730XAA,Chaco
+3335,Pampa Chica,H3509XAW,Chaco
+3336,Pampa Cuvalo,H3718XAC,Chaco
+3337,Pampa de las Flores,H3701XAK,Chaco
+3338,Pampa de los Locos,H3700XAE,Chaco
+3339,Pampa del Cielo,H3730XAN,Chaco
+3340,Pampa del Huevo,H3722XAG,Chaco
+3343,Pampa del Regimiento,H3706XAF,Chaco
+3344,Pampa del Tordillo,H3722XAH,Chaco
+3345,Pampa del Zorro,H3722XAI,Chaco
+3346,Pampa Dorotier,H3732XAS,Chaco
+3347,Pampa el 11,H3703XAU,Chaco
+3348,Pampa el 12,H3703XAV,Chaco
+3349,Pampa el Fosforito,H3714XAH,Chaco
+3350,Pampa el Mangrullo,H3714XBZ,Chaco
+3351,Pampa el Mollar,H3714XBQ,Chaco
+3352,Pampa el Silencio,H3705XAQ,Chaco
+3353,Pampa Flores,H3730XAO,Chaco
+3354,Pampa Florida,H3703XAC,Chaco
+3355,Pampa Galpon,H3700XAF,Chaco
+3356,Pampa Gamba,H3700XAH,Chaco
+3358,Pampa Hermosa,H3708XAB,Chaco
+3360,Pampa Juanita,H3708XAC,Chaco
+3361,Pampa la Peligrosa,H3530XAI,Chaco
+3362,Pampa Landriel,H3731XAA,Chaco
+3363,Pampa Larga,H3509XAX,Chaco
+3364,Pampa Legua Cuatro,H3530XAJ,Chaco
+3365,Pampa Loca,H3700XAG,Chaco
+3366,Pampa los Bedogni,H3705XAR,Chaco
+3368,Pampa Mitre,H3722XAW,Chaco
+3369,Pampa Oculta,H3716XAB,Chaco
+3370,Pampa Pelado,H3714XBC,Chaco
+3371,Pampa Pereyra,H3714XBD,Chaco
+3372,Pampa Quimili,H3714XAD,Chaco
+3373,Pampa Ralera,H3714XBG,Chaco
+3374,Pampa San Martin,H3722XAJ,Chaco
+3376,Pampa Tolosa Chica,H3705XBI,Chaco
+3377,Pampa Tolosa Grande,H3705XBJ,Chaco
+3378,Pampa Vargas,H3705XET,Chaco
+3379,Pampa Verde,H3531XAF,Chaco
+3380,Pampa Villordo,H3722XAX,Chaco
+3382,Pampa Zanata,H3722XAU,Chaco
+3383,Pampini,H3722XAT,Chaco
+3384,Paraje el Colchon,H3705XBK,Chaco
+3385,Paraje el Colorado,H3705XBM,Chaco
+3386,Paraje Independencia,H3714XBV,Chaco
+3387,Paraje Kilometro 77,H3714XBK,Chaco
+3388,Paraje las Tablas,H3509XAY,Chaco
+3389,Paraje Ojo de Agua,H3714XBL,Chaco
+3390,Paraje Santa Cruz,H3714XBM,Chaco
+3391,Paralelo 28,H3516XAG,Chaco
+3392,Paso de los Libres,H3705XBL,Chaco
+3393,Paso del Oso,H3536XAD,Chaco
+3394,Picaditas,H3530XAD,Chaco
+3395,Pilar,H3505XAE,Chaco
+3396,Pindo,H3518XAV,Chaco
+3397,Pinedo Central,H3732XAE,Chaco
+3398,Pozo de la Linea,H3705XBO,Chaco
+3399,Pozo de la Mula,H3705XBP,Chaco
+3400,Pozo de la Pava,H3705XCN,Chaco
+3401,Pozo de la Tuna,H3705XCO,Chaco
+3402,Pozo de las Garzas,H3705XDB,Chaco
+3403,Pozo de los Suris,H3705XCP,Chaco
+3404,Pozo del Cincuenta,H3705XCQ,Chaco
+3405,Pozo del Gato,H3705XCR,Chaco
+3406,Pozo del Gris,H3705XBZ,Chaco
+3408,Pozo del Molle,H3705XCA,Chaco
+3409,Pozo del Negro,H3705XCB,Chaco
+3410,Pozo del Tala,H3705XCC,Chaco
+3411,Pozo del Tigre,H3705XCD,Chaco
+3412,Pozo del Toro,H3705XDC,Chaco
+3413,Pozo el Chañar,H3705XDL,Chaco
+3414,Pozo Hondo,H3714XAK,Chaco
+3415,Pozo la Brea,H3705XCS,Chaco
+3416,Pozo la Osca,H3705XCT,Chaco
+3417,Pozo Navagan,H3621XAA,Chaco
+3421,Pueblo Clodomiro Diaz,H3540XAE,Chaco
+3422,Pueblo Puca,H3730XAG,Chaco
+3423,Puente Ine,H3505XAF,Chaco
+3424,Puente Palometa,H3505XBF,Chaco
+3425,Puente Philippon,H3514XAG,Chaco
+3426,Puente Svritz,H3514XAH,Chaco
+3427,Puerta de Leon,H3732XAM,Chaco
+3428,Puerto Antequera,H3505XAL,Chaco
+3429,Puerto Bastiani,H3505XAP,Chaco
+3431,Puerto Eva Peron,H3526XAC,Chaco
+3432,Puerto las Palmas,H3518XAD,Chaco
+3433,Puerto Lavalle,H3705XCU,Chaco
+3435,Puerto Urquiza,H3705XEG,Chaco
+3436,Puerto Vicentini,H3514XBB,Chaco
+3438,Puerto Zapallar,H3509XAD,Chaco
+3439,Puesto Carrizo,H3718XAE,Chaco
+3440,Puesto Cocheri,H3513XAQ,Chaco
+3441,Puesto Mendizabal,H3513XAR,Chaco
+3442,Punta de Rieles,H3518XAS,Chaco
+3443,Punta Nueva,H3505XAD,Chaco
+3444,Punta Rieles,H3505XAI,Chaco
+3447,Ranchos Viejos,H3518XAE,Chaco
+3448,Reducc San Bernardo de Vertiz,H3705XCW,Chaco
+3449,Reduccion de la Cangaye,H3705XCV,Chaco
+3450,Reduccion Napalpi,H3530XAE,Chaco
+3452,Rincon del Zorro,H3518XAF,Chaco
+3453,Rio Araza,H3514XAU,Chaco
+3454,Rio Bermejo,H3524XAD,Chaco
+3455,Rio de Oro,H3518XAG,Chaco
+3457,Rio Tapenaga,H3513XAP,Chaco
+3458,Rosales,H3705XCX,Chaco
+3459,Salto de la Vieja,H3515XAH,Chaco
+3461,San Agustin,H3705XCE,Chaco
+3462,San Antonio,H3705XEH,Chaco
+3464,San Carlos,H3522XAC,Chaco
+3465,San Eduardo,H3522XAD,Chaco
+3466,San Fernando,H3518XAT,Chaco
+3467,San Jose,H3714XBP,Chaco
+3468,San Juancito,H3705XCF,Chaco
+3469,San Lorenzo,H3705XCG,Chaco
+3470,San Luis,H3714XBY,Chaco
+3471,San Martin,H3714XBI,Chaco
+3472,San Miguel,H3505XAB,Chaco
+3473,San Telmo,H3714XBJ,Chaco
+3474,Santa Agueda,H3714XAM,Chaco
+3475,Santa Elena,H3714XAL,Chaco
+3476,Santa Elvira,H3731XAB,Chaco
+3477,Santa Maria,H3541XAA,Chaco
+3478,Santa Marta,H3534XAA,Chaco
+3479,Santa Rita,H3705XCH,Chaco
+3480,Santa Rosa,H3714XCA,Chaco
+3482,Santa Teresa de Carballo,H3714XCB,Chaco
+3483,Santo Domingo,H3705XCI,Chaco
+3484,Santos Lugares,H3531XAD,Chaco
+3485,Selvas del Rio de Oro,H3507XAA,Chaco
+3486,Sol de Mayo,H3705XCJ,Chaco
+3487,Solalinde,H3524XAG,Chaco
+3489,Tacuari,H3518XAU,Chaco
+3490,Tartagal,H3705XCK,Chaco
+3491,Termas del Cerrito,H3518XAW,Chaco
+3492,Tigre,H3500XAI,Chaco
+3493,Timbo,H3524XAH,Chaco
+3494,Tolderias,H3705XCL,Chaco
+3495,Tres Boliches,H3540XAW,Chaco
+3497,Tres Horquetas,H3522XAH,Chaco
+3499,Tres Mojones,H3733XAD,Chaco
+3500,Tres Monjes,H3541XAB,Chaco
+3501,Tres Naciones,H3703XAW,Chaco
+3503,Tres Pozos,H3705XCM,Chaco
+3504,Tropezon,H3500XAB,Chaco
+3505,Tucuru,H3540XAF,Chaco
+3506,Urundel,H3714XCC,Chaco
+3507,Velaz,H3526XAD,Chaco
+3508,Venados Grandes,H3733XAE,Chaco
+3509,Venezuela,H3509XAS,Chaco
+3510,Viboras,H3734XAF,Chaco
+3511,Vicentini,H3514XAZ,Chaco
+3512,Villa Alta,H3500XAJ,Chaco
+3514,Villa Barberan,H3500XAC,Chaco
+3516,Villa Dos,H3509XAZ,Chaco
+3517,Villa el Dorado,H3500XAD,Chaco
+3518,Villa el Palmar,H3530XAA,Chaco
+3519,Villa Forestacion,H3503XAB,Chaco
+3520,Villa Jalon,H3505XAQ,Chaco
+3521,Villa Juan de Garay,H3500XAE,Chaco
+3522,Villa Libertad,H3500XAF,Chaco
+3523,Villa Paranacito,H3500XAH,Chaco
+3524,Villa Rio Bermejito,H3703XAA,Chaco
+3525,Villa Sarmiento,H3514XBD,Chaco
+3526,Welhers,H3732XAN,Chaco
+3528,Yatay,H3518XAX,Chaco
+3529,Zaparinqui,H3705XEU,Chaco

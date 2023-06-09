@@ -1,0 +1,639 @@
+id,name,zip,state
+15891,22 de Mayo,S2124XAD,Santa Fé
+15892,4 de Febrero,S2732XAA,Santa Fé
+15893,Aaron Castellanos,S6106XAE,Santa Fé
+15894,Abipones,S3042XAA,Santa Fé
+15896,Achaval Rodriguez,S2344XAA,Santa Fé
+15897,Adolfo Alsina,S2311XAC,Santa Fé
+15898,Aero Club Rosario,S2132XAC,Santa Fé
+15899,Aguara Grande,S3071XAA,Santa Fé
+15904,Allende,S3550XAE,Santa Fé
+15905,Alto Verde,S3001XAM,Santa Fé
+15913,Angeloni,S3048XAC,Santa Fé
+15914,Antonio Pini,S3061XAI,Santa Fé
+15915,Arequito,S2183XAB,Santa Fé
+15916,Arijon,S2242XAA,Santa Fé
+15920,Aromos,S3036XAB,Santa Fé
+15921,Arrascaeta,S3046XAK,Santa Fé
+15924,Arroyo del Rey,S3565XAA,Santa Fé
+15925,Arroyo Leyes,S3001XAP,Santa Fé
+15928,Arsenal de Guerra San Lorenzo,S2156XAB,Santa Fé
+15930,Ascochingas,S3014XAG,Santa Fé
+15931,Asuncion Maria,S3040XAG,Santa Fé
+15934,Aurelia Norte,S2318XAA,Santa Fé
+15935,Aurelia Sud,S2318XAB,Santa Fé
+15937,Avena,S2449XAA,Santa Fé
+15938,Avichuncho,S3040XAC,Santa Fé
+15939,Bajo las Tunas,S3017XAA,Santa Fé
+15940,Barlett,S2175XAA,Santa Fé
+15942,Barranquitas,S3000XAD,Santa Fé
+15943,Barrio Belgrano Ortiz,S2440XAA,Santa Fé
+15945,Barros Pazos,S3569XAC,Santa Fé
+15946,Bauer y Sigel,S2403XAA,Santa Fé
+15947,Bealistock,S2326XAE,Santa Fé
+15951,Bernard,S2119XAA,Santa Fé
+15953,Berretta,S2501XAC,Santa Fé
+15955,Boca P 25,S2600XAB,Santa Fé
+15957,Borghi,S2156XAC,Santa Fé
+15958,Bossi,S2326XAA,Santa Fé
+15962,Cabaña el Cisne,S2322XAA,Santa Fé
+15963,Cabeza de Chancho,S3061XAC,Santa Fé
+15964,Cacique Ariacaiquin,S3041XAB,Santa Fé
+15967,Calchines,S3001XAA,Santa Fé
+15968,Caminera General Lopez,S2720XAA,Santa Fé
+15969,Camino Monte Flores,S2126XAA,Santa Fé
+15971,Campo Berraz,S3046XAL,Santa Fé
+15972,Campo Botto,S2345XAA,Santa Fé
+15973,Campo Brarda,S2248XAB,Santa Fé
+15974,Campo Calvo,S2123XAA,Santa Fé
+15975,Campo Carignano,S2248XAC,Santa Fé
+15976,Campo Castro,S2148XAB,Santa Fé
+15977,Campo Charo,S2512XAC,Santa Fé
+15978,Campo Clucellas,S2407XAA,Santa Fé
+15979,Campo Coubert,S3056XAA,Santa Fé
+15980,Campo Crenna,S2185XAA,Santa Fé
+15981,Campo Crespo,S3001XAQ,Santa Fé
+15982,Campo Daratti,S2307XAA,Santa Fé
+15983,Campo del Medio,S3001XAB,Santa Fé
+15984,Campo el Araza,S3569XAA,Santa Fé
+15985,Campo el Mataco,S2342XAA,Santa Fé
+15986,Campo Faggiano,S2440XAB,Santa Fé
+15987,Campo Furrer,S3569XAB,Santa Fé
+15988,Campo Galloso,S2212XAA,Santa Fé
+15989,Campo Garabato,S3572XAA,Santa Fé
+15990,Campo Garay,S3066XAB,Santa Fé
+15991,Campo Garcia,S2240XAC,Santa Fé
+15992,Campo Genero,S2248XAD,Santa Fé
+15993,Campo Gimbatti,S2508XAB,Santa Fé
+15994,Campo Gimenez,S2253XAA,Santa Fé
+15995,Campo Gola,S3516XAA,Santa Fé
+15996,Campo Grande,S3575XAF,Santa Fé
+15997,Campo Horquesco,S2144XAB,Santa Fé
+15998,Campo Huber,S3555XAB,Santa Fé
+15999,Campo Iturraspe,S3001XAC,Santa Fé
+16000,Campo la Amistad,S2508XAA,Santa Fé
+16001,Campo la Paz,S2512XAB,Santa Fé
+16002,Campo la Riviere,S2505XAA,Santa Fé
+16003,Campo Lehman,S3014XAA,Santa Fé
+16004,Campo Magnin,S3011XAC,Santa Fé
+16005,Campo Medina,S2142XAA,Santa Fé
+16006,Campo Monte la Viruela,S3551XAK,Santa Fé
+16007,Campo Moure,S2240XAD,Santa Fé
+16008,Campo Nuevo,S2639XAA,Santa Fé
+16009,Campo Paletta,S2206XAA,Santa Fé
+16010,Campo Pesoa,S2173XAA,Santa Fé
+16011,Campo Quiñones,S2258XAB,Santa Fé
+16012,Campo Quirno,S2607XAA,Santa Fé
+16013,Campo Raffo,S2216XAA,Santa Fé
+16014,Campo Ramseyer,S3572XAE,Santa Fé
+16015,Campo Redondo,S3581XAF,Santa Fé
+16016,Campo Rodriguez,S2255XAA,Santa Fé
+16017,Campo Romero,S2407XAB,Santa Fé
+16018,Campo Rueda,S2109XAA,Santa Fé
+16019,Campo San Jose,S3060XAF,Santa Fé
+16020,Campo Santa Isabel,S2505XAB,Santa Fé
+16021,Campo Santo Domingo,S3020XAA,Santa Fé
+16022,Campo Siete Provincias,S3575XAG,Santa Fé
+16023,Campo Torquinston,S2403XAB,Santa Fé
+16024,Campo Ubajo,S3560XAF,Santa Fé
+16025,Campo Verge,S3516XAC,Santa Fé
+16026,Campo Yaguarete,S3586XAC,Santa Fé
+16027,Campo Zavalla,S3045XAA,Santa Fé
+16028,Campo Zurbriggen,S2407XAC,Santa Fé
+16031,Cañada Ombu,S3551XAL,Santa Fé
+16034,Cañadita,S3052XAA,Santa Fé
+16035,Candelaria Sud,S2170XAA,Santa Fé
+16037,Capilla Guadalupe Norte,S3574XAA,Santa Fé
+16038,Capilla San Jose,S2301XAA,Santa Fé
+16040,Capivara,S2311XAF,Santa Fé
+16041,Caraguatay,S3557XAA,Santa Fé
+16043,Carcel Modelo Coronda,S2240XAA,Santa Fé
+16044,Carlos Dose,S2635XAA,Santa Fé
+16049,Carrizales,S2218XAA,Santa Fé
+16051,Casalegno,S2248XAA,Santa Fé
+16060,Cerana,S2202XAA,Santa Fé
+16062,Cerrito,S3550XAD,Santa Fé
+16066,Chateaubriand,S2600XAC,Santa Fé
+16068,Cicarelli,S2500XAA,Santa Fé
+16071,Colastine,S3001XAN,Santa Fé
+16072,Colastine Norte,S3001XAO,Santa Fé
+16073,Colmena,S3551XAM,Santa Fé
+16074,Colonia Adolfo Alsina,S3029XAA,Santa Fé
+16075,Colonia Aldao,S2317XAB,Santa Fé
+16076,Colonia Althuaus,S3572XAB,Santa Fé
+16077,Colonia Ana,S2345XAB,Santa Fé
+16079,Colonia Bella Italia,S2300XAD,Santa Fé
+16080,Colonia Berlin,S2313XAG,Santa Fé
+16081,Colonia Bicha,S2317XAC,Santa Fé
+16082,Colonia Bigand,S2317XAD,Santa Fé
+16083,Colonia California,S3005XAA,Santa Fé
+16084,Colonia Campo Botto,S3036XAA,Santa Fé
+16085,Colonia Campo Piaggio,S2252XAA,Santa Fé
+16086,Colonia Candelaria,S2170XAB,Santa Fé
+16088,Colonia Cello,S2405XAA,Santa Fé
+16089,Colonia Clara,S3025XAD,Santa Fé
+16090,Colonia Clodomira,S2123XAB,Santa Fé
+16091,Colonia Corondina,S2240XAB,Santa Fé
+16092,Colonia Dolores,S3045XAE,Santa Fé
+16093,Colonia Dos Rosas y la Legua,S2349XAC,Santa Fé
+16094,Colonia Duran,S3553XAB,Santa Fé
+16095,Colonia el Carmen,S2138XAA,Santa Fé
+16096,Colonia el Ochenta,S3042XAB,Santa Fé
+16097,Colonia el Simbol,S3074XAC,Santa Fé
+16098,Colonia el Toba,S3553XAC,Santa Fé
+16099,Colonia el Veinticinco,S3560XAB,Santa Fé
+16100,Colonia Ella,S3572XAC,Santa Fé
+16101,Colonia Escribano,S2103XAB,Santa Fé
+16102,Colonia Fernandez,S2639XAB,Santa Fé
+16103,Colonia Francesa,S3005XAB,Santa Fé
+16104,Colonia Gomez,S2639XAC,Santa Fé
+16105,Colonia Hansen,S2637XAA,Santa Fé
+16106,Colonia Hardy,S3592XAA,Santa Fé
+16107,Colonia Independencia,S3066XAC,Santa Fé
+16109,Colonia la  Catalana,S2637XAB,Santa Fé
+16110,Colonia la  Palencia,S2639XAF,Santa Fé
+16111,Colonia la  Pellegrini,S2639XAG,Santa Fé
+16112,Colonia la Blanca,S3052XAB,Santa Fé
+16113,Colonia la Costa,S2170XAC,Santa Fé
+16114,Colonia la Maria,S3056XAC,Santa Fé
+16115,Colonia la Mora,S3045XAB,Santa Fé
+16116,Colonia la Negra,S3054XAF,Santa Fé
+16117,Colonia la Nicolasa,S3056XAB,Santa Fé
+16118,Colonia la Nueva,S3081XAA,Santa Fé
+16119,Colonia la Penca,S3045XAF,Santa Fé
+16120,Colonia la Yerba,S2451XAB,Santa Fé
+16121,Colonia Lago Di como,S2187XAA,Santa Fé
+16122,Colonia los Zapallos,S3003XAA,Santa Fé
+16123,Colonia Mackinlay,S2347XAA,Santa Fé
+16124,Colonia Malhman Sud,S2347XAB,Santa Fé
+16125,Colonia Manuel Menchaca,S3046XAM,Santa Fé
+16126,Colonia Margarita,S2443XAA,Santa Fé
+16127,Colonia Mascias,S3001XAW,Santa Fé
+16128,Colonia Matilde,S3013XAA,Santa Fé
+16129,Colonia Maua,S2311XAA,Santa Fé
+16130,Colonia Medici,S2144XAA,Santa Fé
+16131,Colonia Montefiore,S2341XAA,Santa Fé
+16132,Colonia Morgan,S2609XAA,Santa Fé
+16133,Colonia Nueva Narciso,S3001XAD,Santa Fé
+16134,Colonia Ortiz,S2313XAB,Santa Fé
+16135,Colonia Piamontesa,S2639XAH,Santa Fé
+16136,Colonia Pujol,S3080XAB,Santa Fé
+16137,Colonia Reina Margarita,S2309XAA,Santa Fé
+16138,Colonia Ripamonti,S2349XAA,Santa Fé
+16140,Colonia Sager,S3553XAD,Santa Fé
+16142,Colonia San Francisco,S2527XAA,Santa Fé
+16143,Colonia San Joaquin,S3001XAE,Santa Fé
+16144,Colonia San Manuel,S3563XAA,Santa Fé
+16145,Colonia San Roque,S3005XAI,Santa Fé
+16146,Colonia Santa Anita,S2451XAA,Santa Fé
+16147,Colonia Santa Catalina,S3572XAD,Santa Fé
+16148,Colonia Santa Lucia,S2609XAB,Santa Fé
+16149,Colonia Santa Natalia,S2639XAI,Santa Fé
+16150,Colonia Silva,S3042XAC,Santa Fé
+16151,Colonia Tacurales,S2324XAA,Santa Fé
+16152,Colonia Teresa,S3005XAC,Santa Fé
+16153,Colonia Toscana Primera,S2185XAC,Santa Fé
+16154,Colonia Toscana Segunda,S2185XAB,Santa Fé
+16155,Colonia Tres Marias,S2216XAB,Santa Fé
+16156,Colonia Tres Reyes,S3048XAA,Santa Fé
+16157,Colonia Urdaniz,S3516XAB,Santa Fé
+16158,Colonia Valdez,S2115XAD,Santa Fé
+16159,Colonia Valencia,S2639XAD,Santa Fé
+16160,Colonia Yaguarete,S3560XAC,Santa Fé
+16161,Constanza,S2311XAB,Santa Fé
+16162,Constituyentes,S3014XAB,Santa Fé
+16163,Copacabana,S2919XAB,Santa Fé
+16164,Cora,S2631XAA,Santa Fé
+16166,Coronel Aguirre,S2124XAB,Santa Fé
+16170,Coronel Fraga,S2301XAB,Santa Fé
+16171,Coronel Rodriguez,S3013XAB,Santa Fé
+16172,Coronel Roseti,S6106XAA,Santa Fé
+16175,Cresta,S2126XAB,Santa Fé
+16177,Cristolia,S2445XAA,Santa Fé
+16178,Cuatro Casas,S2313XAC,Santa Fé
+16179,Cuatro Esquinas,S2639XAE,Santa Fé
+16180,Cullen,S2202XAB,Santa Fé
+16181,Cululu,S3023XAE,Santa Fé
+16183,Dest Aeronautico Milit Reconqu,S3567XAB,Santa Fé
+16185,Desvio Boero,S2415XAA,Santa Fé
+16186,Desvio Kilometro 282,S3551XAN,Santa Fé
+16187,Desvio Kilometro 392,S3551XAA,Santa Fé
+16188,Dho,S3070XAC,Santa Fé
+16191,Distrito 3 Isletas,S3575XAA,Santa Fé
+16192,Doce Casas,S2313XAD,Santa Fé
+16193,Durham,S2631XAB,Santa Fé
+16195,El 38,S3550XAG,Santa Fé
+16196,El 44,S3550XAH,Santa Fé
+16197,El Aguara,S3070XAA,Santa Fé
+16198,El Alberdon,S6106XAF,Santa Fé
+16199,El Amargo,S3060XAG,Santa Fé
+16200,El Araza,S3563XAB,Santa Fé
+16201,El Bagual,S2723XAA,Santa Fé
+16202,El Bayo,S2300XAB,Santa Fé
+16203,El Bonete,S3550XAA,Santa Fé
+16204,El Cantor,S2643XAA,Santa Fé
+16205,El Caramelo,S2105XAE,Santa Fé
+16206,El Carmen de Avellaneda,S3561XAA,Santa Fé
+16207,El Ceibalito,S3575XAH,Santa Fé
+16208,El Ceibo,S3005XAE,Santa Fé
+16209,El Cincuenta,S3550XAF,Santa Fé
+16210,El Diecisiete,S3553XAG,Santa Fé
+16211,El Galpon,S3021XAA,Santa Fé
+16212,El Gusano,S3005XAF,Santa Fé
+16213,El Jardin,S2732XAB,Santa Fé
+16214,El Laurel,S3001XAH,Santa Fé
+16215,El Mariano,S3060XAH,Santa Fé
+16216,El Nochero,S3061XAD,Santa Fé
+16217,El Pajaro Blanco,S3051XAA,Santa Fé
+16218,El para,S3005XAG,Santa Fé
+16219,El Pozo,S3001XAI,Santa Fé
+16220,El Rabon,S3592XAB,Santa Fé
+16221,El Refugio,S6103XAC,Santa Fé
+16222,El Ricardito,S3572XAF,Santa Fé
+16223,El Sombrerero,S3046XAQ,Santa Fé
+16224,El Sombrerito,S3585XAE,Santa Fé
+16225,El Tajamar,S3565XAH,Santa Fé
+16226,El Tapialito,S3575XAI,Santa Fé
+16227,El Timbo,S3561XAC,Santa Fé
+16228,El Transito,S2202XAC,Santa Fé
+16230,El Triangulo,S3060XAN,Santa Fé
+16231,El Tropezon,S3009XAA,Santa Fé
+16235,Empalme San Carlos,S3007XAB,Santa Fé
+16237,Encadenadas,S2607XAB,Santa Fé
+16239,Esmeraldita,S2401XAA,Santa Fé
+16241,Espin,S3056XAE,Santa Fé
+16242,Esquina Grande,S3040XAB,Santa Fé
+16245,Estacion Erasto,S2119XAB,Santa Fé
+16246,Estacion Josefina,S2403XAD,Santa Fé
+16247,Estacion Maria Juana,S2445XAC,Santa Fé
+16248,Estacion Matilde,S3013XAD,Santa Fé
+16249,Estacion Saguier,S2315XAA,Santa Fé
+16250,Estacion Teodelina,S2600XAD,Santa Fé
+16251,Estacion Villa Constitucion,S2919XAA,Santa Fé
+16252,Estancia Achala,S3060XAE,Santa Fé
+16253,Estancia la Cigueña,S3060XAI,Santa Fé
+16254,Estancia la Constancia,S3040XAE,Santa Fé
+16255,Estancia la Maria,S2105XAF,Santa Fé
+16256,Estancia las Gamas,S3057XAC,Santa Fé
+16257,Estancia los Palmares,S3057XAD,Santa Fé
+16258,Estancia Pavenhan,S3057XAE,Santa Fé
+16259,Estancia Prusia,S3040XAF,Santa Fé
+16260,Estancia San Antonio,S2107XAA,Santa Fé
+16261,Estancia San Francisco,S2344XAD,Santa Fé
+16263,Esther,S3036XAE,Santa Fé
+16264,Estrada,S2409XAB,Santa Fé
+16265,Eustolia,S2407XAE,Santa Fé
+16266,Ewald,S3561XAD,Santa Fé
+16267,Fabrica Militar San Lorenzo,S2156XAA,Santa Fé
+16268,Fassi,S2300XAC,Santa Fé
+16270,Fidela,S2301XAC,Santa Fé
+16273,Fives Lille,S3054XAA,Santa Fé
+16274,Flor de Oro,S3575XAJ,Santa Fé
+16276,Florida,S3565XAB,Santa Fé
+16277,Fortin Alerta,S3066XAA,Santa Fé
+16278,Fortin Almagro,S3040XAA,Santa Fé
+16279,Fortin Argentina,S3060XAA,Santa Fé
+16280,Fortin Atahualpa,S3061XAA,Santa Fé
+16281,Fortin Cacique,S3060XAB,Santa Fé
+16282,Fortin Charrua,S3060XAP,Santa Fé
+16283,Fortin Chilcas,S3553XAH,Santa Fé
+16285,Fortin Seis de Caballeria,S3061XAB,Santa Fé
+16286,Fortin Tacuru,S3060XAL,Santa Fé
+16287,Fortin Tostado,S3060XAC,Santa Fé
+16288,Francisco Paz,S2111XAA,Santa Fé
+16295,Galisteo,S2307XAB,Santa Fé
+16297,Garabato,S3551XAS,Santa Fé
+16298,Garibaldi,S2443XAB,Santa Fé
+16307,Granadero B Bargas,S2132XAD,Santa Fé
+16310,Granaderos,S2156XAD,Santa Fé
+16311,Granja San Manuel,S2501XAD,Santa Fé
+16314,Grutly Norte,S3083XAA,Santa Fé
+16315,Guadalupe Norte,S3574XAB,Santa Fé
+16316,Guaranies,S3054XAC,Santa Fé
+16317,Guasuncho,S3581XAA,Santa Fé
+16318,Guaycuru,S3551XAO,Santa Fé
+16323,Hugentobler,S2344XAB,Santa Fé
+16327,Humboldt Chico,S3081XAB,Santa Fé
+16329,Independencia,S3060XAD,Santa Fé
+16330,Ingeniero Boasi,S3023XAD,Santa Fé
+16331,Ingeniero Chanourdie,S3575XAB,Santa Fé
+16332,Ingeniero Garmendia,S3586XAA,Santa Fé
+16333,Ingeniero Germania,S3586XAB,Santa Fé
+16336,Iriondo,S3018XAA,Santa Fé
+16337,Isla del Porteño,S3001XAR,Santa Fé
+16338,Isla Tigre,S3583XAA,Santa Fé
+16339,Isleta,S3581XAB,Santa Fé
+16340,Iturraspe,S2523XAA,Santa Fé
+16341,Ituzaingo,S2311XAE,Santa Fé
+16342,Jacinto L Arauz,S3029XAB,Santa Fé
+16343,Jesus Maria,S2204XAA,Santa Fé
+16344,Jose Macias,S3041XAA,Santa Fé
+16345,Jose Manuel Estrada,S2403XAC,Santa Fé
+16347,Juan Ortiz,S2154XAA,Santa Fé
+16349,Kilometro 113,S2407XAD,Santa Fé
+16350,Kilometro 17,S3565XAE,Santa Fé
+16351,Kilometro 213,S3050XAA,Santa Fé
+16352,Kilometro 23,S3589XAA,Santa Fé
+16354,Kilometro 28,S3014XAH,Santa Fé
+16355,Kilometro 293,S3066XAD,Santa Fé
+16356,Kilometro 30,S3565XAF,Santa Fé
+16358,Kilometro 319,S2154XAB,Santa Fé
+16359,Kilometro 320,S3551XAE,Santa Fé
+16361,Kilometro 35,S3014XAI,Santa Fé
+16362,Kilometro 389,S3061XAE,Santa Fé
+16363,Kilometro 392,S3551XAF,Santa Fé
+16364,Kilometro 396,S6106XAB,Santa Fé
+16365,Kilometro 403,S3585XAB,Santa Fé
+16366,Kilometro 408,S3580XAB,Santa Fé
+16367,Kilometro 41,S3020XAB,Santa Fé
+16368,Kilometro 421,S3585XAC,Santa Fé
+16369,Kilometro 443,S2454XAA,Santa Fé
+16370,Kilometro 465,S2456XAB,Santa Fé
+16371,Kilometro 468,S3061XAG,Santa Fé
+16372,Kilometro 483,S2456XAA,Santa Fé
+16373,Kilometro 49,S3589XAE,Santa Fé
+16374,Kilometro 501,S2409XAA,Santa Fé
+16375,Kilometro 54,S3589XAF,Santa Fé
+16376,Kilometro 67,S3581XAC,Santa Fé
+16377,Kilometro 85,S2303XAA,Santa Fé
+16378,Kilometro 9,S3000XAE,Santa Fé
+16379,Kilometro 95,S3046XAG,Santa Fé
+16380,La Adelaida,S6103XAA,Santa Fé
+16381,La Asturiana,S6106XAC,Santa Fé
+16382,La Blanca,S3551XAB,Santa Fé
+16383,La Bombilla,S3060XAJ,Santa Fé
+16384,La Brava,S3045XAC,Santa Fé
+16386,La California,S2520XAC,Santa Fé
+16387,La Calma,S6106XAD,Santa Fé
+16388,La Camila,S3054XAB,Santa Fé
+16389,La Capilla,S3040XAH,Santa Fé
+16390,La Carolina,S2105XAA,Santa Fé
+16391,La Catalina,S3572XAG,Santa Fé
+16392,La Celia,S3569XAD,Santa Fé
+16393,La Ceramica y Cuyo,S2000XAA,Santa Fé
+16395,La Cigueña,S3057XAA,Santa Fé
+16396,La Clara,S3025XAB,Santa Fé
+16397,La Clarita,S3585XAA,Santa Fé
+16398,La Clorinda,S3021XAE,Santa Fé
+16399,La Constancia,S6103XAB,Santa Fé
+16401,La Diamela,S3569XAE,Santa Fé
+16402,La Elsa,S2341XAB,Santa Fé
+16403,La Esmeralda,S3560XAA,Santa Fé
+16405,La Gama,S2615XAA,Santa Fé
+16406,La Guampita,S3056XAD,Santa Fé
+16407,La Guardia,S3001XAS,Santa Fé
+16408,La Hosca,S3050XAB,Santa Fé
+16409,La Ines,S6100XAA,Santa Fé
+16410,La Inglesita,S2601XAA,Santa Fé
+16411,La Josefina,S3565XAC,Santa Fé
+16412,La Julia,S3046XAN,Santa Fé
+16413,La Lata,S2126XAC,Santa Fé
+16414,La Lola,S3567XAA,Santa Fé
+16415,La Loma,S3555XAC,Santa Fé
+16416,La Lucila,S3072XAC,Santa Fé
+16417,La Marina,S2341XAC,Santa Fé
+16418,La Merced,S2173XAB,Santa Fé
+16419,La Morocha,S2613XAA,Santa Fé
+16420,La Noria,S3001XAJ,Santa Fé
+16421,La Oriental,S3054XAG,Santa Fé
+16422,La Orilla,S3080XAC,Santa Fé
+16423,La Othila,S2115XAA,Santa Fé
+16425,La Picasa,S6036XAA,Santa Fé
+16426,La Polvareda,S3074XAE,Santa Fé
+16427,La Potasa,S3563XAC,Santa Fé
+16428,La Reserva,S3581XAD,Santa Fé
+16429,La Rosa,S3042XAD,Santa Fé
+16432,La Sarita,S3563XAF,Santa Fé
+16433,La Sarnosa,S3057XAF,Santa Fé
+16434,La Selva,S3551XAG,Santa Fé
+16435,La Sementera,S3038XAA,Santa Fé
+16436,La Vanguardia,S3561XAE,Santa Fé
+16437,La Verde,S3076XAA,Santa Fé
+16438,La Viuda,S2183XAA,Santa Fé
+16439,La Zulema,S3551XAH,Santa Fé
+16442,Laguna Verde,S3076XAB,Santa Fé
+16445,Larguia,S2144XAC,Santa Fé
+16446,Larrechea,S3080XAD,Santa Fé
+16447,Las Anintas,S3560XAD,Santa Fé
+16448,Las Arenas,S3060XAM,Santa Fé
+16449,Las Avispas,S3074XAD,Santa Fé
+16451,Las Cañas,S3046XAA,Santa Fé
+16452,Las Catalinas,S3560XAE,Santa Fé
+16453,Las Chuñas,S3061XAH,Santa Fé
+16454,Las Delicias,S3551XAI,Santa Fé
+16455,Las Dos Angelitas,S6106XAG,Santa Fé
+16456,Las Encadenadas,S2607XAC,Santa Fé
+16457,Las Garsitas,S3560XAH,Santa Fé
+16459,Las Higueritas,S3013XAC,Santa Fé
+16460,Las Liebres,S2520XAD,Santa Fé
+16461,Las Palmas,S3555XAA,Santa Fé
+16462,Las Palmeras,S2326XAD,Santa Fé
+16465,Las Quintas,S2200XAB,Santa Fé
+16467,Las Siete Provincias,S3575XAC,Santa Fé
+16469,Las Tres Marias,S3046XAB,Santa Fé
+16470,Las Trojas,S2500XAB,Santa Fé
+16472,Lassaga,S3036XAC,Santa Fé
+16473,Lazzarino,S6103XAD,Santa Fé
+16475,Liceo Aeronautico Militar,S2132XAA,Santa Fé
+16476,Links,S2132XAB,Santa Fé
+16480,Loma Verde,S2117XAA,Santa Fé
+16482,Los Amores,S3551XAT,Santa Fé
+16483,Los Arcos,S2720XAB,Santa Fé
+16484,Los Cardenales,S3005XAD,Santa Fé
+16486,Los Cerrillos,S3001XAK,Santa Fé
+16487,Los Charabones,S3060XAK,Santa Fé
+16488,Los Claros,S3551XAC,Santa Fé
+16489,Los Corralitos,S3051XAB,Santa Fé
+16490,Los Cuervos,S3555XAD,Santa Fé
+16491,Los Galpones,S3050XAC,Santa Fé
+16492,Los Hornos,S3021XAB,Santa Fé
+16493,Los Lapachos,S3575XAD,Santa Fé
+16495,Los Leones,S2146XAA,Santa Fé
+16497,Los Molles,S3070XAB,Santa Fé
+16498,Los Muchachos,S2105XAB,Santa Fé
+16500,Los Olivos,S3046XAO,Santa Fé
+16501,Los Osos,S3051XAC,Santa Fé
+16502,Los Palmares,S3057XAG,Santa Fé
+16504,Los Saladillos,S3041XAC,Santa Fé
+16505,Los Sembrados,S2447XAA,Santa Fé
+16506,Los Tabanos Desvio Km 366,S3551XAU,Santa Fé
+16507,Luciano Leiva,S3048XAE,Santa Fé
+16509,Luis Palacios,S2142XAC,Santa Fé
+16512,Maizales,S2119XAC,Santa Fé
+16514,Mangore,S2445XAB,Santa Fé
+16515,Manucho,S3023XAA,Santa Fé
+16518,Maria Eugenia,S3072XAA,Santa Fé
+16525,Marini,S2301XAE,Santa Fé
+16526,Mascias,S3041XAE,Santa Fé
+16529,Merceditas,S2725XAA,Santa Fé
+16530,Miguel Escalada,S3046XAP,Santa Fé
+16532,Miramar,S6106XAI,Santa Fé
+16533,Mocovi,S3581XAE,Santa Fé
+16537,Monte Flores,S2101XAA,Santa Fé
+16538,Monte Oscuridad,S2349XAB,Santa Fé
+16541,Moussy,S3561XAB,Santa Fé
+16543,Mutchnik,S2313XAE,Santa Fé
+16544,Ñandu,S3553XAI,Santa Fé
+16545,Ñandubay,S3041XAD,Santa Fé
+16546,Ñanducita,S3072XAB,Santa Fé
+16547,Nare,S3046XAH,Santa Fé
+16549,Nicanor E Molinas,S3563XAD,Santa Fé
+16550,Nueva Italia,S3074XAA,Santa Fé
+16551,Nueva Pompeya,S3014XAC,Santa Fé
+16552,Nueva Ukrania,S3046XAI,Santa Fé
+16554,Obraje Indio Muerto,S3589XAB,Santa Fé
+16555,Obraje San Juan,S3589XAC,Santa Fé
+16556,Ogilvie,S3551XAV,Santa Fé
+16558,Ombu Norte,S3005XAH,Santa Fé
+16559,Oratorio Morante,S2921XAB,Santa Fé
+16560,Oroño,S2253XAB,Santa Fé
+16561,Otto Bemberg,S2605XAA,Santa Fé
+16562,Padre Pedro Iturralde,S3061XAJ,Santa Fé
+16563,Paganini,S2152XAA,Santa Fé
+16564,Paikin,S3046XAJ,Santa Fé
+16565,Palacios,S2326XAB,Santa Fé
+16566,Paraje 29,S3553XAE,Santa Fé
+16567,Paraje Kilometro 12,S3550XAB,Santa Fé
+16568,Paraje Tragnaghi,S3551XAP,Santa Fé
+16569,Paso Vinal,S3080XAA,Santa Fé
+16570,Paul Groussac,S3585XAD,Santa Fé
+16571,Pavenhan,S3057XAB,Santa Fé
+16574,Pedro Gomez Cello,S3054XAD,Santa Fé
+16575,Pereyra Lucena,S2105XAC,Santa Fé
+16578,Petronila,S3046XAD,Santa Fé
+16582,Piñero,S2119XAD,Santa Fé
+16583,Pino de San Lorenzo,S2200XAC,Santa Fé
+16584,Piquete,S3000XAA,Santa Fé
+16586,Pompeya,S3014XAD,Santa Fé
+16587,Portalis,S3066XAE,Santa Fé
+16588,Portugalete,S3071XAB,Santa Fé
+16589,Potrero Guasuncho,S3589XAD,Santa Fé
+16591,Pozo de los Indios,S3551XAQ,Santa Fé
+16592,Presidente Roca,S2301XAD,Santa Fé
+16595,Pueblo Abc,S3080XAE,Santa Fé
+16597,Pueblo Candioti,S3000XAF,Santa Fé
+16599,Pueblo Golondrina,S3551XAJ,Santa Fé
+16600,Pueblo Kirston,S2202XAD,Santa Fé
+16603,Pueblo Nuevo,S2124XAA,Santa Fé
+16605,Pueblo Terragni,S2300XAA,Santa Fé
+16606,Puente Colastine,S2242XAB,Santa Fé
+16607,Puerto Aragon,S2246XAA,Santa Fé
+16608,Puerto de San Lorenzo,S2200XAA,Santa Fé
+16609,Puerto Gaboto,S2208XAA,Santa Fé
+16611,Puerto Ocampo,S3580XAC,Santa Fé
+16612,Puerto Piracua,S3516XAE,Santa Fé
+16613,Puerto Piracuacito,S3592XAC,Santa Fé
+16614,Puerto Reconquista,S3567XAC,Santa Fé
+16616,Pujato Norte,S3080XAF,Santa Fé
+16617,Rabiola,S2600XAE,Santa Fé
+16621,Raquel,S2322XAB,Santa Fé
+16622,Rastreador Fournier,S2605XAB,Santa Fé
+16625,Recreo Sur,S3001XAL,Santa Fé
+16626,Reina Margarita,S2309XAB,Santa Fé
+16627,Reynaldo Cullen,S3020XAC,Santa Fé
+16629,Rigby,S2255XAB,Santa Fé
+16631,Rincon de Grondona,S2206XAB,Santa Fé
+16632,Rincon de San Antonio,S3046XAE,Santa Fé
+16633,Rincon de Tacurales,S2317XAA,Santa Fé
+16634,Rincon del Pintado,S3080XAG,Santa Fé
+16635,Rincon del Quebracho,S3025XAC,Santa Fé
+16636,Rincon Norte,S3001XAT,Santa Fé
+16637,Rincon Potreros,S3001XAU,Santa Fé
+16638,Rio Salado,S3036XAD,Santa Fé
+16639,Rivadavia,S3081XAC,Santa Fé
+16640,Rodolfo Alcorta,S2115XAC,Santa Fé
+16646,Ruinas Santa Fe la Vieja,S3001XAF,Santa Fé
+16647,Runciman,S2611XAA,Santa Fé
+16650,Saladero M Cabal,S3001XAX,Santa Fé
+16653,San Alberto,S3565XAD,Santa Fé
+16654,San Antonio de Obligado,S3587XAA,Santa Fé
+16655,San Bernardo,S3048XAB,Santa Fé
+16656,San Carlos,S6106XAH,Santa Fé
+16662,San Estanislao,S2501XAA,Santa Fé
+16668,San Geronimo,S2136XAA,Santa Fé
+16670,San Guillermo,S3020XAD,Santa Fé
+16675,San Joaquin,S3001XAG,Santa Fé
+16677,San Jose,S3016XAC,Santa Fé
+16680,San Jose Frontera,S2401XAB,Santa Fé
+16683,San Marcelo,S6009XAA,Santa Fé
+16684,San Marcos de Venado Tuerto,S2600XAA,Santa Fé
+16685,San Mariano,S3011XAA,Santa Fé
+16687,San Martin de Tours,S2255XAC,Santa Fé
+16688,San Martin Norte,S3045XAD,Santa Fé
+16689,San Miguel,S2309XAC,Santa Fé
+16690,San Pedro,S3021XAC,Santa Fé
+16691,San Pedro Norte,S3021XAD,Santa Fé
+16692,San Pedro Sur,S3014XAE,Santa Fé
+16693,San Ricardo,S2501XAB,Santa Fé
+16694,San Roque,S3553XAA,Santa Fé
+16695,San Sebastian,S2121XAC,Santa Fé
+16696,San Urbano,S2728XAA,Santa Fé
+16697,San Vicente,S3580XAA,Santa Fé
+16700,Santa Ana,S3575XAE,Santa Fé
+16701,Santa Clara,S2258XAA,Santa Fé
+16704,Santa Emilia,S2725XAB,Santa Fé
+16709,Santa Lucia,S3553XAF,Santa Fé
+16711,Santa Maria Centro,S3011XAB,Santa Fé
+16712,Santa Maria Norte,S3011XAD,Santa Fé
+16713,Santa Natalia,S2639XAJ,Santa Fé
+16714,Santa Paula,S6106XAJ,Santa Fé
+16716,Santa Teresa,S6106XAK,Santa Fé
+16717,Santo Domingo,S3025XAA,Santa Fé
+16719,Santurce,S3074XAF,Santa Fé
+16724,Schiffner,S2451XAC,Santa Fé
+16725,Semino,S2138XAB,Santa Fé
+16727,Setubal,S3014XAF,Santa Fé
+16728,Sierra Pereyra,S2300XAE,Santa Fé
+16729,Sin Pereza,S3060XAO,Santa Fé
+16730,Sol de Mayo,S3048XAD,Santa Fé
+16732,Soledad,S3025XAE,Santa Fé
+16733,Soutomayor,S3025XAF,Santa Fé
+16734,Stephenson,S2103XAA,Santa Fé
+16740,Tais,S2535XAA,Santa Fé
+16741,Talleres,S2121XAD,Santa Fé
+16742,Tarragona,S6103XAE,Santa Fé
+16743,Tartagal,S3565XAG,Santa Fé
+16747,Toba,S3551XAR,Santa Fé
+16748,Tomas Alva Edison,S3023XAF,Santa Fé
+16752,Traill,S2456XAC,Santa Fé
+16753,Tres Bocas,S3560XAG,Santa Fé
+16754,Tres Colonias,S2300XAF,Santa Fé
+16755,Tres Esquinas,S2921XAA,Santa Fé
+16756,Tres Pozos,S3061XAK,Santa Fé
+16757,Tte Hipolito Bouchard,S2156XAE,Santa Fé
+16759,Veinticuatro Casas,S2313XAF,Santa Fé
+16760,Velazquez,S3550XAC,Santa Fé
+16763,Vera Mujica,S3040XAD,Santa Fé
+16764,Vera y Pintado,S3054XAE,Santa Fé
+16765,Vicente Echevarria,S2142XAD,Santa Fé
+16766,Victor Manuel Segundo,S3563XAE,Santa Fé
+16771,Villa America,S2121XAA,Santa Fé
+16773,Villa Biota,S2147XAA,Santa Fé
+16775,Villa Cassini,S2154XAC,Santa Fé
+16777,Villa Divisa de Mayo,S2631XAC,Santa Fé
+16778,Villa Don Bosco,S3000XAB,Santa Fé
+16780,Villa Estela,S2726XAA,Santa Fé
+16782,Villa Garibaldi,S2156XAF,Santa Fé
+16784,Villa Guastalla,S2148XAA,Santa Fé
+16786,Villa la Ribera,S2500XAC,Santa Fé
+16787,Villa Lastenia,S3042XAE,Santa Fé
+16788,Villa Lujan,S3016XAA,Santa Fé
+16789,Villa Lyly Talleres,S2121XAB,Santa Fé
+16790,Villa Margarita,S2156XAG,Santa Fé
+16791,Villa Maria Selva,S3000XAC,Santa Fé
+16795,Villa Porucci,S2123XAC,Santa Fé
+16796,Villa Regules,S2630XAA,Santa Fé
+16797,Villa Rosello,S6100XAB,Santa Fé
+16798,Villa San Diego,S2124XAC,Santa Fé
+16800,Villa Saralegui,S3046XAF,Santa Fé
+16802,Villa Viveros,S3001XAV,Santa Fé
+16803,Villa Yapeyu,S3000XAH,Santa Fé
+16805,Villani,S2400XAA,Santa Fé
+16806,Virginia,S2311XAD,Santa Fé
+16808,Walvelberg,S2313XAA,Santa Fé
+16810,Wildermuth,S2257XAB,Santa Fé
+16811,Yaguarete,S3586XAD,Santa Fé
+16812,Yamandu,S3014XAJ,Santa Fé
+16813,Zadockhan,S2326XAC,Santa Fé
+16814,Zamponi,S2105XAD,Santa Fé
+16815,Zanetti,S2301XAF,Santa Fé

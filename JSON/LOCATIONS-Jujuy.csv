@@ -1,0 +1,626 @@
+id,name,zip,state
+8280,23 de Agosto,Y4503XAC,Jujuy
+8282,Abra de Peñas,Y4650XAB,Jujuy
+8283,Abra de Pives,Y4618XAD,Jujuy
+8284,Abra del Trigo,Y4501XAH,Jujuy
+8285,Abra Mayo,Y4622XAJ,Jujuy
+8287,Abralaite,Y4632XAA,Jujuy
+8288,Achacamayoc,Y4618XAE,Jujuy
+8289,Agua Bendita,Y4618XAF,Jujuy
+8290,Agua Caliente de la Puna,Y4641XAI,Jujuy
+8291,Agua Chica,Y4640XBC,Jujuy
+8292,Agua de Castilla,Y4640XAT,Jujuy
+8293,Agua Negra,Y4512XCK,Jujuy
+8294,Agua Palomar,Y4618XAG,Jujuy
+8295,Aguas Blancas,Y4501XAI,Jujuy
+8296,Aguas Calientes,Y4518XAB,Jujuy
+8297,Alegria,Y4506XAA,Jujuy
+8298,Alfarcito,Y4624XAF,Jujuy
+8299,Algarrobal,Y4600XBH,Jujuy
+8300,Alisos  de Abajo,Y4603XAJ,Jujuy
+8301,Alisos de Arriba,Y4603XAL,Jujuy
+8302,Alto Calilegua,Y4512XCC,Jujuy
+8303,Alto Comedero,Y4600XAA,Jujuy
+8304,Alto de Casa,Y4618XBT,Jujuy
+8305,Alto de Lozano,Y4618XBU,Jujuy
+8306,Alto de Mojon,Y4618XBV,Jujuy
+8307,Alto del Angosto,Y4618XBW,Jujuy
+8308,Alto del Saladillo,Y4522XAN,Jujuy
+8309,Alto Huancar,Y4618XBX,Jujuy
+8310,Alto Minero,Y4618XBY,Jujuy
+8311,Alto Potrerillo,Y4618XBZ,Jujuy
+8312,Alto Quemado,Y4618XCA,Jujuy
+8313,Alto Quirquincho,Y4618XCB,Jujuy
+8314,Alto Verde,Y4606XAB,Jujuy
+8315,Amancayoc,Y4513XAP,Jujuy
+8316,Amarguras,Y4513XAQ,Jujuy
+8317,Angosto del Perchel,Y4626XAG,Jujuy
+8318,Animas,Y4512XCL,Jujuy
+8319,Antiguo,Y4631XAS,Jujuy
+8320,Antiguyos,Y4643XAG,Jujuy
+8321,Antumpa,Y4632XAC,Jujuy
+8322,Aparejo,Y4512XCM,Jujuy
+8323,Aparzo,Y4630XAD,Jujuy
+8324,Arbolito Nuevo,Y4641XAJ,Jujuy
+8325,Arenal Barroso,Y4506XAK,Jujuy
+8326,Arrayanal,Y4503XAH,Jujuy
+8327,Arroyo Colorado,Y4500XAL,Jujuy
+8328,Arroyo del Medio,Y4501XAJ,Jujuy
+8329,Atalaya,Y4600XBI,Jujuy
+8330,Azul Pampa,Y4631XAE,Jujuy
+8331,Bajada Alta,Y4506XAB,Jujuy
+8332,Baliazo,Y4631XAF,Jujuy
+8333,Balliazo,Y4630XAA,Jujuy
+8334,Barcena,Y4616XAF,Jujuy
+8335,Barrancas,Y4641XAK,Jujuy
+8336,Barrio 9 de Julio,Y4600XAT,Jujuy
+8337,Barrio Alberdi,Y4600XAK,Jujuy
+8338,Barrio Alto la Loma,Y4600XAW,Jujuy
+8339,Barrio Alto la Viña,Y4600XAU,Jujuy
+8340,Barrio Bajo la Viña,Y4600XAV,Jujuy
+8341,Barrio Chijra,Y4600XAE,Jujuy
+8342,Barrio Cuyaya,Y4600XAM,Jujuy
+8343,Barrio la Providencia,Y4500XAD,Jujuy
+8344,Barrio la Union,Y4648XAB,Jujuy
+8345,Barrio Lujan,Y4600XAB,Jujuy
+8346,Barrio Parque 19 de Abril,Y4600XAD,Jujuy
+8347,Barrio Santa Rita,Y4600XAC,Jujuy
+8349,Barro Negro,Y4522XAH,Jujuy
+8350,Bateas,Y4512XCN,Jujuy
+8351,Bella Vista,Y4622XAG,Jujuy
+8352,Boleteria,Y4618XAH,Jujuy
+8353,Bomba,Y4616XAG,Jujuy
+8354,Bordo la Isla,Y4608XAD,Jujuy
+8355,Cabreria,Y4653XAF,Jujuy
+8356,Cachi Punco,Y4501XBG,Jujuy
+8357,Cachihuaico,Y4622XAH,Jujuy
+8358,Cacho,Y4513XAA,Jujuy
+8359,Cadilla,Y4608XAV,Jujuy
+8361,Cajas,Y4651XAI,Jujuy
+8362,Calahoyo,Y4655XAA,Jujuy
+8363,Calete,Y4630XAB,Jujuy
+8365,Campo Bajo,Y4512XAC,Jujuy
+8366,Campo Colorado,Y4512XAD,Jujuy
+8367,Campo la Tuna,Y4608XAA,Jujuy
+8368,Campo Oculto,Y4618XAI,Jujuy
+8369,Cañas,Y4624XAE,Jujuy
+8370,Canchahuasi,Y4618XAJ,Jujuy
+8371,Canchuela,Y4655XAB,Jujuy
+8372,Candelaria,Y4512XAE,Jujuy
+8373,Cangrejillos,Y4644XAT,Jujuy
+8374,Cangrejos,Y4644XAU,Jujuy
+8375,Capachacra,Y4618XAK,Jujuy
+8376,Capla,Y4626XAA,Jujuy
+8377,Caracara,Y4644XAV,Jujuy
+8378,Carahuasi,Y4643XAB,Jujuy
+8379,Carahunco,Y4612XAR,Jujuy
+8380,Carayoc,Y4651XAA,Jujuy
+8381,Carcel,Y4618XAL,Jujuy
+8382,Casa Colorada,Y4643XAA,Jujuy
+8383,Casa Grande,Y4634XAB,Jujuy
+8384,Casa Negra,Y4618XAM,Jujuy
+8385,Casa Vieja,Y4618XAN,Jujuy
+8386,Casabindo,Y4641XAA,Jujuy
+8387,Casayock,Y4632XAD,Jujuy
+8388,Casilla,Y4632XAE,Jujuy
+8389,Casillas,Y4632XAK,Jujuy
+8390,Casira,Y4653XAG,Jujuy
+8391,Caspala,Y4631XAK,Jujuy
+8392,Casti,Y4650XAE,Jujuy
+8393,Catamontaña,Y4603XAA,Jujuy
+8394,Catari,Y4640XAA,Jujuy
+8395,Catua,Y4413XAA,Jujuy
+8396,Cauchari,Y4641XAT,Jujuy
+8397,Ceibal,Y4603XAK,Jujuy
+8398,Centro Forestal,Y4612XAS,Jujuy
+8399,Cerrillos,Y4653XAQ,Jujuy
+8400,Cerrito,Y4653XAH,Jujuy
+8401,Cerro Agua Caliente,Y4641XBD,Jujuy
+8402,Cerro Chico,Y4640XAL,Jujuy
+8403,Cerro Negro,Y4605XAA,Jujuy
+8404,Cerro Redondo,Y4643XAH,Jujuy
+8405,Cerros Zapla,Y4612XAT,Jujuy
+8406,Cevilar,Y4512XAF,Jujuy
+8407,Chalican,Y4504XAC,Jujuy
+8408,Chamical,Y4608XAB,Jujuy
+8409,Chañar Solo,Y4516XAA,Jujuy
+8410,Chañaral,Y4516XAB,Jujuy
+8411,Chañarcito,Y4618XAO,Jujuy
+8412,Chañi,Y4616XAA,Jujuy
+8413,Chañi Chico,Y4618XAP,Jujuy
+8414,Chaupi Rodero,Y4632XAF,Jujuy
+8415,Chilcar,Y4618XAQ,Jujuy
+8416,Chilcayoc,Y4616XAH,Jujuy
+8417,Chocoite,Y4644XAW,Jujuy
+8418,Chorcan,Y4631XAA,Jujuy
+8419,Chorojra,Y4640XAB,Jujuy
+8420,Chorrillo,Y4618XAR,Jujuy
+8421,Chorrillos,Y4626XAH,Jujuy
+8422,Chorro,Y4513XAB,Jujuy
+8423,Chucalezna,Y4626XAB,Jujuy
+8424,Chucupal,Y4603XAD,Jujuy
+8425,Chulin o Inca Nueva,Y4640XAU,Jujuy
+8426,Chuquina,Y4600XAF,Jujuy
+8427,Cianzo,Y4631XAB,Jujuy
+8428,Cienaga,Y4512XAG,Jujuy
+8429,Cienaga Grande,Y4643XBE,Jujuy
+8430,Cienego Grande,Y4643XAC,Jujuy
+8432,Cincel,Y4643XAI,Jujuy
+8433,Cochagate,Y4640XAV,Jujuy
+8434,Cochinoca,Y4641XAB,Jujuy
+8435,Coctaca,Y4631XAC,Jujuy
+8436,Coiruro,Y4618XCC,Jujuy
+8437,Colonia 8 de Septiembre,Y4512XAA,Jujuy
+8438,Colonia los Lapachos,Y4606XAA,Jujuy
+8439,Colorados,Y4618XAA,Jujuy
+8440,Condor,Y4618XCD,Jujuy
+8441,Coranzuli,Y4643XBF,Jujuy
+8442,Coraya,Y4630XAC,Jujuy
+8443,Coronel Arias,Y4608XAC,Jujuy
+8444,Corral Blanco,Y4655XAC,Jujuy
+8445,Corral de Piedras,Y4601XAA,Jujuy
+8446,Corralito,Y4650XAJ,Jujuy
+8447,Cortaderas,Y4618XCE,Jujuy
+8448,Costillar,Y4618XCF,Jujuy
+8449,Coyaguaima,Y4643XAD,Jujuy
+8450,Cruz Nido,Y4618XCG,Jujuy
+8451,Cusi Cusi,Y4643XAL,Jujuy
+8452,Doglonzo,Y4631XAD,Jujuy
+8453,Don Jorge,Y4512XAI,Jujuy
+8454,Doncellas,Y4641XAC,Jujuy
+8455,Duraznal,Y4512XAJ,Jujuy
+8456,El Acheral,Y4500XAE,Jujuy
+8457,El Aguilar,Y4634XAC,Jujuy
+8458,El Aibal,Y4512XBH,Jujuy
+8459,El Algarrobal,Y4612XAU,Jujuy
+8460,El Amancay,Y4600XAY,Jujuy
+8461,El Angosto,Y4655XAP,Jujuy
+8462,El Arenal,Y4500XAM,Jujuy
+8463,El Bananal,Y4512XBI,Jujuy
+8464,El Brete,Y4612XAV,Jujuy
+8465,El Cabral,Y4608XAM,Jujuy
+8466,El Cadillal,Y4608XAF,Jujuy
+8467,El Callejon,Y4622XAI,Jujuy
+8468,El Cardonal,Y4506XAC,Jujuy
+8470,El Caulario,Y4512XBJ,Jujuy
+8471,El Chaguaral,Y4500XAO,Jujuy
+8472,El Colorado,Y4618XCH,Jujuy
+8473,El Condor,Y4644XAJ,Jujuy
+8474,El Cucho,Y4612XAW,Jujuy
+8475,El Durazno,Y4624XAG,Jujuy
+8476,El Fuerte,Y4501XAY,Jujuy
+8477,El Manantial,Y4512XBK,Jujuy
+8478,El Mistol,Y4501XAE,Jujuy
+8479,El Molino,Y4618XCI,Jujuy
+8480,El Mollar,Y4608XAW,Jujuy
+8481,El Monumento,Y4650XAC,Jujuy
+8482,El Moreno,Y4618XDC,Jujuy
+8483,El Morro,Y4618XCJ,Jujuy
+8484,El Naranjo,Y4512XBL,Jujuy
+8485,El Ollero,Y4605XAF,Jujuy
+8486,El Olvido,Y4501XAF,Jujuy
+8487,El Palmar,Y4501XAZ,Jujuy
+8488,El Palmar de San Francisco,Y4522XAK,Jujuy
+8489,El Perchel,Y4624XAJ,Jujuy
+8490,El Piquete,Y4501XBA,Jujuy
+8491,El Pongo,Y4608XAG,Jujuy
+8492,El Porvenir,Y4641XAU,Jujuy
+8493,El Potrero de la Puna,Y4641XAP,Jujuy
+8494,El Quemado,Y4504XAG,Jujuy
+8495,El Remate,Y4612XAX,Jujuy
+8496,El Rio Negro,Y4504XAB,Jujuy
+8497,El Saladillo,Y4500XAN,Jujuy
+8498,El Sauce,Y4512XAK,Jujuy
+8499,El Sunchal,Y4501XAG,Jujuy
+8501,El Tipal,Y4501XAQ,Jujuy
+8502,El Toba,Y4606XAH,Jujuy
+8503,El Toro,Y4643XBC,Jujuy
+8504,Encrucijada,Y4618XCK,Jujuy
+8505,Ensenada,Y4500XAF,Jujuy
+8506,Entre Rios,Y4608XAX,Jujuy
+8507,Escaya,Y4644XAX,Jujuy
+8508,Esquina,Y4512XAL,Jujuy
+8509,Esquina de Huancar,Y4618XCL,Jujuy
+8510,Esquina de Quisto,Y4500XAG,Jujuy
+8511,Esquina Grande,Y4618XAS,Jujuy
+8512,Esquinas Blancas,Y4634XAI,Jujuy
+8513,Estacion Perico,Y4608XAH,Jujuy
+8514,Estacion Zootecnica,Y4640XAC,Jujuy
+8515,Estancia Grande,Y4618XAT,Jujuy
+8516,Falda del Quebrachal,Y4512XAM,Jujuy
+8517,Falda Mojon,Y4512XAN,Jujuy
+8518,Falda Montosa,Y4512XBY,Jujuy
+8519,Farillon,Y4643XAJ,Jujuy
+8520,Finca Agua Salada,Y4516XAF,Jujuy
+8521,Finca Agua Tapada,Y4516XAG,Jujuy
+8522,Finca la Lucrecia,Y4516XAC,Jujuy
+8523,Finca la Realidad,Y4516XAD,Jujuy
+8524,Finca Leach,Y4504XAA,Jujuy
+8525,Finca Santa Cornelia,Y4516XAE,Jujuy
+8526,Florencia,Y4512XAO,Jujuy
+8528,Fundiciones,Y4513XAR,Jujuy
+8529,Galeta,Y4630XAL,Jujuy
+8530,General Manuel Savio,Y4612XAL,Jujuy
+8531,Gobernador Ovejero,Y4501XAR,Jujuy
+8532,Gobernador Tello,Y4513XAS,Jujuy
+8533,Granadas,Y4643XAT,Jujuy
+8534,Guachan,Y4512XBZ,Jujuy
+8535,Guayacan,Y4506XAI,Jujuy
+8536,Guayatayoc,Y4653XAB,Jujuy
+8537,Guemes,Y4640XAJ,Jujuy
+8538,Guerrero,Y4600XAG,Jujuy
+8539,Higueritas,Y4618XAU,Jujuy
+8541,Hornaditas,Y4630XAE,Jujuy
+8542,Hornillos,Y4653XAI,Jujuy
+8543,Huacalera,Y4626XAI,Jujuy
+8544,Huachichocana,Y4618XDD,Jujuy
+8545,Huaico Chico,Y4600XAH,Jujuy
+8546,Huallatayoc,Y4653XAA,Jujuy
+8547,Huancar,Y4618XAV,Jujuy
+8548,Huichaira,Y4624XAH,Jujuy
+8550,Inca Huasi,Y4618XAW,Jujuy
+8551,Ingenio la Esperanza,Y4542XAA,Jujuy
+8552,Ingenio Ledesma,Y4512XAT,Jujuy
+8553,Inticancho,Y4651XAD,Jujuy
+8554,Iriarte,Y4608XAZ,Jujuy
+8555,Isla Chica,Y4501XBH,Jujuy
+8556,Isla Grande,Y4501XBI,Jujuy
+8557,Ituaicochico,Y4601XAG,Jujuy
+8559,Jaramillo,Y4504XAE,Jujuy
+8560,Juan Galan,Y4600XBB,Jujuy
+8561,Juan Manuel de Rosas,Y4612XAH,Jujuy
+8562,Juella,Y4624XAI,Jujuy
+8563,Kilometro 1129,Y4608XAI,Jujuy
+8564,Kilometro 1183,Y4616XAN,Jujuy
+8565,Kilometro 1289,Y4630XAM,Jujuy
+8566,Kilometro 1321,Y4634XAJ,Jujuy
+8567,Kilometro 1369,Y4641XAV,Jujuy
+8568,Kilometro 1397,Y4644XAZ,Jujuy
+8569,La Aguadita,Y4618XDE,Jujuy
+8570,La Almona,Y4600XBC,Jujuy
+8571,La Bajada,Y4506XAJ,Jujuy
+8572,La Banda,Y4624XAC,Jujuy
+8573,La Cabaña,Y4605XAB,Jujuy
+8574,La Calera,Y4512XCB,Jujuy
+8575,La Chinaca,Y4651XAC,Jujuy
+8576,La Cienaga,Y4618XDF,Jujuy
+8577,La Cruz,Y4655XAL,Jujuy
+8578,La Cuesta,Y4612XAM,Jujuy
+8579,La Cueva,Y4632XAJ,Jujuy
+8581,La Falda,Y4640XAE,Jujuy
+8582,La Intermedia,Y4650XAH,Jujuy
+8584,La Ollada,Y4501XAS,Jujuy
+8585,La Ovejeria,Y4608XAJ,Jujuy
+8586,La Puerta,Y4618XAX,Jujuy
+8588,La Quinta,Y4501XAK,Jujuy
+8589,La Reduccion,Y4506XAD,Jujuy
+8590,La Ronda,Y4501XAL,Jujuy
+8591,La Sanga,Y4622XAL,Jujuy
+8592,La Toma,Y4605XAC,Jujuy
+8593,La Union,Y4608XAN,Jujuy
+8594,La Vertiente,Y4501XAM,Jujuy
+8595,La Veta,Y4643XAU,Jujuy
+8596,Laguna San Miguel,Y4501XAN,Jujuy
+8597,Laguna Totorillas,Y4501XAO,Jujuy
+8598,Lagunas,Y4618XAY,Jujuy
+8599,Lagunas de Yala,Y4616XAO,Jujuy
+8600,Lagunilla el Carmen,Y4608XAO,Jujuy
+8601,Lagunilla Ledesma,Y4608XBC,Jujuy
+8602,Lagunillas,Y4640XBB,Jujuy
+8603,Lapachal Ledesma,Y4501XAA,Jujuy
+8604,Lapachal Santa Barbara,Y4501XAT,Jujuy
+8605,Las Cañadas,Y4606XAC,Jujuy
+8606,Las Capillas,Y4612XAN,Jujuy
+8607,Las Chicapenas,Y4622XAB,Jujuy
+8608,Las Escaleras,Y4612XAO,Jujuy
+8609,Las Higuerillas,Y4600XAP,Jujuy
+8610,Las Higueritas,Y4512XAQ,Jujuy
+8611,Las Pampitas,Y4608XAE,Jujuy
+8612,Las Pichanas,Y4606XAD,Jujuy
+8613,Las Pircas,Y4603XAB,Jujuy
+8614,Las Quintas,Y4512XAR,Jujuy
+8615,Lavayen,Y4503XAB,Jujuy
+8616,Leachs,Y4504XAI,Jujuy
+8617,Lecheria,Y4514XAA,Jujuy
+8618,Ledesma,Y4512XAS,Jujuy
+8619,Leon,Y4616XAP,Jujuy
+8621,Lindero,Y4618XAZ,Jujuy
+8622,Lipan,Y4618XBA,Jujuy
+8623,Llameria,Y4644XAG,Jujuy
+8624,Llulluchayoc,Y4644XAA,Jujuy
+8625,Loma Blanca,Y4643XAN,Jujuy
+8626,Loma del Medio,Y4512XCD,Jujuy
+8627,Loma Larga,Y4618XBB,Jujuy
+8628,Loma Pelada,Y4501XAU,Jujuy
+8629,Los Alisos,Y4605XAD,Jujuy
+8630,Los Baños Termales,Y4516XAI,Jujuy
+8631,Los Bayos,Y4503XAE,Jujuy
+8632,Los Blancos,Y4612XAP,Jujuy
+8633,Los Catres,Y4512XCE,Jujuy
+8634,Los Cedros,Y4603XAC,Jujuy
+8635,Los Lapachos,Y4606XAE,Jujuy
+8636,Los Manantiales,Y4606XAF,Jujuy
+8637,Los Matos,Y4501XAV,Jujuy
+8638,Lote Don David,Y4522XAI,Jujuy
+8639,Lote Don Emilio,Y4522XAJ,Jujuy
+8640,Lote el Puesto,Y4503XAK,Jujuy
+8641,Lote la Cienaga,Y4503XAF,Jujuy
+8642,Lote la Posta,Y4503XAG,Jujuy
+8643,Lote Maiz Negro,Y4506XAE,Jujuy
+8644,Lote Miraflores,Y4503XAA,Jujuy
+8645,Lote Palmera,Y4503XAL,Jujuy
+8646,Lote Parapeti,Y4503XAI,Jujuy
+8647,Lote Piedritas,Y4522XAD,Jujuy
+8648,Lote Prediliana,Y4512XCF,Jujuy
+8649,Lote San Antonio,Y4503XAJ,Jujuy
+8650,Lote San Juancito,Y4522XAA,Jujuy
+8651,Lote Sauzal,Y4522XAL,Jujuy
+8652,Lote Zora,Y4504XAF,Jujuy
+8653,Lozano,Y4616XAB,Jujuy
+8654,Lumara,Y4640XAF,Jujuy
+8656,Mal Paso,Y4512XBB,Jujuy
+8657,Maquinista Veron,Y4606XAG,Jujuy
+8658,Marta,Y4512XBC,Jujuy
+8659,Mayilte,Y4644XAH,Jujuy
+8661,Merco,Y4655XAF,Jujuy
+8662,Milan,Y4501XAW,Jujuy
+8663,Mina 9 de Octubre,Y4612XAQ,Jujuy
+8664,Mina Ajedrez,Y4643XAV,Jujuy
+8665,Mina Belgica,Y4644XAN,Jujuy
+8666,Mina Pan de Azucar,Y4643XAR,Jujuy
+8667,Mina Pirquitas,Y4643XAO,Jujuy
+8668,Mina Pulpera,Y4644XAO,Jujuy
+8669,Mina San Francisco,Y4644XAP,Jujuy
+8670,Mina Sol de Mayo,Y4644XAY,Jujuy
+8671,Minas Azules,Y4655XAG,Jujuy
+8672,Minas de Borato,Y4618XBC,Jujuy
+8673,Miniaio,Y4643XAW,Jujuy
+8674,Mira Flores,Y4640XAG,Jujuy
+8675,Miraflores de la Candelaria,Y4640XAR,Jujuy
+8676,Mires,Y4655XAH,Jujuy
+8677,Miyuyoc,Y4632XAG,Jujuy
+8678,Mocoraite,Y4644XAI,Jujuy
+8679,Mojon Azucena,Y4512XBD,Jujuy
+8680,Molinos,Y4616XAQ,Jujuy
+8681,Molli Punco,Y4618XBD,Jujuy
+8682,Molular,Y4512XBE,Jujuy
+8683,Molulo,Y4624XAL,Jujuy
+8685,Moralito,Y4500XAH,Jujuy
+8686,Moreno Chico,Y4618XCM,Jujuy
+8687,Morrito,Y4618XCN,Jujuy
+8688,Morro,Y4655XAI,Jujuy
+8689,Mulli Punco,Y4650XAI,Jujuy
+8690,Muñayoc,Y4641XAY,Jujuy
+8691,Naranjito,Y4512XBF,Jujuy
+8692,Nazareno,Y4600XAS,Jujuy
+8693,Nogal,Y4513XAD,Jujuy
+8694,Nogales,Y4513XAE,Jujuy
+8695,Nogalito,Y4513XAF,Jujuy
+8696,Normenta,Y4512XAU,Jujuy
+8697,Obraje San Jose,Y4516XAH,Jujuy
+8698,Ocloyas,Y4601XAH,Jujuy
+8699,Oculto,Y4506XAF,Jujuy
+8700,Ocumazo,Y4630XAF,Jujuy
+8701,Ojo de Agua,Y4506XAG,Jujuy
+8702,Olacapato,Y4643XBB,Jujuy
+8703,Olaroz Chico,Y4641XAZ,Jujuy
+8704,Olaroz Grande,Y4641XAW,Jujuy
+8706,Ornillo,Y4653XAE,Jujuy
+8707,Oros San Juan,Y4655XAM,Jujuy
+8708,Orosmayo,Y4643XAP,Jujuy
+8709,Ovara,Y4630XAG,Jujuy
+8710,Paicone,Y4643XAQ,Jujuy
+8711,Pairique Chico,Y4644XAL,Jujuy
+8712,Pairique Grande,Y4643XAZ,Jujuy
+8713,Palca de Aparzo,Y4631XAG,Jujuy
+8715,Palo a Pique,Y4512XBG,Jujuy
+8716,Palo Blanco,Y4522XAB,Jujuy
+8717,Palo Santo,Y4522XAG,Jujuy
+8718,Palpala,Y4612XAI,Jujuy
+8720,Pampa Larga,Y4512XCG,Jujuy
+8721,Pampa Vieja,Y4606XAI,Jujuy
+8722,Pampichuela,Y4513XAM,Jujuy
+8723,Paño,Y4605XAE,Jujuy
+8724,Pasajes,Y4653XAL,Jujuy
+8725,Pasto Pampa,Y4653XAM,Jujuy
+8726,Pastos Chicos,Y4641XAQ,Jujuy
+8727,Paulete,Y4512XCH,Jujuy
+8728,Paulina,Y4512XCI,Jujuy
+8729,Payo,Y4600XBE,Jujuy
+8730,Peña Colorada,Y4655XAJ,Jujuy
+8731,Peñas Blancas,Y4632XAL,Jujuy
+8733,Perico San Juan,Y4608XAP,Jujuy
+8734,Picacho,Y4513XAG,Jujuy
+8735,Pie de la Cuesta,Y4501XAX,Jujuy
+8736,Piedra Blanca,Y4512XCJ,Jujuy
+8737,Piedra Chota,Y4618XCO,Jujuy
+8738,Piedras Amontonadas,Y4618XCP,Jujuy
+8739,Piedras Blancas,Y4618XCQ,Jujuy
+8740,Pilcomayo,Y4513XAH,Jujuy
+8741,Piscuno,Y4651XAB,Jujuy
+8742,Pisungo,Y4632XAI,Jujuy
+8743,Porvenir,Y4618XCR,Jujuy
+8744,Posta de Hornillos,Y4618XAC,Jujuy
+8745,Posta Gdaparque Nac Calilegua,Y4514XAC,Jujuy
+8746,Potrerillo,Y4631XAO,Jujuy
+8747,Potrero,Y4653XAC,Jujuy
+8748,Potrero Alegre,Y4512XBM,Jujuy
+8749,Potrero de la Puna,Y4640XAS,Jujuy
+8750,Pozo Bravo,Y4618XCS,Jujuy
+8751,Pozo Cavado,Y4512XBN,Jujuy
+8752,Pozo Colorado,Y4618XCT,Jujuy
+8753,Pozo de las Avispas,Y4608XAQ,Jujuy
+8754,Pozo Verde,Y4512XBO,Jujuy
+8755,Pozuelo,Y4643XAS,Jujuy
+8756,Prediliana,Y4512XBP,Jujuy
+8757,Pucara,Y4624XAA,Jujuy
+8758,Pueblo,Y4513XAI,Jujuy
+8759,Pueblo Ledesma,Y4512XAV,Jujuy
+8760,Pueblo Nuevo,Y4512XBQ,Jujuy
+8761,Pueblo Pla,Y4618XBE,Jujuy
+8762,Pueblo Viejo,Y4632XAB,Jujuy
+8763,Puerta de Colorados,Y4618XBF,Jujuy
+8764,Puerta de Lipan,Y4618XBM,Jujuy
+8765,Puerta de Salas,Y4612XAJ,Jujuy
+8766,Puerta Patacal,Y4618XBG,Jujuy
+8767,Puerta Potrero,Y4640XAH,Jujuy
+8768,Puerta Vieja,Y4512XBR,Jujuy
+8769,Puerto Tolava,Y4513XAT,Jujuy
+8770,Puesto,Y4624XAB,Jujuy
+8771,Puesto Chico,Y4653XAN,Jujuy
+8772,Puesto del Marquez,Y4644XAB,Jujuy
+8773,Puesto Grande,Y4653XAO,Jujuy
+8774,Puesto Nuevo,Y4501XBJ,Jujuy
+8775,Puesto Viejo,Y4606XAK,Jujuy
+8776,Pumahuasi,Y4644XAQ,Jujuy
+8777,Puna de Jujuy,Y4618XBN,Jujuy
+8778,Punta Canal,Y4618XBH,Jujuy
+8779,Punta Corral,Y4618XBO,Jujuy
+8780,Punta de Agua,Y4644XAD,Jujuy
+8781,Punta del Agua,Y4644XAK,Jujuy
+8782,Punta del Campo,Y4622XAC,Jujuy
+8783,Puntas de Colorados,Y4618XBI,Jujuy
+8785,Quebrada Huasamayo,Y4624XAD,Jujuy
+8786,Quebraleña,Y4640XAW,Jujuy
+8787,Queñoal,Y4513XAJ,Jujuy
+8788,Quenti Taco,Y4644XAE,Jujuy
+8789,Quera,Y4643XAK,Jujuy
+8790,Queta,Y4641XAL,Jujuy
+8791,Quichagua,Y4641XAM,Jujuy
+8792,Quimazo,Y4630XAI,Jujuy
+8793,Quisquine,Y4618XBJ,Jujuy
+8794,Rachaite,Y4641XAN,Jujuy
+8795,Ramada,Y4512XBS,Jujuy
+8796,Ramallo,Y4640XAX,Jujuy
+8797,Rastrojos,Y4504XAD,Jujuy
+8798,Real de los Toros,Y4501XBB,Jujuy
+8799,Receptoria,Y4618XBK,Jujuy
+8800,Redonda,Y4644XAR,Jujuy
+8801,Reyes,Y4600XAI,Jujuy
+8803,Rinconadillas,Y4641XAO,Jujuy
+8804,Rio Blanco,Y4605XAG,Jujuy
+8805,Rio Colorado,Y4644XAS,Jujuy
+8806,Rio Grande,Y4522XAE,Jujuy
+8807,Rio Negro,Y4504XAH,Jujuy
+8808,Rio Seco,Y4512XBT,Jujuy
+8809,Riverito,Y4618XBL,Jujuy
+8810,Rodeito,Y4500XAA,Jujuy
+8811,Rodeo,Y4651XAH,Jujuy
+8812,Rodeo Chico,Y4653XAP,Jujuy
+8813,Rodero,Y4631XAH,Jujuy
+8814,Ronque,Y4631XAI,Jujuy
+8815,Rontuyoc,Y4644XAC,Jujuy
+8816,Rumi Cruz,Y4640XAM,Jujuy
+8817,Sala,Y4618XCU,Jujuy
+8818,Saladillo Ledesma,Y4500XAK,Jujuy
+8819,Saladillo San Pedro,Y4522XAF,Jujuy
+8820,Salitre,Y4643XAX,Jujuy
+8821,San Andres,Y4630XAN,Jujuy
+8822,San Antonio,Y4503XAD,Jujuy
+8823,San Bernardo,Y4618XBP,Jujuy
+8824,San Francisco,Y4655XAN,Jujuy
+8826,San Gabriel,Y4608XBA,Jujuy
+8827,San Javier,Y4618XCV,Jujuy
+8828,San Jose,Y4626XAE,Jujuy
+8829,San Jose de la Rinconada,Y4643XAF,Jujuy
+8830,San Jose de Miraflores,Y4640XAI,Jujuy
+8831,San Jose del Bordo,Y4500XAB,Jujuy
+8832,San Jose del Chañi,Y4618XBQ,Jujuy
+8833,San Juan,Y4655XAD,Jujuy
+8834,San Juan de Dios,Y4501XAC,Jujuy
+8835,San Juan de Oros,Y4655XAE,Jujuy
+8836,San Juan de Quillagues,Y4641XAE,Jujuy
+8837,San Juancito,Y4608XBB,Jujuy
+8838,San Leon,Y4655XAO,Jujuy
+8839,San Lorenzo,Y4514XAB,Jujuy
+8840,San Lucas,Y4500XAC,Jujuy
+8841,San Pablo de Reyes,Y4600XBF,Jujuy
+8842,San Pedrito,Y4622XAF,Jujuy
+8844,San Pedro de Iruya,Y4633XAA,Jujuy
+8845,San Rafael,Y4501XBC,Jujuy
+8846,San Roque,Y4630XAH,Jujuy
+8848,San Vicente,Y4608XAK,Jujuy
+8849,Sansana,Y4650XAD,Jujuy
+8850,Santa Ana,Y4631XAL,Jujuy
+8851,Santa Ana de la Puna,Y4641XAF,Jujuy
+8852,Santa Barbara,Y4513XAO,Jujuy
+8854,Santa Clara,Y4501XBD,Jujuy
+8855,Santa Rita,Y4501XAP,Jujuy
+8856,Santa Rosa Tumbaya,Y4618XCW,Jujuy
+8857,Santa Rosa Valle Grande,Y4618XDG,Jujuy
+8858,Santillo,Y4512XBU,Jujuy
+8859,Santo Domingo,Y4608XAL,Jujuy
+8860,Santuario,Y4640XAN,Jujuy
+8861,Santuyoc,Y4616XAK,Jujuy
+8862,Sauzal,Y4501XAB,Jujuy
+8863,Sauzalito,Y4512XBV,Jujuy
+8864,Sayate,Y4640XAO,Jujuy
+8865,Senador Perez,Y4626XAC,Jujuy
+8866,Sepultura,Y4512XBW,Jujuy
+8867,Sey,Y4411XAA,Jujuy
+8868,Siberia,Y4506XAH,Jujuy
+8869,Siete Aguas,Y4501XBE,Jujuy
+8870,Sijes,Y4641XAS,Jujuy
+8871,Socabon,Y4512XBX,Jujuy
+8872,Soledad,Y4512XAW,Jujuy
+8873,Sorcuyo,Y4640XAY,Jujuy
+8874,Soysolayte,Y4643XBA,Jujuy
+8875,Suripujio,Y4651XAE,Jujuy
+8877,Susuyaco,Y4618XCX,Jujuy
+8878,Tabladitas,Y4640XAP,Jujuy
+8879,Tablon,Y4631XAR,Jujuy
+8880,Tacta,Y4622XAD,Jujuy
+8881,Tafna,Y4650XAG,Jujuy
+8882,Tala Grusa,Y4618XCY,Jujuy
+8883,Talar,Y4513XAL,Jujuy
+8884,Tambillos,Y4641XAG,Jujuy
+8885,Tanques,Y4641XBA,Jujuy
+8886,Tarijita,Y4512XAX,Jujuy
+8887,Tejadas,Y4634XAE,Jujuy
+8888,Termas de Reyes,Y4601XAB,Jujuy
+8889,Tesorero,Y4600XBG,Jujuy
+8890,Teuco,Y4641XAD,Jujuy
+8892,Tilquiza,Y4600XAJ,Jujuy
+8893,Timon Cruz,Y4655XAK,Jujuy
+8894,Tio Mayo,Y4653XAD,Jujuy
+8895,Tiraxi,Y4616XAJ,Jujuy
+8896,Tiraxi Chico,Y4616XAL,Jujuy
+8897,Toba,Y4606XAJ,Jujuy
+8898,Tocol,Y4643XBD,Jujuy
+8899,Toquero,Y4653XAJ,Jujuy
+8900,Toquillera,Y4512XAY,Jujuy
+8901,Toro Muerto,Y4631XAU,Jujuy
+8902,Totorito,Y4618XCZ,Jujuy
+8903,Trancas,Y4631XAV,Jujuy
+8904,Trementinal,Y4512XAZ,Jujuy
+8906,Tres Morros,Y4618XBR,Jujuy
+8907,Triunvirato,Y4618XDA,Jujuy
+8908,Tucumancito,Y4512XBA,Jujuy
+8909,Tuite,Y4644XAF,Jujuy
+8911,Tumbaya Grande,Y4618XDB,Jujuy
+8912,Tunalito,Y4618XBS,Jujuy
+8913,Turilari,Y4641XBB,Jujuy
+8914,Turu Tari,Y4641XBC,Jujuy
+8915,Tusaquillas,Y4641XAH,Jujuy
+8916,Uquia,Y4626XAD,Jujuy
+8917,Valle Colorado,Y4631XAM,Jujuy
+8919,Varas,Y4631XAJ,Jujuy
+8920,Venecias Argentinas,Y4608XAT,Jujuy
+8921,Veta Mina Aguilar,Y4634XAF,Jujuy
+8922,Vicuñayoc,Y4634XAK,Jujuy
+8923,Villa Argentina,Y4608XAU,Jujuy
+8924,Villa Ciudad de Nieva,Y4600XAL,Jujuy
+8925,Villa Coranzuli,Y4633XAC,Jujuy
+8926,Villa del Perchel,Y4626XAF,Jujuy
+8927,Villa Gorriti,Y4600XAN,Jujuy
+8928,Villa Jardin de Reyes,Y4601XAC,Jujuy
+8929,Vinalito,Y4518XAA,Jujuy
+8930,Vizacachal,Y4631XAW,Jujuy
+8932,Volcan Higuera,Y4633XAB,Jujuy
+8933,Yacoraite,Y4634XAH,Jujuy
+8935,Yala de Monte Carmelo,Y4624XAM,Jujuy
+8937,Yavi Chico,Y4651XAG,Jujuy
+8938,Yerba Buena Ledesma,Y4622XAA,Jujuy
+8939,Yerba Buena Tilcara,Y4622XAE,Jujuy
+8940,Yoscaba,Y4653XAK,Jujuy
+8942,Zapla,Y4612XAK,Jujuy

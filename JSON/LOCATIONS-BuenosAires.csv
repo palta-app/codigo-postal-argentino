@@ -1,0 +1,1378 @@
+id,name,zip,state
+2,12 de Agosto,B2701XAA,Buenos Aires
+4,16 de Julio,B7313XAA,Buenos Aires
+9,4 de Noviembre,B2705XAB,Buenos Aires
+14,Abel,B6450XAA,Buenos Aires
+15,Abra de Hinojo,B8170XAA,Buenos Aires
+17,Aceilan,B7003XAB,Buenos Aires
+19,Achupallas,B6627XAD,Buenos Aires
+20,Adela,B7136XAA,Buenos Aires
+21,Adela Corti,B8000XBC,Buenos Aires
+22,Adela Saenz,B8129XAA,Buenos Aires
+23,Adolfo Alsina,B6430XAA,Buenos Aires
+27,Agote,B6600XAA,Buenos Aires
+28,Aguara,B8105XAE,Buenos Aires
+29,Aguas Corrientes,B2701XAB,Buenos Aires
+30,Aguas Verdes,B7112XAC,Buenos Aires
+31,Aguirrezabala,B2915XAB,Buenos Aires
+35,Alagon,B6463XAA,Buenos Aires
+36,Alamos,B6437XAE,Buenos Aires
+37,Alastuey,B6703XAB,Buenos Aires
+38,Albariño,B6405XAA,Buenos Aires
+40,Aldea San Andres,B8126XAA,Buenos Aires
+41,Aldecon,B7406XAG,Buenos Aires
+43,Alegre,B1987XAA,Buenos Aires
+46,Alfa,B6437XAF,Buenos Aires
+47,Alfalad,B6555XAA,Buenos Aires
+48,Alferez San Martin,B8117XAA,Buenos Aires
+49,Alfredo Demarchi,B6533XAA,Buenos Aires
+50,Algarrobo,B8132XAB,Buenos Aires
+51,Almacen Castro,B2751XAA,Buenos Aires
+52,Almacen el Cruce,B2751XAF,Buenos Aires
+53,Almacen el Descanso,B2752XAB,Buenos Aires
+54,Almacen la Colina,B2740XAA,Buenos Aires
+55,Almacen Piatti,B2711XAB,Buenos Aires
+56,Almirante Irizar,B1629XAA,Buenos Aires
+57,Almirante Solier,B8109XAE,Buenos Aires
+59,Alta Vista,B8170XAB,Buenos Aires
+60,Altamira,B6601XAB,Buenos Aires
+61,Altamirano,B1986XAA,Buenos Aires
+63,Alto Verde,B2801XAC,Buenos Aires
+64,Altona,B7303XAD,Buenos Aires
+66,Alvarez Jonte,B1921XAH,Buenos Aires
+67,Alvaro Barros,B7403XAB,Buenos Aires
+68,Alzaga,B7021XAA,Buenos Aires
+69,Amalia,B6516XAA,Buenos Aires
+70,Ambrosio P Lezica,B8508XAC,Buenos Aires
+73,Anasagasti,B6607XAA,Buenos Aires
+74,Ancon,B6451XAE,Buenos Aires
+75,Andant,B6555XAB,Buenos Aires
+76,Anderson,B6621XAA,Buenos Aires
+77,Andres Vaccarezza,B6634XAB,Buenos Aires
+78,Aneque Grande,B7011XAA,Buenos Aires
+80,Antonio de los Heros,B7305XAA,Buenos Aires
+83,Arano,B6443XAA,Buenos Aires
+84,Araujo,B6643XAA,Buenos Aires
+86,Arbuco,B1915XAA,Buenos Aires
+88,Arevalo,B7243XAD,Buenos Aires
+89,Argerich,B8134XAE,Buenos Aires
+90,Ariel,B7301XAB,Buenos Aires
+91,Arquedas,B8164XAA,Buenos Aires
+94,Arroyo Aguas Blancas,B8174XAA,Buenos Aires
+95,Arroyo Aguila Negra,B2800XAF,Buenos Aires
+96,Arroyo Aleli,B2805XAM,Buenos Aires
+97,Arroyo Botija Falsa,B2800XAG,Buenos Aires
+98,Arroyo Burgos,B2935XAC,Buenos Aires
+99,Arroyo Canelon,B1625XAA,Buenos Aires
+100,Arroyo Carabelitas,B2805XAN,Buenos Aires
+101,Arroyo Chico,B7011XAB,Buenos Aires
+103,Arroyo de la Cruz,B2812XAD,Buenos Aires
+104,Arroyo de Luna,B2752XAC,Buenos Aires
+105,Arroyo del Pescado,B1923XAB,Buenos Aires
+107,Arroyo el Ahogado,B2805XAA,Buenos Aires
+108,Arroyo el Chingolo,B6437XAG,Buenos Aires
+109,Arroyo Grande,B7174XAA,Buenos Aires
+110,Arroyo la Maza,B1923XAC,Buenos Aires
+111,Arroyo las Cruces,B2805XAB,Buenos Aires
+112,Arroyo las Rosas,B1625XAB,Buenos Aires
+113,Arroyo los Huesos,B7301XAA,Buenos Aires
+114,Arroyo los Tigres,B2805XAD,Buenos Aires
+115,Arroyo Ñacurutu,B2800XAH,Buenos Aires
+116,Arroyo Ñacurutu Chico,B2805XAE,Buenos Aires
+117,Arroyo Negro,B2800XAC,Buenos Aires
+118,Arroyo Pareja,B8111XAB,Buenos Aires
+119,Arroyo Pesqueria,B2805XAF,Buenos Aires
+120,Arroyo Tajiber,B2805XAG,Buenos Aires
+121,Arroyo Venado,B6437XAH,Buenos Aires
+122,Arroyo Zanjon,B2805XAH,Buenos Aires
+124,Arturo Vatteone,B6433XAA,Buenos Aires
+125,Asamblea,B6640XAC,Buenos Aires
+127,Asturias,B6469XAA,Buenos Aires
+128,Atahualpa,B6471XAA,Buenos Aires
+130,Atucha,B2800XAD,Buenos Aires
+132,Avestruz,B8183XAD,Buenos Aires
+141,Bacacay,B6516XAB,Buenos Aires
+142,Badano,B6403XAC,Buenos Aires
+144,Bahia San Blas,B8506XAC,Buenos Aires
+150,Balneario Chapalco,B8132XAC,Buenos Aires
+155,Balneario los Angeles,B7641XAB,Buenos Aires
+158,Balneario Oceano,B7511XAB,Buenos Aires
+159,Balneario Orense,B7511XAC,Buenos Aires
+161,Balneario Parada,B8109XAB,Buenos Aires
+163,Balneario San Antonio,B8132XAD,Buenos Aires
+165,Balneario Sauce Grande,B8153XAB,Buenos Aires
+166,Balsa,B6070XAC,Buenos Aires
+171,Barrientos,B7247XAA,Buenos Aires
+172,Barrio 1 de Mayo,B1814XAD,Buenos Aires
+174,Barrio Carosio,B6000XAA,Buenos Aires
+177,Barrio el Porteño,B1915XAB,Buenos Aires
+178,Barrio Emir Ramon Juarez,B7600XAD,Buenos Aires
+179,Barrio Garin Norte,B1623XAB,Buenos Aires
+180,Barrio Gastronomico,B7600XAE,Buenos Aires
+181,Barrio General San Martin,B6000XAL,Buenos Aires
+182,Barrio Indio Trompa,B6400XAA,Buenos Aires
+183,Barrio Julio de Vedia,B6500XAB,Buenos Aires
+184,Barrio la Dolly,B1980XAG,Buenos Aires
+185,Barrio la Luisa,B7400XAB,Buenos Aires
+186,Barrio las Mandarinas,B1980XAH,Buenos Aires
+187,Barrio Obrero,B6450XAB,Buenos Aires
+188,Barrio Oeste,B7607XAC,Buenos Aires
+189,Barrio Parque Bristol,B7607XAD,Buenos Aires
+190,Barrio Parque Lambare,B1623XAC,Buenos Aires
+192,Barrio Pedro Rocco,B7109XAB,Buenos Aires
+193,Barrio Pueblo Nuevo,B7600XAJ,Buenos Aires
+194,Barrio San Alejo,B1629XAB,Buenos Aires
+195,Barrio San Jacinto,B2800XAO,Buenos Aires
+196,Barrio San Pablo,B1864XAA,Buenos Aires
+197,Barrio Santa Magdalena,B1864XAB,Buenos Aires
+198,Barrio Tierra de Oro,B7600XAN,Buenos Aires
+199,Barrio Tiro Federal,B7600XAO,Buenos Aires
+200,Barrio Trocha,B2700XAA,Buenos Aires
+201,Barrio Villa Ortega,B6000XAC,Buenos Aires
+202,Barrio Villa Saladillo,B7260XAF,Buenos Aires
+203,Base Aeronaval Cmte Espora,B8107XAA,Buenos Aires
+204,Base Aeronaval Punta Indio,B1919XAA,Buenos Aires
+205,Base Naval Azopardo,B7301XAC,Buenos Aires
+206,Base Naval Rio Santiago,B1929XAB,Buenos Aires
+207,Baterias,B8113XAA,Buenos Aires
+208,Bathurst Estacion,B7540XAB,Buenos Aires
+209,Baudrix,B6643XAB,Buenos Aires
+214,Bellocq,B6535XAA,Buenos Aires
+216,Benitez,B6632XAA,Buenos Aires
+221,Bermudez,B6071XAA,Buenos Aires
+224,Bernardo Vera y Pintado,B7313XAB,Buenos Aires
+225,Berraondo,B8124XAC,Buenos Aires
+228,Blandengues,B6032XAA,Buenos Aires
+230,Blas Durañona,B6661XAA,Buenos Aires
+231,Blondeau,B2805XAI,Buenos Aires
+235,Bonifacio,B6439XAD,Buenos Aires
+236,Bonnement,B7223XAG,Buenos Aires
+238,Bosch,B7620XAI,Buenos Aires
+243,Bravo del Dos,B6411XAB,Buenos Aires
+244,Buchanan,B1903XAA,Buenos Aires
+246,Cabeza de Buey,B8132XAE,Buenos Aires
+248,Cabo San Fermin,B2703XAA,Buenos Aires
+250,Cadret,B6535XAB,Buenos Aires
+251,Cailomuta,B6339XAA,Buenos Aires
+252,Calderon,B8101XAG,Buenos Aires
+253,Calera Avellaneda,B7400XAC,Buenos Aires
+254,Calfucura,B7612XAA,Buenos Aires
+255,Calvo,B8154XAC,Buenos Aires
+256,Camaron Chico,B7116XAC,Buenos Aires
+257,Cambaceres,B6516XAC,Buenos Aires
+259,Caminera Azul,B7300XAA,Buenos Aires
+260,Caminera Juarez,B7020XAA,Buenos Aires
+261,Caminera Lujan,B6700XAB,Buenos Aires
+262,Caminera Napaleofu,B7007XAC,Buenos Aires
+263,Caminera Samborombon,B7130XAA,Buenos Aires
+264,Camino Centenario Km 11500,B1896XAA,Buenos Aires
+265,Campamento,B7613XAA,Buenos Aires
+267,Campo Aristimuño,B6474XAA,Buenos Aires
+268,Campo Buena Vista,B2700XAB,Buenos Aires
+269,Campo Coliqueo,B6015XAB,Buenos Aires
+270,Campo Crisol,B2754XAA,Buenos Aires
+272,Campo del Norte Americano,B8185XAB,Buenos Aires
+273,Campo Funke,B7247XAD,Buenos Aires
+274,Campo la Elisa,B2752XAD,Buenos Aires
+275,Campo la Lima,B8150XAA,Buenos Aires
+276,Campo la Nena,B2764XAA,Buenos Aires
+277,Campo la Plata,B7623XAB,Buenos Aires
+278,Campo la Tribu,B6015XAC,Buenos Aires
+279,Campo la Zulema,B8185XAC,Buenos Aires
+280,Campo Leite,B7623XAC,Buenos Aires
+281,Campo Lope Seco,B1980XAA,Buenos Aires
+282,Campo los Aromos,B8185XAE,Buenos Aires
+283,Campo Maipu,B6013XAB,Buenos Aires
+284,Campo Pelaez,B7623XAE,Buenos Aires
+285,Campo Peña Lopez,B6605XAA,Buenos Aires
+286,Campo Rojas,B7303XAE,Buenos Aires
+287,Campo Sabate,B7245XAC,Buenos Aires
+288,Campo San Juan,B8185XAD,Buenos Aires
+289,Campodonico,B7305XAB,Buenos Aires
+290,Campomar Viñedo,B1625XAE,Buenos Aires
+291,Cañada de Arias,B6700XAC,Buenos Aires
+292,Cañada la Rica,B6625XAA,Buenos Aires
+293,Cañada Mariano,B8183XAA,Buenos Aires
+294,Cañada Marta,B2740XAB,Buenos Aires
+296,Canal 15 Cerro de la Gloria,B7114XAB,Buenos Aires
+297,Canal Martin Irigoyen,B2800XAB,Buenos Aires
+298,Canal N Alem 1A Sec,B2805XAJ,Buenos Aires
+299,Canal N Alem 2A Sec,B2805XAK,Buenos Aires
+300,Cancha del Pollo,B1987XAB,Buenos Aires
+301,Cangallo,B7153XAA,Buenos Aires
+303,Canonigo Gorriti,B8185XAF,Buenos Aires
+304,Cantera Aguirre,B7000XAA,Buenos Aires
+305,Cantera Albion,B7000XAB,Buenos Aires
+306,Cantera la Aurora,B7000XAF,Buenos Aires
+307,Cantera la Federacion,B7000XAG,Buenos Aires
+308,Cantera la Movediza,B7000XAH,Buenos Aires
+309,Cantera Monte Cristo,B7000XAI,Buenos Aires
+310,Cantera San Luis,B7000XAJ,Buenos Aires
+311,Cantera Villalonga,B8504XAB,Buenos Aires
+312,Canteras de Gregorini,B7401XAA,Buenos Aires
+314,Capdepont,B6612XAA,Buenos Aires
+316,Capitan Castro,B6461XAA,Buenos Aires
+320,Cardenal Cagliero,B8506XAD,Buenos Aires
+322,Cari Larquea,B7119XAE,Buenos Aires
+327,Carlos Lemee,B2812XAJ,Buenos Aires
+329,Carlos Salas,B6453XAA,Buenos Aires
+336,Cascada,B7547XAA,Buenos Aires
+338,Casey,B6417XAB,Buenos Aires
+343,Centenario,B6535XAE,Buenos Aires
+345,Centro Guerrero,B7114XAE,Buenos Aires
+346,Cerrito,B6237XAA,Buenos Aires
+347,Cerro Aguila,B7403XAA,Buenos Aires
+348,Cerro de la Gloria Canal 15,B7101XAC,Buenos Aires
+349,Cerro de los Leones,B7000XAK,Buenos Aires
+350,Cerro Negro,B7403XAH,Buenos Aires
+351,Cerro Sotuyo,B7403XAI,Buenos Aires
+353,Chacra Experimental Inta,B2700XAC,Buenos Aires
+354,Chala Quilca,B7406XAH,Buenos Aires
+355,Chancay,B6017XAA,Buenos Aires
+356,Chapaleufu,B7203XAJ,Buenos Aires
+357,Chapar,B7020XAB,Buenos Aires
+358,Chapi Talo,B6341XAA,Buenos Aires
+359,Chas,B7223XAH,Buenos Aires
+361,Chasico,B8117XAF,Buenos Aires
+362,Chenaut,B2764XAB,Buenos Aires
+363,Chiclana,B6476XAA,Buenos Aires
+366,Choique,B8000XAS,Buenos Aires
+373,Claraz,B7005XAA,Buenos Aires
+374,Claudio C Molina,B7515XAB,Buenos Aires
+375,Claverie,B7163XAO,Buenos Aires
+377,Cobo,B7612XAB,Buenos Aires
+378,Cochrane,B8118XAA,Buenos Aires
+379,Colegio San Pablo,B2752XAE,Buenos Aires
+380,Coliqueo,B6743XAA,Buenos Aires
+381,Colman,B7201XAE,Buenos Aires
+383,Colonia Alberdi,B6034XAB,Buenos Aires
+384,Colonia Barga,B8142XAB,Buenos Aires
+385,Colonia Baron Hirsch,B6441XAA,Buenos Aires
+386,Colonia Beethoven,B1921XAB,Buenos Aires
+387,Colonia Bella Vista,B8000XAI,Buenos Aires
+388,Colonia Cuarenta y Tres,B8136XAH,Buenos Aires
+389,Colonia de Vac Chapadmalal,B7618XAB,Buenos Aires
+390,Colonia Dr Gdor Udaondo,B8180XAA,Buenos Aires
+391,Colonia el Balde,B6403XAD,Buenos Aires
+392,Colonia el Guanaco,B8142XAC,Buenos Aires
+393,Colonia el Pincen,B8181XAA,Buenos Aires
+394,Colonia Escuela Argentina,B7136XAB,Buenos Aires
+395,Colonia Ferrari,B7172XAA,Buenos Aires
+396,Colonia Hinojo,B7318XAA,Buenos Aires
+397,Colonia Hipolito Yrigoyen,B8181XAB,Buenos Aires
+398,Colonia Hogar R Gutierrez,B1727XAB,Buenos Aires
+399,Colonia Inchausti,B6667XAA,Buenos Aires
+400,Colonia la Beba,B6003XAE,Buenos Aires
+401,Colonia la Catalina,B8136XAD,Buenos Aires
+402,Colonia la Celina,B8508XAB,Buenos Aires
+403,Colonia la Esperanza,B6531XAD,Buenos Aires
+404,Colonia la Estrella,B8185XAG,Buenos Aires
+405,Colonia la Graciela,B8142XAD,Buenos Aires
+406,Colonia la Invernada,B2751XAI,Buenos Aires
+407,Colonia la Merced,B8105XAF,Buenos Aires
+408,Colonia la Nena,B2751XAB,Buenos Aires
+409,Colonia la Noria,B2751XAG,Buenos Aires
+410,Colonia la Reina,B2751XAH,Buenos Aires
+411,Colonia la Vanguardia,B2711XAD,Buenos Aires
+412,Colonia la Vascongada,B8183XAB,Buenos Aires
+413,Colonia Laborderoy,B2751XAC,Buenos Aires
+414,Colonia Lapin,B8185XAH,Buenos Aires
+415,Colonia las Yescas,B6500XAD,Buenos Aires
+416,Colonia Leven,B8185XAI,Buenos Aires
+417,Colonia los Alamos,B8142XAE,Buenos Aires
+418,Colonia los Alfalfares,B8132XAF,Buenos Aires
+419,Colonia los Bosques,B6018XAE,Buenos Aires
+420,Colonia los Hornos,B6007XAA,Buenos Aires
+421,Colonia los Huesos,B6018XAA,Buenos Aires
+422,Colonia los Toldos,B2751XAD,Buenos Aires
+423,Colonia los Tres Usaris,B2760XAB,Buenos Aires
+424,Colonia Mauricio,B6531XAE,Buenos Aires
+425,Colonia Miguel Esteverena,B8508XAA,Buenos Aires
+426,Colonia Monte la Plata,B8144XAC,Buenos Aires
+427,Colonia Murature,B6430XAB,Buenos Aires
+428,Colonia Nac de Alienados,B6708XAD,Buenos Aires
+429,Colonia Nacional de Menores,B1727XAC,Buenos Aires
+430,Colonia Naviera,B6341XAB,Buenos Aires
+431,Colonia Nieves,B7318XAC,Buenos Aires
+432,Colonia Ocampo,B8134XAF,Buenos Aires
+433,Colonia Palantelen,B6643XAC,Buenos Aires
+434,Colonia Phillipson N 1,B8185XAJ,Buenos Aires
+435,Colonia Pueblo Ruso,B8144XAA,Buenos Aires
+436,Colonia Rusa,B7318XAD,Buenos Aires
+437,Colonia San Eduardo,B6646XAA,Buenos Aires
+438,Colonia San Enrique,B8132XAA,Buenos Aires
+439,Colonia San Francisco,B8142XAF,Buenos Aires
+440,Colonia San Martin,B8164XAB,Buenos Aires
+442,Colonia San Pedro,B8164XAC,Buenos Aires
+443,Colonia San Ramon,B6437XAA,Buenos Aires
+444,Colonia Santa Maria,B6535XAF,Buenos Aires
+445,Colonia Santa Mariana,B8185XAQ,Buenos Aires
+446,Colonia Santa Rosa,B8181XAD,Buenos Aires
+447,Colonia Sere,B6459XAA,Buenos Aires
+448,Colonia Stegman,B2751XAJ,Buenos Aires
+449,Colonia Tapatta,B8142XAG,Buenos Aires
+450,Colonia Velez,B2933XAA,Buenos Aires
+451,Colonia Zambungo,B6628XAB,Buenos Aires
+452,Comahue Oeste,B6601XAC,Buenos Aires
+453,Comandante Giribone,B7135XAA,Buenos Aires
+456,Condarco,B6233XAC,Buenos Aires
+457,Cooper,B7639XAB,Buenos Aires
+459,Coraceros,B6465XAA,Buenos Aires
+460,Corazzi,B6405XAB,Buenos Aires
+461,Corbett,B6507XAA,Buenos Aires
+462,Coronel Boerr,B7200XAA,Buenos Aires
+465,Coronel Falcon,B8118XAC,Buenos Aires
+467,Coronel Isleños,B2747XAA,Buenos Aires
+468,Coronel Marcelino Freyre,B6555XAC,Buenos Aires
+471,Coronel Rodolfo Bunge,B7313XAD,Buenos Aires
+472,Coronel Segui,B6628XAC,Buenos Aires
+475,Corti,B8118XAB,Buenos Aires
+477,Costa Azul,B7112XAD,Buenos Aires
+478,Costa Bonita Balneario,B7631XAA,Buenos Aires
+479,Costa Brava,B2914XAA,Buenos Aires
+482,Covello,B7305XAC,Buenos Aires
+483,Cristiano Muerto,B7503XAA,Buenos Aires
+484,Cristino Benavidez,B1913XAA,Buenos Aires
+485,Crotto,B7307XAA,Buenos Aires
+487,Cuartel 2,B1987XAC,Buenos Aires
+488,Cuartel 6,B7136XAC,Buenos Aires
+489,Cuartel 8,B7135XAB,Buenos Aires
+490,Cuartel Cuatro,B6700XAD,Buenos Aires
+491,Cuartel II,B7300XAI,Buenos Aires
+492,Cuartel IV,B7110XAF,Buenos Aires
+493,Cuartel V,B6000XAN,Buenos Aires
+494,Cuartel VII,B6050XAD,Buenos Aires
+495,Cucha Cucha,B6746XAA,Buenos Aires
+496,Cucullu,B6723XAA,Buenos Aires
+497,Cuenca,B6231XAA,Buenos Aires
+498,Cura Malal,B7548XAA,Buenos Aires
+499,Curaru,B6451XAD,Buenos Aires
+500,D Orbigny,B7541XAA,Buenos Aires
+502,Dantas,B1987XAE,Buenos Aires
+505,De Bruyn,B6031XAD,Buenos Aires
+512,Delfin Huergo,B8185XAM,Buenos Aires
+513,Delgado,B6007XAB,Buenos Aires
+514,Dennehy,B6516XAD,Buenos Aires
+515,Despeñaderos,B7531XAA,Buenos Aires
+516,Destileria Fiscal,B1925XAD,Buenos Aires
+517,Desvio Aguirre,B7000XAL,Buenos Aires
+518,Desvio el Chingolo,B6031XAA,Buenos Aires
+519,Desvio Garbarini,B6509XAA,Buenos Aires
+520,Desvio Kilometro 234,B6503XAA,Buenos Aires
+521,Desvio Kilometro 55,B1981XAC,Buenos Aires
+522,Desvio Kilometro 95,B6007XAC,Buenos Aires
+523,Desvio San Alejo,B8180XAC,Buenos Aires
+524,Desvio Sandrini,B8109XAC,Buenos Aires
+525,Diego Gaynor,B2812XAE,Buenos Aires
+526,Dionisia,B7603XAH,Buenos Aires
+528,Dock Central,B1925XAE,Buenos Aires
+530,Doctor Domingo Cabred,B6708XAB,Buenos Aires
+531,Doctor Domingo Harosteguy,B7212XAA,Buenos Aires
+535,Don Cipriano,B7135XAC,Buenos Aires
+537,Don Vicente,B7116XAD,Buenos Aires
+538,Dos Hermanos,B6042XAA,Buenos Aires
+539,Dos Naciones,B7007XAF,Buenos Aires
+540,Doyhenard,B1980XAB,Buenos Aires
+542,Drabble,B6230XAA,Buenos Aires
+544,Drysdale,B6455XAB,Buenos Aires
+545,Ducos,B8170XAC,Buenos Aires
+549,Duhau,B6405XAC,Buenos Aires
+550,Durañona,B7401XAD,Buenos Aires
+551,Dussaud,B6050XAC,Buenos Aires
+552,Edmundo Perkins,B6030XAB,Buenos Aires
+553,Eduardo Costa,B6064XAA,Buenos Aires
+554,Egaña,B7013XAA,Buenos Aires
+555,El 60,B7100XAA,Buenos Aires
+556,El Alba,B7225XAD,Buenos Aires
+557,El Araza,B7249XAB,Buenos Aires
+558,El Arbolito,B2721XAA,Buenos Aires
+559,El Bagual,B8504XAE,Buenos Aires
+560,El Bombero,B7507XAB,Buenos Aires
+561,El Boqueron,B7150XAC,Buenos Aires
+562,El Camoati,B6537XAB,Buenos Aires
+563,El Carbon,B7135XAD,Buenos Aires
+564,El Carmen,B2754XAB,Buenos Aires
+565,El Carmen de Langueyu,B7203XAF,Buenos Aires
+566,El Carpincho,B6537XAC,Buenos Aires
+567,El Carretero,B7500XAB,Buenos Aires
+568,El Centinela,B7607XAE,Buenos Aires
+569,El Chaja,B7163XAP,Buenos Aires
+570,El Chalar,B7201XAB,Buenos Aires
+571,El Cheique,B7007XAG,Buenos Aires
+572,El Chelforo,B7530XAG,Buenos Aires
+574,El Cortapie,B8117XAH,Buenos Aires
+575,El Cristiano,B7521XAA,Buenos Aires
+576,El Cruce,B7620XAK,Buenos Aires
+577,El Descanso,B2935XAD,Buenos Aires
+578,El Destino,B7116XAB,Buenos Aires
+579,El Dia,B6241XAA,Buenos Aires
+580,El Divisorio,B7531XAB,Buenos Aires
+582,El Durazno,B1735XAA,Buenos Aires
+583,El Espinillo,B2946XAB,Buenos Aires
+584,El Eucaliptus,B7130XAI,Buenos Aires
+585,El Fenix,B2804XAA,Buenos Aires
+586,El Gallo,B7000XAM,Buenos Aires
+588,El Gualicho,B7200XAB,Buenos Aires
+589,El Hervidero,B7007XAD,Buenos Aires
+590,El Jabali,B6531XAA,Buenos Aires
+591,El Jaguel,B2707XAC,Buenos Aires
+592,El Junco,B7620XAG,Buenos Aires
+593,El Jupiter,B2916XAB,Buenos Aires
+594,El Lenguaraz,B7635XAE,Buenos Aires
+596,El Lucero,B7513XAA,Buenos Aires
+597,El Luchador,B7313XAE,Buenos Aires
+598,El Mangrullo,B7260XAG,Buenos Aires
+600,El Mirador,B7303XAA,Buenos Aires
+601,El Moro,B7623XAF,Buenos Aires
+602,El Nacional,B2740XAC,Buenos Aires
+603,El Nilo,B6435XAA,Buenos Aires
+606,El Paraiso,B8144XAB,Buenos Aires
+607,El Parche,B7263XAD,Buenos Aires
+608,El Parque,B6341XAD,Buenos Aires
+609,El Pelado,B2720XAA,Buenos Aires
+610,El Pensamiento,B7531XAC,Buenos Aires
+612,El Peregrino,B6053XAA,Buenos Aires
+613,El Pino,B1907XAA,Buenos Aires
+614,El Pito,B7641XAC,Buenos Aires
+615,El Porvenir,B6550XAB,Buenos Aires
+616,El Quemado,B2751XAE,Buenos Aires
+617,El Recado,B6474XAB,Buenos Aires
+618,El Refugio,B7612XAC,Buenos Aires
+619,El Retiro,B2741XAH,Buenos Aires
+620,El Rincon,B8146XAA,Buenos Aires
+621,El Rosario,B1921XAA,Buenos Aires
+622,El Santiago,B6463XAB,Buenos Aires
+623,El Sauce,B7303XAB,Buenos Aires
+624,El Siasgo,B7223XAI,Buenos Aires
+625,El Silencio,B2752XAA,Buenos Aires
+627,El Soldado,B7600XAP,Buenos Aires
+630,El Tatu,B2801XAB,Buenos Aires
+631,El Tejar,B6515XAA,Buenos Aires
+632,El Trebañon,B6437XAB,Buenos Aires
+633,El Triangulo,B7500XAC,Buenos Aires
+634,El Trigo,B7207XAA,Buenos Aires
+635,El Trio,B6467XAC,Buenos Aires
+637,El Vence,B7116XAE,Buenos Aires
+638,El Verano,B7620XAA,Buenos Aires
+639,El Vigilante,B7174XAB,Buenos Aires
+640,El Volante,B7620XAB,Buenos Aires
+641,El Zorro,B8151XAA,Buenos Aires
+642,Elias Romero,B1727XAD,Buenos Aires
+643,Elordi,B6242XAA,Buenos Aires
+645,Emiliano Reynoso,B7260XAH,Buenos Aires
+646,Emilio Ayerza,B6628XAF,Buenos Aires
+648,Emilio Lamarca,B8505XAB,Buenos Aires
+649,Emita,B6634XAA,Buenos Aires
+650,Emma,B7263XAE,Buenos Aires
+651,Empalme,B1633XAA,Buenos Aires
+652,Empalme Cerro Chato,B7000XAN,Buenos Aires
+655,Empalme Piedra Echada,B8117XAE,Buenos Aires
+656,Empalme Querandies,B7401XAE,Buenos Aires
+657,Encina,B6077XAC,Buenos Aires
+658,Energia,B7641XAD,Buenos Aires
+659,Enrique Fynn,B1741XAE,Buenos Aires
+660,Enrique Lavalle,B6467XAB,Buenos Aires
+662,Epumer,B6443XAC,Buenos Aires
+664,Erize,B8181XAE,Buenos Aires
+665,Ernestina,B6665XAA,Buenos Aires
+666,Esc Nav Militar Rio Sant,B1927XAA,Buenos Aires
+667,Escalada,B2801XAA,Buenos Aires
+668,Escuela Agricola Don Bosco,B1815XAA,Buenos Aires
+669,Escuela Agricola Rural,B7174XAC,Buenos Aires
+670,Escuela Agricola Salesiana,B6003XAA,Buenos Aires
+671,Espadaña,B7163XAE,Buenos Aires
+672,Espartillar,B1987XAD,Buenos Aires
+673,Espigas,B6561XAB,Buenos Aires
+674,Espora,B6601XAG,Buenos Aires
+675,Esquina de Crotto,B7100XAI,Buenos Aires
+676,Est Jauregui Va Flandria,B6706XAA,Buenos Aires
+677,Est San Francisco Belloq,B7505XAA,Buenos Aires
+678,Establecimiento San Miguel,B1629XAG,Buenos Aires
+679,Estacion Ascension,B6003XAB,Buenos Aires
+680,Estacion Baradero,B2942XAA,Buenos Aires
+681,Estacion Barrow,B7500XAD,Buenos Aires
+682,Estacion Caiomuta,B6339XAB,Buenos Aires
+683,Estacion Coronel Pringles,B7536XAB,Buenos Aires
+684,Estacion General Arenales,B6005XAB,Buenos Aires
+686,Estacion Lago Epecuen,B6431XAB,Buenos Aires
+687,Estacion Lazzarino,B7300XAE,Buenos Aires
+688,Estacion Lincoln,B6070XAA,Buenos Aires
+690,Estacion Provincial,B6501XAC,Buenos Aires
+691,Estancia Chapar,B7020XAD,Buenos Aires
+692,Estancia las Gamas,B2723XAA,Buenos Aires
+693,Estancia las Isletas,B8148XAB,Buenos Aires
+694,Estancia Mitikili,B6075XAA,Buenos Aires
+695,Estancia San Antonio,B6075XAB,Buenos Aires
+696,Estancia San Claudio,B6537XAD,Buenos Aires
+697,Estancia San Rafael,B7130XAN,Buenos Aires
+698,Estancia Santa Catalina,B2761XAA,Buenos Aires
+699,Estancia Vieja,B7225XAA,Buenos Aires
+700,Estancias,B2909XAB,Buenos Aires
+701,Esteban a Gascon,B8185XAN,Buenos Aires
+702,Esteban de Luca,B6475XAC,Buenos Aires
+703,Esteban Diaz,B6607XAB,Buenos Aires
+704,Estela,B8127XAA,Buenos Aires
+705,Esther,B7260XAI,Buenos Aires
+706,Estomba,B8118XAD,Buenos Aires
+707,Estrella Naciente,B6725XAE,Buenos Aires
+708,Estrugamou,B7207XAB,Buenos Aires
+709,Etchegoyen,B6703XAA,Buenos Aires
+710,Exaltacion de la Cruz,B2812XAF,Buenos Aires
+714,Fair,B7153XAB,Buenos Aires
+715,Faro,B8150XAD,Buenos Aires
+716,Faro Querandi,B7165XAB,Buenos Aires
+717,Faro San Antonio,B7103XAA,Buenos Aires
+718,Faro Segunda Barrancosa,B8504XAC,Buenos Aires
+720,Fatralo,B6430XAE,Buenos Aires
+721,Fauzon,B6500XAE,Buenos Aires
+726,Flamenco,B2763XAB,Buenos Aires
+731,Fontezuela,B2718XAB,Buenos Aires
+732,Fortin Acha,B6031XAC,Buenos Aires
+733,Fortin Chaco,B8160XAA,Buenos Aires
+734,Fortin Irene,B7316XAC,Buenos Aires
+735,Fortin Lavalle,B7404XAA,Buenos Aires
+736,Fortin Mercedes,B8148XAC,Buenos Aires
+737,Fortin Necochea,B7406XAI,Buenos Aires
+739,Fortin Paunero,B6417XAA,Buenos Aires
+741,Fortin Viejo,B8148XAA,Buenos Aires
+742,Fortin Vigilancia,B6073XAA,Buenos Aires
+744,Francisco Ayerza,B2700XAF,Buenos Aires
+745,Francisco Berra,B7221XAC,Buenos Aires
+746,Francisco Casal,B6230XAE,Buenos Aires
+747,Francisco de Vitoria,B6403XAF,Buenos Aires
+748,Francisco J Meeks,B7301XAE,Buenos Aires
+750,Francisco Magnano,B6475XAD,Buenos Aires
+751,Francisco Murature,B6341XAE,Buenos Aires
+752,Franklin,B6614XAC,Buenos Aires
+754,Frigorifico Armour,B1923XAD,Buenos Aires
+755,Frigorifico las Palmas,B2800XAE,Buenos Aires
+756,Fuerte Argentino,B8160XAB,Buenos Aires
+757,Fuerte Barragan,B1925XAA,Buenos Aires
+758,Fulton,B7007XAK,Buenos Aires
+759,Funke,B7220XAA,Buenos Aires
+761,Galera de Torres,B7203XAB,Buenos Aires
+762,Galo Llorente,B6513XAB,Buenos Aires
+763,Gandara,B7136XAE,Buenos Aires
+764,Garcia del Rio,B8162XAA,Buenos Aires
+768,Garro,B8103XAB,Buenos Aires
+769,General Alvarado,B7607XAB,Buenos Aires
+775,General Hornos,B1741XAF,Buenos Aires
+780,General Mansilla,B1911XAA,Buenos Aires
+788,General Rondeau,B8124XAA,Buenos Aires
+793,Gerente Cilley,B6507XAD,Buenos Aires
+803,Gobernador Arias,B6531XAF,Buenos Aires
+807,Gobernador Ortiz de Rosas,B7260XAJ,Buenos Aires
+821,Goroso,B7163XAI,Buenos Aires
+823,Gouin,B6727XAB,Buenos Aires
+827,Graciarena,B6335XAA,Buenos Aires
+836,Guanaco,B6476XAC,Buenos Aires
+849,Haras Chacabuco,B7223XAA,Buenos Aires
+850,Haras Chapadmalal,B7605XAD,Buenos Aires
+851,Haras el Carmen,B6627XAC,Buenos Aires
+858,Haras la Elvira,B6612XAB,Buenos Aires
+860,Haras los Cardales,B2752XAF,Buenos Aires
+864,Haras San Ignacio,B7136XAF,Buenos Aires
+865,Haras San Jacinto,B2705XAC,Buenos Aires
+867,Heavy,B6723XAB,Buenos Aires
+871,Herrera Vegas,B6557XAF,Buenos Aires
+875,Hogar Mariano Ortiz Basualdo,B7172XAB,Buenos Aires
+878,Hospital Necochea,B7630XAA,Buenos Aires
+879,Hospital San Antonio de la Lla,B2700XAG,Buenos Aires
+881,Hueso Clavado,B7500XAE,Buenos Aires
+882,Huetel,B6511XAA,Buenos Aires
+883,Hunter,B2707XAE,Buenos Aires
+885,Husares,B6455XAA,Buenos Aires
+886,Ibañez,B7223XAB,Buenos Aires
+887,Igarzabal,B8512XAB,Buenos Aires
+890,India Muerta,B7114XAA,Buenos Aires
+895,Ingeniero Balbin,B6051XAA,Buenos Aires
+896,Ingeniero Beaugey,B6457XAA,Buenos Aires
+898,Ingeniero de Madrid,B6651XAA,Buenos Aires
+900,Ingeniero Moneta,B2935XAE,Buenos Aires
+901,Ingeniero Silveyra,B6743XAB,Buenos Aires
+904,Ingeniero Williams,B6605XAE,Buenos Aires
+905,Inocencio Sosa,B6451XAK,Buenos Aires
+906,Invernadas,B7163XAK,Buenos Aires
+908,Iraola,B7009XAA,Buenos Aires
+909,Irene,B7507XAA,Buenos Aires
+913,Isla Catarelli,B8111XAA,Buenos Aires
+914,Isla los Laureles,B2931XAA,Buenos Aires
+915,Isla Martin Garcia,B1601XAA,Buenos Aires
+916,Isla Paulino,B1929XAC,Buenos Aires
+917,Isla Santiago,B1929XAA,Buenos Aires
+918,Isla Verde,B8146XAB,Buenos Aires
+919,Islas,B6667XAB,Buenos Aires
+920,Isondu,B7163XAL,Buenos Aires
+921,Iturregui,B6557XAD,Buenos Aires
+923,Jarrilla,B8508XAD,Buenos Aires
+927,Jose B Casas,B8508XAE,Buenos Aires
+929,Jose Ferrari,B1911XAB,Buenos Aires
+932,Jose M Micheo,B7263XAG,Buenos Aires
+933,Jose Maria Blanco,B6409XAA,Buenos Aires
+935,Jose Sojo,B7260XAK,Buenos Aires
+937,Juan Atucha,B7245XAE,Buenos Aires
+939,Juan Blaquier,B7260XAL,Buenos Aires
+942,Juan F Ibarra,B6551XAA,Buenos Aires
+943,Juan G Pujol,B2909XAC,Buenos Aires
+948,Juan Tronconi,B7247XAB,Buenos Aires
+949,Juan V Cilley,B6430XAF,Buenos Aires
+950,Juan Vela,B6663XAA,Buenos Aires
+951,Juan Vucetich Ex Dr R Levene,B1894XAA,Buenos Aires
+953,Juancho,B7169XAA,Buenos Aires
+954,Julio Arditi,B1913XAC,Buenos Aires
+956,Kenny,B2745XAA,Buenos Aires
+957,Kilometro 102,B2763XAA,Buenos Aires
+958,Kilometro 103,B1915XAD,Buenos Aires
+959,Kilometro 108,B6723XAC,Buenos Aires
+960,Kilometro 11,B8101XAA,Buenos Aires
+961,Kilometro 112,B7240XAB,Buenos Aires
+962,Kilometro 116,B6605XAC,Buenos Aires
+963,Kilometro 117,B6603XAA,Buenos Aires
+964,Kilometro 125,B6720XAB,Buenos Aires
+965,Kilometro 128,B7221XAD,Buenos Aires
+966,Kilometro 146,B7226XAA,Buenos Aires
+967,Kilometro 172,B2935XAF,Buenos Aires
+968,Kilometro 184,B2946XAC,Buenos Aires
+969,Kilometro 187,B2741XAB,Buenos Aires
+970,Kilometro 212,B7100XAB,Buenos Aires
+971,Kilometro 282,B6017XAD,Buenos Aires
+972,Kilometro 321,B6070XAD,Buenos Aires
+973,Kilometro 322,B6533XAG,Buenos Aires
+974,Kilometro 333,B7400XAD,Buenos Aires
+975,Kilometro 352,B6075XAD,Buenos Aires
+976,Kilometro 356,B6075XAE,Buenos Aires
+977,Kilometro 36,B2705XAD,Buenos Aires
+978,Kilometro 386,B6457XAB,Buenos Aires
+979,Kilometro 393,B6467XAA,Buenos Aires
+980,Kilometro 404,B7005XAD,Buenos Aires
+981,Kilometro 433,B7313XAC,Buenos Aires
+982,Kilometro 44,B1980XAC,Buenos Aires
+983,Kilometro 440,B7635XAF,Buenos Aires
+984,Kilometro 45,B1635XAB,Buenos Aires
+985,Kilometro 53,B1727XAF,Buenos Aires
+986,Kilometro 563,B8151XAC,Buenos Aires
+987,Kilometro 58,B1981XAE,Buenos Aires
+988,Kilometro 59,B1814XAA,Buenos Aires
+989,Kilometro 61,B1629XAH,Buenos Aires
+990,Kilometro 652,B8109XAA,Buenos Aires
+991,Kilometro 666,B8105XAB,Buenos Aires
+992,Kilometro 697,B8144XAD,Buenos Aires
+993,Kilometro 70,B1981XAG,Buenos Aires
+994,Kilometro 77,B1737XAA,Buenos Aires
+995,Kilometro 79,B1741XAG,Buenos Aires
+996,Kilometro 82,B1980XAD,Buenos Aires
+997,Kilometro 83,B6605XAH,Buenos Aires
+998,Kilometro 88,B7220XAE,Buenos Aires
+999,Kilometro 9 Sud,B8101XAB,Buenos Aires
+1000,Kilometro 90,B6605XAG,Buenos Aires
+1001,Kilometro 92,B1911XAC,Buenos Aires
+1002,Kilometro 95,B6031XAB,Buenos Aires
+1003,Krabbe,B7530XAC,Buenos Aires
+1004,La Adela,B6533XAC,Buenos Aires
+1005,La Adelaida,B7243XAC,Buenos Aires
+1006,La Alameda,B7130XAK,Buenos Aires
+1007,La Alcira,B7116XAF,Buenos Aires
+1008,La Amalia,B7130XAL,Buenos Aires
+1009,La Amistad,B7130XAM,Buenos Aires
+1010,La Amorilla,B7119XAF,Buenos Aires
+1011,La Angelita,B6003XAC,Buenos Aires
+1012,La Argentina,B1865XAA,Buenos Aires
+1013,La Armonia,B6555XAE,Buenos Aires
+1014,La Aurora,B7009XAB,Buenos Aires
+1015,La Azotea,B7007XAJ,Buenos Aires
+1016,La Azotea Grande,B7130XAC,Buenos Aires
+1017,La Azucena,B7005XAC,Buenos Aires
+1018,La Balandra,B1923XAE,Buenos Aires
+1019,La Ballena,B7521XAB,Buenos Aires
+1020,La Ballenera,B7603XAA,Buenos Aires
+1021,La Barrancosa,B7260XAA,Buenos Aires
+1022,La Beba,B6003XAF,Buenos Aires
+1023,La Blanca,B8136XAI,Buenos Aires
+1024,La Blanqueada,B7243XAF,Buenos Aires
+1025,La Bolsa,B2933XAB,Buenos Aires
+1026,La Brava,B7620XAD,Buenos Aires
+1027,La Buana Moza,B2930XAF,Buenos Aires
+1028,La Calera,B7020XAH,Buenos Aires
+1029,La Caleta,B7609XAB,Buenos Aires
+1030,La California Argentina,B6616XAA,Buenos Aires
+1031,La Campana,B7260XAB,Buenos Aires
+1032,La Carlota,B6628XAG,Buenos Aires
+1033,La Carreta,B6471XAD,Buenos Aires
+1034,La Cautiva,B6403XAA,Buenos Aires
+1035,La Celia,B8144XAE,Buenos Aires
+1036,La Celina,B8136XAA,Buenos Aires
+1037,La Central,B6725XAD,Buenos Aires
+1038,La Choza,B1737XAB,Buenos Aires
+1039,La Chumbeada,B7223XAC,Buenos Aires
+1041,La Colmena,B7603XAB,Buenos Aires
+1042,La Colorada,B7119XAG,Buenos Aires
+1043,La Colorada Chica,B8126XAB,Buenos Aires
+1044,La Constancia,B7153XAC,Buenos Aires
+1045,La Copeta,B7545XAD,Buenos Aires
+1046,La Cora,B2700XAH,Buenos Aires
+1047,La Corina,B7114XAD,Buenos Aires
+1048,La Corinco,B7114XAF,Buenos Aires
+1049,La Costa,B1814XAB,Buenos Aires
+1050,La Cotorra,B6461XAB,Buenos Aires
+1051,La Delfina,B6017XAE,Buenos Aires
+1052,La Delia,B2740XAD,Buenos Aires
+1053,La Despierta,B7116XAG,Buenos Aires
+1054,La Dorita,B6538XAA,Buenos Aires
+1055,La Dormilona,B6628XAH,Buenos Aires
+1057,La Elma,B7603XAC,Buenos Aires
+1058,La Esperanza,B2915XAC,Buenos Aires
+1059,La Esperanza Gral Madariaga,B7163XAQ,Buenos Aires
+1060,La Esperanza Rosas las Flores,B7205XAB,Buenos Aires
+1061,La Estrella,B7403XAD,Buenos Aires
+1062,La Eva,B8136XAB,Buenos Aires
+1063,La Feliciana,B7521XAC,Buenos Aires
+1064,La Florida,B6720XAA,Buenos Aires
+1066,La Garita,B1814XAC,Buenos Aires
+1067,La Gaviota,B7521XAD,Buenos Aires
+1068,La Gleva,B8134XAG,Buenos Aires
+1069,La Gloria,B6665XAC,Buenos Aires
+1070,La Gracielita,B1623XAD,Buenos Aires
+1071,La Gregoria,B6437XAC,Buenos Aires
+1072,La Herminia,B6437XAD,Buenos Aires
+1073,La Higuera,B6475XAA,Buenos Aires
+1074,La Horqueta,B7500XAF,Buenos Aires
+1075,La Huayqueria,B6005XAD,Buenos Aires
+1076,La Invencible,B2745XAB,Buenos Aires
+1077,La Isabel,B7212XAD,Buenos Aires
+1078,La Larga,B6555XAF,Buenos Aires
+1079,La Larga Nueva,B7116XAI,Buenos Aires
+1080,La Lata,B2812XAG,Buenos Aires
+1081,La Leonor,B1814XAF,Buenos Aires
+1082,La Limpia,B6645XAA,Buenos Aires
+1083,La Loma,B6700XAE,Buenos Aires
+1084,La Lucia,B7603XAD,Buenos Aires
+1088,La Luna,B8150XAB,Buenos Aires
+1089,La Luz,B7225XAG,Buenos Aires
+1090,La Madrecita,B7603XAE,Buenos Aires
+1091,La Mantequeria,B7300XAB,Buenos Aires
+1092,La Manuela,B6439XAA,Buenos Aires
+1093,La Margarita,B6471XAE,Buenos Aires
+1094,La Maria,B6640XAA,Buenos Aires
+1095,La Martina,B8109XAD,Buenos Aires
+1096,La Mascota,B8132XAG,Buenos Aires
+1097,La Matilde,B2931XAC,Buenos Aires
+1098,La Nacion,B2707XAA,Buenos Aires
+1099,La Narcisa,B7403XAE,Buenos Aires
+1100,La Navarra,B7400XAE,Buenos Aires
+1101,La Negra,B7005XAB,Buenos Aires
+1102,La Nelida,B2740XAE,Buenos Aires
+1103,La Nevada,B7545XAE,Buenos Aires
+1105,La Noria,B1814XAE,Buenos Aires
+1106,La Numancia,B7000XAC,Buenos Aires
+1107,La Nutria,B7313XAF,Buenos Aires
+1108,La Oriental,B6022XAC,Buenos Aires
+1109,La Pala,B6341XAC,Buenos Aires
+1110,La Palma,B7007XAH,Buenos Aires
+1111,La Palmira,B7403XAF,Buenos Aires
+1112,La Pampa,B7263XAA,Buenos Aires
+1113,La para,B7620XAE,Buenos Aires
+1114,La Pastora,B7500XAA,Buenos Aires
+1115,La Paz,B7245XAF,Buenos Aires
+1116,La Paz Chica,B7247XAC,Buenos Aires
+1117,La Peregrina,B7601XAC,Buenos Aires
+1118,La Perla,B6550XAC,Buenos Aires
+1119,La Pesqueria,B2800XAA,Buenos Aires
+1120,La Piedra,B7116XAJ,Buenos Aires
+1121,La Pinta,B6007XAD,Buenos Aires
+1123,La Playa,B7631XAE,Buenos Aires
+1124,La Pochola,B8124XAB,Buenos Aires
+1125,La Porteña,B6407XAB,Buenos Aires
+1126,La Posada,B1980XAE,Buenos Aires
+1127,La Posta,B7112XAA,Buenos Aires
+1128,La Pradera,B6453XAB,Buenos Aires
+1129,La Primavera,B1921XAE,Buenos Aires
+1130,La Primitiva,B7630XAD,Buenos Aires
+1131,La Proteccion,B7112XAB,Buenos Aires
+1132,La Protegida,B7311XAD,Buenos Aires
+1133,La Providencia,B7403XAJ,Buenos Aires
+1134,La Querencia,B2912XAA,Buenos Aires
+1135,La Rabia,B6667XAC,Buenos Aires
+1136,La Razon,B7260XAD,Buenos Aires
+1137,La Reforma,B7245XAG,Buenos Aires
+1139,La Reserva,B7536XAC,Buenos Aires
+1140,La Rica,B6623XAB,Buenos Aires
+1141,La Rinconada,B7245XAA,Buenos Aires
+1142,La Rosada,B2812XAH,Buenos Aires
+1143,La Rosalia,B8187XAA,Buenos Aires
+1144,La Sara,B6612XAC,Buenos Aires
+1145,La Sarita,B2751XAK,Buenos Aires
+1146,La Saudade,B8174XAB,Buenos Aires
+1147,La Sirena,B8150XAC,Buenos Aires
+1148,La Soberana,B8154XAA,Buenos Aires
+1149,La Sofia,B6535XAC,Buenos Aires
+1150,La Sombra,B8136XAC,Buenos Aires
+1151,La Sortija,B7517XAB,Buenos Aires
+1152,La Suiza,B6050XAB,Buenos Aires
+1153,La Tablada,B7163XAA,Buenos Aires
+1154,La Talina,B1921XAF,Buenos Aires
+1155,La Tigra,B7500XAG,Buenos Aires
+1156,La Tobiana,B7174XAE,Buenos Aires
+1157,La Tomasa,B7403XAK,Buenos Aires
+1158,La Torrecita,B6553XAA,Buenos Aires
+1159,La Tribu,B6015XAE,Buenos Aires
+1160,La Trinidad,B6003XAD,Buenos Aires
+1161,La Union,B7160XAA,Buenos Aires
+1162,La Valerosa,B6601XAD,Buenos Aires
+1163,La Vanguardia,B2715XAC,Buenos Aires
+1164,La Vascongada,B8181XAC,Buenos Aires
+1165,La Verde,B6601XAE,Buenos Aires
+1166,La Victoria,B7225XAI,Buenos Aires
+1167,La Victoria Desvio,B6627XAE,Buenos Aires
+1169,La Virginia,B8115XAA,Buenos Aires
+1170,La Viticola,B8122XAA,Buenos Aires
+1171,La Yesca,B6513XAA,Buenos Aires
+1172,La Zanja,B6400XAB,Buenos Aires
+1173,La Zarateña,B6077XAD,Buenos Aires
+1175,Lago Epecuen,B6431XAA,Buenos Aires
+1177,Laguna Brava,B7620XAF,Buenos Aires
+1178,Laguna Chasico,B8134XAH,Buenos Aires
+1179,Laguna de Gomez,B6001XAA,Buenos Aires
+1180,Laguna de Lobos,B7240XAA,Buenos Aires
+1181,Laguna de los Padres,B7601XAD,Buenos Aires
+1182,Laguna del Cura,B6501XAA,Buenos Aires
+1183,Laguna del Monte,B6435XAC,Buenos Aires
+1184,Laguna del Soldado,B7600XAQ,Buenos Aires
+1185,Laguna las Mulitas,B6660XAD,Buenos Aires
+1186,Laguna Medina,B7214XAA,Buenos Aires
+1187,Laguna Redonda,B6400XAC,Buenos Aires
+1189,Langueyu,B7151XAA,Buenos Aires
+1192,Laplacette,B6013XAA,Buenos Aires
+1194,Larramendy,B6451XAL,Buenos Aires
+1195,Larrea,B6634XAC,Buenos Aires
+1196,Lartigau,B7531XAD,Buenos Aires
+1197,Las Achiras,B7116XAN,Buenos Aires
+1199,Las Bahamas,B2916XAA,Buenos Aires
+1200,Las Bandurrias,B7406XAF,Buenos Aires
+1201,Las Bruscas,B7130XAF,Buenos Aires
+1202,Las Chacras,B7241XAB,Buenos Aires
+1203,Las Chilcas,B7116XAK,Buenos Aires
+1204,Las Cortaderas,B8504XAD,Buenos Aires
+1205,Las Cuatro Hermanas,B6437XAI,Buenos Aires
+1206,Las Cuatro Puertas,B2741XAC,Buenos Aires
+1207,Las Escobas,B8134XAI,Buenos Aires
+1208,Las Flores,B2930XAG,Buenos Aires
+1209,Las Guasquitas,B6400XAD,Buenos Aires
+1210,Las Hermanas,B7414XAA,Buenos Aires
+1211,Las Isletas,B8148XAD,Buenos Aires
+1212,Las Juanitas,B6476XAB,Buenos Aires
+1213,Las Lomas,B7603XAG,Buenos Aires
+1216,Las Martinetas,B7406XAA,Buenos Aires
+1217,Las Mercedes,B6437XAJ,Buenos Aires
+1218,Las Mostazas,B7530XAD,Buenos Aires
+1219,Las Mulas,B7130XAG,Buenos Aires
+1220,Las Negras,B6507XAB,Buenos Aires
+1221,Las Nieves,B7316XAA,Buenos Aires
+1222,Las Nutrias,B7623XAG,Buenos Aires
+1223,Las Oscuras,B8115XAC,Buenos Aires
+1224,Las Pajas,B7150XAB,Buenos Aires
+1225,Las Palmas,B2806XAA,Buenos Aires
+1226,Las Parvas,B6022XAA,Buenos Aires
+1227,Las Piedritas,B7400XAH,Buenos Aires
+1228,Las Rosas,B6533XAD,Buenos Aires
+1229,Las Saladas,B2707XAB,Buenos Aires
+1230,Las Suizas,B7007XAB,Buenos Aires
+1231,Las Sultanas,B7151XAB,Buenos Aires
+1232,Las Tahonas,B1921XAI,Buenos Aires
+1234,Las Tortugas,B7116XAL,Buenos Aires
+1235,Las Toscas,B6453XAC,Buenos Aires
+1236,Las Tres Flores,B6437XAK,Buenos Aires
+1237,Las Vaquerias,B7500XAH,Buenos Aires
+1238,Las Viboras,B7100XAD,Buenos Aires
+1239,Lastra,B7406XAB,Buenos Aires
+1240,Lazzarino,B7300XAD,Buenos Aires
+1242,Legaristi,B7130XAH,Buenos Aires
+1243,Lertora,B6400XAE,Buenos Aires
+1244,Leubuco,B6338XAA,Buenos Aires
+1246,Lezica y Torrezuri,B6700XAF,Buenos Aires
+1247,Libano,B7407XAA,Buenos Aires
+1249,Libres del Sud,B7135XAE,Buenos Aires
+1250,Licenciado Matienzo,B7007XAI,Buenos Aires
+1251,Lierra Adjemiro,B2718XAC,Buenos Aires
+1253,Lin Calel,B7505XAC,Buenos Aires
+1259,Loma de Salomon,B7100XAE,Buenos Aires
+1260,Loma del Indio,B7521XAE,Buenos Aires
+1262,Loma Negra,B7203XAC,Buenos Aires
+1263,Loma Partida,B7203XAD,Buenos Aires
+1269,Lopez,B7021XAB,Buenos Aires
+1270,Lopez Lecube,B8117XAC,Buenos Aires
+1271,Lopez Molinari,B2718XAD,Buenos Aires
+1272,Los Altos,B6075XAF,Buenos Aires
+1273,Los Angeles,B2741XAA,Buenos Aires
+1274,Los Aromos,B1816XAC,Buenos Aires
+1275,Los Bosques,B6018XAB,Buenos Aires
+1276,Los Caldenes,B6242XAB,Buenos Aires
+1277,Los Callejones,B6062XAA,Buenos Aires
+1279,Los Cardos,B7620XAH,Buenos Aires
+1280,Los Cerrillos,B7226XAB,Buenos Aires
+1281,Los Cerros,B7635XAA,Buenos Aires
+1282,Los Chañares,B6475XAB,Buenos Aires
+1283,Los Chucaros,B7263XAH,Buenos Aires
+1284,Los Coloniales,B6555XAG,Buenos Aires
+1285,Los Cuatro Caminos,B7263XAB,Buenos Aires
+1286,Los Eucaliptos,B7220XAD,Buenos Aires
+1287,Los Eucaliptus Casco Urbano,B1895XAA,Buenos Aires
+1289,Los Gauchos,B6343XAA,Buenos Aires
+1290,Los Huesos,B6015XAF,Buenos Aires
+1291,Los Indios,B2709XAA,Buenos Aires
+1292,Los Laureles,B6230XAC,Buenos Aires
+1293,Los Leones,B7000XAD,Buenos Aires
+1294,Los Merinos,B1980XAF,Buenos Aires
+1295,Los Molles,B7503XAB,Buenos Aires
+1296,Los Ortiz,B7601XAB,Buenos Aires
+1297,Los Patos,B7603XAI,Buenos Aires
+1298,Los Pinos,B7412XAA,Buenos Aires
+1300,Los Pozos,B8512XAC,Buenos Aires
+1301,Los Santos Viejos,B1921XAG,Buenos Aires
+1304,Louge,B7545XAF,Buenos Aires
+1305,Lozano,B1741XAA,Buenos Aires
+1306,Lucas Monteverde,B6661XAC,Buenos Aires
+1307,Luis Chico,B1917XAB,Buenos Aires
+1310,Lumb,B7639XAA,Buenos Aires
+1311,Luro,B6439XAB,Buenos Aires
+1312,Macedo,B7163XAR,Buenos Aires
+1313,Magallanes,B7151XAF,Buenos Aires
+1314,Magdala,B6451XAF,Buenos Aires
+1316,Maguirre,B2718XAE,Buenos Aires
+1318,Malabia,B6443XAB,Buenos Aires
+1319,Malecon Gardella,B7631XAG,Buenos Aires
+1321,Mamaguita,B6661XAD,Buenos Aires
+1322,Manantiales,B2717XAB,Buenos Aires
+1323,Manantiales Grandes,B2700XAL,Buenos Aires
+1326,Manuel Jose Garcia,B6608XAB,Buenos Aires
+1329,Manzo y Niño,B2718XAA,Buenos Aires
+1330,Manzone,B1633XAB,Buenos Aires
+1331,Maori,B7633XAB,Buenos Aires
+1332,Mapis,B6557XAE,Buenos Aires
+1334,Mar Azul,B7163XAU,Buenos Aires
+1335,Mar Chiquita,B7174XAG,Buenos Aires
+1337,Mar de Cobo,B7609XAC,Buenos Aires
+1338,Mar de las Pampas,B7165XAA,Buenos Aires
+1342,Marcelino Ugarte,B2741XAD,Buenos Aires
+1352,Mari Lauquen,B6400XAG,Buenos Aires
+1353,Maria Ignacia,B7003XAA,Buenos Aires
+1354,Maria Lucila,B6465XAB,Buenos Aires
+1355,Maria P Moreno,B6337XAA,Buenos Aires
+1357,Mariano Benitez,B2701XAE,Buenos Aires
+1359,Mariano Roldan,B7517XAA,Buenos Aires
+1360,Mariano Unzue,B6551XAB,Buenos Aires
+1361,Mariscal Sucre,B6708XAC,Buenos Aires
+1362,Martin Berraondo,B6667XAE,Buenos Aires
+1364,Martin Fierro,B6400XAF,Buenos Aires
+1366,Marucha,B6451XAB,Buenos Aires
+1367,Masurel,B6439XAC,Buenos Aires
+1369,Mauras,B6555XAH,Buenos Aires
+1370,Mauricio Hirsch,B6531XAC,Buenos Aires
+1371,Maximo Fernandez,B6645XAB,Buenos Aires
+1374,Mayor Jose Orellano,B6053XAC,Buenos Aires
+1375,Mecha,B6648XAA,Buenos Aires
+1377,Mechongue,B7605XAA,Buenos Aires
+1378,Medaland,B7163XAS,Buenos Aires
+1379,Medano Blanco,B7630XAE,Buenos Aires
+1382,Membrillar,B6748XAA,Buenos Aires
+1384,Meridiano Vo,B6239XAB,Buenos Aires
+1388,Mira Pampa,B6403XAB,Buenos Aires
+1390,Miramonte,B7214XAB,Buenos Aires
+1391,Miranda,B7201XAC,Buenos Aires
+1393,Molino Galileo,B7020XAI,Buenos Aires
+1395,Monasterio,B7136XAD,Buenos Aires
+1397,Monroe,B2741XAE,Buenos Aires
+1398,Monsalvo,B7119XAB,Buenos Aires
+1400,Monte Crespo,B7020XAJ,Buenos Aires
+1401,Monte Fiore,B8185XAK,Buenos Aires
+1404,Monte Veloz,B1917XAA,Buenos Aires
+1406,Montes de Oca,B8136XAG,Buenos Aires
+1407,Moores,B6230XAD,Buenos Aires
+1408,Morea,B6507XAC,Buenos Aires
+1412,Mouras,B6471XAC,Buenos Aires
+1413,Mulcahy,B6501XAB,Buenos Aires
+1415,Muñoz,B7404XAC,Buenos Aires
+1417,Mutti,B2909XAA,Buenos Aires
+1418,Nahuel Ruca,B7613XAD,Buenos Aires
+1419,Napaleofu,B7007XAE,Buenos Aires
+1422,Necol Estacion Fcgm,B6077XAB,Buenos Aires
+1423,Newton,B7223XAF,Buenos Aires
+1424,Nicanor Olivera,B7637XAA,Buenos Aires
+1425,Nicolas Descalzi,B8151XAE,Buenos Aires
+1426,Nicolas Levalle,B8134XAB,Buenos Aires
+1427,Nieves,B7316XAB,Buenos Aires
+1430,Norumbega,B6501XAD,Buenos Aires
+1431,Nueva Atlantis,B7113XAA,Buenos Aires
+1432,Nueva España,B6553XAB,Buenos Aires
+1434,Nueva Plata,B6451XAG,Buenos Aires
+1435,Nueva Roma,B8117XAI,Buenos Aires
+1436,Nueva Suiza,B6077XAA,Buenos Aires
+1438,Ochandio,B7521XAF,Buenos Aires
+1439,Odorqui,B6537XAA,Buenos Aires
+1440,Olascoaga,B6652XAA,Buenos Aires
+1443,Oliveira Cesar,B2931XAD,Buenos Aires
+1446,Ombu,B7545XAB,Buenos Aires
+1447,Ombucta,B8142XAH,Buenos Aires
+1451,Orlando,B2812XAC,Buenos Aires
+1452,Ortiz Basualdo,B2703XAB,Buenos Aires
+1453,Ortiz de Rosas,B6660XAA,Buenos Aires
+1456,Otoño,B7545XAC,Buenos Aires
+1457,Pablo Acosta,B7301XAD,Buenos Aires
+1460,Pachan,B7020XAK,Buenos Aires
+1461,Palantelen,B6434XAA,Buenos Aires
+1462,Palemon Huergo,B6628XAE,Buenos Aires
+1463,Palmitas,B7221XAB,Buenos Aires
+1464,Palo Blanco,B1923XAA,Buenos Aires
+1465,Paname,B2931XAB,Buenos Aires
+1466,Pancho Diaz,B1921XAJ,Buenos Aires
+1467,Papin,B6411XAC,Buenos Aires
+1468,Parada Kilometro 158,B2935XAA,Buenos Aires
+1469,Parada Kilometro 76,B1739XAB,Buenos Aires
+1471,Parada Tatay,B6725XAA,Buenos Aires
+1472,Paragüil,B7412XAB,Buenos Aires
+1473,Paraje Fra Pal,B7530XAH,Buenos Aires
+1474,Paraje la Aurora,B8158XAB,Buenos Aires
+1475,Paraje la Vasca,B7100XAF,Buenos Aires
+1476,Paraje Miramar,B6550XAD,Buenos Aires
+1477,Paraje Santa Ana,B7540XAE,Buenos Aires
+1478,Paraje Santa Rosa,B2711XAC,Buenos Aires
+1479,Paraje Starache,B1915XAC,Buenos Aires
+1480,Pardo,B7212XAB,Buenos Aires
+1481,Parish,B7316XAE,Buenos Aires
+1482,Parque Carilo,B7167XAA,Buenos Aires
+1483,Parque Muñoz,B7020XAL,Buenos Aires
+1485,Parque Taillade,B7114XAH,Buenos Aires
+1486,Parravichini,B7100XAG,Buenos Aires
+1488,Paso Alsina,B8142XAA,Buenos Aires
+1489,Paso Cramer,B8134XAC,Buenos Aires
+1490,Paso del Medano,B7511XAD,Buenos Aires
+1492,Paso Mayor,B8115XAB,Buenos Aires
+1493,Pasos,B7163XAT,Buenos Aires
+1496,Paula,B6557XAA,Buenos Aires
+1497,Pavon,B2812XAA,Buenos Aires
+1498,Payro R,B1913XAB,Buenos Aires
+1499,Pazos Kanki,B6058XAB,Buenos Aires
+1500,Pearson,B2711XAA,Buenos Aires
+1502,Pedro Gamen,B6451XAH,Buenos Aires
+1503,Pedro Lasalle,B7515XAA,Buenos Aires
+1505,Pedro Nicolas Escribano,B7135XAJ,Buenos Aires
+1507,Pehuelches,B6409XAB,Buenos Aires
+1509,Pelicura,B8117XAJ,Buenos Aires
+1511,Peñaflor,B7225XAJ,Buenos Aires
+1513,Pereyra Iraola Parque,B1894XAB,Buenos Aires
+1516,Pessagno,B7135XAF,Buenos Aires
+1517,Pichincha,B6051XAB,Buenos Aires
+1518,Piedra Ancha,B8117XAD,Buenos Aires
+1520,Pieres,B7633XAC,Buenos Aires
+1521,Pierini,B7517XAC,Buenos Aires
+1525,Pillahuinco,B7530XAA,Buenos Aires
+1527,Piñeiro,B1921XAC,Buenos Aires
+1528,Piñeyro,B7540XAD,Buenos Aires
+1532,Piruco,B2705XAA,Buenos Aires
+1534,Pla y Ragnoni,B7607XAF,Buenos Aires
+1537,Playa las Margaritas,B7109XAE,Buenos Aires
+1538,Plaza Montero,B7201XAA,Buenos Aires
+1539,Plomer,B1741XAC,Buenos Aires
+1540,Plumacho,B2703XAC,Buenos Aires
+1542,Pocito,B6430XAD,Buenos Aires
+1544,Pontaut,B7535XAA,Buenos Aires
+1547,Pourtale,B7404XAD,Buenos Aires
+1548,Pradere Juan a,B6231XAB,Buenos Aires
+1550,Presidente Quintana,B6621XAB,Buenos Aires
+1551,Primera Junta,B6422XAA,Buenos Aires
+1553,Pueblitos,B6661XAB,Buenos Aires
+1555,Pueblo Nuevo,B7400XAI,Buenos Aires
+1556,Pueblo Otero,B2700XAJ,Buenos Aires
+1560,Puente Batalla,B6620XAA,Buenos Aires
+1561,Puente Cañete,B2740XAF,Buenos Aires
+1562,Puente Castex,B2760XAC,Buenos Aires
+1563,Puente el Ochenta,B7225XAE,Buenos Aires
+1565,Puerto Coloma,B8142XAI,Buenos Aires
+1566,Puerto de Escobar,B1625XAF,Buenos Aires
+1567,Puerto Galvan,B8000XAU,Buenos Aires
+1568,Puerto la Plata,B1925XAC,Buenos Aires
+1569,Puerto Necochea,B7630XAF,Buenos Aires
+1570,Puerto Rosales,B8111XAC,Buenos Aires
+1571,Puerto Tres Bonetes,B8505XAE,Buenos Aires
+1572,Puerto Wassermann,B8506XAA,Buenos Aires
+1573,Puesto del Medio,B2763XAC,Buenos Aires
+1574,Pujol,B2907XAA,Buenos Aires
+1576,Punta de Canal,B1623XAA,Buenos Aires
+1579,Punta Medanos,B7109XAF,Buenos Aires
+1582,Quilco,B7406XAC,Buenos Aires
+1585,Quiñihual Estacion,B7533XAA,Buenos Aires
+1586,Quirno Costa,B6018XAC,Buenos Aires
+1592,Ramon Biaus,B6627XAB,Buenos Aires
+1593,Ramon J Neild,B6533XAE,Buenos Aires
+1594,Ramon Santamarina,B7641XAA,Buenos Aires
+1596,Ramos Otero,B7621XAC,Buenos Aires
+1601,Raulet,B7530XAF,Buenos Aires
+1603,Real Audiencia,B7225XAF,Buenos Aires
+1604,Recalde,B6559XAA,Buenos Aires
+1605,Reginaldo J Neild,B6533XAF,Buenos Aires
+1607,Requena,B7307XAB,Buenos Aires
+1609,Retiro San Pablo,B2752XAG,Buenos Aires
+1610,Ricardo Gaviña,B7313XAG,Buenos Aires
+1612,Rincon de Baudrix,B7621XAD,Buenos Aires
+1614,Rincon de Noario,B1921XAD,Buenos Aires
+1615,Rincon de Vivot,B7225XAB,Buenos Aires
+1616,Rincon Norte,B6605XAF,Buenos Aires
+1619,Rivadeo,B8127XAB,Buenos Aires
+1621,Roberto Cano,B2703XAD,Buenos Aires
+1622,Roberto Payro,B1915XAF,Buenos Aires
+1624,Rocha,B7404XAB,Buenos Aires
+1626,Rolito Estacion Fcgb,B6430XAI,Buenos Aires
+1627,Roman Baez,B6612XAD,Buenos Aires
+1630,Rosas,B7205XAA,Buenos Aires
+1631,Rovira,B6450XAC,Buenos Aires
+1632,Ruiz Solis,B6720XAC,Buenos Aires
+1633,Ruta 11 Kilometro 23,B1907XAB,Buenos Aires
+1634,Ruta 205 Kilometro 57,B1816XAD,Buenos Aires
+1635,Ruta 3 Kilometro 75 700,B1816XAE,Buenos Aires
+1636,Ruta 8 Kilometro 77,B6703XAC,Buenos Aires
+1637,Ruta 9 Kilometro 169 5,B2930XAA,Buenos Aires
+1638,Ruta 9 Kilometro 72,B2804XAC,Buenos Aires
+1640,Sabbi,B7303XAG,Buenos Aires
+1641,Saforcada,B6022XAB,Buenos Aires
+1642,Salada Chica,B7163XAB,Buenos Aires
+1643,Salada Grande,B7163XAC,Buenos Aires
+1645,Saladillo Norte,B7261XAA,Buenos Aires
+1648,Salina de Piedra,B8506XAB,Buenos Aires
+1649,Salinas Chicas,B8134XAD,Buenos Aires
+1653,Samborombon,B1980XAI,Buenos Aires
+1654,San Adolfo,B8142XAJ,Buenos Aires
+1655,San Agustin,B7623XAA,Buenos Aires
+1656,San Alberto,B6720XAD,Buenos Aires
+1657,San Andres,B8180XAD,Buenos Aires
+1660,San Antonio,B7116XAO,Buenos Aires
+1663,San Benito,B7261XAB,Buenos Aires
+1664,San Bernardo,B6561XAC,Buenos Aires
+1666,San Cala,B7011XAD,Buenos Aires
+1667,San Carlos,B6451XAC,Buenos Aires
+1670,San Cornelio,B7603XAJ,Buenos Aires
+1671,San Daniel,B7116XAH,Buenos Aires
+1673,San Eladio,B6601XAA,Buenos Aires
+1674,San Emilio,B8136XAE,Buenos Aires
+1675,San Enrique,B7116XAP,Buenos Aires
+1676,San Ernesto,B6725XAB,Buenos Aires
+1677,San Federico,B2711XAE,Buenos Aires
+1678,San Felipe,B7603XAK,Buenos Aires
+1679,San Fermin,B6417XAC,Buenos Aires
+1684,San Gervacio,B7305XAD,Buenos Aires
+1685,San Ignacio,B7151XAC,Buenos Aires
+1687,San Jacinto,B7400XAF,Buenos Aires
+1689,San Jose,B7203XAE,Buenos Aires
+1690,San Jose de Gali,B7114XAI,Buenos Aires
+1691,San Jose de los Quinteros,B7109XAC,Buenos Aires
+1692,San Jose de Otamendi,B7601XAA,Buenos Aires
+1693,San Juan,B2754XAC,Buenos Aires
+1695,San Julian,B7613XAB,Buenos Aires
+1696,San Justo,B7118XAB,Buenos Aires
+1697,San Laureano,B7150XAA,Buenos Aires
+1699,San Martin de Tours,B8164XAD,Buenos Aires
+1700,San Mauricio,B6239XAC,Buenos Aires
+1701,San Mayol,B7519XAB,Buenos Aires
+1705,San Miguel del Moro,B7631XAB,Buenos Aires
+1707,San Pascual,B7007XAL,Buenos Aires
+1708,San Patricio,B6734XAA,Buenos Aires
+1710,San Quilco,B7406XAD,Buenos Aires
+1711,San Rafael,B7130XAR,Buenos Aires
+1712,San Ramon,B6424XAA,Buenos Aires
+1714,San Roman,B8154XAB,Buenos Aires
+1715,San Roque,B6017XAF,Buenos Aires
+1716,San Sebastian,B6623XAC,Buenos Aires
+1717,San Severo,B7521XAG,Buenos Aires
+1718,San Simon,B7621XAE,Buenos Aires
+1719,San Valentin,B7613XAC,Buenos Aires
+1721,Sansinena,B6233XAB,Buenos Aires
+1722,Santa Alicia,B7243XAA,Buenos Aires
+1723,Santa Catalina,B7503XAC,Buenos Aires
+1724,Santa Cecilia Centro,B6463XAC,Buenos Aires
+1725,Santa Cecilia Norte,B6472XAA,Buenos Aires
+1726,Santa Cecilia Sud,B6450XAF,Buenos Aires
+1728,Santa Clementina,B7406XAE,Buenos Aires
+1729,Santa Coloma,B2761XAB,Buenos Aires
+1730,Santa Elena,B7609XAE,Buenos Aires
+1731,Santa Eleodora,B6241XAC,Buenos Aires
+1732,Santa Felicia,B7243XAB,Buenos Aires
+1733,Santa Ines,B6471XAF,Buenos Aires
+1734,Santa Irene,B7607XAG,Buenos Aires
+1735,Santa Isabel,B6550XAA,Buenos Aires
+1738,Santa Maria,B6071XAB,Buenos Aires
+1739,Santa Maria Belloq,B6535XAD,Buenos Aires
+1741,Santa Rita,B2700XAM,Buenos Aires
+1742,Santa Rita Pdo Guamini,B6437XAL,Buenos Aires
+1743,Santa Rosa,B7303XAC,Buenos Aires
+1744,Santa Rosa de Minellono,B7212XAC,Buenos Aires
+1745,Santa Teresa,B2912XAB,Buenos Aires
+1747,Santa Teresita Pergamino,B2701XAF,Buenos Aires
+1749,Santiago Garbarini,B6660XAB,Buenos Aires
+1750,Santiago Larre,B7245XAB,Buenos Aires
+1751,Santo Domingo,B7119XAC,Buenos Aires
+1752,Santo Tomas,B6530XAB,Buenos Aires
+1753,Santo Tomas Chico,B6538XAB,Buenos Aires
+1755,Santos Unzue,B6507XAE,Buenos Aires
+1757,Sarasa,B2721XAB,Buenos Aires
+1758,Saturno,B6417XAD,Buenos Aires
+1759,Sauce Chico,B8105XAD,Buenos Aires
+1760,Sauce Corto,B7540XAC,Buenos Aires
+1761,Sauce Grande,B8150XAG,Buenos Aires
+1762,Sauzales,B6030XAC,Buenos Aires
+1763,Segurola,B7119XAD,Buenos Aires
+1764,Seminario Pio XII,B6600XAB,Buenos Aires
+1766,Shaw,B7300XAG,Buenos Aires
+1767,Siempre Verde,B7609XAD,Buenos Aires
+1773,Sol de Mayo,B2709XAB,Buenos Aires
+1774,Solale,B6064XAC,Buenos Aires
+1775,Solanet,B7151XAD,Buenos Aires
+1778,Speratti,B1741XAD,Buenos Aires
+1779,Speroni,B7163XAM,Buenos Aires
+1780,Spurr,B8103XAD,Buenos Aires
+1781,Stegmann,B7536XAA,Buenos Aires
+1783,Sucre,B6708XAE,Buenos Aires
+1785,Sundblad,B6401XAA,Buenos Aires
+1786,Tacuari,B2741XAF,Buenos Aires
+1787,Tamangueyu,B7633XAA,Buenos Aires
+1788,Tambo Nuevo,B2700XAN,Buenos Aires
+1792,Tatay,B6725XAC,Buenos Aires
+1794,Tejo Galeta,B7530XAB,Buenos Aires
+1796,Teniente Coronel Miñana,B7401XAC,Buenos Aires
+1798,Termas los Gauchos,B8504XAA,Buenos Aires
+1799,Thames,B6343XAB,Buenos Aires
+1802,Tio Domingo,B7163XAN,Buenos Aires
+1804,Toldos Viejos,B7207XAD,Buenos Aires
+1805,Tomas Jofre,B6601XAF,Buenos Aires
+1806,Tordillo,B7101XAB,Buenos Aires
+1808,Toro,B1635XAA,Buenos Aires
+1814,Tres Cuervos,B8183XAC,Buenos Aires
+1815,Tres Lagunas,B6443XAD,Buenos Aires
+1816,Tres Leguas,B7100XAH,Buenos Aires
+1820,Trigales,B6053XAD,Buenos Aires
+1822,Triunvirato,B6071XAC,Buenos Aires
+1824,Tronge,B6407XAC,Buenos Aires
+1825,Tropezon,B6501XAE,Buenos Aires
+1828,Tuyuti,B6721XAA,Buenos Aires
+1829,Uballes,B7301XAG,Buenos Aires
+1830,Udaquiola,B7151XAE,Buenos Aires
+1831,Unidad Turistica Chapadmalal,B7618XAA,Buenos Aires
+1835,Vagues,B2764XAD,Buenos Aires
+1838,Valentin Gomez,B6401XAB,Buenos Aires
+1839,Valenzuela Anton,B7630XAB,Buenos Aires
+1841,Vallimanca,B6557XAB,Buenos Aires
+1842,Vaña,B7301XAF,Buenos Aires
+1843,Vasquez,B7519XAA,Buenos Aires
+1844,Vecino,B7118XAA,Buenos Aires
+1847,Velloso,B7305XAE,Buenos Aires
+1849,Vergara,B7135XAI,Buenos Aires
+1851,Viboras,B8180XAE,Buenos Aires
+1854,Vicente Pereda,B7300XAH,Buenos Aires
+1856,Victorino de la Plaza,B6411XAA,Buenos Aires
+1857,Vieytes,B1915XAE,Buenos Aires
+1858,Vigelencia,B6070XAB,Buenos Aires
+1859,Vilela,B7208XAA,Buenos Aires
+1862,Villa Adriana,B1816XAB,Buenos Aires
+1863,Villa Agueda,B1629XAC,Buenos Aires
+1864,Villa Aldeanita,B6471XAB,Buenos Aires
+1865,Villa Angus,B2800XAI,Buenos Aires
+1866,Villa Arcadia,B7540XAA,Buenos Aires
+1869,Villa Belgrano,B6000XAD,Buenos Aires
+1871,Villa Branda,B6407XAD,Buenos Aires
+1873,Villa Buenos Aires,B8000XAV,Buenos Aires
+1874,Villa Buide,B1629XAD,Buenos Aires
+1875,Villa Burgos,B7203XAG,Buenos Aires
+1877,Villa Capdepont,B2800XAJ,Buenos Aires
+1878,Villa Carola,B6555XAD,Buenos Aires
+1879,Villa Carucha,B7505XAB,Buenos Aires
+1880,Villa Castelar Est Erize,B6430XAG,Buenos Aires
+1881,Villa Centenario,B2700XAO,Buenos Aires
+1882,Villa Cerrito,B8000XAW,Buenos Aires
+1883,Villa Clelia,B7109XAD,Buenos Aires
+1884,Villa Copacabana,B7607XAH,Buenos Aires
+1885,Villa Da Fonte,B2718XAF,Buenos Aires
+1886,Villa Daza,B7000XAO,Buenos Aires
+1889,Villa Delfina,B8000XBM,Buenos Aires
+1890,Villa Depietri,B2930XAB,Buenos Aires
+1891,Villa Diamantina,B6500XAG,Buenos Aires
+1892,Villa Diaz Velez,B7630XAC,Buenos Aires
+1893,Villa Domingo Pronsato,B8000XAX,Buenos Aires
+1895,Villa Dufau,B7000XAP,Buenos Aires
+1896,Villa Elena,B8512XAA,Buenos Aires
+1899,Villa Espil,B6712XAA,Buenos Aires
+1900,Villa Floresta,B8000XAY,Buenos Aires
+1901,Villa Florida,B2800XAK,Buenos Aires
+1902,Villa Fox,B2800XAL,Buenos Aires
+1903,Villa Francia,B6706XAB,Buenos Aires
+1904,Villa Galicia,B7000XAQ,Buenos Aires
+1908,Villa Godoy,B2700XAD,Buenos Aires
+1910,Villa Harding Green,B8101XAE,Buenos Aires
+1911,Villa Herminia,B8101XAC,Buenos Aires
+1912,Villa Igollo,B2930XAE,Buenos Aires
+1914,Villa Italia,B7000XAR,Buenos Aires
+1915,Villa Juarez,B7020XAG,Buenos Aires
+1916,Villa la Chechela,B1625XAC,Buenos Aires
+1918,Villa Laura,B8109XAF,Buenos Aires
+1919,Villa Laza,B7000XAE,Buenos Aires
+1922,Villa Libre,B8000XAC,Buenos Aires
+1923,Villa Loma,B7203XAH,Buenos Aires
+1924,Villa Loreto,B8000XAD,Buenos Aires
+1927,Villa Lynch Pueyrredon,B6553XAC,Buenos Aires
+1928,Villa Maio,B8109XAG,Buenos Aires
+1929,Villa Margarita,B8185XAP,Buenos Aires
+1930,Villa Maria,B6628XAD,Buenos Aires
+1932,Villa Massoni,B2800XAM,Buenos Aires
+1933,Villa Mayor,B6000XAE,Buenos Aires
+1934,Villa Maza,B6343XAC,Buenos Aires
+1935,Villa Mitre,B8000XAE,Buenos Aires
+1936,Villa Monica,B7318XAB,Buenos Aires
+1938,Villa Mosconi,B2800XAN,Buenos Aires
+1939,Villa Nocito,B8000XAF,Buenos Aires
+1941,Villa Obrera,B8000XAG,Buenos Aires
+1942,Villa Olga Grumbein,B8000XAH,Buenos Aires
+1943,Villa Ortega,B6000XAF,Buenos Aires
+1944,Villa Ortiz,B6628XAA,Buenos Aires
+1945,Villa Penotti,B6000XAG,Buenos Aires
+1946,Villa Preceptor M Robles,B2812XAI,Buenos Aires
+1947,Villa Preceptor Manuel Cruz,B6703XAD,Buenos Aires
+1948,Villa Progreso,B2705XAE,Buenos Aires
+1949,Villa Pueblo Nuevo,B7414XAC,Buenos Aires
+1950,Villa Puerto Quequen,B7631XAF,Buenos Aires
+1953,Villa Ramallo Est Ffcc,B2914XAB,Buenos Aires
+1954,Villa Rio Chico,B8146XAC,Buenos Aires
+1955,Villa Roch,B7101XAA,Buenos Aires
+1957,Villa Rosas,B8103XAA,Buenos Aires
+1961,Villa San Alberto,B6720XAE,Buenos Aires
+1962,Villa San Jose,B2741XAG,Buenos Aires
+1963,Villa San Pedro,B7203XAI,Buenos Aires
+1964,Villa Sanchez Elia,B8000XAZ,Buenos Aires
+1965,Villa Sanguinetti,B2740XAG,Buenos Aires
+1966,Villa Santa Maria,B1629XAE,Buenos Aires
+1968,Villa Sanz,B6511XAB,Buenos Aires
+1969,Villa Sarita,B2930XAC,Buenos Aires
+1971,Villa Sauri,B6430XAH,Buenos Aires
+1973,Villa Sena,B6403XAE,Buenos Aires
+1974,Villa Serra,B8103XAE,Buenos Aires
+1975,Villa Talleres,B6000XAH,Buenos Aires
+1976,Villa Teresa,B2944XAA,Buenos Aires
+1977,Villa Triangulo,B6000XAI,Buenos Aires
+1981,Villa Verde,B1629XAF,Buenos Aires
+1982,Villa Vignolo,B7600XAR,Buenos Aires
+1983,Villa York,B6000XAJ,Buenos Aires
+1984,Villafañe,B6740XAA,Buenos Aires
+1985,Villaigrillo,B2930XAH,Buenos Aires
+1987,Villanueva,B7225XAC,Buenos Aires
+1988,Villars,B1731XAA,Buenos Aires
+1992,Vista Alegre,B7130XAO,Buenos Aires
+1993,Vitel,B7130XAP,Buenos Aires
+1995,Volta,B6064XAD,Buenos Aires
+1996,Voluntad,B7412XAC,Buenos Aires
+1998,Vuelta de Zapata,B6435XAB,Buenos Aires
+2002,Yerbas,B7303XAF,Buenos Aires
+2003,Yraizos,B7605XAC,Buenos Aires
+2004,Yutuyaco,B6443XAE,Buenos Aires
+2005,Zamudio,B1727XAA,Buenos Aires
+2006,Zapiola,B7249XAA,Buenos Aires
+2008,Zavalia,B6018XAD,Buenos Aires
+2011,Zenon Videla Dorna,B7226XAC,Buenos Aires
+2012,Zentena,B7545XAA,Buenos Aires
+2013,Zoilo Peralta,B7530XAE,Buenos Aires
+2014,Zona Cangrejales,B8103XAF,Buenos Aires
+2019,Zubiaurre,B8151XAF,Buenos Aires

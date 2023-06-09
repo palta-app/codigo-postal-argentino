@@ -1,0 +1,927 @@
+id,name,zip,state
+6729,1 de Mayo,E3263XAI,Entre Ríos
+6730,20 de Septiembre,E3158XAC,Entre Ríos
+6731,Achiras,E3246XAB,Entre Ríos
+6732,Aero Club Canal,E2823XBD,Entre Ríos
+6733,Alarcon,E2852XAB,Entre Ríos
+6734,Albardon,E2840XAK,Entre Ríos
+6735,Albariño,E3183XAD,Entre Ríos
+6736,Alberto Gerchunoff,E3170XAG,Entre Ríos
+6737,Alcaracito,E3142XAD,Entre Ríos
+6738,Alcaraz 1Ro,E3144XAC,Entre Ríos
+6739,Alcaraz 2Do,E3138XAB,Entre Ríos
+6740,Alcaraz Norte,E3136XAA,Entre Ríos
+6741,Alcaraz Sud,E3137XAD,Entre Ríos
+6742,Alcete,E3127XAB,Entre Ríos
+6743,Aldea Asuncion,E2841XAA,Entre Ríos
+6744,Aldea Brasilera,E3101XAH,Entre Ríos
+6745,Aldea Chaleco,E3100XAA,Entre Ríos
+6746,Aldea Cuesta,E3116XAJ,Entre Ríos
+6747,Aldea Eigenfeld,E3116XAD,Entre Ríos
+6748,Aldea Maria Luisa,E3114XAI,Entre Ríos
+6750,Aldea Salto,E3101XAI,Entre Ríos
+6751,Aldea San Antonio,E3117XAB,Entre Ríos
+6752,Aldea San Francisco,E3101XAS,Entre Ríos
+6753,Aldea San Gregorio,E3287XAL,Entre Ríos
+6754,Aldea San Jorge,E3252XAR,Entre Ríos
+6755,Aldea San Jose,E3116XAI,Entre Ríos
+6756,Aldea San Juan,E2826XAA,Entre Ríos
+6757,Aldea San Miguel,E3116XAC,Entre Ríos
+6759,Aldea Santa Celia,E2826XAB,Entre Ríos
+6760,Aldea Santa Maria,E3123XAA,Entre Ríos
+6761,Aldea Santa Rosa,E3116XAE,Entre Ríos
+6762,Aldea Santafecina,E3103XAB,Entre Ríos
+6763,Aldea Spatzenkutter,E3101XAJ,Entre Ríos
+6765,Algarrobitos 1Ro,E3150XAT,Entre Ríos
+6766,Almacen Cristian Schubert,E3111XAI,Entre Ríos
+6767,Almirante Iglesias,E3150XAU,Entre Ríos
+6768,Altamirano Norte,E3177XAB,Entre Ríos
+6769,Altamirano Sud,E3174XAA,Entre Ríos
+6770,Anahi,E2846XAL,Entre Ríos
+6771,Antelo,E3151XAH,Entre Ríos
+6772,Antonio Tomas,E3122XAE,Entre Ríos
+6773,Antonio Tomas Sud,E3134XAB,Entre Ríos
+6776,Arroyo Brasilero,E2805XAA,Entre Ríos
+6777,Arroyo Buen Pastor,E2823XAA,Entre Ríos
+6778,Arroyo Burgos,E3133XAA,Entre Ríos
+6779,Arroyo Caballo,E2823XAB,Entre Ríos
+6780,Arroyo Caraballo,E3265XAD,Entre Ríos
+6781,Arroyo Ceibo,E3191XAM,Entre Ríos
+6782,Arroyo Cle,E2841XAC,Entre Ríos
+6783,Arroyo Concepcion,E3287XAH,Entre Ríos
+6784,Arroyo Corralito,E3122XAI,Entre Ríos
+6785,Arroyo del Cura,E2821XAF,Entre Ríos
+6786,Arroyo del Medio,E3144XAA,Entre Ríos
+6787,Arroyo el Mocho,E3212XAX,Entre Ríos
+6788,Arroyo Grande,E3203XAA,Entre Ríos
+6789,Arroyo Hondo,E3190XAO,Entre Ríos
+6790,Arroyo Ibicuycito,E2805XAC,Entre Ríos
+6791,Arroyo Jacinto,E3101XAV,Entre Ríos
+6792,Arroyo la Paciencia,E2805XAD,Entre Ríos
+6793,Arroyo la Virgen,E3212XAY,Entre Ríos
+6794,Arroyo las Tunas,E3111XAJ,Entre Ríos
+6795,Arroyo los Platos,E2805XAB,Entre Ríos
+6796,Arroyo Maria,E3133XAB,Entre Ríos
+6797,Arroyo Maturrango,E3133XAI,Entre Ríos
+6798,Arroyo Molino,E3260XAC,Entre Ríos
+6799,Arroyo Moreira,E3181XAF,Entre Ríos
+6800,Arroyo Obispo,E3174XAR,Entre Ríos
+6801,Arroyo Palmar,E3218XAA,Entre Ríos
+6802,Arroyo Palo Seco,E3133XAH,Entre Ríos
+6803,Arroyo Pancho,E3111XAD,Entre Ríos
+6804,Arroyo Principal,E2823XAX,Entre Ríos
+6805,Arroyo Salado,E2823XAD,Entre Ríos
+6806,Arroyo Sanchez Chico,E2823XAE,Entre Ríos
+6807,Arroyo Sanchez Grande,E2823XAF,Entre Ríos
+6808,Arroyo Urquiza,E3280XAA,Entre Ríos
+6809,Arroyo Venerato,E2821XAI,Entre Ríos
+6810,Arroyo Zapallo,E2823XBB,Entre Ríos
+6811,Atencio,E3187XAA,Entre Ríos
+6812,Avenida Ejercito Parana,E3100XAI,Entre Ríos
+6813,Ayui Parada,E3204XAB,Entre Ríos
+6814,Bajada Grande,E3100XAJ,Entre Ríos
+6815,Balneario Pelay,E3260XAL,Entre Ríos
+6816,Bañadero Oficial Burgos,E3100XAC,Entre Ríos
+6817,Bañadero Oficial las Galarzas,E3137XAC,Entre Ríos
+6818,Banderas,E3190XAA,Entre Ríos
+6819,Baron Hirsch,E3246XAP,Entre Ríos
+6820,Barrancas Coloradas,E3133XAE,Entre Ríos
+6822,Belez,E3252XAB,Entre Ríos
+6823,Bella Union Paraje,E3206XAN,Entre Ríos
+6824,Benitez,E3216XAN,Entre Ríos
+6826,Berduc,E3285XAA,Entre Ríos
+6827,Berisso,E2848XAA,Entre Ríos
+6828,Berisso Desvio Fcgu,E2852XAC,Entre Ríos
+6829,Betbeder,E3156XAB,Entre Ríos
+6830,Bizcocho,E3206XAA,Entre Ríos
+6831,Boca del Tigre,E3150XAV,Entre Ríos
+6832,Boca del Tigre Apeadero Fcgu,E3116XAG,Entre Ríos
+6833,Boca Gualeguay,E2840XAM,Entre Ríos
+6834,Bonaldi,E3191XAT,Entre Ríos
+6836,Brazo Largo,E1647XBD,Entre Ríos
+6837,Britos,E2823XAJ,Entre Ríos
+6838,Buena Vista Paraje,E2840XAC,Entre Ríos
+6839,Cabi Monda,E3228XAC,Entre Ríos
+6840,Calabacillas,E3203XAI,Entre Ríos
+6841,Calandria,E3191XAJ,Entre Ríos
+6842,Calera,E3281XAC,Entre Ríos
+6843,Camba Paso,E3201XAM,Entre Ríos
+6844,Camino a Diamante Km 1,E3100XAB,Entre Ríos
+6845,Campo de Villamil,E3241XAI,Entre Ríos
+6846,Campo Dominguez,E3212XAS,Entre Ríos
+6847,Campo Escales,E3156XAA,Entre Ríos
+6848,Campo Moreno,E3252XAC,Entre Ríos
+6849,Campo Riquelme,E3101XAF,Entre Ríos
+6850,Camps,E3150XAG,Entre Ríos
+6851,Cañada de las Ovejas,E3267XAA,Entre Ríos
+6852,Cañada del Cerro,E3228XAQ,Entre Ríos
+6853,Cañada Grande,E3111XAF,Entre Ríos
+6854,Canal Principal,E2823XAG,Entre Ríos
+6855,Cantera la Constancia,E3287XAC,Entre Ríos
+6856,Caraguata,E3248XAE,Entre Ríos
+6857,Carpinchoris,E3183XAB,Entre Ríos
+6858,Carrizal,E3101XAA,Entre Ríos
+6860,Catalotti,E3187XAE,Entre Ríos
+6861,Ceibal,E2823XAK,Entre Ríos
+6862,Ceibas,E2823XAL,Entre Ríos
+6863,Centella,E3261XAL,Entre Ríos
+6864,Centenario la Paz,E3263XAA,Entre Ríos
+6865,Centenario Parana,E3190XAL,Entre Ríos
+6866,Centro Comunitario Cnia Nue,E3118XAF,Entre Ríos
+6868,Chacras,E2840XAN,Entre Ríos
+6870,Chañar,E3181XAG,Entre Ríos
+6871,Chañar Feliciano,E3187XAF,Entre Ríos
+6872,Chañar Maria Grande Primera,E3111XAB,Entre Ríos
+6873,Chaviyu Colonia Flores,E3204XAD,Entre Ríos
+6874,Chaviyu Parada Fcgu,E3206XAE,Entre Ríos
+6875,Chilcas,E3162XAB,Entre Ríos
+6876,Chiqueros,E3158XAA,Entre Ríos
+6877,Chircalito,E3187XAB,Entre Ríos
+6878,Clara,E3252XAD,Entre Ríos
+6879,Clodomiro Ledesma,E3203XAJ,Entre Ríos
+6880,Cnia Justo Jose de Urquiza,E3212XAH,Entre Ríos
+6881,Colegio Adventista del Plata,E3103XAA,Entre Ríos
+6883,Colonia 1 de Mayo,E3272XAV,Entre Ríos
+6884,Colonia 5 Ensanche de Mayo,E3272XAW,Entre Ríos
+6885,Colonia Achiras,E3246XAG,Entre Ríos
+6887,Colonia Adivinos,E3142XAK,Entre Ríos
+6888,Colonia Alcarcito,E3138XAA,Entre Ríos
+6889,Colonia Alemana,E3228XAH,Entre Ríos
+6890,Colonia Algarrabitos,E3156XAC,Entre Ríos
+6891,Colonia Ambis,E3269XAA,Entre Ríos
+6892,Colonia Angela,E3151XAI,Entre Ríos
+6893,Colonia Argentina,E3122XAB,Entre Ríos
+6894,Colonia Arroyo Urquiza,E3272XAF,Entre Ríos
+6895,Colonia Avellaneda,E3107XAB,Entre Ríos
+6896,Colonia Avigdor,E3142XAC,Entre Ríos
+6897,Colonia Aylman,E3228XAR,Entre Ríos
+6898,Colonia Ayui,E3201XAN,Entre Ríos
+6899,Colonia Baron Hirsch,E3246XAH,Entre Ríos
+6900,Colonia Baylina,E3269XAB,Entre Ríos
+6901,Colonia Belez,E3252XAE,Entre Ríos
+6902,Colonia Belga Americana,E3244XAB,Entre Ríos
+6903,Colonia Belgrano,E3228XAI,Entre Ríos
+6904,Colonia Berro,E3128XAA,Entre Ríos
+6905,Colonia Bertozzi,E3192XAE,Entre Ríos
+6906,Colonia Bizcocho,E3206XAF,Entre Ríos
+6907,Colonia Buena Vista,E3190XAM,Entre Ríos
+6908,Colonia Campos,E3216XAH,Entre Ríos
+6909,Colonia Caraballo,E3265XAA,Entre Ríos
+6910,Colonia Carlos Calvo,E3252XAF,Entre Ríos
+6911,Colonia Carmel,E3246XAQ,Entre Ríos
+6912,Colonia Carmelo,E3263XAB,Entre Ríos
+6913,Colonia Carrasco,E3190XAB,Entre Ríos
+6914,Colonia Celina,E3111XAC,Entre Ríos
+6915,Colonia Centenario,E3109XAC,Entre Ríos
+6916,Colonia Crespo,E3118XAG,Entre Ríos
+6917,Colonia Crucesitas,E3263XAC,Entre Ríos
+6918,Colonia Cupalen,E3261XAB,Entre Ríos
+6919,Colonia Curbelo,E3216XAI,Entre Ríos
+6920,Colonia Delta,E2805XAG,Entre Ríos
+6921,Colonia Don Bosco,E3204XAE,Entre Ríos
+6922,Colonia Duportal,E2840XBE,Entre Ríos
+6923,Colonia Egido,E3240XAA,Entre Ríos
+6924,Colonia el Carmen,E3267XAD,Entre Ríos
+6925,Colonia el Potrero,E2820XAB,Entre Ríos
+6926,Colonia Elia,E3261XAC,Entre Ríos
+6927,Colonia Elisa,E3260XAD,Entre Ríos
+6928,Colonia Emilio Gouchon,E3269XAM,Entre Ríos
+6929,Colonia Ensanche Mayo,E3263XAD,Entre Ríos
+6930,Colonia Ensanche Sauce,E3228XAJ,Entre Ríos
+6931,Colonia Ensayo,E3101XAB,Entre Ríos
+6932,Colonia Espindola,E3252XAG,Entre Ríos
+6933,Colonia F Sillen,E3269XAD,Entre Ríos
+6934,Colonia Falco,E3188XAB,Entre Ríos
+6935,Colonia Feimberg,E3252XAH,Entre Ríos
+6936,Colonia Flores,E3206XAG,Entre Ríos
+6937,Colonia Fontanini,E3191XAK,Entre Ríos
+6938,Colonia Frazer,E3228XAK,Entre Ríos
+6939,Colonia Freitas,E3229XAA,Entre Ríos
+6940,Colonia Gdor Basavilbaso,E2824XAA,Entre Ríos
+6941,Colonia General Roca,E3201XAD,Entre Ríos
+6942,Colonia Gral Urquiza,E3263XAE,Entre Ríos
+6943,Colonia Grapschental,E3114XAA,Entre Ríos
+6944,Colonia Gualeguaycito,E3206XAB,Entre Ríos
+6945,Colonia Guiburg,E3252XAI,Entre Ríos
+6946,Colonia Hebrea,E3216XAP,Entre Ríos
+6947,Colonia Hernandarias,E3129XAC,Entre Ríos
+6948,Colonia Higuera,E3138XAD,Entre Ríos
+6951,Colonia Ida,E3246XAR,Entre Ríos
+6952,Colonia Italiana,E2823XAM,Entre Ríos
+6953,Colonia Jorge Fink,E3181XAB,Entre Ríos
+6954,Colonia la Argentina,E3206XAO,Entre Ríos
+6955,Colonia la Armonia,E3216XAQ,Entre Ríos
+6956,Colonia la Blanquita,E3254XAB,Entre Ríos
+6957,Colonia la Delia,E3190XAN,Entre Ríos
+6958,Colonia la Esperanza,E3216XAR,Entre Ríos
+6959,Colonia la Gama,E3136XAB,Entre Ríos
+6960,Colonia la Gloria,E3204XAC,Entre Ríos
+6961,Colonia la Llave,E3158XAB,Entre Ríos
+6962,Colonia la Marta,E3185XAG,Entre Ríos
+6963,Colonia la Matilde,E3287XAK,Entre Ríos
+6964,Colonia la Mora,E3216XAS,Entre Ríos
+6965,Colonia la Morenita,E3254XAC,Entre Ríos
+6966,Colonia la Pampa,E3254XAD,Entre Ríos
+6967,Colonia la Paz,E3206XAC,Entre Ríos
+6968,Colonia la Providencia,E3137XAA,Entre Ríos
+6969,Colonia la Quinta,E3216XAC,Entre Ríos
+6970,Colonia la Rosada,E3252XAQ,Entre Ríos
+6971,Colonia Lamarca,E3206XAD,Entre Ríos
+6972,Colonia las Gamas,E3190XAQ,Entre Ríos
+6973,Colonia las Pepas,E3267XAE,Entre Ríos
+6974,Colonia Leven,E3244XAC,Entre Ríos
+6975,Colonia Loma Negra,E3212XAI,Entre Ríos
+6976,Colonia Lopez,E3218XAE,Entre Ríos
+6977,Colonia los Sauces,E3200XAH,Entre Ríos
+6978,Colonia Luca,E3261XAD,Entre Ríos
+6979,Colonia Lucienville,E3170XAH,Entre Ríos
+6980,Colonia Lucrecia,E3248XAF,Entre Ríos
+6981,Colonia Mabragaña,E3283XAB,Entre Ríos
+6982,Colonia Maria Luisa,E3114XAJ,Entre Ríos
+6983,Colonia Maximo Castro,E3190XBC,Entre Ríos
+6984,Colonia Merou,E3116XAH,Entre Ríos
+6985,Colonia Miguel,E3246XAS,Entre Ríos
+6986,Colonia N 1,E3170XAI,Entre Ríos
+6987,Colonia N 2,E3170XAJ,Entre Ríos
+6988,Colonia N 3,E3170XAK,Entre Ríos
+6989,Colonia N 4,E3170XAL,Entre Ríos
+6990,Colonia Navarro,E3201XAE,Entre Ríos
+6991,Colonia Nueva,E3118XAK,Entre Ríos
+6992,Colonia Nueva Alemania,E3218XAF,Entre Ríos
+6993,Colonia Nueva Montevideo,E2828XAH,Entre Ríos
+6994,Colonia Nueva Norte,E3265XAI,Entre Ríos
+6995,Colonia Nueva San Miguel,E3267XAF,Entre Ríos
+6996,Colonia Nueva Sur,E3280XAB,Entre Ríos
+6997,Colonia Oficial N 1 la Florida,E3228XAD,Entre Ríos
+6998,Colonia Oficial N 11,E3190XAP,Entre Ríos
+6999,Colonia Oficial N 13,E3191XAL,Entre Ríos
+7000,Colonia Oficial N 14,E3191XAU,Entre Ríos
+7001,Colonia Oficial N 3,E3190XAR,Entre Ríos
+7002,Colonia Oficial N 4,E3134XAC,Entre Ríos
+7003,Colonia Oficial N 5,E3216XAD,Entre Ríos
+7004,Colonia Oficial N 6,E3261XAM,Entre Ríos
+7005,Colonia Ougrie,E3138XAC,Entre Ríos
+7006,Colonia Palmar,E3101XAC,Entre Ríos
+7007,Colonia Pereira,E3272XAB,Entre Ríos
+7008,Colonia Perfeccion,E3260XAM,Entre Ríos
+7009,Colonia Perliza,E3246XAI,Entre Ríos
+7010,Colonia Reffino,E3114XAK,Entre Ríos
+7011,Colonia Rivadavia,E3122XAF,Entre Ríos
+7012,Colonia Rivas,E3164XAA,Entre Ríos
+7013,Colonia Saenz Valiente,E3287XAD,Entre Ríos
+7014,Colonia Sagastume,E3246XAC,Entre Ríos
+7015,Colonia San Antonio,E3269XAO,Entre Ríos
+7016,Colonia San Bonifacio,E3212XAJ,Entre Ríos
+7017,Colonia San Cipriano,E3263XAF,Entre Ríos
+7018,Colonia San Ernesto,E3254XAA,Entre Ríos
+7019,Colonia San Francisco,E3283XAA,Entre Ríos
+7020,Colonia San Ignacio,E3267XAB,Entre Ríos
+7021,Colonia San Jorge,E3252XAJ,Entre Ríos
+7022,Colonia San Jose,E3218XAB,Entre Ríos
+7023,Colonia San Juan,E3122XAG,Entre Ríos
+7024,Colonia San Lorenzo,E3181XAH,Entre Ríos
+7025,Colonia San Manuel,E3246XAJ,Entre Ríos
+7026,Colonia San Martin,E3111XAK,Entre Ríos
+7027,Colonia San Miguel,E3265XAB,Entre Ríos
+7028,Colonia San Ramon,E3229XAB,Entre Ríos
+7029,Colonia Sandoval,E3252XAK,Entre Ríos
+7030,Colonia Santa Ana,E3261XAE,Entre Ríos
+7031,Colonia Santa Elena,E3269XAC,Entre Ríos
+7032,Colonia Santa Eloisa,E3206XAL,Entre Ríos
+7034,Colonia Santa Luisa,E3133XAF,Entre Ríos
+7035,Colonia Santa Rosa,E3267XAC,Entre Ríos
+7036,Colonia Santa Teresita,E3263XAH,Entre Ríos
+7037,Colonia Sauce,E3261XAA,Entre Ríos
+7038,Colonia Sonenfeld,E3246XAK,Entre Ríos
+7039,Colonia Stauwer,E2820XAC,Entre Ríos
+7040,Colonia Tres de Febrero,E3265XAH,Entre Ríos
+7041,Colonia Tunas,E3185XAH,Entre Ríos
+7042,Colonia Ubajay,E3260XAE,Entre Ríos
+7043,Colonia Vazquez,E3267XAG,Entre Ríos
+7044,Colonia Velez,E3252XAL,Entre Ríos
+7045,Colonia Villa Libertad,E3228XAE,Entre Ríos
+7046,Colonia Villaguaycito,E3241XAL,Entre Ríos
+7047,Colonia Viraro,E3142XAE,Entre Ríos
+7048,Colonia Yerua,E3201XAF,Entre Ríos
+7052,Cooperativa Brazo Largo,E2823XAN,Entre Ríos
+7053,Cooperativa Gral San Martin,E3228XAF,Entre Ríos
+7054,Corrales,E3151XAK,Entre Ríos
+7055,Corrales Nuevos,E3100XAK,Entre Ríos
+7056,Correa,E3187XAC,Entre Ríos
+7057,Costa del Nogoya,E3155XAC,Entre Ríos
+7058,Costa del Payticu,E3138XAF,Entre Ríos
+7059,Costa Grande,E3101XAD,Entre Ríos
+7060,Costa Grande Doll,E3101XAE,Entre Ríos
+7061,Costa San Antonio,E2826XAD,Entre Ríos
+7062,Costa Uruguay Norte,E2821XAK,Entre Ríos
+7063,Costa Uruguay Sur,E2821XAC,Entre Ríos
+7065,Crespo Norte,E3118XAB,Entre Ríos
+7066,Crucesitas 3 Seccion,E3151XAB,Entre Ríos
+7067,Crucesitas 7 Seccion,E3109XAA,Entre Ríos
+7069,Crucesitas Urquiza,E3150XAH,Entre Ríos
+7070,Cuarto Distrito,E3150XAQ,Entre Ríos
+7071,Cuatro Bocas,E3174XAB,Entre Ríos
+7072,Cuatro Bocas Paraje,E2820XAD,Entre Ríos
+7073,Cuatro Manos,E2840XAV,Entre Ríos
+7074,Cuchilla,E2840XAW,Entre Ríos
+7075,Cuchilla Redonda,E2852XAA,Entre Ríos
+7076,Cueva del Tigre,E3201XAK,Entre Ríos
+7077,Cupalen,E3261XAF,Entre Ríos
+7078,Curtiembre,E3111XAA,Entre Ríos
+7079,Curupi,E3240XAL,Entre Ríos
+7080,Curuzu Chali,E3190XAS,Entre Ríos
+7081,Desparramados,E3246XAM,Entre Ríos
+7082,Destacamento General Guemes,E3125XAA,Entre Ríos
+7084,Diego Lopez,E3180XAC,Entre Ríos
+7085,Dist Raices al Norte,E3177XAG,Entre Ríos
+7086,Dist Raices al Sud,E3177XAI,Entre Ríos
+7087,Distrito el Sauce,E3150XAI,Entre Ríos
+7088,Distrito Espinillo,E3107XAA,Entre Ríos
+7089,Distrito Tala,E3118XAC,Entre Ríos
+7090,Doctor Eugenio Muñoz,E2823XAO,Entre Ríos
+7091,Doctor Garcia,E3101XAK,Entre Ríos
+7092,Don Cristobal,E3164XAE,Entre Ríos
+7093,Don Cristobal 1 Seccion,E3150XAA,Entre Ríos
+7094,Don Cristobal 2 Seccion,E3162XAA,Entre Ríos
+7095,Don Gonzalo,E3144XAD,Entre Ríos
+7096,Don Roberto,E3212XAT,Entre Ríos
+7097,Dos Hermanas,E2854XAB,Entre Ríos
+7099,Eben Horoscha,E3246XAL,Entre Ríos
+7100,Ejido Colon,E3272XAA,Entre Ríos
+7101,Ejido Diamante,E3105XAA,Entre Ríos
+7102,Ejido Sud,E3190XAT,Entre Ríos
+7103,El Avestruz,E3216XAT,Entre Ríos
+7108,El Colorado,E3192XAC,Entre Ríos
+7109,El Corcovado,E3142XAF,Entre Ríos
+7110,El Diecisiete,E3190XAG,Entre Ríos
+7111,El Duraznal,E3212XAU,Entre Ríos
+7112,El Embalsado,E3183XAC,Entre Ríos
+7114,El Gato,E3180XAB,Entre Ríos
+7115,El Gaucho,E3191XAN,Entre Ríos
+7116,El Gramiyal,E3144XAB,Entre Ríos
+7117,El Gualeguay,E3212XBI,Entre Ríos
+7119,El Nuevo Rincon,E2820XAE,Entre Ríos
+7120,El Pago Apeadero Fcgu,E3212XBH,Entre Ríos
+7121,El Palenque,E3122XAA,Entre Ríos
+7122,El Pingo,E3132XAA,Entre Ríos
+7123,El Potrero,E2821XAJ,Entre Ríos
+7124,El Pueblito,E3151XAD,Entre Ríos
+7125,El Quebracho,E3192XAB,Entre Ríos
+7126,El Ramblon,E3109XAB,Entre Ríos
+7127,El Redomon,E3212XAV,Entre Ríos
+7128,El Refugio,E3212XAW,Entre Ríos
+7129,El Remance,E2840XAX,Entre Ríos
+7130,El Rosario,E3191XAO,Entre Ríos
+7131,El Sarandi,E3191XAE,Entre Ríos
+7132,El Sauce,E2823XAH,Entre Ríos
+7133,El Solar,E3137XAB,Entre Ríos
+7134,El Taller,E3117XAA,Entre Ríos
+7135,El Tropezon,E3150XAB,Entre Ríos
+7136,Embarcadero Ferrari,E3201XAL,Entre Ríos
+7137,Empalme Holt,E2846XAE,Entre Ríos
+7138,Empalme Neild,E3240XAC,Entre Ríos
+7139,Enrique Berduc,E3118XAA,Entre Ríos
+7140,Enrique Carbo,E2852XAD,Entre Ríos
+7141,Escriña,E2828XAA,Entre Ríos
+7142,Escuela Alberdi,E3114XAC,Entre Ríos
+7143,Espinillo Norte,E3116XAF,Entre Ríos
+7144,Establecimiento el Carmen,E3114XAD,Entre Ríos
+7145,Establecimiento el Cimarron,E3114XAH,Entre Ríos
+7146,Establecimiento el Tala,E3118XAE,Entre Ríos
+7147,Establecimiento la Calera,E3287XAB,Entre Ríos
+7148,Establecimiento la Esperanza,E3114XAE,Entre Ríos
+7149,Establecimiento las Margaritas,E3114XAF,Entre Ríos
+7150,Establecimiento los Monigotes,E3287XAG,Entre Ríos
+7151,Establecimiento Punta Alta,E3155XAI,Entre Ríos
+7152,Establecimiento San Eduardo,E3177XAC,Entre Ríos
+7153,Establecimiento San Eusebio,E3177XAD,Entre Ríos
+7154,Establecimiento San Francisco,E3177XAE,Entre Ríos
+7155,Establecimiento San Martin,E2823XAC,Entre Ríos
+7156,Estacas,E3191XAP,Entre Ríos
+7157,Estacion Alcaraz,E3188XAD,Entre Ríos
+7158,Estacion General Racedo,E3114XAG,Entre Ríos
+7159,Estacion Raices,E3241XAM,Entre Ríos
+7160,Estacion Santa Ana,E3206XAT,Entre Ríos
+7161,Estacion Sola,E3176XAB,Entre Ríos
+7162,Estacion Urquiza,E3248XAB,Entre Ríos
+7163,Estacion Uruguay,E3260XAN,Entre Ríos
+7164,Estacion Yerua,E3214XAF,Entre Ríos
+7165,Estancia Bella Vista,E3272XAG,Entre Ríos
+7166,Estancia Cnia la Primavera,E3272XAI,Entre Ríos
+7167,Estancia Cnia Santa Elena,E3272XAM,Entre Ríos
+7168,Estancia Cnia Sta Teresa,E3272XBA,Entre Ríos
+7169,Estancia Colonia el Ombu,E3272XAH,Entre Ríos
+7170,Estancia Colonia el Toropi,E3272XAZ,Entre Ríos
+7171,Estancia Colonia la Tapera,E3272XAJ,Entre Ríos
+7173,Estancia Colonia San Pedro,E3272XAL,Entre Ríos
+7174,Estancia Colonia Santa Eloisa,E3272XBB,Entre Ríos
+7175,Estancia Colonia Santa Juana,E3272XBC,Entre Ríos
+7176,Estancia el Toropi,E3272XAN,Entre Ríos
+7177,Estancia Grande,E3201XAP,Entre Ríos
+7178,Estancia la Floresta,E3206XAS,Entre Ríos
+7179,Estancia la Gama,E3138XAE,Entre Ríos
+7180,Estancia los Vascos,E3272XAO,Entre Ríos
+7181,Estancia Salinas,E3229XAF,Entre Ríos
+7182,Estancia San Jose,E3206XAU,Entre Ríos
+7183,Estancia San Juan,E3190XAH,Entre Ríos
+7184,Estaquitas,E3191XBE,Entre Ríos
+7185,Fabrica Colon,E3272XAC,Entre Ríos
+7186,Faustino M Parera,E2823XAP,Entre Ríos
+7187,Febre,E3151XAA,Entre Ríos
+7190,Fernandez,E2846XAO,Entre Ríos
+7192,Florida,E3229XAD,Entre Ríos
+7193,Fortuna,E3183XAE,Entre Ríos
+7194,Frigorifico Yuqueri,E3203XAH,Entre Ríos
+7195,Fronteras,E3185XAD,Entre Ríos
+7196,Genacito,E3272XAX,Entre Ríos
+7197,General Almada,E2824XAB,Entre Ríos
+7198,General Alvear,E3101XAL,Entre Ríos
+7203,Geribebuy,E3248XAC,Entre Ríos
+7206,Gobernador Febre,E3150XAD,Entre Ríos
+7209,Gobernador Sola,E3174XAE,Entre Ríos
+7210,Gobernador Urquiza,E3248XAA,Entre Ríos
+7211,Gonzalez,E3191XAR,Entre Ríos
+7212,Gonzalez Calderon,E2840XAY,Entre Ríos
+7213,Grupo Achiras,E3246XAD,Entre Ríos
+7214,Grupo Parrero,E3244XAA,Entre Ríos
+7217,Gualeguaycito,E3204XAF,Entre Ríos
+7218,Gualeyan,E2821XAB,Entre Ríos
+7220,Guayaquil,E3206XAH,Entre Ríos
+7221,Hambis,E3269XAE,Entre Ríos
+7225,Herrera,E3272XAY,Entre Ríos
+7226,Hervidero,E3201XAG,Entre Ríos
+7227,Hinojal,E3162XAC,Entre Ríos
+7228,Hipodromo,E3174XAK,Entre Ríos
+7229,Hojas Anchas,E2840XAZ,Entre Ríos
+7230,Holt,E2846XAH,Entre Ríos
+7232,Ing Miguel Sajaroff,E3246XAT,Entre Ríos
+7234,Isla Curuzu Chali,E3191XAS,Entre Ríos
+7236,Isla del Ibicuy,E2823XAU,Entre Ríos
+7237,Isla el Dorado,E2805XAH,Entre Ríos
+7238,Isla el Pillo,E3101XAT,Entre Ríos
+7239,Isla la Paz,E3190XAI,Entre Ríos
+7240,Isla Lynch,E3100XAH,Entre Ríos
+7241,Isla San Jose,E3287XAE,Entre Ríos
+7242,Islas Alcaraz,E3190XAJ,Entre Ríos
+7243,Islas de las Lechiguanas,E2846XAB,Entre Ríos
+7244,Isletas,E3164XAF,Entre Ríos
+7245,Isletas Norte,E3164XAG,Entre Ríos
+7246,Isthilart,E3204XAA,Entre Ríos
+7247,Jorge Fink,E3181XAC,Entre Ríos
+7248,Juan B Monti,E3201XAH,Entre Ríos
+7249,Juan Jorge,E3285XAB,Entre Ríos
+7251,Kilmetro 165,E3153XAF,Entre Ríos
+7252,Kilometro 108,E3260XAG,Entre Ríos
+7253,Kilometro 11,E3203XAE,Entre Ríos
+7254,Kilometro 112,E3260XAA,Entre Ríos
+7255,Kilometro 114,E3280XAM,Entre Ríos
+7256,Kilometro 115,E3260XAB,Entre Ríos
+7257,Kilometro 116,E3132XAB,Entre Ríos
+7258,Kilometro 131,E3122XAD,Entre Ríos
+7259,Kilometro 147,E3118XAO,Entre Ríos
+7260,Kilometro 148,E3151XAF,Entre Ríos
+7261,Kilometro 160,E3142XAI,Entre Ríos
+7262,Kilometro 180,E3174XAF,Entre Ríos
+7263,Kilometro 183,E3176XAC,Entre Ríos
+7264,Kilometro 189,E3174XAG,Entre Ríos
+7265,Kilometro 192,E3174XAH,Entre Ríos
+7266,Kilometro 200,E3177XAF,Entre Ríos
+7267,Kilometro 208,E3172XAB,Entre Ríos
+7268,Kilometro 220,E3174XAL,Entre Ríos
+7269,Kilometro 231,E3170XAD,Entre Ríos
+7270,Kilometro 24,E3203XAK,Entre Ríos
+7271,Kilometro 242,E3272XAS,Entre Ríos
+7272,Kilometro 244,E3272XAT,Entre Ríos
+7273,Kilometro 25,E3177XAA,Entre Ríos
+7274,Kilometro 253,E3272XAU,Entre Ríos
+7275,Kilometro 268,E3263XAK,Entre Ríos
+7276,Kilometro 270,E3261XAJ,Entre Ríos
+7277,Kilometro 279,E3240XAD,Entre Ríos
+7278,Kilometro 28,E3114XAN,Entre Ríos
+7279,Kilometro 283,E3263XAL,Entre Ríos
+7280,Kilometro 284,E3240XAE,Entre Ríos
+7281,Kilometro 285,E3240XAF,Entre Ríos
+7282,Kilometro 288,E3240XAG,Entre Ríos
+7283,Kilometro 290,E2840XAE,Entre Ríos
+7284,Kilometro 293,E3263XAM,Entre Ríos
+7285,Kilometro 303,E2840XAG,Entre Ríos
+7286,Kilometro 305,E3265XAG,Entre Ríos
+7287,Kilometro 306,E3252XAP,Entre Ríos
+7288,Kilometro 310,E3280XAN,Entre Ríos
+7289,Kilometro 311,E3269XAN,Entre Ríos
+7290,Kilometro 32,E3200XAI,Entre Ríos
+7291,Kilometro 322,E3280XAD,Entre Ríos
+7292,Kilometro 324,E3280XAE,Entre Ríos
+7293,Kilometro 325,E3254XAE,Entre Ríos
+7294,Kilometro 329,E3212XAB,Entre Ríos
+7295,Kilometro 33,E3203XAC,Entre Ríos
+7296,Kilometro 333,E3212XAC,Entre Ríos
+7297,Kilometro 336,E3280XAF,Entre Ríos
+7298,Kilometro 337,E3269XAJ,Entre Ríos
+7299,Kilometro 340,E2848XAB,Entre Ríos
+7300,Kilometro 342,E3200XAB,Entre Ríos
+7301,Kilometro 343,E3216XAE,Entre Ríos
+7302,Kilometro 344,E3212XBD,Entre Ríos
+7303,Kilometro 347,E3200XAK,Entre Ríos
+7304,Kilometro 353,E3218XAD,Entre Ríos
+7305,Kilometro 355,E3216XAA,Entre Ríos
+7306,Kilometro 361,E2848XAC,Entre Ríos
+7307,Kilometro 37,E3204XAH,Entre Ríos
+7308,Kilometro 373,E3214XAA,Entre Ríos
+7309,Kilometro 376,E3214XAB,Entre Ríos
+7310,Kilometro 389,E2846XAI,Entre Ríos
+7311,Kilometro 43,E3116XAB,Entre Ríos
+7312,Kilometro 44,E3204XAG,Entre Ríos
+7313,Kilometro 45,E3116XAK,Entre Ríos
+7314,Kilometro 47,E3206XAK,Entre Ríos
+7315,Kilometro 49,E3280XAJ,Entre Ríos
+7316,Kilometro 50,E3287XAJ,Entre Ríos
+7317,Kilometro 51,E3206XAP,Entre Ríos
+7318,Kilometro 56,E3280XAK,Entre Ríos
+7319,Kilometro 6,E3201XAA,Entre Ríos
+7320,Kilometro 84,E3228XAN,Entre Ríos
+7321,Kilometro 86,E3285XAH,Entre Ríos
+7322,Kilometro 88,E3280XAG,Entre Ríos
+7323,Kilometro 89,E3285XAG,Entre Ríos
+7324,Kilometro 99,E3283XAD,Entre Ríos
+7325,La Alicia,E3212XAK,Entre Ríos
+7326,La Amiguita,E3244XAI,Entre Ríos
+7327,La Argentina,E2846XAA,Entre Ríos
+7328,La Balsa,E3111XAL,Entre Ríos
+7329,La Balsa Parana,E3113XAA,Entre Ríos
+7330,La Barraca,E3260XAH,Entre Ríos
+7331,La Blanqueada,E3424XAA,Entre Ríos
+7332,La Calera,E2823XAV,Entre Ríos
+7333,La Capilla,E3246XAA,Entre Ríos
+7334,La Carlota,E3218XAC,Entre Ríos
+7335,La Chica,E2823XAQ,Entre Ríos
+7337,La Colina,E3158XAD,Entre Ríos
+7338,La Colmena,E3134XAD,Entre Ríos
+7339,La Colorada,E3212XAL,Entre Ríos
+7340,La Corvina,E3150XAP,Entre Ríos
+7341,La Costa,E2852XAE,Entre Ríos
+7343,La Cuadra,E2823XAR,Entre Ríos
+7344,La Diligencia,E3142XAG,Entre Ríos
+7345,La Emilia,E3212XAM,Entre Ríos
+7346,La Encierra,E3144XAE,Entre Ríos
+7347,La Escondida,E2826XAE,Entre Ríos
+7348,La Esmeralda,E3187XAD,Entre Ríos
+7349,La Estrella,E3254XAF,Entre Ríos
+7350,La Favorita,E3158XAE,Entre Ríos
+7351,La Florencia,E3151XAC,Entre Ríos
+7352,La Florida,E2823XAS,Entre Ríos
+7353,La Fraternidad y Santa Juana,E3228XAA,Entre Ríos
+7354,La Goya,E3260XAI,Entre Ríos
+7355,La Granja,E3212XAN,Entre Ríos
+7356,La Hierra,E3183XAF,Entre Ríos
+7357,La Ilusion,E3150XAC,Entre Ríos
+7358,La Invernada,E3212XAZ,Entre Ríos
+7359,La Joya,E3244XAJ,Entre Ríos
+7360,La Juliana,E3134XAE,Entre Ríos
+7361,La Lata,E2820XAG,Entre Ríos
+7362,La Llave,E3158XAF,Entre Ríos
+7363,La Loma,E3151XAG,Entre Ríos
+7364,La Maria Luisa,E3261XAN,Entre Ríos
+7365,La Maruja a,E3151XAE,Entre Ríos
+7366,La Nobleza,E3212XBA,Entre Ríos
+7367,La Odilia,E3212XBB,Entre Ríos
+7368,La Ollita,E3174XAQ,Entre Ríos
+7369,La Pampa,E3254XAG,Entre Ríos
+7371,La Perla,E3216XAK,Entre Ríos
+7372,La Picada,E3118XAL,Entre Ríos
+7373,La Picada Norte,E3118XAM,Entre Ríos
+7374,La Querencia,E3212XBC,Entre Ríos
+7375,La Quinta,E3216XAL,Entre Ríos
+7376,La Rosada,E3201XAO,Entre Ríos
+7377,La s Diez Casas,E3269XAL,Entre Ríos
+7378,La Selva,E3185XAE,Entre Ríos
+7379,La Sesteada,E3260XAJ,Entre Ríos
+7380,La Soledad,E3229XAE,Entre Ríos
+7381,La Suiza,E3280XAH,Entre Ríos
+7382,La Tigresa,E3260XAO,Entre Ríos
+7383,La Verbena,E3185XAF,Entre Ríos
+7384,La Virginia,E3134XAF,Entre Ríos
+7385,La Zelmira,E2820XAP,Entre Ríos
+7386,Laguna Benitez,E3183XAH,Entre Ríos
+7387,Laguna del Pescado,E3155XAF,Entre Ríos
+7388,Laguna Larga,E3241XAE,Entre Ríos
+7389,Lamarca,E3206XAI,Entre Ríos
+7390,Lambare,E2841XAB,Entre Ríos
+7392,Las Achiras,E3281XAE,Entre Ríos
+7393,Las Bateas,E2840XAO,Entre Ríos
+7394,Las Catorce,E3228XAL,Entre Ríos
+7395,Las Colas,E2840XAP,Entre Ríos
+7396,Las Colonias,E3254XAH,Entre Ríos
+7397,Las Cuevas,E3101XAM,Entre Ríos
+7398,Las Garzas,E3136XAD,Entre Ríos
+7399,Las Guachas,E3174XAD,Entre Ríos
+7400,Las Lagunas,E3191XAV,Entre Ríos
+7401,Las Masitas,E2828XAB,Entre Ríos
+7402,Las Mercedes,E2854XAC,Entre Ríos
+7403,Las Mochas,E3216XAM,Entre Ríos
+7405,Las Mulitas,E3191XAC,Entre Ríos
+7406,Las Pajitas,E3240XAH,Entre Ríos
+7407,Las Peñas,E3206XAJ,Entre Ríos
+7408,Las Rosas,E2828XAI,Entre Ríos
+7410,Las Toscas,E3191XAW,Entre Ríos
+7411,Las Tunas,E3111XAM,Entre Ríos
+7412,Laurencena,E3150XAE,Entre Ríos
+7413,Lazo,E2840XAQ,Entre Ríos
+7414,Lesca,E3200XAG,Entre Ríos
+7415,Libaros,E3244XAD,Entre Ríos
+7416,Libertador Gral San Martin,E2846XAJ,Entre Ríos
+7417,Libertador San Martin,E3103XAF,Entre Ríos
+7418,Liebig,E3272XAP,Entre Ríos
+7419,Linea 19,E3244XAG,Entre Ríos
+7420,Linea 20,E3244XAH,Entre Ríos
+7421,Linea 24,E3170XAF,Entre Ríos
+7422,Linea 25,E3170XAB,Entre Ríos
+7423,Lionel,E3244XAF,Entre Ríos
+7424,Loma Limpia,E3188XAE,Entre Ríos
+7425,Loma Negra,E3212XAO,Entre Ríos
+7426,Lomas Blancas,E3185XAA,Entre Ríos
+7427,Los Amigos,E2828XAC,Entre Ríos
+7428,Los Brillantes,E3212XAP,Entre Ríos
+7429,Los Burgos Apeadero Fcgu,E3116XAA,Entre Ríos
+7430,Los Ceibos,E3261XAQ,Entre Ríos
+7433,Los Gansos,E3101XAU,Entre Ríos
+7434,Los Naranjos,E3134XAA,Entre Ríos
+7435,Los Ombues,E3241XAG,Entre Ríos
+7436,Los Paraisos,E3150XAJ,Entre Ríos
+7437,Los Sauer,E3200XAA,Entre Ríos
+7439,Lucas Noreste,E3150XAK,Entre Ríos
+7440,Lucas Norte,E3216XAO,Entre Ríos
+7441,Lucas Sur 1Ra Seccion,E3241XAH,Entre Ríos
+7442,Lucas Sur 2Da Seccion,E3240XAB,Entre Ríos
+7443,Lucienville 1,E2828XAD,Entre Ríos
+7444,Lucienville 2,E2828XAE,Entre Ríos
+7445,Lucienville 3,E2828XAF,Entre Ríos
+7446,Lucienville 4,E2828XAG,Entre Ríos
+7447,Mac Dougall,E3244XAE,Entre Ríos
+7448,Mac Keller,E3187XAJ,Entre Ríos
+7449,Manantiales,E3191XAX,Entre Ríos
+7450,Mandisovi,E3228XAO,Entre Ríos
+7451,Mangrullo,E3248XAD,Entre Ríos
+7453,Maria Grande Primera,E3111XAE,Entre Ríos
+7454,Maria Grande Segunda,E3133XAC,Entre Ríos
+7455,Martinetti,E3191XAY,Entre Ríos
+7456,Martiniano Leguizamon,E3285XAC,Entre Ríos
+7457,Mauricio Ribole,E3216XAU,Entre Ríos
+7458,Mazaruca,E2846XAC,Entre Ríos
+7459,Medanos,E2848XAD,Entre Ríos
+7460,Mesa,E3187XAK,Entre Ríos
+7461,Miguel J Perliza,E3246XAO,Entre Ríos
+7462,Mira Monte,E3191XAZ,Entre Ríos
+7463,Mojones Norte,E3241XAF,Entre Ríos
+7464,Mojones Sur Primero,E3241XAJ,Entre Ríos
+7465,Mojones Sur Segundo,E3240XAJ,Entre Ríos
+7466,Molino Bob,E3174XAM,Entre Ríos
+7467,Molino Doll,E3101XAX,Entre Ríos
+7468,Monte Chico,E3206XAQ,Entre Ríos
+7469,Monte Redondo,E2840XBF,Entre Ríos
+7470,Monte Verde,E3228XAP,Entre Ríos
+7471,Montiel,E3191XBA,Entre Ríos
+7472,Montoya,E3151XAJ,Entre Ríos
+7473,Moreno,E3122XAC,Entre Ríos
+7474,Mulas Grandes,E3187XAN,Entre Ríos
+7475,Ñandubaysal,E2821XAD,Entre Ríos
+7476,Nicolas Herrera,E3272XAQ,Entre Ríos
+7478,Novibuco Primero,E3170XAA,Entre Ríos
+7479,Nueva Escocia,E3201XAI,Entre Ríos
+7480,Nueva Vizcaya,E3212XBF,Entre Ríos
+7481,Ombu,E3190XAV,Entre Ríos
+7482,Oro Verde,E3100XAD,Entre Ríos
+7484,Paja Brava,E3101XAN,Entre Ríos
+7485,Pajas Blancas,E3187XAL,Entre Ríos
+7486,Pajonal,E3101XAY,Entre Ríos
+7487,Palacio San Jose,E3261XAG,Entre Ríos
+7488,Palavecino,E2820XAF,Entre Ríos
+7489,Palmar,E3285XAD,Entre Ríos
+7490,Palmar Yatay,E3287XAF,Entre Ríos
+7491,Palo a Pique,E3191XAD,Entre Ríos
+7492,Paracao,E3100XAE,Entre Ríos
+7493,Parada Yuqueri,E3214XAC,Entre Ríos
+7494,Paraje Guayabo,E3240XAI,Entre Ríos
+7495,Paraje Palaveroi,E2805XAI,Entre Ríos
+7497,Parana Bravo,E2805XAF,Entre Ríos
+7498,Paranacito,E2846XAP,Entre Ríos
+7499,Parque Nacional el Palmar,E3280XAL,Entre Ríos
+7500,Pasaje Talavera,E2804XAA,Entre Ríos
+7501,Paso de la Arena,E3118XAJ,Entre Ríos
+7502,Paso de la Balza,E3111XAG,Entre Ríos
+7503,Paso de la Laguna,E3241XAK,Entre Ríos
+7504,Paso de la Legua,E3240XAK,Entre Ríos
+7505,Paso de las Piedras,E3118XAI,Entre Ríos
+7506,Paso del Abra,E3153XAA,Entre Ríos
+7507,Paso del Cisnero,E2846XAD,Entre Ríos
+7508,Paso del Gallo,E3212XAD,Entre Ríos
+7509,Paso del Molino,E3260XAK,Entre Ríos
+7510,Paso Duarte,E3181XAI,Entre Ríos
+7511,Paso Garibaldi,E3192XAA,Entre Ríos
+7512,Paso Margariños,E3200XAF,Entre Ríos
+7513,Paso Medina,E3190XAD,Entre Ríos
+7514,Paso Potrillo,E3129XAA,Entre Ríos
+7515,Paso Puerto Augusto,E3190XAC,Entre Ríos
+7516,Paso Sociedad,E3181XAD,Entre Ríos
+7517,Paso Telegrafo,E3194XAA,Entre Ríos
+7518,Pastor Britos,E2826XAC,Entre Ríos
+7519,Pedermar,E3203XAF,Entre Ríos
+7520,Pedernal,E3203XAG,Entre Ríos
+7521,Pehuajo Norte,E2821XAE,Entre Ríos
+7522,Pehuajo Sud,E2854XAA,Entre Ríos
+7523,Perdices,E2823XAI,Entre Ríos
+7524,Perucho Verna,E3283XAC,Entre Ríos
+7525,Pesqueria Diamantino,E2820XAK,Entre Ríos
+7526,Picada Beron,E3190XBD,Entre Ríos
+7528,Piloto Avila,E3190XAK,Entre Ríos
+7529,Pos Pos,E3285XAF,Entre Ríos
+7531,Primer Cuartel,E3174XAN,Entre Ríos
+7532,Primer Distrito,E2840XAA,Entre Ríos
+7533,Pronunciamiento,E3263XAJ,Entre Ríos
+7534,Pueblito,E3150XAM,Entre Ríos
+7535,Pueblito Norte,E3155XAH,Entre Ríos
+7539,Pueblo Cazes,E3269XAH,Entre Ríos
+7541,Pueblo Dominguez,E3246XAU,Entre Ríos
+7542,Pueblo Ellison,E3142XAB,Entre Ríos
+7543,Pueblo Ferre,E3216XAF,Entre Ríos
+7544,Pueblo General Belgrano,E2821XAA,Entre Ríos
+7545,Pueblo General Paz,E3123XAB,Entre Ríos
+7547,Pueblo Moreno,E3122XAH,Entre Ríos
+7548,Pueblo Nuevo,E3170XAC,Entre Ríos
+7549,Pueblo Primero,E3174XAS,Entre Ríos
+7550,Puente Carmona,E3118XAD,Entre Ríos
+7551,Puente de Gualeguaychu,E3265XAE,Entre Ríos
+7552,Puente de las Pencas,E3101XAQ,Entre Ríos
+7553,Puente de Lucas,E3216XAV,Entre Ríos
+7554,Puente del Chañar,E3111XAH,Entre Ríos
+7555,Puente del Doll,E3101XAR,Entre Ríos
+7556,Puente Ñancay,E2823XBA,Entre Ríos
+7557,Puente Obispo,E3174XAO,Entre Ríos
+7558,Puente Paranacito,E2823XAT,Entre Ríos
+7559,Puente Pellegrini,E2840XAI,Entre Ríos
+7560,Puente Victoria,E3153XAC,Entre Ríos
+7561,Puerta de Crespo,E3155XAB,Entre Ríos
+7562,Puerto Algarrobo,E3129XAB,Entre Ríos
+7563,Puerto Almiron,E3281XAD,Entre Ríos
+7564,Puerto Barriles,E2840XAJ,Entre Ríos
+7565,Puerto Cadenas,E3192XAD,Entre Ríos
+7566,Puerto Campinchuelo,E3261XAH,Entre Ríos
+7567,Puerto Colorado,E3280XAI,Entre Ríos
+7568,Puerto Constanza,E2846XAN,Entre Ríos
+7570,Puerto Diamante,E3105XAB,Entre Ríos
+7571,Puerto Esquina,E3155XAE,Entre Ríos
+7572,Puerto Ibicuy,E2846XAK,Entre Ríos
+7573,Puerto la Esmeralda,E3190XBA,Entre Ríos
+7574,Puerto las Cuevas,E3101XAO,Entre Ríos
+7575,Puerto Lopez,E3101XAW,Entre Ríos
+7576,Puerto Marquez,E3190XAE,Entre Ríos
+7577,Puerto Perazzo,E2846XAF,Entre Ríos
+7578,Puerto Ruiz,E2840XAR,Entre Ríos
+7579,Puerto San Juan,E2846XAG,Entre Ríos
+7580,Puerto Unzue,E2820XAI,Entre Ríos
+7581,Puerto Viboras,E3127XAC,Entre Ríos
+7582,Puerto Viejo,E3260XAF,Entre Ríos
+7583,Puerto Villarruel,E3127XAD,Entre Ríos
+7584,Puerto Yerua,E3201XAB,Entre Ríos
+7585,Puerto Yunque,E3190XBB,Entre Ríos
+7586,Punta del Monte,E2840XAS,Entre Ríos
+7587,Puntas de Moreira,E3181XAE,Entre Ríos
+7588,Puntas del Gualeguaychu,E3269XAI,Entre Ríos
+7589,Puntas del Palmar,E3280XAC,Entre Ríos
+7590,Quebrachitos,E3153XAB,Entre Ríos
+7591,Quebracho,E3109XAD,Entre Ríos
+7592,Quintas al Sud,E3100XAL,Entre Ríos
+7593,Quinto Cuartel Victoria,E3153XAD,Entre Ríos
+7594,Quinto Distrito,E2840XAT,Entre Ríos
+7595,Racedo,E3114XAB,Entre Ríos
+7596,Rachel,E3246XAF,Entre Ríos
+7597,Raices Oeste,E3241XAC,Entre Ríos
+7598,Ramblon,E3109XAE,Entre Ríos
+7599,Ramon a Parera,E3118XAN,Entre Ríos
+7600,Rincon de las Guachas,E3174XAI,Entre Ríos
+7601,Rincon de Mojones,E3241XAD,Entre Ríos
+7602,Rincon de Nogoya,E3155XAG,Entre Ríos
+7603,Rincon del Cinto,E2826XAG,Entre Ríos
+7604,Rincon del Doll,E3101XAZ,Entre Ríos
+7605,Rincon del Gato,E2820XAJ,Entre Ríos
+7606,Rincon del Nogoya Sur,E2840XAF,Entre Ríos
+7607,Rincon Lucas Norte,E3241XAA,Entre Ríos
+7608,Rincon Lucas Sud,E3241XAB,Entre Ríos
+7609,Rio Aguila,E2805XAE,Entre Ríos
+7610,Rio Alferez Nelson Page,E2805XAL,Entre Ríos
+7611,Rio Ceibo,E2805XAM,Entre Ríos
+7612,Rio Parana Guazu,E2805XAN,Entre Ríos
+7613,Rio Pasaje al Aguila,E2805XAJ,Entre Ríos
+7614,Rio Sauce,E2805XAO,Entre Ríos
+7615,Rio Talavera,E2805XAK,Entre Ríos
+7616,Rivas,E3164XAD,Entre Ríos
+7617,Rocamora,E3172XAA,Entre Ríos
+7619,Rospina,E3246XAN,Entre Ríos
+7620,Ruta 138 Kilometro 1,E3100XAG,Entre Ríos
+7621,Ruta 14 Km 443,E3201XAC,Entre Ríos
+7622,Sagastume,E3246XAE,Entre Ríos
+7623,Saladero Alzua,E2840XAU,Entre Ríos
+7624,Saladero Concordia,E3200XAC,Entre Ríos
+7625,Saladero San Jose,E2840XBA,Entre Ríos
+7626,San Anselmo,E3281XAB,Entre Ríos
+7627,San Antonio,E3191XAF,Entre Ríos
+7629,San Buenaventura,E3212XAE,Entre Ríos
+7630,San Cipriano,E3263XAN,Entre Ríos
+7631,San Francisco,E3101XAG,Entre Ríos
+7632,San Geronimo,E3191XAG,Entre Ríos
+7633,San Gregorio,E3203XAB,Entre Ríos
+7635,San Jaime,E3185XAB,Entre Ríos
+7637,San Jorge,E3212XAF,Entre Ríos
+7640,San Juan,E3191XAH,Entre Ríos
+7641,San Juan la Querencia,E3212XAG,Entre Ríos
+7642,San Julian,E2840XBB,Entre Ríos
+7643,San Justo,E3260XAP,Entre Ríos
+7644,San Lorenzo,E3150XAN,Entre Ríos
+7645,San Luis San Jose Feliciano,E3187XAM,Entre Ríos
+7646,San Martin,E3111XAO,Entre Ríos
+7647,San Miguel,E3269XAF,Entre Ríos
+7648,San Miguel Nro 2,E3269XAG,Entre Ríos
+7649,San Pedro,E3212XBE,Entre Ríos
+7650,San Ramirez,E3191XAI,Entre Ríos
+7651,San Roque,E3228XAS,Entre Ríos
+7653,San Vicente,E3252XAM,Entre Ríos
+7654,San Victor,E3191XAA,Entre Ríos
+7655,Sanatorio Adventista del Plata,E3103XAC,Entre Ríos
+7656,Sanatorio Apeadero Fcgu,E3103XAE,Entre Ríos
+7660,Santa Ines,E3191XBD,Entre Ríos
+7661,Santa Isabel,E3203XAD,Entre Ríos
+7662,Santa Lucia,E3183XAG,Entre Ríos
+7663,Santa Luisa,E3133XAG,Entre Ríos
+7664,Santa Maria,E3191XBB,Entre Ríos
+7665,Santa Marta,E2840XBC,Entre Ríos
+7666,Santa Rosa,E3248XAG,Entre Ríos
+7667,Santa Sara,E3134XAG,Entre Ríos
+7668,Sarandi,E2821XAG,Entre Ríos
+7669,Sarandi Cora,E3190XAW,Entre Ríos
+7672,Sauce Montrull,E3118XAH,Entre Ríos
+7673,Sauce Norte,E3174XAJ,Entre Ríos
+7674,Sauce Pinto,E3107XAC,Entre Ríos
+7675,Sauce Sur,E2845XAA,Entre Ríos
+7676,Seccion Urquiza,E3150XAO,Entre Ríos
+7678,Segundo Cuartel,E3174XAP,Entre Ríos
+7679,Septimo Distrito,E3150XAR,Entre Ríos
+7680,Sexto Distrito,E3155XAA,Entre Ríos
+7681,Sexto Distrito Colon,E3287XAA,Entre Ríos
+7682,Sir Leonard,E3142XAH,Entre Ríos
+7683,Sosa,E3133XAD,Entre Ríos
+7684,Spindola,E3252XAN,Entre Ríos
+7686,Subcentral Santa Maria,E3180XAA,Entre Ríos
+7687,Surst,E3228XAB,Entre Ríos
+7691,Tacuaras Yacare,E3190XAX,Entre Ríos
+7692,Talita,E3261XAO,Entre Ríos
+7693,Talitas,E3136XAC,Entre Ríos
+7694,Talitas Gualeguaychu,E2852XAF,Entre Ríos
+7695,Tases,E3187XAG,Entre Ríos
+7696,Tatuti,E3229XAG,Entre Ríos
+7698,Tiro Federal,E3100XAM,Entre Ríos
+7699,Tomas Rocamora,E3261XAP,Entre Ríos
+7700,Tres Aldeas,E3170XAE,Entre Ríos
+7701,Tres Bocas,E3155XAD,Entre Ríos
+7702,Tres Esquinas,E3156XAD,Entre Ríos
+7703,Tres Lagunas,E3111XAN,Entre Ríos
+7704,Tte Primero Brigio Cainzo,E3212XBG,Entre Ríos
+7707,Vergara,E3252XAO,Entre Ríos
+7709,Viboras,E3187XAH,Entre Ríos
+7711,Villa Aida,E3103XAD,Entre Ríos
+7712,Villa Angelica,E2000XAA,Entre Ríos
+7713,Villa Antony,E2820XAL,Entre Ríos
+7714,Villa Boreilo,E3191XBC,Entre Ríos
+7716,Villa del Cerro,E2821XAH,Entre Ríos
+7719,Villa Eleonora,E2820XAO,Entre Ríos
+7721,Villa Faustino M Parera,E2823XAY,Entre Ríos
+7722,Villa Fontana,E3114XAL,Entre Ríos
+7723,Villa Gob Luis Etchevehere,E3114XAM,Entre Ríos
+7724,Villa Hernandarias,E3127XAE,Entre Ríos
+7725,Villa Libertad,E3153XAE,Entre Ríos
+7727,Villa Lila,E2820XAM,Entre Ríos
+7729,Villa Paranacito,E2823XBC,Entre Ríos
+7730,Villa Perper,E3188XAA,Entre Ríos
+7731,Villa Porteña,E3191XAB,Entre Ríos
+7732,Villa Romero,E2823XAZ,Entre Ríos
+7733,Villa San Justo,E3261XAK,Entre Ríos
+7734,Villa San Marcial,E3248XAH,Entre Ríos
+7735,Villa San Miguel,E3272XAR,Entre Ríos
+7736,Villa Sarmiento,E3100XAN,Entre Ríos
+7737,Villa Tres de Febrero,E3150XAF,Entre Ríos
+7738,Villa Udine,E3261XAI,Entre Ríos
+7739,Villa Uranga,E3100XAO,Entre Ríos
+7741,Villa Zorraquin,E3201XAJ,Entre Ríos
+7743,Villaguay Este,E3244XAK,Entre Ríos
+7744,Villaguaycito,E3218XAG,Entre Ríos
+7745,Villamil,E3181XAA,Entre Ríos
+7746,Virano,E3142XAJ,Entre Ríos
+7747,Vizcachera,E3127XAA,Entre Ríos
+7748,Walter Moss,E3216XAG,Entre Ríos
+7749,Yacare,E3190XAY,Entre Ríos
+7750,Yaros,E3212XAQ,Entre Ríos
+7751,Yatay,E3281XAA,Entre Ríos
+7752,Yerua,E3214XAD,Entre Ríos
+7753,Yeso,E3190XAZ,Entre Ríos
+7754,Yeso Oeste,E3190XAF,Entre Ríos
+7755,Yuqueri,E3214XAE,Entre Ríos
+7756,Zenon Roca,E3240XAM,Entre Ríos

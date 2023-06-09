@@ -1,0 +1,480 @@
+id,name,zip,state
+7758,19 de Marzo,P3630XCX,Formosa
+7759,9 de Julio,P3643XAA,Formosa
+7760,Agente Argentino Alegre,P3634XCN,Formosa
+7761,Agente Felipe Santiago Ibañez,P3624XAB,Formosa
+7762,Agua Verde,P3636XAK,Formosa
+7763,Aguas Negras,P3615XAA,Formosa
+7764,Alfonsina Storni,P3634XBM,Formosa
+7765,Alolague,P3626XAG,Formosa
+7766,Alto Alegre,P3620XAH,Formosa
+7767,Andres Flores,P3620XAD,Formosa
+7768,Angostura,P3611XAX,Formosa
+7769,Apayerey,P3615XAI,Formosa
+7770,Arbol Solo,P3628XAB,Formosa
+7771,Ayudante Paredes,P3611XAD,Formosa
+7772,Bahia Negra,P3600XBA,Formosa
+7773,Bajo Hondo,P3630XAI,Formosa
+7774,Bajo Verde,P3634XBL,Formosa
+7775,Ballon,P3634XCM,Formosa
+7776,Banco Payagua,P3601XAF,Formosa
+7777,Barrio San Jose Obrero,P3606XBS,Formosa
+7778,Barrio San Martin,P3610XAH,Formosa
+7779,Barrio Sud America,P3610XAD,Formosa
+7780,Bartolome de las Casas,P3622XAB,Formosa
+7781,Bella Vista,P3615XAJ,Formosa
+7782,Boca del Riacho de Pilaga,P3600XAJ,Formosa
+7783,Bocarin,P3611XAV,Formosa
+7784,Bolsa de Palomo,P3636XAP,Formosa
+7785,Brigadier General Pueyrredon,P3610XAE,Formosa
+7786,Bruchard,P3622XAC,Formosa
+7787,Buen Lugar,P3636XAI,Formosa
+7789,Caballo Muerto,P3636XAJ,Formosa
+7790,Cabo 1Ro Casimiro Benitez,P3626XAU,Formosa
+7791,Cabo Adriano Ayala,P3519XAA,Formosa
+7792,Cabo Noroña,P3606XBI,Formosa
+7793,Cabo Primero Chavez,P3630XAE,Formosa
+7794,Campo Alegre,P3630XAV,Formosa
+7795,Campo Azcurra,P3624XAL,Formosa
+7796,Campo del Cielo,P3624XAM,Formosa
+7797,Campo el Suri,P3634XAV,Formosa
+7798,Campo Goreta,P3601XAG,Formosa
+7799,Campo Grande,P3636XAQ,Formosa
+7800,Campo Oswald,P3608XAB,Formosa
+7801,Campo Redondo,P3630XBG,Formosa
+7802,Campo Rigonato,P3606XBK,Formosa
+7803,Cañada Doce,P3600XAK,Formosa
+7804,Cañada San Pedro,P3636XAR,Formosa
+7805,Capilla San Antonio,P3600XAL,Formosa
+7806,Capitan Juan Sola,P3634XAZ,Formosa
+7807,Carlos Pelegrini,P3636XAW,Formosa
+7808,Carlos Saavedra Lamas,P3636XBP,Formosa
+7809,Casco Cue,P3606XBL,Formosa
+7810,Cataneo Cue,P3615XAB,Formosa
+7811,Ceibo Trece,P3610XAI,Formosa
+7813,Chagaday,P3615XAP,Formosa
+7814,Chirochilas,P3613XAC,Formosa
+7815,Churqui Cue,P3601XAT,Formosa
+7817,Cmte Principal Ismael St,P3628XAG,Formosa
+7818,Cnel Miguel Martinez de Hoz,P3636XAD,Formosa
+7819,Cnia Aborigen Bme de las Casas,P3630XAW,Formosa
+7820,Colonia 25 de Mayo,P3615XAN,Formosa
+7821,Colonia 5 de Octubre,P3606XAH,Formosa
+7822,Colonia 8 de Septiembre,P3630XBH,Formosa
+7823,Colonia Alfonso,P3613XAE,Formosa
+7824,Colonia Alto Tigre,P3620XAE,Formosa
+7825,Colonia Aquino,P3601XAU,Formosa
+7826,Colonia Bouvier,P3611XAM,Formosa
+7827,Colonia Buena Vista,P3620XAA,Formosa
+7829,Colonia Cano,P3601XBJ,Formosa
+7830,Colonia Coronel Dorrego,P3634XCH,Formosa
+7831,Colonia Dalmacia,P3600XAY,Formosa
+7832,Colonia el Alba,P3606XAI,Formosa
+7833,Colonia el Catorce,P3624XAN,Formosa
+7834,Colonia el Olvido,P3606XBM,Formosa
+7835,Colonia el Rincon,P3601XBS,Formosa
+7836,Colonia el Silencio,P3624XAO,Formosa
+7837,Colonia el Zapallito,P3606XBN,Formosa
+7838,Colonia Francisco J Muñiz,P3630XCT,Formosa
+7839,Colonia Guillermina,P3624XAP,Formosa
+7840,Colonia Hardy,P3606XBJ,Formosa
+7841,Colonia Isla Alvarez,P3600XAV,Formosa
+7842,Colonia Isla de Oro,P3600XAX,Formosa
+7843,Colonia Isla Sola,P3624XAQ,Formosa
+7844,Colonia Jose M Paz,P3613XAJ,Formosa
+7845,Colonia Juan B Alberdi,P3626XAH,Formosa
+7846,Colonia Juanita,P3626XAI,Formosa
+7847,Colonia la Brava,P3626XAJ,Formosa
+7848,Colonia la Disciplina,P3606XBO,Formosa
+7849,Colonia la Sociedad,P3626XBA,Formosa
+7850,Colonia los Tres Reyes,P3630XAX,Formosa
+7851,Colonia Palmar Grande,P3606XBP,Formosa
+7852,Colonia Pastoril,P3601XAC,Formosa
+7853,Colonia Perin,P3624XAC,Formosa
+7854,Colonia Puente Pucu,P3600XAM,Formosa
+7855,Colonia Puente Uriburu,P3600XAB,Formosa
+7856,Colonia Reconquista,P3624XAD,Formosa
+7857,Colonia Sabina,P3606XBQ,Formosa
+7858,Colonia San Bernardo,P3630XAY,Formosa
+7859,Colonia San Isidro,P3630XCB,Formosa
+7860,Colonia San Jose,P3624XAE,Formosa
+7861,Colonia San Pablo,P3630XBR,Formosa
+7862,Colonia Santa Catalina,P3630XBI,Formosa
+7863,Colonia Santa Rosa,P3626XBB,Formosa
+7864,Colonia Santoro,P3630XBS,Formosa
+7865,Colonia Siete Quebrados,P3620XAF,Formosa
+7866,Colonia Tatane,P3626XAA,Formosa
+7867,Colonia Union Escuela,P3626XAK,Formosa
+7868,Colonia Villa Rica,P3630XAZ,Formosa
+7870,Comisaria Pte Yrigoyen,P3601XAV,Formosa
+7871,Coronel Argentino Larrabure,P3620XAI,Formosa
+7872,Coronel Enrique Rostagno,P3624XAR,Formosa
+7873,Coronel Felix Bogado,P3626XAV,Formosa
+7874,Coronel Jose I Warnes,P3606XAJ,Formosa
+7875,Costa del Lindo,P3601XAW,Formosa
+7876,Costa del Pilcomayo,P3630XAF,Formosa
+7877,Costa Rio Negro,P3606XBU,Formosa
+7878,Costa Salado,P3606XAK,Formosa
+7879,Curtiembre Cue,P3611XAY,Formosa
+7880,Curupay,P3601XAX,Formosa
+7881,Desvio los Matacos,P3608XAH,Formosa
+7882,Doctor Carlos Montag,P3624XAS,Formosa
+7883,Doctor Gumersindo Sayago,P3636XAE,Formosa
+7884,Doctor Luis Agote,P3636XAX,Formosa
+7885,Domingo F Sarmiento,P3621XAF,Formosa
+7886,El Acheral,P3634XCB,Formosa
+7887,El Aibalito,P3634XBT,Formosa
+7888,El Alambrado,P3636XBV,Formosa
+7889,El Algarrobo,P3606XAL,Formosa
+7890,El Angelito,P3601XAY,Formosa
+7891,El Arbol Solo,P3601XAZ,Formosa
+7892,El Arbolito,P3601XBA,Formosa
+7893,El Azotado,P3636XAF,Formosa
+7894,El Bañadero,P3606XBG,Formosa
+7895,El Bordo Santo,P3634XAN,Formosa
+7896,El Bragado,P3634XAO,Formosa
+7897,El Cañon,P3634XBN,Formosa
+7898,El Cavado,P3634XBW,Formosa
+7899,El Ceibal,P3630XCV,Formosa
+7900,El Coati,P3630XBA,Formosa
+7901,El Cogoik,P3620XAN,Formosa
+7903,El Corralito,P3606XBT,Formosa
+7904,El Corredero,P3630XBB,Formosa
+7905,El Descanso,P3630XCW,Formosa
+7906,El Desmonte,P3636XBW,Formosa
+7908,El Gato,P3601XBN,Formosa
+7909,El Guajho,P3606XAC,Formosa
+7910,El Marcado,P3634XBR,Formosa
+7911,El Mirador,P3630XBZ,Formosa
+7912,El Mistolar,P3636XBJ,Formosa
+7913,El Mojon,P3634XBY,Formosa
+7914,El Ñandu,P3608XAD,Formosa
+7916,El Olvido,P3601XAH,Formosa
+7917,El Ombu,P3601XAI,Formosa
+7918,El Palmar,P3606XAD,Formosa
+7919,El Palo Santo,P3634XBZ,Formosa
+7920,El Paraiso,P3610XAB,Formosa
+7921,El Perdido,P3630XCA,Formosa
+7922,El Pilon,P3634XBS,Formosa
+7923,El Pimpin,P3632XAA,Formosa
+7924,El Pindo,P3601XAJ,Formosa
+7925,El Poi,P3606XAE,Formosa
+7926,El Pombero,P3611XAC,Formosa
+7927,El Porteñito,P3621XAG,Formosa
+7928,El Porteño,P3620XAJ,Formosa
+7929,El Potrerito,P3636XBK,Formosa
+7930,El Potrillo,P3636XCE,Formosa
+7931,El Quebracho,P3630XBC,Formosa
+7932,El Quebranto,P3606XAF,Formosa
+7933,El Quemado,P3636XAG,Formosa
+7934,El Recodo,P3611XBC,Formosa
+7935,El Recreo,P3626XAL,Formosa
+7936,El Remanso,P3634XBO,Formosa
+7937,El Resguardo,P3606XAG,Formosa
+7938,El Rosado,P3636XBX,Formosa
+7939,El Salado,P3606XBB,Formosa
+7940,El Sauce,P3626XAM,Formosa
+7941,El Silencio,P3601XAK,Formosa
+7942,El Simbolar,P3634XBD,Formosa
+7943,El Sombrero Negro,P3634XCE,Formosa
+7944,El Surr,P3634XCF,Formosa
+7945,El Tacuruzal,P3630XBD,Formosa
+7946,El Tastas,P3632XAD,Formosa
+7947,El Totoral,P3636XBQ,Formosa
+7948,El Tucumancito,P3636XCG,Formosa
+7949,El Yacare,P3630XBF,Formosa
+7950,El Yuchan,P3630XCS,Formosa
+7951,El Yulo,P3634XAW,Formosa
+7952,El Zorro,P3636XAL,Formosa
+7953,Espinillo,P3603XAH,Formosa
+7954,Esquinitas,P3636XAO,Formosa
+7955,Estancia el Ciervo,P3606XAP,Formosa
+7956,Estancia las Horquetas,P3610XAL,Formosa
+7958,Esterito,P3601XAL,Formosa
+7959,Estero Grande,P3606XAQ,Formosa
+7960,Estero Patiño,P3634XCK,Formosa
+7961,Ex Fortin Sola,P3634XCC,Formosa
+7962,Ex Posta General Lavalle,P3634XCD,Formosa
+7963,Florencio Sanchez,P3636XAM,Formosa
+7964,Florentino Ameghino,P3611XAE,Formosa
+7966,Fortin Cabo 1Ro Chaves,P3634XBU,Formosa
+7967,Fortin Cabo 1Ro Chavez,P3630XBY,Formosa
+7968,Fortin Cabo 1Ro Lugones,P3621XAB,Formosa
+7969,Fortin Fontana,P3634XCL,Formosa
+7970,Fortin Galpon,P3601XAM,Formosa
+7971,Fortin Guemes,P3630XAJ,Formosa
+7972,Fortin la Soledad,P3630XAK,Formosa
+7973,Fortin Media Luna,P3620XAL,Formosa
+7974,Fortin Pilcomayo,P3630XAL,Formosa
+7975,Fortin Sargento 1Ro Leyes,P3621XAC,Formosa
+7976,Francisco Narciso de Laprida,P3636XAZ,Formosa
+7977,Fray Mamerto Esquiu,P3601XAN,Formosa
+7978,Frontera,P3613XAG,Formosa
+7979,Gabriela Mistral,P3620XAM,Formosa
+7981,Gendarme Viviano Garcete,P3606XAM,Formosa
+7983,General Francisco B Bosch,P3634XBP,Formosa
+7984,General Julio de Vedia,P3615XAD,Formosa
+7985,General Manuel Belgrano,P3615XAC,Formosa
+7986,General Pablo Ricchieri,P3603XAD,Formosa
+7987,Gobernador Luna Olmos,P3611XAT,Formosa
+7988,Gobernador Yalur,P3636XBA,Formosa
+7989,Gral Ignacio H Fotheringham,P3526XAH,Formosa
+7992,Guadalcazar,P3636XAN,Formosa
+7993,Guaycolec,P3600XAC,Formosa
+7994,Hermindo Bonas,P3626XAN,Formosa
+7996,Hipolito Vieytes,P3603XAE,Formosa
+7997,Hospital Rural,P3600XAD,Formosa
+8000,Ingeniero Enrique H Faure,P3636XAB,Formosa
+8001,Isla 9 de Julio,P3600XAE,Formosa
+8002,Isla Apando,P3611XBA,Formosa
+8003,Isla Caraya,P3611XAF,Formosa
+8004,Isla de Puen,P3610XAC,Formosa
+8005,Isla Gral Belgrano,P3610XAO,Formosa
+8006,Isla Oca,P3600XAF,Formosa
+8007,Isla Payagua,P3601XBB,Formosa
+8008,Isla Toldo,P3606XAR,Formosa
+8009,Isleta,P3630XCC,Formosa
+8010,Ituzaingo,P3601XAD,Formosa
+8011,Joaquin V Gonzalez,P3634XBV,Formosa
+8012,Jose Cancio,P3620XAP,Formosa
+8013,Jose Hernandez,P3606XAS,Formosa
+8014,Jose Manuel Estrada,P3634XBB,Formosa
+8015,Juan G Bazan,P3630XCD,Formosa
+8016,Juan Jose Paso,P3626XAW,Formosa
+8017,Julio Cue,P3615XAE,Formosa
+8018,Kilometro 100,P3526XAF,Formosa
+8019,Kilometro 109,P3606XAT,Formosa
+8022,Kilometro 142,P3603XAI,Formosa
+8023,Kilometro 15,P3630XBJ,Formosa
+8024,Kilometro 1695,P3606XBC,Formosa
+8025,Kilometro 1769,P3628XAE,Formosa
+8026,Kilometro 1895,P3608XAF,Formosa
+8027,Kilometro 193,P3603XAF,Formosa
+8028,Kilometro 213,P3603XAG,Formosa
+8029,Kilometro 224,P3621XAI,Formosa
+8030,Kilometro 232,P3603XAJ,Formosa
+8031,Kilometro 254,P3511XAA,Formosa
+8032,Kilometro 503,P3626XAX,Formosa
+8033,Kilometro 525,P3630XBK,Formosa
+8034,Kilometro 642,P3630XAU,Formosa
+8035,Kilometro 642 Nav R Bermejo,P3600XAA,Formosa
+8036,La Blanca,P3606XBH,Formosa
+8037,La China,P3601XBC,Formosa
+8038,La Colonia,P3600XAG,Formosa
+8039,La Esperanza,P3601XBO,Formosa
+8040,La Florencia,P3636XBF,Formosa
+8041,La Florida,P3600XAH,Formosa
+8042,La Frontera,P3613XAA,Formosa
+8043,La Inmaculada,P3624XAU,Formosa
+8044,La Junta,P3636XBG,Formosa
+8045,La Libertad,P3634XAE,Formosa
+8046,La Loma,P3606XBD,Formosa
+8047,La Lucrecia,P3601XBD,Formosa
+8048,La Manija,P3634XAD,Formosa
+8049,La Media Luna,P3634XAX,Formosa
+8050,La Nobleza,P3634XAY,Formosa
+8051,La Palma Sola,P3636XAH,Formosa
+8052,La Palmita,P3634XAF,Formosa
+8053,La Paloma,P3628XAF,Formosa
+8054,La Pasion,P3601XBE,Formosa
+8055,La Picadita,P3601XBQ,Formosa
+8056,La Primavera,P3634XBF,Formosa
+8057,La Represa,P3634XBG,Formosa
+8058,La Sirena,P3606XAU,Formosa
+8059,La Soledad,P3630XBL,Formosa
+8060,La Urbana,P3615XAT,Formosa
+8062,Laguna Gallo,P3611XAA,Formosa
+8063,Laguna Ines,P3613XAB,Formosa
+8064,Laguna Murua,P3608XAE,Formosa
+8067,Lamadrid,P3634XAG,Formosa
+8068,Las Avispas,P3634XAH,Formosa
+8069,Las Bolivianas,P3526XAA,Formosa
+8070,Las Cañitas,P3603XAL,Formosa
+8071,Las Choyas,P3626XAY,Formosa
+8072,Las Delicias,P3630XBM,Formosa
+8073,Las Lolas,P3621XAH,Formosa
+8075,Las Mochas,P3626XAZ,Formosa
+8076,Las Saladas,P3630XCE,Formosa
+8077,Las Tres Marias,P3636XBB,Formosa
+8078,Lazo Quemado,P3624XAF,Formosa
+8079,Legua a,P3624XAG,Formosa
+8080,Loma Clavel,P3626XAO,Formosa
+8081,Loma Hermosa,P3610XAF,Formosa
+8082,Loma Senes,P3606XAV,Formosa
+8083,Loma Zapatu,P3615XAF,Formosa
+8084,Loro Cue,P3615XAG,Formosa
+8085,Los Baldes,P3630XBN,Formosa
+8086,Los Chaguancos,P3636XBC,Formosa
+8088,Los Claveles,P3630XBO,Formosa
+8089,Los Esteros,P3626XAP,Formosa
+8090,Los Galpones,P3601XAA,Formosa
+8091,Los Inmigrantes,P3626XAQ,Formosa
+8092,Los Nidos,P3634XAI,Formosa
+8093,Los Pilagas,P3604XAA,Formosa
+8094,Los Pocitos,P3634XAJ,Formosa
+8095,Los Suspiros,P3630XAQ,Formosa
+8096,Los Tres Reyes,P3630XAP,Formosa
+8097,Lote 4,P3600XAI,Formosa
+8098,Lote Nro 8,P3636XBR,Formosa
+8099,Lucero Cue,P3611XAW,Formosa
+8100,Maestra Blanca Gomez,P3624XAH,Formosa
+8101,Maestro Fermin Baez,P3621XAD,Formosa
+8102,Marca M,P3613XAI,Formosa
+8103,Maria Cristina,P3636XBS,Formosa
+8104,Mariano Boedo,P3604XAB,Formosa
+8107,Mayor Marcelo T Rojas,P3620XAC,Formosa
+8108,Media Luna,P3636XBY,Formosa
+8109,Mercedes Cue,P3601XBR,Formosa
+8110,Miguel Cane,P3603XAA,Formosa
+8111,Mision el Carmen,P3634XAK,Formosa
+8112,Mision el Quebracho,P3636XCH,Formosa
+8113,Mision Evangelica Lag Yacare,P3634XAC,Formosa
+8115,Mistol Marcado,P3636XBZ,Formosa
+8116,Mojon de Fierro,P3600XAZ,Formosa
+8117,Monseñor de Andrea,P3606XBE,Formosa
+8118,Monte Agudo,P3600XAN,Formosa
+8119,Monte Claro,P3611XAG,Formosa
+8120,Monte Lindo,P3600XAO,Formosa
+8121,Monte Lindo  Cnia Pastoril,P3601XBL,Formosa
+8122,Monteagudo,P3600XAP,Formosa
+8123,Nicora,P3634XCI,Formosa
+8124,Nueva Italia,P3634XCJ,Formosa
+8125,Nuevo Pilcomayo,P3526XAB,Formosa
+8126,Olegario Victor Andrade,P3526XAC,Formosa
+8127,Palma Sola,P3611XAN,Formosa
+8128,Palmar Chico,P3606XAW,Formosa
+8129,Palmar Largo,P3636XCA,Formosa
+8130,Palmarcito,P3636XCB,Formosa
+8132,Para Todo,P3606XBF,Formosa
+8133,Parque Nacional,P3610XAG,Formosa
+8134,Paso de los Tobas,P3630XAG,Formosa
+8135,Paso de Naite,P3628XAC,Formosa
+8136,Paso la Cruz,P3630XCH,Formosa
+8137,Paso Nalte,P3630XBP,Formosa
+8138,Pato Marcado,P3626XAB,Formosa
+8139,Pavao,P3630XBQ,Formosa
+8140,Pescado Negro,P3636XCF,Formosa
+8142,Pilaga III,P3606XAX,Formosa
+8144,Poncho Quemado,P3634XBH,Formosa
+8145,Porteño Viejo,P3626XAC,Formosa
+8146,Porton Negro,P3615XAH,Formosa
+8147,Posta Cambio a Zalazar,P3632XAE,Formosa
+8148,Posta Lencina,P3634XBI,Formosa
+8149,Posta San Martin 1,P3620XAG,Formosa
+8150,Posta San Martin 2,P3621XAA,Formosa
+8151,Posta Santa Fe,P3630XCY,Formosa
+8152,Posta Sargento Cabral,P3630XAM,Formosa
+8153,Potrero de los Caballos,P3526XAE,Formosa
+8154,Potrero Norte,P3608XAG,Formosa
+8155,Pozo de la Yegua,P3636XAS,Formosa
+8156,Pozo de las Botijas,P3603XAC,Formosa
+8157,Pozo de las Garzas,P3630XAO,Formosa
+8158,Pozo de los Chanchos,P3636XCC,Formosa
+8159,Pozo de Maza,P3634XBJ,Formosa
+8160,Pozo de Navagan,P3630XCN,Formosa
+8161,Pozo de Piedra,P3634XBK,Formosa
+8162,Pozo del Cuchillo,P3634XAL,Formosa
+8164,Pozo del Maza,P3636XAT,Formosa
+8165,Pozo del Mortero,P3632XAC,Formosa
+8167,Pozo el Lecheron,P3630XCJ,Formosa
+8168,Pozo Hondo,P3630XCK,Formosa
+8169,Pozo la China,P3630XCL,Formosa
+8170,Pozo la Negra,P3630XAH,Formosa
+8171,Pozo Verde,P3628XAA,Formosa
+8172,Pozo Verde  Ing G N Juarez,P3636XAU,Formosa
+8173,Pque Bot Forestal L Tortorelli,P3600XAQ,Formosa
+8174,Presidente Avellaneda,P3611XBB,Formosa
+8175,Presidente Yrigoyen,P3601XAE,Formosa
+8176,Primavera,P3610XAM,Formosa
+8177,Primera Junta,P3613XAF,Formosa
+8178,Puerto Dalmacia,P3600XAR,Formosa
+8179,Puerto Irigoyen,P3636XAV,Formosa
+8181,Puerto Ramona,P3630XCM,Formosa
+8182,Puerto San Carlos,P3615XAQ,Formosa
+8183,Puesto Aguara,P3630XBT,Formosa
+8184,Punta de Agua,P3630XCZ,Formosa
+8185,Punta Guia,P3610XAN,Formosa
+8186,Punta Pora,P3611XAI,Formosa
+8187,Quebracho Marcado,P3630XAN,Formosa
+8188,Racedo Escobar,P3603XAK,Formosa
+8189,Ranero Cue,P3626XAD,Formosa
+8190,Reduccion Cacique Coquena,P3630XBU,Formosa
+8191,Reserva Natural Formosa,P3634XAR,Formosa
+8193,Riacho Lindo,P3601XBI,Formosa
+8194,Riacho Negro,P3610XAJ,Formosa
+8195,Riacho Ramirez,P3601XBF,Formosa
+8196,Ricardo Guiraldes,P3636XAA,Formosa
+8197,Rincon Florido,P3620XAK,Formosa
+8198,Rincon Ñandu,P3608XAC,Formosa
+8199,Rincon Ñaro,P3606XAY,Formosa
+8200,Rio Cue,P3630XBV,Formosa
+8201,Rio Muerto,P3634XAS,Formosa
+8202,Rodeo Tapiti,P3611XAJ,Formosa
+8203,Rozadito,P3611XAK,Formosa
+8204,Saladillo,P3606XAZ,Formosa
+8205,Salado,P3606XBA,Formosa
+8206,Salvacion,P3611XAB,Formosa
+8207,San Antonio,P3611XAL,Formosa
+8208,San Camilo,P3606XAA,Formosa
+8209,San Cayetano,P3601XAO,Formosa
+8212,San Isidro,P3636XCD,Formosa
+8213,San Jacinto,P3606XAN,Formosa
+8214,San Juan,P3611XAO,Formosa
+8215,San Lorenzo,P3626XAR,Formosa
+8216,San Martin 1,P3630XCP,Formosa
+8218,San Miguel,P3630XCQ,Formosa
+8219,San Ramon,P3630XCR,Formosa
+8220,San Simon,P3606XBR,Formosa
+8221,Santa Catalina,P3600XAS,Formosa
+8222,Santa Isabel,P3611XAP,Formosa
+8223,Santa Maria,P3601XAP,Formosa
+8224,Santa Rosa,P3630XCO,Formosa
+8225,Santa Teresa,P3636XBT,Formosa
+8226,Sargento Agramonte,P3630XCF,Formosa
+8227,Sargento Cabral,P3601XAQ,Formosa
+8228,Saturnino Segurola,P3626XAT,Formosa
+8229,Segunda Punta,P3613XAD,Formosa
+8231,Sgto Ayudante V Sanabria,P3626XAS,Formosa
+8232,Sgto Mayor Bernardo Aguila,P3611XAQ,Formosa
+8234,Sol de Mayo,P3610XAK,Formosa
+8235,Soldado Alberto Villalba,P3636XBM,Formosa
+8236,Soldado Dante Salvatierra,P3624XAI,Formosa
+8237,Soldado Edmundo Sosa,P3526XAD,Formosa
+8238,Soldado Ermindo Luna,P3630XCG,Formosa
+8239,Soldado Heriberto Avalos,P3615XAK,Formosa
+8240,Soldado Ismael Sanchez,P3624XAJ,Formosa
+8241,Soldado Marcelino Torales,P3630XAA,Formosa
+8242,Soldado Ramon a Arrieta,P3620XAB,Formosa
+8243,Soldado Tomas Sanchez,P3601XBP,Formosa
+8244,Sombrero Negro,P3636XBO,Formosa
+8245,Subteniente Perin,P3624XAA,Formosa
+8246,Subtte Ricardo E Masaferro,P3615XAL,Formosa
+8247,Suipacha,P3630XAR,Formosa
+8248,Sumayen,P3634XAA,Formosa
+8249,Tatane,P3601XBK,Formosa
+8250,Tatu Pire,P3630XBX,Formosa
+8251,Teniente Brown,P3622XAA,Formosa
+8252,Timbo Pora,P3600XAT,Formosa
+8253,Tomas Godoy Cruz,P3630XAS,Formosa
+8254,Toro Paso,P3611XAR,Formosa
+8255,Transito Cue,P3626XAE,Formosa
+8256,Tres Lagunas,P3611XAS,Formosa
+8257,Tres Marias,P3600XAU,Formosa
+8258,Tres Mojones,P3601XAR,Formosa
+8259,Tres Pocitos,P3601XAS,Formosa
+8260,Tres Pozos,P3626XAF,Formosa
+8261,Tte Cnel Gaspar Campos,P3615XAR,Formosa
+8262,Tte Gral Juan C Sanchez,P3611XAZ,Formosa
+8263,Tte Gral Rosendo N Fra,P3636XBL,Formosa
+8264,Urbana Vieja,P3621XAE,Formosa
+8265,Vaca Perdida,P3636XAC,Formosa
+8266,Villa Adelaida,P3624XAK,Formosa
+8268,Villa Emilia,P3600XAW,Formosa
+8271,Villa General Urquiza,P3628XAD,Formosa
+8273,Villa Hermosa,P3615XAS,Formosa
+8274,Villa Lucero,P3611XAU,Formosa
+8275,Villa Mercedes,P3624XAW,Formosa
+8276,Villa Real,P3615XAM,Formosa
+8277,Virasol,P3610XAA,Formosa
+8278,Yunca,P3636XBN,Formosa
+8279,Zorrilla Cue,P3606XAO,Formosa

@@ -1,0 +1,426 @@
+id,name,zip,state
+11458,1 de Mayo,N3364XAK,Misiones
+11459,17 de Agosto,N3338XAI,Misiones
+11460,2 de Abril,N3338XAB,Misiones
+11462,22 de Diciembre,N3370XAT,Misiones
+11464,3 de Mayo,N3334XAT,Misiones
+11465,9 de Julio,N3363XAA,Misiones
+11466,9 de Julio Kilometro 20,N3382XAG,Misiones
+11467,Acaragua,N3361XAA,Misiones
+11468,Adolfo J Pomar,N3337XAA,Misiones
+11471,Alta Union,N3364XAL,Misiones
+11472,Aparicio Cue,N3322XBN,Misiones
+11475,Arrechea,N3355XAA,Misiones
+11476,Arroyo,N3300XAH,Misiones
+11477,Arroyo del Medio,N3315XAW,Misiones
+11478,Arroyo Fedor,N3360XAC,Misiones
+11479,Arroyo Isabel,N3315XAX,Misiones
+11480,Arroyo Magdalena,N3308XBJ,Misiones
+11481,Arroyo Pastora,N3308XBK,Misiones
+11482,Arroyo Persiguero,N3355XAB,Misiones
+11483,Arroyo Santa Maria,N3355XAC,Misiones
+11484,Arroyo Tomas,N3308XBL,Misiones
+11485,Arroyo Tunitas,N3350XAR,Misiones
+11486,Arroyo Yabebiri,N3322XBO,Misiones
+11487,Aserradero Echeverria,N3364XBN,Misiones
+11488,Aserradero Piñalito,N3364XBO,Misiones
+11490,Bañado Grande,N3308XAK,Misiones
+11491,Barra Bonita,N3360XAD,Misiones
+11492,Barra Concepcion,N3355XAD,Misiones
+11493,Barracon,N3366XAK,Misiones
+11494,Barrancon,N3322XAC,Misiones
+11495,Bartolito,N3363XAE,Misiones
+11496,Bayo Troncho,N3360XAL,Misiones
+11497,Belgrano,N3313XAA,Misiones
+11499,Bernardino Rivadavia,N3364XAA,Misiones
+11502,Bonpland Norte,N3308XAL,Misiones
+11503,Brazo del Tacuaruzu,N3308XAM,Misiones
+11504,Bretes Martires,N3355XAN,Misiones
+11505,Buena Vista,N3357XAB,Misiones
+11506,Caa Yari,N3315XBA,Misiones
+11507,Caapora,N3308XAN,Misiones
+11508,Cabure,N3366XAL,Misiones
+11509,Cainguas,N3364XAB,Misiones
+11510,Campana,N3364XBV,Misiones
+11511,Campiña de Bonpland,N3308XAO,Misiones
+11512,Campiña Grande,N3308XAP,Misiones
+11513,Campiñas de America,N3366XAH,Misiones
+11514,Campo Alegre,N3366XAD,Misiones
+11517,Campo Richardson,N3350XAS,Misiones
+11518,Campo San Juan,N3313XAC,Misiones
+11521,Campos Salles,N3363XAC,Misiones
+11524,Capiovisiño,N3334XAA,Misiones
+11525,Capitan Antonio Morales,N3364XAU,Misiones
+11526,Capivu,N3334XAB,Misiones
+11527,Capueron,N3308XAC,Misiones
+11529,Carril de Anta,N3337XAJ,Misiones
+11530,Carrillo Viejo,N3350XAT,Misiones
+11531,Cascuda,N3337XAK,Misiones
+11532,Cataratas del Iguazu,N3370XAJ,Misiones
+11533,Centinela,N3350XAU,Misiones
+11536,Cheroguita,N3350XAV,Misiones
+11537,Chirimay,N3350XAC,Misiones
+11538,Citrus,N3384XAA,Misiones
+11539,Colonia Alberdi,N3315XAB,Misiones
+11540,Colonia Alemana,N3308XAD,Misiones
+11541,Colonia Alicia,N3363XAF,Misiones
+11543,Colonia Aparecida,N3363XBA,Misiones
+11544,Colonia Apostoles,N3350XAD,Misiones
+11545,Colonia Aristobulo del Valle,N3308XAE,Misiones
+11546,Colonia Aurora,N3363XAR,Misiones
+11547,Colonia Azara,N3350XAA,Misiones
+11548,Colonia Caaguazu,N3315XAC,Misiones
+11549,Colonia Capon Bonito,N3355XAO,Misiones
+11550,Colonia Chafariz,N3364XAM,Misiones
+11551,Colonia Chapa,N3360XAM,Misiones
+11552,Colonia Cumanday,N3357XAN,Misiones
+11553,Colonia Cunci,N3382XAA,Misiones
+11554,Colonia Delicia,N3382XAB,Misiones
+11556,Colonia Duran,N3382XAC,Misiones
+11557,Colonia el Doradillo,N3363XAS,Misiones
+11558,Colonia el Pesado,N3366XAE,Misiones
+11559,Colonia el Progreso,N3363XAT,Misiones
+11560,Colonia Finlandesa,N3315XAD,Misiones
+11561,Colonia Florida,N3384XAV,Misiones
+11562,Colonia Fortaleza,N3364XBP,Misiones
+11563,Colonia Gramado,N3364XBQ,Misiones
+11564,Colonia Guarani,N3308XAF,Misiones
+11565,Colonia Japonesa,N3322XAD,Misiones
+11566,Colonia Juanita,N3364XBR,Misiones
+11567,Colonia la Chillita,N3364XBF,Misiones
+11568,Colonia la Gruta,N3364XBG,Misiones
+11569,Colonia la Nueva,N3364XCA,Misiones
+11570,Colonia la Otilia,N3334XAC,Misiones
+11571,Colonia la Polaca,N3364XBH,Misiones
+11572,Colonia Leiva,N3322XAE,Misiones
+11573,Colonia Manuel Belgrano,N3366XAM,Misiones
+11574,Colonia Martir Santa Maria,N3355XAP,Misiones
+11575,Colonia Martires,N3308XAG,Misiones
+11576,Colonia Mondori,N3364XBI,Misiones
+11577,Colonia Ñacangazu,N3322XAF,Misiones
+11578,Colonia Oro Verde,N3334XAD,Misiones
+11579,Colonia Paduan,N3364XBJ,Misiones
+11580,Colonia Palmera,N3364XBK,Misiones
+11581,Colonia Polaca,N3315XAE,Misiones
+11583,Colonia Primavera,N3364XAN,Misiones
+11584,Colonia Profundidad,N3308XAB,Misiones
+11585,Colonia Puerto Rosales,N3364XBL,Misiones
+11586,Colonia Roca,N3322XAG,Misiones
+11587,Colonia Roca Chica,N3322XAH,Misiones
+11588,Colonia San Ignacio,N3322XAI,Misiones
+11589,Colonia San Javier,N3355XAQ,Misiones
+11590,Colonia Santa Maria,N3355XAR,Misiones
+11591,Colonia Santa Teresa,N3384XAB,Misiones
+11592,Colonia Segui,N3364XAC,Misiones
+11593,Colonia Siete Estrellas,N3364XBM,Misiones
+11594,Colonia Taranco,N3315XAZ,Misiones
+11595,Colonia Tres Marias,N3366XAF,Misiones
+11597,Colonia Yabebiri,N3360XAN,Misiones
+11598,Colonia Yacutinga,N3322XAY,Misiones
+11599,Comandante Andresito,N3364XAV,Misiones
+11602,Costa Portera,N3357XAO,Misiones
+11603,Cruce Caballero,N3364XBW,Misiones
+11604,Cruce Londero,N3364XAO,Misiones
+11605,Cuña Piru,N3334XAM,Misiones
+11606,Cuña Pora,N3364XBB,Misiones
+11607,Damus,N3300XAN,Misiones
+11608,Deseado,N3366XAN,Misiones
+11609,Desplayada,N3363XAU,Misiones
+11610,Destacamento Bosques,N3364XAD,Misiones
+11611,Domingo Barthe,N3300XAO,Misiones
+11612,Don Horacio,N3300XAI,Misiones
+11613,Doña Maria,N3360XAW,Misiones
+11614,Doradito,N3337XAD,Misiones
+11615,Dos Arroyos,N3315XAF,Misiones
+11616,Dos Hermanas,N3366XAJ,Misiones
+11617,El 26,N3322XAZ,Misiones
+11619,El Chaton,N3315XAG,Misiones
+11620,El Destierro,N3322XAX,Misiones
+11621,El Lapacho,N3338XAE,Misiones
+11622,El Macaco,N3363XAV,Misiones
+11623,El Paraiso,N3364XBX,Misiones
+11624,El Persiguero,N3355XAS,Misiones
+11625,El Porvenir,N3366XAO,Misiones
+11626,El Rancho,N3350XAE,Misiones
+11627,El Reposo,N3300XAJ,Misiones
+11628,El Saltiño,N3363XAW,Misiones
+11629,El Saltito,N3363XAX,Misiones
+11631,El Socorro,N3364XBC,Misiones
+11632,El Tigre,N3364XAE,Misiones
+11633,El Triunfo,N3322XBA,Misiones
+11634,El Tropezon,N3300XAK,Misiones
+11636,Ensanche Este,N3350XAF,Misiones
+11637,Ensanche Norte,N3350XAG,Misiones
+11639,Estacion Experimental de Loret,N3322XBB,Misiones
+11640,Estancia Itaembe,N3300XAL,Misiones
+11641,Estancia Santa Rita,N3384XAC,Misiones
+11642,Fachinal,N3300XAP,Misiones
+11644,Florentino Ameghino,N3360XAO,Misiones
+11645,Fracran,N3364XAW,Misiones
+11646,Fraga Cue,N3353XAA,Misiones
+11647,Frances,N3357XAP,Misiones
+11648,Fray Luis Beltran,N3338XAJ,Misiones
+11649,Frigo,N3337XAB,Misiones
+11650,Fronteras,N3364XAH,Misiones
+11653,Garupa Norte,N3300XAQ,Misiones
+11654,General Alvear,N3360XAK,Misiones
+11655,General Urquiza,N3326XAA,Misiones
+11656,Gobernador Lanusse,N3370XAK,Misiones
+11657,Gobernador Lopez,N3315XAT,Misiones
+11659,Gral Guemes,N3315XAH,Misiones
+11660,Guaibichu,N3364XAP,Misiones
+11662,Guaraypo,N3384XAO,Misiones
+11663,Guayabera,N3360XAE,Misiones
+11664,Guerrero,N3357XAK,Misiones
+11665,Hekenan,N3322XBC,Misiones
+11667,Indumar,N3337XAF,Misiones
+11668,Integracion,N3366XAP,Misiones
+11669,Invernada Chica,N3357XAQ,Misiones
+11670,Invernada de Itacaruare,N3357XAA,Misiones
+11671,Invernada Grande,N3357XAR,Misiones
+11672,Invernada San Ignacio,N3322XBD,Misiones
+11673,Isla Argentina,N3322XAJ,Misiones
+11675,Ita Curuzu,N3384XAN,Misiones
+11677,Itaembe Mini,N3300XAM,Misiones
+11679,Juan Domingo Peron,N3337XAH,Misiones
+11680,Kilometro 10,N3382XAH,Misiones
+11681,Kilometro 17 Ruta 8,N3364XAG,Misiones
+11682,Kilometro 26,N3315XAA,Misiones
+11683,Kilometro 286,N3364XBD,Misiones
+11684,Kilometro 34,N3384XAD,Misiones
+11685,Kilometro 4,N3360XAF,Misiones
+11686,Kilometro 538,N3300XAR,Misiones
+11687,Kilometro 546,N3300XAS,Misiones
+11688,Kilometro 577,N3300XAT,Misiones
+11689,Kilometro 595,N3300XAD,Misiones
+11690,Kilometro 60,N3384XAE,Misiones
+11691,Kilometro 78,N3357XAM,Misiones
+11692,Kilometro 8,N3360XAG,Misiones
+11693,Km 1230,N3337XAN,Misiones
+11694,Km 1246,N3337XAO,Misiones
+11695,Km 1247,N3337XAP,Misiones
+11696,Km 18,N3338XAG,Misiones
+11697,Km1228,N3337XAM,Misiones
+11698,La Bonita,N3338XAL,Misiones
+11699,La Capilla,N3350XAH,Misiones
+11700,La Flor,N3364XCB,Misiones
+11701,La Horqueta,N3322XAK,Misiones
+11702,La Invernada,N3308XAH,Misiones
+11703,La Milagrosa,N3300XAE,Misiones
+11704,La Misionera,N3384XAF,Misiones
+11705,La Otilia,N3322XAL,Misiones
+11706,La Plantadora,N3370XAL,Misiones
+11707,La Posta,N3384XAR,Misiones
+11708,La Rotonda,N3300XAB,Misiones
+11709,Lapacho,N3337XAL,Misiones
+11710,Larraque,N3384XAP,Misiones
+11711,Las Bananeras,N3353XAB,Misiones
+11712,Las Flores,N3338XAA,Misiones
+11713,Las Mandarinas,N3353XAC,Misiones
+11714,Las Mercedes,N3364XAQ,Misiones
+11715,Las Quemadas,N3308XAI,Misiones
+11716,Las Tunas,N3350XAI,Misiones
+11717,Las Vertientes,N3300XAF,Misiones
+11719,Lechuza,N3338XAH,Misiones
+11721,Linea Cuchilla,N3334XAN,Misiones
+11722,Linea de Peray,N3384XAQ,Misiones
+11723,Loma Pora,N3337XAE,Misiones
+11724,Loreto,N3308XAJ,Misiones
+11725,Los Galpones,N3357XAS,Misiones
+11726,Los Helechos,N3361XAB,Misiones
+11727,Los Teales,N3334XAO,Misiones
+11728,Lote 117,N3308XAA,Misiones
+11729,Lote 12,N3308XAQ,Misiones
+11730,Lote 25,N3322XAM,Misiones
+11731,Lote 5,N3322XAN,Misiones
+11732,Lujan,N3364XBE,Misiones
+11733,Macaca,N3384XAS,Misiones
+11734,Macaco,N3384XAT,Misiones
+11735,Machadiño,N3357XAC,Misiones
+11736,Mai Bao,N3363XAY,Misiones
+11737,Manantiales,N3300XAU,Misiones
+11738,Manis,N3322XAO,Misiones
+11739,Manuel Belgrano,N3338XAD,Misiones
+11740,Maria Antonia,N3322XAP,Misiones
+11741,Maria Magdalena,N3382XAJ,Misiones
+11742,Mariano Moreno,N3338XAC,Misiones
+11744,Mecking,N3315XAO,Misiones
+11745,Mesa Redonda,N3364XAR,Misiones
+11746,Miguel Guemes,N3364XAS,Misiones
+11748,Milagro,N3337XAC,Misiones
+11749,Mocona,N3364XAY,Misiones
+11751,Monte Hermoso,N3350XAL,Misiones
+11752,Monteagudo,N3364XAX,Misiones
+11754,Nacientes del Isabel,N3308XAR,Misiones
+11755,Nacientes del Tunar,N3350XAM,Misiones
+11756,Nueva Valencia,N3300XAV,Misiones
+11757,Oasis,N3328XAA,Misiones
+11759,Obligado,N3322XBF,Misiones
+11760,Ojo de Agua,N3355XAM,Misiones
+11762,Once Vueltas,N3315XAP,Misiones
+11763,Otilia,N3322XBG,Misiones
+11765,Parada Leis,N3300XAW,Misiones
+11766,Paraiso,N3364XAT,Misiones
+11767,Paraje Azopardo,N3366XAG,Misiones
+11768,Paraje Dos Hermanas,N3360XAA,Misiones
+11769,Paraje Estelina,N3366XAA,Misiones
+11770,Paraje Granado,N3366XAB,Misiones
+11771,Paraje Intercontinental,N3366XAC,Misiones
+11772,Paraje Lucero,N3364XAF,Misiones
+11773,Paraje Villa Union,N3366XAI,Misiones
+11774,Paranay,N3384XAG,Misiones
+11775,Paso del Arroyo Persiguero,N3355XAT,Misiones
+11776,Paso Porteño,N3355XAE,Misiones
+11777,Pastoreo,N3322XBE,Misiones
+11778,Pati Cua,N3382XAI,Misiones
+11779,Pedro Nuñez,N3300XAG,Misiones
+11780,Persiguero,N3355XAF,Misiones
+11781,Picada Belgrano,N3315XAQ,Misiones
+11782,Picada Bonpland,N3315XAR,Misiones
+11783,Picada Española,N3315XAS,Misiones
+11784,Picada Finlandesa,N3308XAS,Misiones
+11785,Picada Iglesia,N3315XAN,Misiones
+11786,Picada Libertad,N3315XAU,Misiones
+11787,Picada Mandarina,N3338XAF,Misiones
+11788,Picada Polaca,N3315XAV,Misiones
+11789,Picada Portuguesa,N3308XAT,Misiones
+11790,Picada Pozo Feo,N3315XAI,Misiones
+11791,Picada Rusa,N3315XAJ,Misiones
+11792,Picada San Javier,N3315XAK,Misiones
+11793,Picada San Martin,N3360XAH,Misiones
+11794,Picada Sueca,N3360XAI,Misiones
+11795,Picada Sur Mecking,N3315XAL,Misiones
+11796,Picada Yapeyu,N3360XAJ,Misiones
+11797,Piñalito Norte,N3366XAQ,Misiones
+11798,Piñalito Sur,N3366XAR,Misiones
+11799,Pindaiti,N3364XAI,Misiones
+11800,Pindapoy,N3350XAN,Misiones
+11801,Pindayti,N3364XAJ,Misiones
+11803,Piray Mini,N3364XBY,Misiones
+11804,Planchada Banderita,N3370XAC,Misiones
+11806,Profundidad,N3308XAW,Misiones
+11807,Pueblo Illia,N3337XAQ,Misiones
+11808,Pueblo Salto,N3360XAQ,Misiones
+11809,Puente Nacional,N3300XAX,Misiones
+11810,Puerto Aguirre,N3370XAM,Misiones
+11811,Puerto Alcazar,N3384XAH,Misiones
+11812,Puerto Alicia,N3363XAG,Misiones
+11813,Puerto Aurora,N3363XAH,Misiones
+11814,Puerto Avellaneda,N3384XAI,Misiones
+11815,Puerto Azara,N3350XAB,Misiones
+11816,Puerto Bemberg,N3370XAN,Misiones
+11817,Puerto Bossetti,N3370XAO,Misiones
+11818,Puerto Canoas,N3370XAD,Misiones
+11819,Puerto Caraguatay,N3384XAJ,Misiones
+11820,Puerto Carolina,N3370XAP,Misiones
+11821,Puerto Cazador,N3322XBH,Misiones
+11822,Puerto Chuño,N3322XBI,Misiones
+11823,Puerto Concepcion,N3355XAG,Misiones
+11824,Puerto Delicia,N3382XAK,Misiones
+11825,Puerto Doce,N3322XBJ,Misiones
+11826,Puerto el Dorado,N3382XAF,Misiones
+11827,Puerto Errecaborde,N3370XAQ,Misiones
+11830,Puerto Gisela,N3322XBK,Misiones
+11831,Puerto Hardelaste,N3322XBL,Misiones
+11833,Puerto Ingeniero Morandi,N3334XAP,Misiones
+11834,Puerto Insua,N3363XAI,Misiones
+11835,Puerto la Mina,N3308XAX,Misiones
+11836,Puerto Laharrague,N3384XAK,Misiones
+11838,Puerto Libertad,N3370XAA,Misiones
+11839,Puerto Londero,N3363XAJ,Misiones
+11840,Puerto Lujan,N3300XAA,Misiones
+11841,Puerto Mado,N3382XAD,Misiones
+11842,Puerto Mbopicua,N3334XAQ,Misiones
+11843,Puerto Menochio,N3322XBM,Misiones
+11844,Puerto Mineral,N3334XAR,Misiones
+11845,Puerto Naranjito,N3322XAQ,Misiones
+11846,Puerto Nuevo,N3322XAA,Misiones
+11847,Puerto Oro Verde,N3334XAE,Misiones
+11848,Puerto Paraiso,N3364XAZ,Misiones
+11849,Puerto Paranay,N3334XAF,Misiones
+11850,Puerto Paticaa,N3382XAE,Misiones
+11851,Puerto Paulito,N3370XAE,Misiones
+11852,Puerto Peninsula,N3370XAR,Misiones
+11856,Puerto Rosario,N3357XAE,Misiones
+11857,Puerto Ruben,N3357XAF,Misiones
+11858,Puerto Saltiño,N3357XAG,Misiones
+11859,Puerto San Alberto,N3334XAG,Misiones
+11860,Puerto San Ignacio,N3322XAR,Misiones
+11861,Puerto San Lucas,N3355XAH,Misiones
+11862,Puerto San Martin,N3363XAK,Misiones
+11863,Puerto Tabay,N3322XAS,Misiones
+11864,Puerto Tigre,N3334XAH,Misiones
+11865,Puerto Uruguay,N3370XAS,Misiones
+11866,Puerto Victoria,N3382XAL,Misiones
+11867,Puerto Viejo,N3322XAT,Misiones
+11868,Puerto Wanda,N3370XAH,Misiones
+11869,Puerto Yabebiri,N3322XAU,Misiones
+11870,Puerto Yacuy,N3370XAF,Misiones
+11871,Rincon de Bonpland,N3308XAY,Misiones
+11872,Rincon de Bugres,N3300XAY,Misiones
+11873,Rincon de Chimtray,N3350XAO,Misiones
+11874,Rincon de Lopez,N3357XAH,Misiones
+11875,Rincon del Guerrero,N3357XAI,Misiones
+11876,Rio Yabotay,N3364XBA,Misiones
+11877,Roca Chica,N3322XAV,Misiones
+11878,Ruinas de Loreto,N3308XAZ,Misiones
+11881,Samambaya,N3360XAR,Misiones
+11882,San Alberto,N3334XAJ,Misiones
+11883,San Andres,N3300XAZ,Misiones
+11885,San Carlos,N3363XAL,Misiones
+11886,San Francisco de Asis,N3363XAM,Misiones
+11887,San Gotardo,N3334XAK,Misiones
+11889,San Isidro,N3355XAI,Misiones
+11892,San Juan,N3300XBB,Misiones
+11893,San Juan de la Sierra,N3350XAK,Misiones
+11894,San Lucas,N3355XAJ,Misiones
+11895,San Martin,N3360XAS,Misiones
+11896,San Miguel,N3334XAL,Misiones
+11898,San Sebastian,N3334XAS,Misiones
+11901,Santa Ines,N3300XBC,Misiones
+11902,Santa Maria la Mayor,N3355XAK,Misiones
+11903,Santa Maria Martir,N3355XAL,Misiones
+11905,Santa Rosa,N3364XBS,Misiones
+11908,Segunda Zona,N3370XAB,Misiones
+11909,Sierra de Oro,N3360XAB,Misiones
+11910,Sierra de San Jose,N3300XBD,Misiones
+11911,Sierras San Juan,N3350XAP,Misiones
+11912,Sol de Mayo,N3308XBC,Misiones
+11913,Sol Naciente,N3337XAI,Misiones
+11914,Tacuara,N3322XAB,Misiones
+11915,Tacuaruzu,N3308XBD,Misiones
+11916,Taruma,N3384XAL,Misiones
+11917,Teyuguare,N3308XBE,Misiones
+11918,Tigre,N3350XAQ,Misiones
+11919,Timbauba,N3308XBF,Misiones
+11920,Tirica,N3370XAI,Misiones
+11921,Tobunas,N3364XBZ,Misiones
+11922,Tororo,N3300XBE,Misiones
+11923,Torta Quemada,N3363XAN,Misiones
+11924,Tratado de Paz,N3308XBG,Misiones
+11925,Tres Bocas,N3363XAO,Misiones
+11927,Tres Esquinas,N3357XAJ,Misiones
+11928,Villa Armonia,N3360XAT,Misiones
+11929,Villa Blanquita,N3360XAU,Misiones
+11931,Villa Don Bosco,N3364XBT,Misiones
+11932,Villa Emilia,N3300XAC,Misiones
+11933,Villa Errecaborde,N3350XAW,Misiones
+11934,Villa Flor,N3370XAG,Misiones
+11935,Villa Inta,N3313XAB,Misiones
+11936,Villa Lanus,N3300XBF,Misiones
+11937,Villa Libertad,N3315XAM,Misiones
+11938,Villa Ojo de Agua,N3384XAU,Misiones
+11939,Villa Ortiz Pereira,N3359XAA,Misiones
+11940,Villa Roulet,N3382XAM,Misiones
+11941,Villa Sarubbi,N3360XAX,Misiones
+11942,Villa Svea,N3360XAP,Misiones
+11943,Villa Union,N3384XAW,Misiones
+11944,Villa Venecia,N3308XBH,Misiones
+11945,Villa Vilma,N3363XAP,Misiones
+11946,Villafañe,N3363XAQ,Misiones
+11947,Villalonga,N3300XBG,Misiones
+11948,Virgen de Lourdes,N3338XAK,Misiones
+11950,Yabebiri,N3308XBI,Misiones
+11951,Yacutinga,N3308XBB,Misiones
+11952,Yapeyu Centro,N3360XAV,Misiones
+11953,Yerbal Mamboreta,N3308XBA,Misiones

@@ -1,0 +1,589 @@
+id,name,zip,state
+8946,Agua de Torre,L5621XAA,La Pampa
+8947,Aguas Buenas,L6228XAB,La Pampa
+8948,Agustoni,L6361XAD,La Pampa
+8949,Alfredo Peña,L6333XAN,La Pampa
+8950,Algarrobo del Aguila,L6323XAY,La Pampa
+8954,Anzoategui,L8138XAD,La Pampa
+8956,Arbol de la Esperanza,L6323XAQ,La Pampa
+8957,Arbol Solo,L6323XAB,La Pampa
+8958,Argentina Belvedere,L6367XAA,La Pampa
+8959,Arturo Almaraz,L6330XAA,La Pampa
+8961,Atreuco,L6305XAA,La Pampa
+8962,Azteazu,L6365XAD,La Pampa
+8963,Bajo de las Palomas,L6313XAN,La Pampa
+8964,Balo los Morros,L8138XAE,La Pampa
+8965,Barrancas Coloradas,L8201XBB,La Pampa
+8966,Barrio el Molino,L6360XAA,La Pampa
+8967,Belgrano,L8201XBH,La Pampa
+8968,Bella Vista,L6305XAB,La Pampa
+8971,Boeuf,L6380XAD,La Pampa
+8972,Boliche la Araña,L6301XAK,La Pampa
+8973,Butalo,L6323XAC,La Pampa
+8974,Cachirulo,L6303XAA,La Pampa
+8975,Caichue,L6321XAA,La Pampa
+8976,Caimi,L6361XAA,La Pampa
+8977,Calchahue,L6303XAB,La Pampa
+8978,Caleu Caleu,L8138XAF,La Pampa
+8980,Campo Caretto,L6381XAA,La Pampa
+8981,Campo Cicare,L8208XAB,La Pampa
+8982,Campo de los Toros,L6311XAB,La Pampa
+8983,Campo de Salas,L8208XAG,La Pampa
+8984,Campo la Florida,L6311XAJ,La Pampa
+8985,Campo Ludueña,L6330XAC,La Pampa
+8986,Campo Moises Seccion 1A,L6383XAC,La Pampa
+8987,Campo Nicholson,L8208XAD,La Pampa
+8988,Campo Pico,L6381XAB,La Pampa
+8989,Campo Salusso,L6369XAB,La Pampa
+8990,Campo Urdaniz,L6309XAG,La Pampa
+8991,Caraman,L6387XAD,La Pampa
+8992,Carlos Berg,L6360XAB,La Pampa
+8994,Casa de Piedra,L8201XBN,La Pampa
+8996,Cayupan,L6330XAD,La Pampa
+8998,Cereales,L6301XAA,La Pampa
+8999,Cerro Azul,L8201XBC,La Pampa
+9000,Cerro Bayo,L8201XBD,La Pampa
+9001,Cerro del Aigre,L8201XAA,La Pampa
+9002,Cerro la Bota,L8201XBE,La Pampa
+9004,Chacra 16,L6380XAF,La Pampa
+9005,Chacra la Casilda,L6221XAH,La Pampa
+9006,Chacra la Magdalena,L6621XAA,La Pampa
+9007,Chacras de Victorica,L6319XAB,La Pampa
+9008,Chacu,L6303XAC,La Pampa
+9009,Chamaico,L6214XAF,La Pampa
+9010,Chanilao,L6201XAA,La Pampa
+9011,Chapalco,L6303XAD,La Pampa
+9012,Chicalco,L6323XAO,La Pampa
+9013,Colonia 17 de Agosto,L8204XAB,La Pampa
+9014,Colonia Aguirre,L6301XAB,La Pampa
+9015,Colonia Anasagasti,L6309XAB,La Pampa
+9017,Colonia Beatriz,L8208XAE,La Pampa
+9018,Colonia Beaufort,L6331XAM,La Pampa
+9019,Colonia Cazaux,L8214XAI,La Pampa
+9020,Colonia Chica,L8201XBO,La Pampa
+9021,Colonia Denevi,L6228XAA,La Pampa
+9022,Colonia Devoto,L6325XAI,La Pampa
+9023,Colonia Echeta,L6301XAJ,La Pampa
+9024,Colonia el Destino,L6381XAF,La Pampa
+9025,Colonia el Porvenir,L6321XAB,La Pampa
+9026,Colonia el Sauzal,L8201XBM,La Pampa
+9027,Colonia el Tigre,L6385XAC,La Pampa
+9028,Colonia España,L8206XAL,La Pampa
+9029,Colonia Espiga de Oro,L6313XAC,La Pampa
+9030,Colonia Ferraro,L6303XAE,La Pampa
+9031,Colonia Giusti,L6331XAN,La Pampa
+9032,Colonia Gobernador Ayala,L8307XAA,La Pampa
+9033,Colonia Guiburg N 2,L6305XAC,La Pampa
+9034,Colonia Helvecia,L8206XAM,La Pampa
+9035,Colonia la Abundancia,L6333XAA,La Pampa
+9036,Colonia la Amarga,L6325XAJ,La Pampa
+9037,Colonia la Carlota,L6315XAB,La Pampa
+9038,Colonia la Chispa,L6309XAH,La Pampa
+9039,Colonia la Esperanza,L6311XAC,La Pampa
+9040,Colonia la Gaviota,L6354XAA,La Pampa
+9041,Colonia la India,L6352XAA,La Pampa
+9042,Colonia la Margarita,L6214XAG,La Pampa
+9043,Colonia la Mutua,L8214XAJ,La Pampa
+9044,Colonia la Oracion,L6307XAA,La Pampa
+9046,Colonia la Paz,L6313XAD,La Pampa
+9047,Colonia la Sara,L6333XAB,La Pampa
+9048,Colonia Lagos,L6300XAD,La Pampa
+9049,Colonia las Mercedes,L6221XAA,La Pampa
+9050,Colonia las Piedritas,L6385XAB,La Pampa
+9051,Colonia las Tres Piedras,L8204XAC,La Pampa
+9052,Colonia las Vizcacheras,L6309XAI,La Pampa
+9053,Colonia Lia y Allende,L8200XAH,La Pampa
+9054,Colonia los Piojos,L8201XAY,La Pampa
+9055,Colonia los Toros,L6311XAA,La Pampa
+9056,Colonia Luna,L6311XAD,La Pampa
+9057,Colonia Maria Luisa,L6301XAC,La Pampa
+9058,Colonia Medano Colorado,L8214XAE,La Pampa
+9059,Colonia Migliori,L6367XAD,La Pampa
+9060,Colonia Ministro Lobos,L6325XAG,La Pampa
+9061,Colonia Ramon Quintas,L6303XAF,La Pampa
+9062,Colonia Roca,L6303XAG,La Pampa
+9063,Colonia San Basilio,L6214XAE,La Pampa
+9064,Colonia San Felipe,L6313XAE,La Pampa
+9065,Colonia San Ignacio,L8201XAV,La Pampa
+9067,Colonia San Juan,L6326XAK,La Pampa
+9068,Colonia San Lorenzo,L6380XAG,La Pampa
+9069,Colonia San Miguel,L6352XAB,La Pampa
+9070,Colonia San Rosario,L8208XAA,La Pampa
+9071,Colonia San Victorio,L6301XAG,La Pampa
+9072,Colonia Santa Ana,L6309XAA,La Pampa
+9073,Colonia Santa Cecilia,L6333XAC,La Pampa
+9074,Colonia Santa Clara,L8214XAF,La Pampa
+9075,Colonia Santa Elena,L6313XAF,La Pampa
+9076,Colonia Santa Elvira,L6365XAK,La Pampa
+9079,Colonia Sobadell,L6301XAF,La Pampa
+9080,Colonia Torello,L6326XAA,La Pampa
+9081,Colonia Trenquenda,L6220XAA,La Pampa
+9082,Colonia Trequen,L6220XAB,La Pampa
+9083,Colonia Vascongada,L8208XAF,La Pampa
+9084,Colonia Villa Alba,L8206XAN,La Pampa
+9085,Colonias Drysdale,L6381XAG,La Pampa
+9086,Colonias Murray,L6381XAH,La Pampa
+9087,Cona Lauquen,L8212XAA,La Pampa
+9088,Conhelo,L6381XAI,La Pampa
+9090,Costa del Salado,L6321XAW,La Pampa
+9091,Cotita,L8212XAU,La Pampa
+9092,Cuchillo Co,L8214XAD,La Pampa
+9093,Curilco,L6331XAO,La Pampa
+9094,Curru Mahuida,L6323XAE,La Pampa
+9096,Dorila,L6365XAJ,La Pampa
+9097,Dos Amigos,L6321XAX,La Pampa
+9098,Dos Chañares,L8204XAD,La Pampa
+9099,Dos de Ipiña,L8212XAW,La Pampa
+9100,Dos Violetas,L8212XAH,La Pampa
+9102,El Aguila,L8138XAA,La Pampa
+9103,El Antojo,L6220XAC,La Pampa
+9104,El Belgica,L6331XAA,La Pampa
+9105,El Boqueron,L8200XAF,La Pampa
+9106,El Brillante,L6352XAC,La Pampa
+9107,El Carancho,L8200XAD,La Pampa
+9108,El Centenario,L6307XAI,La Pampa
+9109,El Centinela,L6323XAF,La Pampa
+9110,El Chillen,L6325XAH,La Pampa
+9111,El Cinco,L8201XAX,La Pampa
+9112,El Descanso,L8214XAG,La Pampa
+9113,El Descanso  Lonquimay,L6352XAI,La Pampa
+9114,El Deslinde,L6305XAN,La Pampa
+9115,El Destino,L6321XAY,La Pampa
+9116,El Destino  Rolon,L6305XAM,La Pampa
+9117,El Diez,L8201XAB,La Pampa
+9118,El Diez y Siete,L8201XAC,La Pampa
+9119,El Durazno,L6319XAF,La Pampa
+9120,El Escabel,L8201XAU,La Pampa
+9121,El Eucalipto,L6331XAC,La Pampa
+9122,El Eucalipto Carro Quemado,L6319XAI,La Pampa
+9123,El Furlong,L6313XAK,La Pampa
+9124,El Guaicuru,L6352XAJ,La Pampa
+9125,El Guanaco,L6205XAB,La Pampa
+9126,El Huitru,L8201XBI,La Pampa
+9127,El Lucero,L8212XAI,La Pampa
+9128,El Madrigal,L8200XAE,La Pampa
+9129,El Malacate,L6341XAA,La Pampa
+9130,El Mate,L6321XAZ,La Pampa
+9131,El Mirador,L8212XAJ,La Pampa
+9132,El Mirador de Juarez,L6300XAE,La Pampa
+9133,El Nueve,L8201XAD,La Pampa
+9134,El Oasis,L6300XAF,La Pampa
+9135,El Odre,L6321XBA,La Pampa
+9136,El Olivo,L6203XAA,La Pampa
+9137,El Palomar,L6305XAL,La Pampa
+9138,El Parque,L6331XAB,La Pampa
+9139,El Peludo,L6381XAK,La Pampa
+9140,El Pimia,L8214XAH,La Pampa
+9141,El Porvenir,L8214XAC,La Pampa
+9142,El Puma,L8214XAA,La Pampa
+9143,El Recreo,L6220XAD,La Pampa
+9144,El Refugio,L6321XBB,La Pampa
+9145,El Retiro,L6321XBC,La Pampa
+9146,El Rubi,L6352XAK,La Pampa
+9147,El Salitral,L6352XAL,La Pampa
+9148,El Sauce,L6331XAD,La Pampa
+9149,El Silencio,L6321XBD,La Pampa
+9150,El Tajamar,L6205XAC,La Pampa
+9151,El Tartagal,L8201XAE,La Pampa
+9152,El Tigre,L6203XAB,La Pampa
+9153,El Tordillo,L6212XAC,La Pampa
+9154,El Trece,L8201XAF,La Pampa
+9155,El Trigo,L8206XAB,La Pampa
+9156,El Triunfo,L6352XAM,La Pampa
+9157,El Uno,L8201XAG,La Pampa
+9158,El Vasquito,L8206XAC,La Pampa
+9159,El Veraneo,L8200XAI,La Pampa
+9160,El Volante,L6303XAH,La Pampa
+9162,Emilio Mitre,L6323XAG,La Pampa
+9163,Epu Pel,L8214XAK,La Pampa
+9164,Establecimiento el Centinela,L6323XAZ,La Pampa
+9165,Estancia la Lucha,L6221XAE,La Pampa
+9166,Estancia la Pampeana,L6221XAF,La Pampa
+9167,Estancia la Voluntad,L6221XAG,La Pampa
+9168,Euskadi,L8201XAH,La Pampa
+9169,Ex Escuela Hogar Nro 5,L8200XAG,La Pampa
+9171,Gallinao,L6228XAJ,La Pampa
+9172,Gaviotas,L8138XAB,La Pampa
+9176,Gervasio Ortiz de Rosas,L8204XAE,La Pampa
+9177,Gobernador Ayala,L8201XAZ,La Pampa
+9178,Gobernador Duval,L8336XAA,La Pampa
+9180,Guadaloza,L6319XAG,La Pampa
+9181,Guaraco,L8201XAW,La Pampa
+9183,Hidalgo,L6307XAJ,La Pampa
+9184,Hipolito Yrigoyen,L6305XAO,La Pampa
+9185,Hucal,L8212XAK,La Pampa
+9186,Huelen,L6333XAD,La Pampa
+9187,Ines y Carlota,L6315XAA,La Pampa
+9188,Ingeniero Foster,L6385XAA,La Pampa
+9191,Ipiña,L8212XAL,La Pampa
+9192,Ivanowsky,L6330XAH,La Pampa
+9194,Jaguel del Esquinero,L6321XBE,La Pampa
+9195,Jaguel del Monte,L6321XAC,La Pampa
+9196,Jardon,L6214XAA,La Pampa
+9197,Julian a Mansilla,L8201XAT,La Pampa
+9198,Juzgado Viejo,L6321XAD,La Pampa
+9199,Kilometro 619,L6381XAL,La Pampa
+9201,La Administracion,L8212XAM,La Pampa
+9202,La Antonia,L6307XAB,La Pampa
+9203,La Araña,L6301XAD,La Pampa
+9204,La Asturiana,L8201XAR,La Pampa
+9205,La Atalaya,L6352XAN,La Pampa
+9206,La Aurora,L8200XAJ,La Pampa
+9207,La Avanzada,L6325XAA,La Pampa
+9208,La Banderita,L8200XBH,La Pampa
+9209,La Barrancosa,L6365XAE,La Pampa
+9210,La Baya,L6303XAN,La Pampa
+9211,La Baya Muerta,L6303XAO,La Pampa
+9212,La Bilbaina,L6345XAA,La Pampa
+9213,La Blanca,L6330XAI,La Pampa
+9214,La Bota,L8307XAB,La Pampa
+9215,La Carmen,L6354XAB,La Pampa
+9216,La Carola,L6326XAB,La Pampa
+9217,La Casilda,L6228XAK,La Pampa
+9218,La Catalina,L6321XAE,La Pampa
+9219,La Catalinita,L6305XAD,La Pampa
+9220,La Catita,L8212XAX,La Pampa
+9221,La Cautiva,L6333XAE,La Pampa
+9222,La Celia,L6352XAD,La Pampa
+9223,La Celina,L6303XAP,La Pampa
+9224,La Celmira,L6303XAQ,La Pampa
+9225,La Chapelle,L6360XAC,La Pampa
+9226,La Chirlandia,L8203XAB,La Pampa
+9227,La Chita,L8200XAK,La Pampa
+9228,La Chita Puelches,L8201XAI,La Pampa
+9229,La Cienaga,L6321XAF,La Pampa
+9230,La Clelia,L8201XAJ,La Pampa
+9231,La Colorada Chica,L8206XAO,La Pampa
+9232,La Colorada Grande,L8206XAP,La Pampa
+9233,La Constancia,L6321XAG,La Pampa
+9234,La Constancia  Anguil,L6326XAC,La Pampa
+9235,La Copelina,L8307XAC,La Pampa
+9236,La Cumbre,L6354XAD,La Pampa
+9237,La Delfina,L6313XAL,La Pampa
+9238,La Delicia,L6333XAJ,La Pampa
+9239,La Dolores,L6301XAE,La Pampa
+9240,La Elenita,L6321XAH,La Pampa
+9241,La Elia,L6321XAI,La Pampa
+9242,La Elina,L6203XAC,La Pampa
+9243,La Elsa,L6331XAE,La Pampa
+9244,La Elva,L8212XAB,La Pampa
+9245,La Elvira,L6326XAF,La Pampa
+9246,La Energia,L6228XAL,La Pampa
+9247,La Enriqueta,L6333XAK,La Pampa
+9248,La Escondida,L8200XAL,La Pampa
+9249,La Esmeralda,L6321XAK,La Pampa
+9250,La Esmeralda Macachin,L6307XAC,La Pampa
+9251,La Esperanza,L8204XAF,La Pampa
+9252,La Esperanza Anguil,L6326XAG,La Pampa
+9253,La Esperanza Hidalgo,L6305XAE,La Pampa
+9254,La Esperanza Macachin,L6307XAD,La Pampa
+9255,La Esperanza Vertiz,L6365XAB,La Pampa
+9256,La Esther,L6325XAE,La Pampa
+9257,La Estrella,L6321XBF,La Pampa
+9258,La Estrella del Sud,L8212XAZ,La Pampa
+9259,La Eulogia,L6321XBG,La Pampa
+9260,La Fe,L6321XBH,La Pampa
+9261,La Florencia,L6317XAA,La Pampa
+9262,La Florida,L6326XAH,La Pampa
+9263,La Fortuna,L6300XAA,La Pampa
+9264,La Gavenita,L6361XAB,La Pampa
+9265,La Gaviota,L6354XAE,La Pampa
+9267,La Guadalosa,L6321XBI,La Pampa
+9268,La Gueñita,L6360XAH,La Pampa
+9269,La Humada,L6323XAV,La Pampa
+9270,La Imarra,L6323XAW,La Pampa
+9271,La Invernada,L6228XAM,La Pampa
+9272,La Isabel,L6321XBJ,La Pampa
+9273,La Japonesa,L8336XAB,La Pampa
+9274,La Josefina,L6307XAE,La Pampa
+9275,La Juanita,L8206XAQ,La Pampa
+9276,La Laurentina,L6321XBK,La Pampa
+9277,La Leña,L6330XAE,La Pampa
+9278,La Limpia,L8201XAK,La Pampa
+9279,La Lonja,L8200XAM,La Pampa
+9280,La Lucha,L6228XAN,La Pampa
+9281,La Lucha la Reforma,L8201XBF,La Pampa
+9282,La Luisa,L6354XAF,La Pampa
+9283,La Luz,L6321XBL,La Pampa
+9284,La Magdalena,L8200XAN,La Pampa
+9285,La Malvina,L6300XAB,La Pampa
+9286,La Manuelita,L6305XAF,La Pampa
+9287,La Marcela,L6321XBM,La Pampa
+9288,La Margarita,L6214XAB,La Pampa
+9289,La Maria,L6331XAF,La Pampa
+9290,La Maria Elena,L8212XAF,La Pampa
+9291,La Maria Elisa,L8212XBC,La Pampa
+9292,La Maria Rosa,L6309XAE,La Pampa
+9293,La Maria Vertiz,L6365XAA,La Pampa
+9294,La Marianita,L6354XAG,La Pampa
+9296,La Matilde,L6341XAB,La Pampa
+9297,La Moderna,L8200XAO,La Pampa
+9298,La Morocha,L6319XAH,La Pampa
+9301,La Nueva Provincia,L6305XAP,La Pampa
+9302,La Olla,L6333XAL,La Pampa
+9303,La Oracion,L6307XAK,La Pampa
+9304,La Paloma,L8200XAZ,La Pampa
+9305,La Pampeana,L6228XAD,La Pampa
+9306,La Pampita,L8200XBA,La Pampa
+9307,La Pampita Hidalgo,L6305XAQ,La Pampa
+9308,La Pastoril,L6323XBA,La Pampa
+9309,La Paulina,L6221XAB,La Pampa
+9310,La Paz,L6352XAO,La Pampa
+9311,La Pencosa,L6321XAL,La Pampa
+9312,La Perla,L6352XAP,La Pampa
+9313,La Perlita,L6352XAQ,La Pampa
+9314,La Piedad,L6311XAG,La Pampa
+9315,La Pomona,L6214XAD,La Pampa
+9316,La Porteña,L8206XAD,La Pampa
+9317,La Pradera,L6228XAE,La Pampa
+9318,La Primavera,L6323XAH,La Pampa
+9319,La Primavera Chamaico,L6214XAJ,La Pampa
+9320,La Primavera Miguel Riglos,L6301XAH,La Pampa
+9321,La Primavera Santa Rosa,L6300XAI,La Pampa
+9322,La Primera,L8206XAE,La Pampa
+9323,La Puma,L6360XAK,La Pampa
+9324,La Puna,L6330XAJ,La Pampa
+9325,La Puñalada,L6323XAS,La Pampa
+9326,La Razon,L6321XAM,La Pampa
+9327,La Razon Santa Isabel,L6323XAI,La Pampa
+9328,La Rebeca,L6330XAK,La Pampa
+9329,La Reforma,L8201XBJ,La Pampa
+9330,La Reforma Vieja,L8201XAL,La Pampa
+9331,La Reserva Anguil,L6326XAI,La Pampa
+9332,La Reserva Ivanowsky,L6341XAC,La Pampa
+9333,La Rosa,L8134XAA,La Pampa
+9334,La Sarita,L6305XAR,La Pampa
+9335,La Segunda,L6352XAR,La Pampa
+9336,La Sin Nombre,L8203XAG,La Pampa
+9337,La Soledad,L6323XAJ,La Pampa
+9338,La Sorpresa,L8200XBB,La Pampa
+9339,La Suerte,L6354XAL,La Pampa
+9340,La Teresita,L6361XAE,La Pampa
+9341,La Tinajera,L6321XAN,La Pampa
+9342,La Torera,L8214XAB,La Pampa
+9343,La Tosca,L8134XAB,La Pampa
+9344,La Trinidad,L6354XAH,La Pampa
+9345,La Unida,L6330XAF,La Pampa
+9346,La Union,L6321XAO,La Pampa
+9347,La Vanguardia,L6303XAR,La Pampa
+9348,La Veintitres,L6323XAX,La Pampa
+9349,La Verde,L6331XAG,La Pampa
+9350,La Verde Anguil,L6326XAJ,La Pampa
+9351,La Victoria,L8212XAO,La Pampa
+9352,La Violeta,L6352XAF,La Pampa
+9353,La Voluntad,L6228XAR,La Pampa
+9354,La Zota,L6321XAQ,La Pampa
+9355,Labal,L6319XAC,La Pampa
+9356,Laguna Quiroga,L8201XBK,La Pampa
+9357,Las Acacias,L8200XBC,La Pampa
+9358,Las Chacras,L6381XAM,La Pampa
+9359,Las Delicias,L6214XAC,La Pampa
+9360,Las Dos Naciones,L8200XAC,La Pampa
+9361,Las Felicitas,L6305XAS,La Pampa
+9362,Las Gaviotas,L6354XAJ,La Pampa
+9363,Las Malvinas,L6300XAJ,La Pampa
+9364,Las Piedritas,L6387XAA,La Pampa
+9365,Las Quintas,L6311XAH,La Pampa
+9366,Las Tres Hermanas,L6331XAH,La Pampa
+9367,Legasa,L8201XAM,La Pampa
+9368,Leona Redonda,L6321XAR,La Pampa
+9369,Lihue Calel,L8201XAS,La Pampa
+9370,Limay Mahuida,L8201XAQ,La Pampa
+9371,Lindo Ver,L6303XAS,La Pampa
+9372,Loma Redonda,L6321XAS,La Pampa
+9373,Lomas de Gatica,L6321XBN,La Pampa
+9374,Lomas Ombu,L6321XBO,La Pampa
+9376,Loo Co,L6381XAN,La Pampa
+9377,Los Alamos,L6325XAF,La Pampa
+9378,Los Algarrobos,L6303XAT,La Pampa
+9379,Los Dos Hermanos,L6305XAT,La Pampa
+9380,Los Manantiales,L6321XBP,La Pampa
+9381,Los Morros,L8134XAM,La Pampa
+9382,Los Nogales,L6300XAK,La Pampa
+9383,Los Olivos,L8203XAC,La Pampa
+9384,Los Pirineos,L6315XAF,La Pampa
+9385,Los Quinientos,L6301XAI,La Pampa
+9386,Los Tajamares,L6323XAK,La Pampa
+9387,Los Toros,L6311XAI,La Pampa
+9388,Los Tres Pozos,L6321XBQ,La Pampa
+9389,Los Turcos,L6323XAR,La Pampa
+9390,Lote 10,L8200XBD,La Pampa
+9391,Lote 11,L8200XBE,La Pampa
+9392,Lote 11 Bernasconi,L8212XBI,La Pampa
+9393,Lote 11 Escuela 107,L6213XAA,La Pampa
+9394,Lote 12,L8200XBF,La Pampa
+9395,Lote 13,L8200XBG,La Pampa
+9396,Lote 13 Escuela 173,L6313XAG,La Pampa
+9397,Lote 14,L8134XAN,La Pampa
+9398,Lote 15,L6213XAB,La Pampa
+9399,Lote 15 Escuela 18,L6387XAB,La Pampa
+9400,Lote 17,L8134XAC,La Pampa
+9401,Lote 17 Escuela 121,L8206XAG,La Pampa
+9402,Lote 17 Escuela 95,L6380XAH,La Pampa
+9403,Lote 18,L8200XAP,La Pampa
+9404,Lote 18 Escuela 158,L8206XAH,La Pampa
+9405,Lote 19,L8200XAQ,La Pampa
+9406,Lote 19  Colonia N Leven,L8134XAE,La Pampa
+9407,Lote 2 Escuela 185,L6380XAI,La Pampa
+9408,Lote 2 la Elina,L6203XAD,La Pampa
+9409,Lote 20,L8204XAA,La Pampa
+9410,Lote 20 la Carlota,L6380XAJ,La Pampa
+9411,Lote 21,L8200XAR,La Pampa
+9412,Lote 21 Colonia Santa Elena,L6313XAH,La Pampa
+9413,Lote 22,L8200XAS,La Pampa
+9414,Lote 22 Ipiña,L8212XAP,La Pampa
+9415,Lote 23,L8134XAG,La Pampa
+9416,Lote 23 Escuela 221,L6313XAI,La Pampa
+9417,Lote 23 Escuela 264,L8206XAI,La Pampa
+9418,Lote 24,L8134XAH,La Pampa
+9419,Lote 24 Seccion 1A,L6383XAD,La Pampa
+9421,Lote 25 Escuela 146,L6381XAD,La Pampa
+9422,Lote 25 Escuela 178,L6315XAG,La Pampa
+9423,Lote 3,L8200XAT,La Pampa
+9424,Lote 4,L6387XAC,La Pampa
+9425,Lote 5 Caleufu  Esc 120,L6205XAA,La Pampa
+9426,Lote 5 Luan Toro,L6317XAB,La Pampa
+9427,Lote 6,L8134XAI,La Pampa
+9428,Lote 6 Escuela 171,L6315XAH,La Pampa
+9429,Lote 7,L8134XAJ,La Pampa
+9430,Lote 7 Escuela 270,L8206XAJ,La Pampa
+9431,Lote 8,L8212XBD,La Pampa
+9432,Lote 8  Escuela 179,L6319XAA,La Pampa
+9433,Lote 8 Escuela 141,L6369XAC,La Pampa
+9434,Lote 8 Escuela 179,L6319XAA,La Pampa
+9435,Lote 8 Escuela 184,L6380XAK,La Pampa
+9436,Lote 9 Escuela 140,L6315XAE,La Pampa
+9437,Loventuel,L6317XAC,La Pampa
+9439,Luna,L8212XAG,La Pampa
+9442,Malvinas Argentinas,L6228XAH,La Pampa
+9443,Manantiales,L6321XBR,La Pampa
+9444,Maraco,L8200XAU,La Pampa
+9445,Maraco Chico,L8200XAV,La Pampa
+9446,Mari Mari,L6333XAM,La Pampa
+9447,Maria,L8204XAH,La Pampa
+9448,Mariano Miro,L6228XAF,La Pampa
+9450,Mayaco,L6321XBS,La Pampa
+9451,Medano Blanco,L6300XAG,La Pampa
+9452,Medano Colorado,L8200XAW,La Pampa
+9453,Medanos Negros,L6323XAU,La Pampa
+9457,Minas de Sal,L8206XAR,La Pampa
+9458,Minerales de la Pampa,L8201XAN,La Pampa
+9459,Ministro Orlando,L6367XAB,La Pampa
+9460,Mocovi,L6360XAI,La Pampa
+9462,Monte Ralo,L6309XAF,La Pampa
+9463,Nahuel Napa,L6321XBT,La Pampa
+9465,Nanquel Huitre,L6321XAT,La Pampa
+9466,Narciso Leven,L8204XAI,La Pampa
+9467,Nerre Co,L6303XAI,La Pampa
+9468,Nicolas Vera,L6380XAA,La Pampa
+9469,Oficial E Segura,L6303XAJ,La Pampa
+9470,Ojeda,L6207XAA,La Pampa
+9471,Ojo de Agua,L6305XAG,La Pampa
+9473,Parque Luro,L6325XAB,La Pampa
+9474,Paso de los Algarrobos,L6323XAL,La Pampa
+9475,Paso de los Puntanos,L6323XAM,La Pampa
+9476,Paso la Balsa,L8307XAD,La Pampa
+9477,Paso la Razon,L6323XAN,La Pampa
+9478,Pavon,L6331XAI,La Pampa
+9479,Peru,L8212XAC,La Pampa
+9480,Piche Cona Lauquen,L8212XAD,La Pampa
+9481,Pichi Huilco,L6303XAK,La Pampa
+9483,Pichi Mahuida,L8214XAN,La Pampa
+9484,Pichi Merico,L6321XBU,La Pampa
+9485,Poitague,L6319XAD,La Pampa
+9486,Pueblo Alassa,L6208XAB,La Pampa
+9487,Pueblo Quintana,L6352XAG,La Pampa
+9488,Puelches,L8201XAO,La Pampa
+9492,Quetrequen,L6212XAB,La Pampa
+9493,Quiñi Malal,L8200XAX,La Pampa
+9494,Quintana,L6352XAH,La Pampa
+9495,Ramon Quintas,L6303XAL,La Pampa
+9496,Ramon Segundo,L6228XAG,La Pampa
+9500,Remeco,L8212XBE,La Pampa
+9501,Ricardo Lavalle,L6312XAA,La Pampa
+9503,Rucahue,L6331XAJ,La Pampa
+9505,Salinas,L8134XAL,La Pampa
+9506,Salinas Grandes  Anzoategui,L8138XAC,La Pampa
+9507,Salinas Grandes Hidalgo,L6305XAH,La Pampa
+9508,Salinas Mari Manuel,L6309XAC,La Pampa
+9509,San Alberto,L6331XAK,La Pampa
+9510,San Andres,L6354XAK,La Pampa
+9511,San Antonio,L8203XAD,La Pampa
+9512,San Aquilino,L8212XBF,La Pampa
+9513,San Basilio,L6214XAH,La Pampa
+9514,San Benito,L6331XAL,La Pampa
+9515,San Bernardo,L8204XAJ,La Pampa
+9516,San Carlos,L6326XAD,La Pampa
+9517,San Diego,L8212XBG,La Pampa
+9518,San Eduardo,L6330XAG,La Pampa
+9519,San Emilio,L6321XAU,La Pampa
+9520,San Ernesto,L8203XAE,La Pampa
+9521,San Felipe,L6305XAI,La Pampa
+9522,San Fernando,L8204XAK,La Pampa
+9523,San Francisco,L6319XAE,La Pampa
+9524,San Francisco de la Ramada,L6323XAT,La Pampa
+9525,San Hilario,L6212XAA,La Pampa
+9526,San Humberto,L6325XAC,La Pampa
+9527,San Ignacio,L6360XAJ,La Pampa
+9528,San Ildefonso,L6365XAF,La Pampa
+9529,San Joaquin,L6360XAD,La Pampa
+9530,San Joaquin Metileo,L6367XAE,La Pampa
+9531,San Jose,L6360XAE,La Pampa
+9532,San Jose  Anguil,L6326XAE,La Pampa
+9533,San Juan,L8212XBH,La Pampa
+9534,San Juan Simson,L6212XAD,La Pampa
+9535,San Justo,L6330XAL,La Pampa
+9536,San Manuel,L6352XAS,La Pampa
+9537,San Marcelo,L6214XAI,La Pampa
+9538,San Miguel,L6331XAP,La Pampa
+9539,San Pedro,L6330XAM,La Pampa
+9540,San Pedro Rolon,L6305XAJ,La Pampa
+9541,San Ramon,L6383XAA,La Pampa
+9542,San Roberto,L8201XAP,La Pampa
+9543,San Salvador,L8201XBA,La Pampa
+9544,San Simon,L8200XBK,La Pampa
+9545,San Urbano,L6228XAP,La Pampa
+9546,Santa Ana,L6309XAD,La Pampa
+9547,Santa Aurelia,L6239XAA,La Pampa
+9548,Santa Catalina,L6365XAG,La Pampa
+9549,Santa Clara,L8214XAL,La Pampa
+9550,Santa Elena,L8201XBG,La Pampa
+9551,Santa Elvira,L6333XAG,La Pampa
+9552,Santa Felicitas,L6220XAE,La Pampa
+9553,Santa Gracia,L6212XAE,La Pampa
+9554,Santa Ines,L6360XAG,La Pampa
+9556,Santa Maria,L8214XAM,La Pampa
+9558,Santa Stella,L6305XAK,La Pampa
+9559,Santiago Orellano,L6325XAD,La Pampa
+9560,Santo Domingo,L8203XAF,La Pampa
+9561,Santo Tomas,L6307XAF,La Pampa
+9563,Seccion Primera Conhello,L6383XAB,La Pampa
+9564,Sierras de Lihuel Calel,L8200XAA,La Pampa
+9565,Sol de Mayo,L6333XAH,La Pampa
+9566,Speluzzi,L6365XAH,La Pampa
+9567,Ta Huilco,L6303XAM,La Pampa
+9571,Traico,L8206XAS,La Pampa
+9572,Traico Grande,L8208XAH,La Pampa
+9573,Trebolares,L6361XAC,La Pampa
+9575,Tres Botones,L8212XAQ,La Pampa
+9576,Tres Hermanos Macachin,L6307XAG,La Pampa
+9577,Tres Hermanos Quetrequen,L6212XAF,La Pampa
+9578,Tres Lagunas,L6228XAQ,La Pampa
+9579,Tres Naciones,L8212XAR,La Pampa
+9580,Tribuluci,L8212XAS,La Pampa
+9581,Trili,L6333XAI,La Pampa
+9582,Trubuluco,L8212XAT,La Pampa
+9583,Tte Gral Emilio Mitre,L6381XAE,La Pampa
+9586,Utracan,L8203XAA,La Pampa
+9587,Valle Argentino,L8200XBI,La Pampa
+9588,Valle Daza,L8200XBJ,La Pampa
+9591,Villa Alba,L8206XAK,La Pampa
+9592,Villa Mencuelle,L8208XAC,La Pampa
+9594,Villa San Jose,L6315XAC,La Pampa
+9595,Vista Alegre,L6323XAA,La Pampa
+9597,Zona Rural,L6369XAA,La Pampa
+9598,Zona Rural  Metileo,L6367XAC,La Pampa
+9599,Zona Rural de Mirasol,L6315XAD,La Pampa
+9600,Zona Rural de Vertiz,L6365XAC,La Pampa
+9601,Zona Rural Dorila,L6365XAI,La Pampa
+9602,Zona Urbana Norte,L6380XAB,La Pampa

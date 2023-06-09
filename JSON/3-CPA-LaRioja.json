@@ -1,0 +1,5200 @@
+{
+    "provinceName": "La Rioja",
+    "provinceLink": "https://codigo-postal.co/argentina/la-rioja/",
+    "locationsCount": 10039,
+    "locationWithCPALink": 437,
+    "locations": [
+        {
+            "locationId": 9603,
+            "locationName": "Abra Verde",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/abra-verde/",
+            "cpa": {
+                "code": [
+                    "F5470XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9604,
+            "locationName": "Agua Blanca",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/agua-blanca/",
+            "cpa": {
+                "code": [
+                    "F5471XAX",
+                    "F5471XAX"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9605,
+            "locationName": "Agua Colorada",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/agua-colorada/",
+            "cpa": {
+                "code": [
+                    "F5275XAD",
+                    "F5275XAD"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9606,
+            "locationName": "Agua de la Piedra",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/agua-de-la-piedra/",
+            "cpa": {
+                "code": [
+                    "F5475XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9607,
+            "locationName": "Agua de Piedra",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/agua-de-piedra/",
+            "cpa": {
+                "code": [
+                    "F5470XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9608,
+            "locationName": "Aguada",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/aguada/",
+            "cpa": {
+                "code": [
+                    "F5301XBB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9609,
+            "locationName": "Aguadita",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/aguadita/",
+            "cpa": {
+                "code": [
+                    "F5385XAV"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9610,
+            "locationName": "Aguayo",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/aguayo/",
+            "cpa": {
+                "code": [
+                    "F5473XAN"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9611,
+            "locationName": "Aicuña",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/aicuna/",
+            "cpa": {
+                "code": [
+                    "F5361XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9612,
+            "locationName": "Aimogasta",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/aimogasta/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-aimogasta/"
+            }
+        },
+        {
+            "locationId": 9613,
+            "locationName": "Alcazar",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/alcazar/",
+            "cpa": {
+                "code": [
+                    "F5385XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9614,
+            "locationName": "Algarrobo Grande",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/algarrobo-grande/",
+            "cpa": {
+                "code": [
+                    "F5473XAR"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9615,
+            "locationName": "Alpasinche",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/alpasinche/",
+            "cpa": {
+                "code": [
+                    "F5325XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9616,
+            "locationName": "Altillo del Medio",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/altillo-del-medio/",
+            "cpa": {
+                "code": [
+                    "F5274XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9617,
+            "locationName": "Alto Bayo",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/alto-bayo/",
+            "cpa": {
+                "code": [
+                    "F5470XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9618,
+            "locationName": "Alto Carrizal",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/alto-carrizal/",
+            "cpa": {
+                "code": [
+                    "F5361XAO"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9619,
+            "locationName": "Alto Jaguel",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/alto-jaguel/",
+            "cpa": {
+                "code": [
+                    "F5359XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9620,
+            "locationName": "Amana",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/amana/",
+            "cpa": {
+                "code": [
+                    "F5386XAO"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9621,
+            "locationName": "Ambil",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/ambil/",
+            "cpa": {
+                "code": [
+                    "F5475XAM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9622,
+            "locationName": "Amilgancho",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/amilgancho/",
+            "cpa": {
+                "code": [
+                    "F5300XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9623,
+            "locationName": "Aminga",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/aminga/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-aminga/"
+            }
+        },
+        {
+            "locationId": 9624,
+            "locationName": "Ampata",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/ampata/",
+            "cpa": {
+                "code": [
+                    "F5300XBK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9625,
+            "locationName": "Amuschina",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/amuschina/",
+            "cpa": {
+                "code": [
+                    "F5329XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9626,
+            "locationName": "Anchico",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/anchico/",
+            "cpa": {
+                "code": [
+                    "F5301XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9627,
+            "locationName": "Anchumbil",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/anchumbil/",
+            "cpa": {
+                "code": [
+                    "F5361XAM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9628,
+            "locationName": "Andolucas",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/andolucas/",
+            "cpa": {
+                "code": [
+                    "F5329XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9629,
+            "locationName": "Anguinan",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/anguinan/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-anguinan/"
+            }
+        },
+        {
+            "locationId": 9630,
+            "locationName": "Angulos",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/angulos/",
+            "cpa": {
+                "code": [
+                    "F5361XAP"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9631,
+            "locationName": "Anillaco",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/anillaco/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-anillaco/"
+            }
+        },
+        {
+            "locationId": 9632,
+            "locationName": "Anjullon",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/anjullon/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-anjullon/"
+            }
+        },
+        {
+            "locationId": 9633,
+            "locationName": "Antinaco",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/antinaco/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-antinaco/"
+            }
+        },
+        {
+            "locationId": 9634,
+            "locationName": "Arauco",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/arauco/",
+            "cpa": {
+                "code": [
+                    "F5311XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9635,
+            "locationName": "Atiles",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/atiles/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-atiles/"
+            }
+        },
+        {
+            "locationId": 9636,
+            "locationName": "Bajo Corral de Isaac",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/bajo-corral-de-isaac/",
+            "cpa": {
+                "code": [
+                    "F5473XAM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9637,
+            "locationName": "Bajo de Gallo",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/bajo-de-gallo/",
+            "cpa": {
+                "code": [
+                    "F5386XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9638,
+            "locationName": "Bajo Grande",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/bajo-grande/",
+            "cpa": {
+                "code": [
+                    "F5383XAP"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9639,
+            "locationName": "Bajo Hondo",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/bajo-hondo/",
+            "cpa": {
+                "code": [
+                    "F5473XAA",
+                    "F5473XAA"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9640,
+            "locationName": "Bajo Jaguel",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/bajo-jaguel/",
+            "cpa": {
+                "code": [
+                    "F5359XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9641,
+            "locationName": "Balde del Quebracho",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/balde-del-quebracho/",
+            "cpa": {
+                "code": [
+                    "F5473XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9642,
+            "locationName": "Balde Salado",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/balde-salado/",
+            "cpa": {
+                "code": [
+                    "F5274XAD",
+                    "F5274XAD"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9643,
+            "locationName": "Balde San Isidro",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/balde-san-isidro/",
+            "cpa": {
+                "code": [
+                    "F5386XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9644,
+            "locationName": "Baldes de Pacheco",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/baldes-de-pacheco/",
+            "cpa": {
+                "code": [
+                    "F5276XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9645,
+            "locationName": "Bañados del Pantano",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/banados-del-pantano/",
+            "cpa": {
+                "code": [
+                    "F5310XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9646,
+            "locationName": "Banda Florida",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/banda-florida/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-banda-florida/"
+            }
+        },
+        {
+            "locationId": 9647,
+            "locationName": "Barranquitas",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/barranquitas/",
+            "cpa": {
+                "code": [
+                    "F5474XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9648,
+            "locationName": "Barrio de Galli",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/barrio-de-galli/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-barrio-de-galli/"
+            }
+        },
+        {
+            "locationId": 9649,
+            "locationName": "Bayo Muerto",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/bayo-muerto/",
+            "cpa": {
+                "code": [
+                    "F5470XAT"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9650,
+            "locationName": "Bazan",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/bazan/",
+            "cpa": {
+                "code": [
+                    "F5306XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9651,
+            "locationName": "Bella Vista",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/bella-vista/",
+            "cpa": {
+                "code": [
+                    "F5381XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9652,
+            "locationName": "Boca de la Quebrada",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/boca-de-la-quebrada/",
+            "cpa": {
+                "code": [
+                    "F5359XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9653,
+            "locationName": "Buena Vista",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/buena-vista/",
+            "cpa": {
+                "code": [
+                    "F5359XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9654,
+            "locationName": "Cachiyuyal",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/cachiyuyal/",
+            "cpa": {
+                "code": [
+                    "F5367XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9655,
+            "locationName": "Campanas",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/campanas/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-campanas/"
+            }
+        },
+        {
+            "locationId": 9656,
+            "locationName": "Campo Tres Pozos",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/campo-tres-pozos/",
+            "cpa": {
+                "code": [
+                    "F5301XAM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9657,
+            "locationName": "Cañada Honda",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/canada-honda/",
+            "cpa": {
+                "code": [
+                    "F5470XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9658,
+            "locationName": "Cañada Verde",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/canada-verde/",
+            "cpa": {
+                "code": [
+                    "F5471XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9659,
+            "locationName": "Capihuas",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/capihuas/",
+            "cpa": {
+                "code": [
+                    "F5327XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9660,
+            "locationName": "Carrizal",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/carrizal/",
+            "cpa": {
+                "code": [
+                    "F5361XBC",
+                    "F5361XBC"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9661,
+            "locationName": "Carrizal Estacion Fcgb",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/carrizal-estacion-fcgb/",
+            "cpa": {
+                "code": [
+                    "F5300XBJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9662,
+            "locationName": "Carrizalillo",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/carrizalillo/",
+            "cpa": {
+                "code": [
+                    "F5385XBD",
+                    "F5385XBD"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9663,
+            "locationName": "Casa Pintada",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/casa-pintada/",
+            "cpa": {
+                "code": [
+                    "F5359XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9664,
+            "locationName": "Casagate",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/casagate/",
+            "cpa": {
+                "code": [
+                    "F5385XBE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9665,
+            "locationName": "Casangate",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/casangate/",
+            "cpa": {
+                "code": [
+                    "F5385XAU"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9666,
+            "locationName": "Casas Viejas",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/casas-viejas/",
+            "cpa": {
+                "code": [
+                    "F5471XAV"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9667,
+            "locationName": "Castro Barros",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/castro-barros/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-castro-barros/"
+            }
+        },
+        {
+            "locationId": 9668,
+            "locationName": "Catinzaco",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/catinzaco/",
+            "cpa": {
+                "code": [
+                    "F5374XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9669,
+            "locationName": "Catinzaco Embarcadero Fcgb",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/catinzaco-embarcadero-fcgb/",
+            "cpa": {
+                "code": [
+                    "F5374XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9670,
+            "locationName": "Catuna",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/catuna/",
+            "cpa": {
+                "code": [
+                    "F5275XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9671,
+            "locationName": "Cebollar",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/cebollar/",
+            "cpa": {
+                "code": [
+                    "F5300XAP"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9672,
+            "locationName": "Cerro Negro",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/cerro-negro/",
+            "cpa": {
+                "code": [
+                    "F5327XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9673,
+            "locationName": "Chamical",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/chamical/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-chamical/"
+            }
+        },
+        {
+            "locationId": 9674,
+            "locationName": "Chañar",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/chanar/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-chanar/"
+            }
+        },
+        {
+            "locationId": 9675,
+            "locationName": "Chañarmuyo",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/chanarmuyo/",
+            "cpa": {
+                "code": [
+                    "F5361XAY"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9676,
+            "locationName": "Chaupihuasi",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/chaupihuasi/",
+            "cpa": {
+                "code": [
+                    "F5327XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9677,
+            "locationName": "Chelcos",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/chelcos/",
+            "cpa": {
+                "code": [
+                    "F5475XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9678,
+            "locationName": "Chepes",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/chepes/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-chepes/"
+            }
+        },
+        {
+            "locationId": 9679,
+            "locationName": "Chepes Viejos",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/chepes-viejos/",
+            "cpa": {
+                "code": [
+                    "F5470XAQ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9680,
+            "locationName": "Chila",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/chila/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-chila/"
+            }
+        },
+        {
+            "locationId": 9681,
+            "locationName": "Chilecito",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/chilecito/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-chilecito/"
+            }
+        },
+        {
+            "locationId": 9682,
+            "locationName": "Chimenea",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/chimenea/",
+            "cpa": {
+                "code": [
+                    "F5385XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9683,
+            "locationName": "Chulo",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/chulo/",
+            "cpa": {
+                "code": [
+                    "F5380XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9684,
+            "locationName": "Chumbicha",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/chumbicha/",
+            "cpa": {
+                "code": [
+                    "F5300XBL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9685,
+            "locationName": "Chuquis",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/chuquis/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-chuquis/"
+            }
+        },
+        {
+            "locationId": 9686,
+            "locationName": "Cisco",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/cisco/",
+            "cpa": {
+                "code": [
+                    "F5383XAQ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9687,
+            "locationName": "Colonia Alfredo",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/colonia-alfredo/",
+            "cpa": {
+                "code": [
+                    "F5380XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9688,
+            "locationName": "Colonia Ortiz de Ocampo",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/colonia-ortiz-de-ocampo/",
+            "cpa": {
+                "code": [
+                    "F5275XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9689,
+            "locationName": "Comandante Leal",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/comandante-leal/",
+            "cpa": {
+                "code": [
+                    "F5274XAM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9690,
+            "locationName": "Cordobita",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/cordobita/",
+            "cpa": {
+                "code": [
+                    "F5327XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9691,
+            "locationName": "Corral de Isaac",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/corral-de-isaac/",
+            "cpa": {
+                "code": [
+                    "F5471XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9692,
+            "locationName": "Cortaderas",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/cortaderas/",
+            "cpa": {
+                "code": [
+                    "F5381XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9693,
+            "locationName": "Cortaderas Embarcadero Fcgb",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/cortaderas-embarcadero-fcgb/",
+            "cpa": {
+                "code": [
+                    "F5474XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9694,
+            "locationName": "Cuatro Esquinas",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/cuatro-esquinas/",
+            "cpa": {
+                "code": [
+                    "F5473XAO",
+                    "F5473XAO"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9695,
+            "locationName": "Cueva del Chacho",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/cueva-del-chacho/",
+            "cpa": {
+                "code": [
+                    "F5386XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9696,
+            "locationName": "Cuipan",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/cuipan/",
+            "cpa": {
+                "code": [
+                    "F5329XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9697,
+            "locationName": "Desiderio Tello",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/desiderio-tello/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-desiderio-tello/"
+            }
+        },
+        {
+            "locationId": 9698,
+            "locationName": "Dique de Anzulon",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/dique-de-anzulon/",
+            "cpa": {
+                "code": [
+                    "F5275XAM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9699,
+            "locationName": "Dique los Sauces",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/dique-los-sauces/",
+            "cpa": {
+                "code": [
+                    "F5300XBN",
+                    "F5300XBN"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9700,
+            "locationName": "Distrito Pueblo",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/distrito-pueblo/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-distrito-pueblo/"
+            }
+        },
+        {
+            "locationId": 9701,
+            "locationName": "El Abra",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-abra/",
+            "cpa": {
+                "code": [
+                    "F5473XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9702,
+            "locationName": "El Altillo",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-altillo/",
+            "cpa": {
+                "code": [
+                    "F5355XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9703,
+            "locationName": "El Alto",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-alto/",
+            "cpa": {
+                "code": [
+                    "F5470XAG",
+                    "F5470XAG"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9704,
+            "locationName": "El Balde",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-balde/",
+            "cpa": {
+                "code": [
+                    "F5471XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9705,
+            "locationName": "El Barranco",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-barranco/",
+            "cpa": {
+                "code": [
+                    "F5385XAM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9706,
+            "locationName": "El Barreal",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-barreal/",
+            "cpa": {
+                "code": [
+                    "F5470XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9707,
+            "locationName": "El Barrial",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-barrial/",
+            "cpa": {
+                "code": [
+                    "F5471XBJ",
+                    "F5471XBJ"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9708,
+            "locationName": "El Bayito",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-bayito/",
+            "cpa": {
+                "code": [
+                    "F5301XAN"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9709,
+            "locationName": "El Bordo",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-bordo/",
+            "cpa": {
+                "code": [
+                    "F5276XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9710,
+            "locationName": "El Calden",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-calden/",
+            "cpa": {
+                "code": [
+                    "F5717XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9711,
+            "locationName": "El Cantadero",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-cantadero/",
+            "cpa": {
+                "code": [
+                    "F5300XAX"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9712,
+            "locationName": "El Carrizal",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-carrizal/",
+            "cpa": {
+                "code": [
+                    "F5475XAE",
+                    "F5475XAE"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9713,
+            "locationName": "El Carrizal Tama",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-carrizal-tama/",
+            "cpa": {
+                "code": [
+                    "F5385XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9714,
+            "locationName": "El Catorce",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-catorce/",
+            "cpa": {
+                "code": [
+                    "F5474XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9715,
+            "locationName": "El Cerco",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-cerco/",
+            "cpa": {
+                "code": [
+                    "F5475XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9716,
+            "locationName": "El Chiflon",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-chiflon/",
+            "cpa": {
+                "code": [
+                    "F5386XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9717,
+            "locationName": "El Chocoy",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-chocoy/",
+            "cpa": {
+                "code": [
+                    "F5361XAR"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9718,
+            "locationName": "El Chuschin",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-chuschin/",
+            "cpa": {
+                "code": [
+                    "F5361XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9719,
+            "locationName": "El Chusco",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-chusco/",
+            "cpa": {
+                "code": [
+                    "F5276XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9720,
+            "locationName": "El Cienago",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-cienago/",
+            "cpa": {
+                "code": [
+                    "F5275XAN"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9721,
+            "locationName": "El Cincuenta",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-cincuenta/",
+            "cpa": {
+                "code": [
+                    "F5470XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9722,
+            "locationName": "El Condado",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-condado/",
+            "cpa": {
+                "code": [
+                    "F5355XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9723,
+            "locationName": "El Consuelo",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-consuelo/",
+            "cpa": {
+                "code": [
+                    "F5274XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9724,
+            "locationName": "El Divisadero",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-divisadero/",
+            "cpa": {
+                "code": [
+                    "F5470XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9725,
+            "locationName": "El Duraznillo",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-duraznillo/",
+            "cpa": {
+                "code": [
+                    "F5300XAQ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9726,
+            "locationName": "El Escondido",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-escondido/",
+            "cpa": {
+                "code": [
+                    "F5301XAO"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9727,
+            "locationName": "El Estanquito",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-estanquito/",
+            "cpa": {
+                "code": [
+                    "F5301XBI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9728,
+            "locationName": "El Fraile",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-fraile/",
+            "cpa": {
+                "code": [
+                    "F5274XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9729,
+            "locationName": "El Fuerte",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-fuerte/",
+            "cpa": {
+                "code": [
+                    "F5351XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9730,
+            "locationName": "El Garabato",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-garabato/",
+            "cpa": {
+                "code": [
+                    "F5380XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9731,
+            "locationName": "El Horno",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-horno/",
+            "cpa": {
+                "code": [
+                    "F5357XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9732,
+            "locationName": "El Huaco",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-huaco/",
+            "cpa": {
+                "code": [
+                    "F5301XBD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9733,
+            "locationName": "El Jumeal",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-jumeal/",
+            "cpa": {
+                "code": [
+                    "F5365XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9734,
+            "locationName": "El Medanito",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-medanito/",
+            "cpa": {
+                "code": [
+                    "F5272XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9735,
+            "locationName": "El Medano",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-medano/",
+            "cpa": {
+                "code": [
+                    "F5263XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9736,
+            "locationName": "El Mollar",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-mollar/",
+            "cpa": {
+                "code": [
+                    "F5381XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9737,
+            "locationName": "El Molle",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-molle/",
+            "cpa": {
+                "code": [
+                    "F5350XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9738,
+            "locationName": "El Pedregal",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-pedregal/",
+            "cpa": {
+                "code": [
+                    "F5361XAS"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9739,
+            "locationName": "El Plumerillo",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-plumerillo/",
+            "cpa": {
+                "code": [
+                    "F5300XAY"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9740,
+            "locationName": "El Portezuelo",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-portezuelo/",
+            "cpa": {
+                "code": [
+                    "F5385XAN"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9741,
+            "locationName": "El Potrerillo",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-potrerillo/",
+            "cpa": {
+                "code": [
+                    "F5475XAH",
+                    "F5475XAH",
+                    "F5475XAH"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9742,
+            "locationName": "El Potrerillo R V Peñaloza",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-potrerillo-r-v-penaloza/",
+            "cpa": {
+                "code": [
+                    "F5475XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9743,
+            "locationName": "El Potrero",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-potrero/",
+            "cpa": {
+                "code": [
+                    "F5385XAP"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9744,
+            "locationName": "El Pueblito",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-pueblito/",
+            "cpa": {
+                "code": [
+                    "F5327XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9745,
+            "locationName": "El Puesto",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-puesto/",
+            "cpa": {
+                "code": [
+                    "F5385XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9746,
+            "locationName": "El Quebrachal",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-quebrachal/",
+            "cpa": {
+                "code": [
+                    "F5383XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9747,
+            "locationName": "El Quebracho",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-quebracho/",
+            "cpa": {
+                "code": [
+                    "F5383XAG",
+                    "F5383XAG"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9748,
+            "locationName": "El Quemado",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-quemado/",
+            "cpa": {
+                "code": [
+                    "F5475XAC",
+                    "F5475XAC"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9749,
+            "locationName": "El Retamal",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-retamal/",
+            "cpa": {
+                "code": [
+                    "F5385XBR"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9750,
+            "locationName": "El Retamo",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-retamo/",
+            "cpa": {
+                "code": [
+                    "F5380XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9751,
+            "locationName": "El Retiro",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-retiro/",
+            "cpa": {
+                "code": [
+                    "F5325XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9752,
+            "locationName": "El Rodeo",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-rodeo/",
+            "cpa": {
+                "code": [
+                    "F5471XBK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9753,
+            "locationName": "El Rosario",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-rosario/",
+            "cpa": {
+                "code": [
+                    "F5263XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9754,
+            "locationName": "El Tala",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-tala/",
+            "cpa": {
+                "code": [
+                    "F5471XAW",
+                    "F5471XAW"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9755,
+            "locationName": "El Valdecito",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-valdecito/",
+            "cpa": {
+                "code": [
+                    "F5473XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9756,
+            "locationName": "El Valle",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-valle/",
+            "cpa": {
+                "code": [
+                    "F5301XAP"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9757,
+            "locationName": "El Vallecito",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-vallecito/",
+            "cpa": {
+                "code": [
+                    "F5473XAP"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9758,
+            "locationName": "El Verde",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-verde/",
+            "cpa": {
+                "code": [
+                    "F5275XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9759,
+            "locationName": "El Zapallar",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/el-zapallar/",
+            "cpa": {
+                "code": [
+                    "F5353XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9760,
+            "locationName": "Esperanza de los Cerrillos",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/esperanza-de-los-cerrillos/",
+            "cpa": {
+                "code": [
+                    "F5263XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9761,
+            "locationName": "Esquina del Norte",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/esquina-del-norte/",
+            "cpa": {
+                "code": [
+                    "F5380XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9762,
+            "locationName": "Esquina del Sud",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/esquina-del-sud/",
+            "cpa": {
+                "code": [
+                    "F5383XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9763,
+            "locationName": "Esquina Grande",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/esquina-grande/",
+            "cpa": {
+                "code": [
+                    "F5275XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9764,
+            "locationName": "Estacion 69",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/estacion-69/",
+            "cpa": {
+                "code": [
+                    "F5300XAZ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9765,
+            "locationName": "Estacion Mazan",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/estacion-mazan/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-estacion-mazan/"
+            }
+        },
+        {
+            "locationId": 9766,
+            "locationName": "Estancia de Maiz",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/estancia-de-maiz/",
+            "cpa": {
+                "code": [
+                    "F5361XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9767,
+            "locationName": "Falda de Citan",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/falda-de-citan/",
+            "cpa": {
+                "code": [
+                    "F5385XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9768,
+            "locationName": "Famatina",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/famatina/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-famatina/"
+            }
+        },
+        {
+            "locationId": 9769,
+            "locationName": "Flamenco",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/flamenco/",
+            "cpa": {
+                "code": [
+                    "F5300XBA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9770,
+            "locationName": "Francisco Ortiz de Ocampo",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/francisco-ortiz-de-ocampo/",
+            "cpa": {
+                "code": [
+                    "F5275XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9771,
+            "locationName": "Gobernador Gordillo",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/gobernador-gordillo/",
+            "cpa": {
+                "code": [
+                    "F5380XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9772,
+            "locationName": "Guachin",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/guachin/",
+            "cpa": {
+                "code": [
+                    "F5367XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9773,
+            "locationName": "Guandacol",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/guandacol/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-guandacol/"
+            }
+        },
+        {
+            "locationId": 9774,
+            "locationName": "Guayapa",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/guayapa/",
+            "cpa": {
+                "code": [
+                    "F5386XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9775,
+            "locationName": "Huaco",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/huaco/",
+            "cpa": {
+                "code": [
+                    "F5301XBE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9776,
+            "locationName": "Huaja",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/huaja/",
+            "cpa": {
+                "code": [
+                    "F5385XAQ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9777,
+            "locationName": "Hunquillal",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/hunquillal/",
+            "cpa": {
+                "code": [
+                    "F5274XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9778,
+            "locationName": "Iliar",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/iliar/",
+            "cpa": {
+                "code": [
+                    "F5383XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9779,
+            "locationName": "Ilisco",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/ilisco/",
+            "cpa": {
+                "code": [
+                    "F5471XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9780,
+            "locationName": "Illisca",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/illisca/",
+            "cpa": {
+                "code": [
+                    "F5470XAR"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9781,
+            "locationName": "Ismiango",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/ismiango/",
+            "cpa": {
+                "code": [
+                    "F5301XBC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9782,
+            "locationName": "Jague",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/jague/",
+            "cpa": {
+                "code": [
+                    "F5359XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9783,
+            "locationName": "Jesus Maria",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/jesus-maria/",
+            "cpa": {
+                "code": [
+                    "F5300XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9784,
+            "locationName": "Kilometro 619",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/kilometro-619/",
+            "cpa": {
+                "code": [
+                    "F5272XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9785,
+            "locationName": "Kilometro 645",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/kilometro-645/",
+            "cpa": {
+                "code": [
+                    "F5276XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9786,
+            "locationName": "Kilometro 682",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/kilometro-682/",
+            "cpa": {
+                "code": [
+                    "F5275XAP"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9787,
+            "locationName": "Kilometro 732",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/kilometro-732/",
+            "cpa": {
+                "code": [
+                    "F5717XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9788,
+            "locationName": "Kilometro 861",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/kilometro-861/",
+            "cpa": {
+                "code": [
+                    "F5300XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9789,
+            "locationName": "Kilometro 875",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/kilometro-875/",
+            "cpa": {
+                "code": [
+                    "F5300XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9790,
+            "locationName": "Kilometro 891",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/kilometro-891/",
+            "cpa": {
+                "code": [
+                    "F5313XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9791,
+            "locationName": "Kilometro 921",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/kilometro-921/",
+            "cpa": {
+                "code": [
+                    "F5313XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9792,
+            "locationName": "La Aguada",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-aguada/",
+            "cpa": {
+                "code": [
+                    "F5470XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9793,
+            "locationName": "La Aguadita",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-aguadita/",
+            "cpa": {
+                "code": [
+                    "F5275XAH",
+                    "F5275XAH"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9794,
+            "locationName": "La America",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-america/",
+            "cpa": {
+                "code": [
+                    "F5473XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9795,
+            "locationName": "La Antigua",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-antigua/",
+            "cpa": {
+                "code": [
+                    "F5301XAQ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9796,
+            "locationName": "La Armonia",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-armonia/",
+            "cpa": {
+                "code": [
+                    "F5359XAM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9797,
+            "locationName": "La Banda",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-banda/",
+            "cpa": {
+                "code": [
+                    "F5359XAD",
+                    "F5359XAD"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9798,
+            "locationName": "La Buena Estrella",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-buena-estrella/",
+            "cpa": {
+                "code": [
+                    "F5301XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9799,
+            "locationName": "La Buena Suerte",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-buena-suerte/",
+            "cpa": {
+                "code": [
+                    "F5300XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9800,
+            "locationName": "La Calera",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-calera/",
+            "cpa": {
+                "code": [
+                    "F5471XAY"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9801,
+            "locationName": "La Callana",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-callana/",
+            "cpa": {
+                "code": [
+                    "F5471XAZ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9802,
+            "locationName": "La Carrizana",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-carrizana/",
+            "cpa": {
+                "code": [
+                    "F5470XAS"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9803,
+            "locationName": "La Chilca",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-chilca/",
+            "cpa": {
+                "code": [
+                    "F5473XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9804,
+            "locationName": "La Chimenea",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-chimenea/",
+            "cpa": {
+                "code": [
+                    "F5383XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9805,
+            "locationName": "La Cienaga",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-cienaga/",
+            "cpa": {
+                "code": [
+                    "F5350XAG",
+                    "F5350XAG",
+                    "F5350XAG"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9806,
+            "locationName": "La Consulta",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-consulta/",
+            "cpa": {
+                "code": [
+                    "F5470XAM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9807,
+            "locationName": "La Cuadra",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-cuadra/",
+            "cpa": {
+                "code": [
+                    "F5361XAT"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9808,
+            "locationName": "La Dora",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-dora/",
+            "cpa": {
+                "code": [
+                    "F5475XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9809,
+            "locationName": "La Envidia",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-envidia/",
+            "cpa": {
+                "code": [
+                    "F5473XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9810,
+            "locationName": "La Escondida",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-escondida/",
+            "cpa": {
+                "code": [
+                    "F5471XBL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9811,
+            "locationName": "La Esperanza",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-esperanza/",
+            "cpa": {
+                "code": [
+                    "F5300XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9812,
+            "locationName": "La Esquina",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-esquina/",
+            "cpa": {
+                "code": [
+                    "F5473XAI",
+                    "F5473XAI"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9813,
+            "locationName": "La Flor",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-flor/",
+            "cpa": {
+                "code": [
+                    "F5300XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9814,
+            "locationName": "La Florida",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-florida/",
+            "cpa": {
+                "code": [
+                    "F5276XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9815,
+            "locationName": "La Higuera",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-higuera/",
+            "cpa": {
+                "code": [
+                    "F5361XBA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9816,
+            "locationName": "La Huerta",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-huerta/",
+            "cpa": {
+                "code": [
+                    "F5383XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9817,
+            "locationName": "La Igualdad",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-igualdad/",
+            "cpa": {
+                "code": [
+                    "F5474XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9818,
+            "locationName": "La Invernada",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-invernada/",
+            "cpa": {
+                "code": [
+                    "F5380XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9819,
+            "locationName": "La Isla",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-isla/",
+            "cpa": {
+                "code": [
+                    "F5274XAO"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9820,
+            "locationName": "La Jarilla",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-jarilla/",
+            "cpa": {
+                "code": [
+                    "F5471XBA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9821,
+            "locationName": "La Laguna",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-laguna/",
+            "cpa": {
+                "code": [
+                    "F5471XBB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9822,
+            "locationName": "La Lancha",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-lancha/",
+            "cpa": {
+                "code": [
+                    "F5300XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9823,
+            "locationName": "La Lata",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-lata/",
+            "cpa": {
+                "code": [
+                    "F5300XAM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9824,
+            "locationName": "La Libertad",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-libertad/",
+            "cpa": {
+                "code": [
+                    "F5473XAJ",
+                    "F5473XAJ"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9825,
+            "locationName": "La Lomita",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-lomita/",
+            "cpa": {
+                "code": [
+                    "F5385XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9826,
+            "locationName": "La Maravilla",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-maravilla/",
+            "cpa": {
+                "code": [
+                    "F5351XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9827,
+            "locationName": "La Merced",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-merced/",
+            "cpa": {
+                "code": [
+                    "F5385XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9828,
+            "locationName": "La Pampa",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-pampa/",
+            "cpa": {
+                "code": [
+                    "F5359XAC",
+                    "F5359XAC"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9829,
+            "locationName": "La Perlita",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-perlita/",
+            "cpa": {
+                "code": [
+                    "F5350XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9830,
+            "locationName": "La Pintada",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-pintada/",
+            "cpa": {
+                "code": [
+                    "F5470XAN"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9831,
+            "locationName": "La Pirgua",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-pirgua/",
+            "cpa": {
+                "code": [
+                    "F5325XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9832,
+            "locationName": "La Plaza",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-plaza/",
+            "cpa": {
+                "code": [
+                    "F5329XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9833,
+            "locationName": "La Primavera",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-primavera/",
+            "cpa": {
+                "code": [
+                    "F5470XAO"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9834,
+            "locationName": "La Puntilla",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-puntilla/",
+            "cpa": {
+                "code": [
+                    "F5360XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9835,
+            "locationName": "La Ramadita",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-ramadita/",
+            "cpa": {
+                "code": [
+                    "F5300XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9836,
+            "locationName": "La Reforma",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-reforma/",
+            "cpa": {
+                "code": [
+                    "F5471XBC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9837,
+            "locationName": "La Represa",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-represa/",
+            "cpa": {
+                "code": [
+                    "F5471XAI",
+                    "F5471XAI"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9838,
+            "locationName": "La Rioja",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-rioja/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-la-rioja/"
+            }
+        },
+        {
+            "locationId": 9839,
+            "locationName": "La Rosilla",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-rosilla/",
+            "cpa": {
+                "code": [
+                    "F5301XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9840,
+            "locationName": "La Serena",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-serena/",
+            "cpa": {
+                "code": [
+                    "F5380XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9841,
+            "locationName": "La Tordilla",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-tordilla/",
+            "cpa": {
+                "code": [
+                    "F5471XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9842,
+            "locationName": "La Torre",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-torre/",
+            "cpa": {
+                "code": [
+                    "F5386XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9843,
+            "locationName": "La Trampa",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-trampa/",
+            "cpa": {
+                "code": [
+                    "F5383XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9844,
+            "locationName": "La Yesera",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/la-yesera/",
+            "cpa": {
+                "code": [
+                    "F5471XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9845,
+            "locationName": "Las Aguaditas",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/las-aguaditas/",
+            "cpa": {
+                "code": [
+                    "F5355XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9846,
+            "locationName": "Las Barrancas",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/las-barrancas/",
+            "cpa": {
+                "code": [
+                    "F5471XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9847,
+            "locationName": "Las Bombas",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/las-bombas/",
+            "cpa": {
+                "code": [
+                    "F5301XBF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9848,
+            "locationName": "Las Cañas",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/las-canas/",
+            "cpa": {
+                "code": [
+                    "F5300XAN"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9849,
+            "locationName": "Las Catas",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/las-catas/",
+            "cpa": {
+                "code": [
+                    "F5301XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9850,
+            "locationName": "Las Gredas",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/las-gredas/",
+            "cpa": {
+                "code": [
+                    "F5365XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9851,
+            "locationName": "Las Higueras",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/las-higueras/",
+            "cpa": {
+                "code": [
+                    "F5385XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9852,
+            "locationName": "Las Higuerillas",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/las-higuerillas/",
+            "cpa": {
+                "code": [
+                    "F5300XBB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9853,
+            "locationName": "Las Padercitas",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/las-padercitas/",
+            "cpa": {
+                "code": [
+                    "F5355XAF",
+                    "F5355XAF"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9854,
+            "locationName": "Las Palomas",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/las-palomas/",
+            "cpa": {
+                "code": [
+                    "F5275XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9855,
+            "locationName": "Las Peñas",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/las-penas/",
+            "cpa": {
+                "code": [
+                    "F5301XBH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9856,
+            "locationName": "Las Salinas",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/las-salinas/",
+            "cpa": {
+                "code": [
+                    "F5471XBD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9857,
+            "locationName": "Las Sierras Bravas",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/las-sierras-bravas/",
+            "cpa": {
+                "code": [
+                    "F5301XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9858,
+            "locationName": "Las Talas",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/las-talas/",
+            "cpa": {
+                "code": [
+                    "F5329XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9859,
+            "locationName": "Las Toscas",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/las-toscas/",
+            "cpa": {
+                "code": [
+                    "F5471XBE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9860,
+            "locationName": "Las Tucumanesas",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/las-tucumanesas/",
+            "cpa": {
+                "code": [
+                    "F5361XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9861,
+            "locationName": "Las Tuscas",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/las-tuscas/",
+            "cpa": {
+                "code": [
+                    "F5470XAD",
+                    "F5470XAD"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9862,
+            "locationName": "Las Vertientes",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/las-vertientes/",
+            "cpa": {
+                "code": [
+                    "F5276XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9863,
+            "locationName": "Loma Blanca",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/loma-blanca/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-loma-blanca/"
+            }
+        },
+        {
+            "locationId": 9864,
+            "locationName": "Loma Larga",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/loma-larga/",
+            "cpa": {
+                "code": [
+                    "F5385XBH",
+                    "F5385XBH"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9865,
+            "locationName": "Lorohuasi",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/lorohuasi/",
+            "cpa": {
+                "code": [
+                    "F5325XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9866,
+            "locationName": "Los Aguirres",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/los-aguirres/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-los-aguirres/"
+            }
+        },
+        {
+            "locationId": 9867,
+            "locationName": "Los Alanices",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/los-alanices/",
+            "cpa": {
+                "code": [
+                    "F5275XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9868,
+            "locationName": "Los Algarrobos",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/los-algarrobos/",
+            "cpa": {
+                "code": [
+                    "F5385XAW"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9869,
+            "locationName": "Los Baldecitos",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/los-baldecitos/",
+            "cpa": {
+                "code": [
+                    "F5386XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9870,
+            "locationName": "Los Baldes",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/los-baldes/",
+            "cpa": {
+                "code": [
+                    "F5310XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9871,
+            "locationName": "Los Barriacitos",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/los-barriacitos/",
+            "cpa": {
+                "code": [
+                    "F5274XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9872,
+            "locationName": "Los Barrialitos",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/los-barrialitos/",
+            "cpa": {
+                "code": [
+                    "F5274XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9873,
+            "locationName": "Los Bordos",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/los-bordos/",
+            "cpa": {
+                "code": [
+                    "F5380XAM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9874,
+            "locationName": "Los Cerrillos",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/los-cerrillos/",
+            "cpa": {
+                "code": [
+                    "F5300XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9875,
+            "locationName": "Los Colorados",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/los-colorados/",
+            "cpa": {
+                "code": [
+                    "F5386XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9876,
+            "locationName": "Los Corias",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/los-corias/",
+            "cpa": {
+                "code": [
+                    "F5471XAO"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9877,
+            "locationName": "Los Corrales",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/los-corrales/",
+            "cpa": {
+                "code": [
+                    "F5361XAU"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9878,
+            "locationName": "Los Frances",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/los-frances/",
+            "cpa": {
+                "code": [
+                    "F5350XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9879,
+            "locationName": "Los Mistoles",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/los-mistoles/",
+            "cpa": {
+                "code": [
+                    "F5275XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9880,
+            "locationName": "Los Mogotes Colorados",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/los-mogotes-colorados/",
+            "cpa": {
+                "code": [
+                    "F5386XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9881,
+            "locationName": "Los Molinos",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/los-molinos/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-los-molinos/"
+            }
+        },
+        {
+            "locationId": 9882,
+            "locationName": "Los Nacimientos",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/los-nacimientos/",
+            "cpa": {
+                "code": [
+                    "F5353XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9883,
+            "locationName": "Los Olivares",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/los-olivares/",
+            "cpa": {
+                "code": [
+                    "F5327XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9884,
+            "locationName": "Los Olmos",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/los-olmos/",
+            "cpa": {
+                "code": [
+                    "F5470XAU"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9885,
+            "locationName": "Los Oros",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/los-oros/",
+            "cpa": {
+                "code": [
+                    "F5470XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9886,
+            "locationName": "Los Palacios",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/los-palacios/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-los-palacios/"
+            }
+        },
+        {
+            "locationId": 9887,
+            "locationName": "Los Robles",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/los-robles/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-los-robles/"
+            }
+        },
+        {
+            "locationId": 9888,
+            "locationName": "Los Sarmientos",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/los-sarmientos/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-los-sarmientos/"
+            }
+        },
+        {
+            "locationId": 9889,
+            "locationName": "Los Tambillos",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/los-tambillos/",
+            "cpa": {
+                "code": [
+                    "F5361XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9890,
+            "locationName": "Machigasta",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/machigasta/",
+            "cpa": {
+                "code": [
+                    "F5311XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9891,
+            "locationName": "Malanzan",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/malanzan/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-malanzan/"
+            }
+        },
+        {
+            "locationId": 9892,
+            "locationName": "Malligasta",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/malligasta/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-malligasta/"
+            }
+        },
+        {
+            "locationId": 9893,
+            "locationName": "Mascasin",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/mascasin/",
+            "cpa": {
+                "code": [
+                    "F5471XAP"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9894,
+            "locationName": "Medano",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/medano/",
+            "cpa": {
+                "code": [
+                    "F5300XAR"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9895,
+            "locationName": "Mesillas Blancas",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/mesillas-blancas/",
+            "cpa": {
+                "code": [
+                    "F5301XAR"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9896,
+            "locationName": "Milagro",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/milagro/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-milagro/"
+            }
+        },
+        {
+            "locationId": 9897,
+            "locationName": "Miranda",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/miranda/",
+            "cpa": {
+                "code": [
+                    "F5367XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9898,
+            "locationName": "Mollaco",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/mollaco/",
+            "cpa": {
+                "code": [
+                    "F5385XAX"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9899,
+            "locationName": "Monte Grande",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/monte-grande/",
+            "cpa": {
+                "code": [
+                    "F5383XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9900,
+            "locationName": "Nacate",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/nacate/",
+            "cpa": {
+                "code": [
+                    "F5385XAY"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9901,
+            "locationName": "Nepes",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/nepes/",
+            "cpa": {
+                "code": [
+                    "F5276XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9902,
+            "locationName": "Nonogasta",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/nonogasta/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-nonogasta/"
+            }
+        },
+        {
+            "locationId": 9903,
+            "locationName": "Ñoqueves",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/noqueves/",
+            "cpa": {
+                "code": [
+                    "F5471XAQ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9904,
+            "locationName": "Nueva Esperanza",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/nueva-esperanza/",
+            "cpa": {
+                "code": [
+                    "F5473XAS"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9905,
+            "locationName": "Olpas",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/olpas/",
+            "cpa": {
+                "code": [
+                    "F5275XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9906,
+            "locationName": "Olta",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/olta/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-olta/"
+            }
+        },
+        {
+            "locationId": 9907,
+            "locationName": "Pacatala",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/pacatala/",
+            "cpa": {
+                "code": [
+                    "F5385XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9908,
+            "locationName": "Padercitas",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/padercitas/",
+            "cpa": {
+                "code": [
+                    "F5355XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9909,
+            "locationName": "Pagancillo",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/pagancillo/",
+            "cpa": {
+                "code": [
+                    "F5369XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9910,
+            "locationName": "Paganzo",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/paganzo/",
+            "cpa": {
+                "code": [
+                    "F5386XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9911,
+            "locationName": "Palo Labrado",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/palo-labrado/",
+            "cpa": {
+                "code": [
+                    "F5380XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9912,
+            "locationName": "Paraje Monte Grande",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/paraje-monte-grande/",
+            "cpa": {
+                "code": [
+                    "F5276XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9913,
+            "locationName": "Parecitas",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/parecitas/",
+            "cpa": {
+                "code": [
+                    "F5355XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9914,
+            "locationName": "Paso San Isidro",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/paso-san-isidro/",
+            "cpa": {
+                "code": [
+                    "F5351XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9915,
+            "locationName": "Pastos Largos",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/pastos-largos/",
+            "cpa": {
+                "code": [
+                    "F5355XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9916,
+            "locationName": "Patquia",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/patquia/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-patquia/"
+            }
+        },
+        {
+            "locationId": 9917,
+            "locationName": "Peñas Blancas",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/penas-blancas/",
+            "cpa": {
+                "code": [
+                    "F5359XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9918,
+            "locationName": "Piedra de Talampaya",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/piedra-de-talampaya/",
+            "cpa": {
+                "code": [
+                    "F5361XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9919,
+            "locationName": "Piedra Larga",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/piedra-larga/",
+            "cpa": {
+                "code": [
+                    "F5475XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9920,
+            "locationName": "Piedra Pintada",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/piedra-pintada/",
+            "cpa": {
+                "code": [
+                    "F5361XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9921,
+            "locationName": "Pinchas",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/pinchas/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-pinchas/"
+            }
+        },
+        {
+            "locationId": 9922,
+            "locationName": "Pituil",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/pituil/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-pituil/"
+            }
+        },
+        {
+            "locationId": 9923,
+            "locationName": "Plaza Nueva",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/plaza-nueva/",
+            "cpa": {
+                "code": [
+                    "F5365XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9924,
+            "locationName": "Plaza Vieja",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/plaza-vieja/",
+            "cpa": {
+                "code": [
+                    "F5361XAV"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9925,
+            "locationName": "Polco",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/polco/",
+            "cpa": {
+                "code": [
+                    "F5380XAN"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9926,
+            "locationName": "Portezuelo de los Arce",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/portezuelo-de-los-arce/",
+            "cpa": {
+                "code": [
+                    "F5471XAR"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9927,
+            "locationName": "Potrero Grande",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/potrero-grande/",
+            "cpa": {
+                "code": [
+                    "F5359XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9928,
+            "locationName": "Pozo Blanco",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/pozo-blanco/",
+            "cpa": {
+                "code": [
+                    "F5301XAS"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9929,
+            "locationName": "Pozo de Avila",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/pozo-de-avila/",
+            "cpa": {
+                "code": [
+                    "F5300XAS"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9930,
+            "locationName": "Pozo de la Orilla",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/pozo-de-la-orilla/",
+            "cpa": {
+                "code": [
+                    "F5380XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9931,
+            "locationName": "Pozo de la Piedra",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/pozo-de-la-piedra/",
+            "cpa": {
+                "code": [
+                    "F5473XAT"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9932,
+            "locationName": "Pozo de la Yegua",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/pozo-de-la-yegua/",
+            "cpa": {
+                "code": [
+                    "F5310XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9933,
+            "locationName": "Pozo de Piedra",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/pozo-de-piedra/",
+            "cpa": {
+                "code": [
+                    "F5473XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9934,
+            "locationName": "Pozo del Medio",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/pozo-del-medio/",
+            "cpa": {
+                "code": [
+                    "F5274XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9935,
+            "locationName": "Pozo Escondido",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/pozo-escondido/",
+            "cpa": {
+                "code": [
+                    "F5300XBD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9936,
+            "locationName": "Puerta de la Quebrada",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/puerta-de-la-quebrada/",
+            "cpa": {
+                "code": [
+                    "F5300XAT"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9937,
+            "locationName": "Puerto Alegre",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/puerto-alegre/",
+            "cpa": {
+                "code": [
+                    "F5361XAB",
+                    "F5361XAB"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9938,
+            "locationName": "Puerto del Valle",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/puerto-del-valle/",
+            "cpa": {
+                "code": [
+                    "F5301XAT"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9939,
+            "locationName": "Puesto de Carrizo",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/puesto-de-carrizo/",
+            "cpa": {
+                "code": [
+                    "F5471XAM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9940,
+            "locationName": "Puesto de los Sanchez",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/puesto-de-los-sanchez/",
+            "cpa": {
+                "code": [
+                    "F5471XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9941,
+            "locationName": "Puesto Dichoso",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/puesto-dichoso/",
+            "cpa": {
+                "code": [
+                    "F5471XAN"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9942,
+            "locationName": "Puesto Talita",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/puesto-talita/",
+            "cpa": {
+                "code": [
+                    "F5386XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9943,
+            "locationName": "Puluchan",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/puluchan/",
+            "cpa": {
+                "code": [
+                    "F5385XBI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9944,
+            "locationName": "Punta de Agua",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/punta-de-agua/",
+            "cpa": {
+                "code": [
+                    "F5355XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9945,
+            "locationName": "Punta de los Llanos",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/punta-de-los-llanos/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-punta-de-los-llanos/"
+            }
+        },
+        {
+            "locationId": 9946,
+            "locationName": "Punta del Cerro",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/punta-del-cerro/",
+            "cpa": {
+                "code": [
+                    "F5470XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9947,
+            "locationName": "Punta del Negro",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/punta-del-negro/",
+            "cpa": {
+                "code": [
+                    "F5300XAV"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9948,
+            "locationName": "Quebrachal",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/quebrachal/",
+            "cpa": {
+                "code": [
+                    "F5381XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9949,
+            "locationName": "Quebracho Herrado",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/quebracho-herrado/",
+            "cpa": {
+                "code": [
+                    "F5380XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9950,
+            "locationName": "Quebrada de los Condores",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/quebrada-de-los-condores/",
+            "cpa": {
+                "code": [
+                    "F5385XBP"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9951,
+            "locationName": "Quebrada del Vallecito",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/quebrada-del-vallecito/",
+            "cpa": {
+                "code": [
+                    "F5471XAS"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9952,
+            "locationName": "Real del Cadillo",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/real-del-cadillo/",
+            "cpa": {
+                "code": [
+                    "F5471XAT"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9953,
+            "locationName": "Represa de la Punta",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/represa-de-la-punta/",
+            "cpa": {
+                "code": [
+                    "F5386XAM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9954,
+            "locationName": "Represa del Monte",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/represa-del-monte/",
+            "cpa": {
+                "code": [
+                    "F5470XAV"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9955,
+            "locationName": "Retamal",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/retamal/",
+            "cpa": {
+                "code": [
+                    "F5385XAZ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9956,
+            "locationName": "Rio de las Cañas",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/rio-de-las-canas/",
+            "cpa": {
+                "code": [
+                    "F5385XBA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9957,
+            "locationName": "Rios de las Mesadas",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/rios-de-las-mesadas/",
+            "cpa": {
+                "code": [
+                    "F5385XBM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9958,
+            "locationName": "Rios de los Colcoles",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/rios-de-los-colcoles/",
+            "cpa": {
+                "code": [
+                    "F5385XBN"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9959,
+            "locationName": "Rivadavia",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/rivadavia/",
+            "cpa": {
+                "code": [
+                    "F5355XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9960,
+            "locationName": "Salana",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/salana/",
+            "cpa": {
+                "code": [
+                    "F5385XBB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9961,
+            "locationName": "Salicas",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/salicas/",
+            "cpa": {
+                "code": [
+                    "F5327XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9962,
+            "locationName": "Salinas de Bustos",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/salinas-de-bustos/",
+            "cpa": {
+                "code": [
+                    "F5386XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9963,
+            "locationName": "Salinas del Leoncito",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/salinas-del-leoncito/",
+            "cpa": {
+                "code": [
+                    "F5361XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9964,
+            "locationName": "Samay Huasi",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/samay-huasi/",
+            "cpa": {
+                "code": [
+                    "F5360XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9965,
+            "locationName": "San Agustin",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/san-agustin/",
+            "cpa": {
+                "code": [
+                    "F5300XBE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9966,
+            "locationName": "San Antonio",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/san-antonio/",
+            "cpa": {
+                "code": [
+                    "F5470XAW",
+                    "F5470XAW",
+                    "F5470XAW",
+                    "F5470XAW",
+                    "F5470XAW"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9967,
+            "locationName": "San Bernardo",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/san-bernardo/",
+            "cpa": {
+                "code": [
+                    "F5350XAA",
+                    "F5350XAA"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9968,
+            "locationName": "San Cristobal",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/san-cristobal/",
+            "cpa": {
+                "code": [
+                    "F5274XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9969,
+            "locationName": "San Guillermo",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/san-guillermo/",
+            "cpa": {
+                "code": [
+                    "F5300XBF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9970,
+            "locationName": "San Ignacio",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/san-ignacio/",
+            "cpa": {
+                "code": [
+                    "F5301XAW"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9971,
+            "locationName": "San Isidro",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/san-isidro/",
+            "cpa": {
+                "code": [
+                    "F5471XBM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9972,
+            "locationName": "San Javier",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/san-javier/",
+            "cpa": {
+                "code": [
+                    "F5300XBG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9973,
+            "locationName": "San Jose",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/san-jose/",
+            "cpa": {
+                "code": [
+                    "F5471XAU",
+                    "F5471XAU",
+                    "F5471XAU",
+                    "F5471XAU"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9974,
+            "locationName": "San Juan",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/san-juan/",
+            "cpa": {
+                "code": [
+                    "F5300XBH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9975,
+            "locationName": "San Lorenzo",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/san-lorenzo/",
+            "cpa": {
+                "code": [
+                    "F5301XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9976,
+            "locationName": "San Martin",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/san-martin/",
+            "cpa": {
+                "code": [
+                    "F5300XAO"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9977,
+            "locationName": "San Miguel",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/san-miguel/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-san-miguel/"
+            }
+        },
+        {
+            "locationId": 9978,
+            "locationName": "San Nicolas",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/san-nicolas/",
+            "cpa": {
+                "code": [
+                    "F5473XAL",
+                    "F5473XAL",
+                    "F5473XAL"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9979,
+            "locationName": "San Pedro",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/san-pedro/",
+            "cpa": {
+                "code": [
+                    "F5385XBJ",
+                    "F5385XBJ"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9980,
+            "locationName": "San Rafael",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/san-rafael/",
+            "cpa": {
+                "code": [
+                    "F5471XBF",
+                    "F5471XBF"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9981,
+            "locationName": "San Ramon",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/san-ramon/",
+            "cpa": {
+                "code": [
+                    "F5385XBK",
+                    "F5385XBK",
+                    "F5385XBK"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9982,
+            "locationName": "San Roque",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/san-roque/",
+            "cpa": {
+                "code": [
+                    "F5385XBL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9983,
+            "locationName": "San Solano",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/san-solano/",
+            "cpa": {
+                "code": [
+                    "F5475XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9984,
+            "locationName": "San Vicente",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/san-vicente/",
+            "cpa": {
+                "code": [
+                    "F5470XAX"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9985,
+            "locationName": "Sañogasta",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/sanogasta/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-sanogasta/"
+            }
+        },
+        {
+            "locationId": 9986,
+            "locationName": "Santa Ana",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/santa-ana/",
+            "cpa": {
+                "code": [
+                    "F5301XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9987,
+            "locationName": "Santa Barbara",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/santa-barbara/",
+            "cpa": {
+                "code": [
+                    "F5381XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9988,
+            "locationName": "Santa Clara",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/santa-clara/",
+            "cpa": {
+                "code": [
+                    "F5351XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9989,
+            "locationName": "Santa Cruz",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/santa-cruz/",
+            "cpa": {
+                "code": [
+                    "F5470XAP",
+                    "F5470XAP",
+                    "F5470XAP",
+                    "F5470XAP"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9990,
+            "locationName": "Santa Elena",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/santa-elena/",
+            "cpa": {
+                "code": [
+                    "F5361XAN"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9991,
+            "locationName": "Santa Florentina",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/santa-florentina/",
+            "cpa": {
+                "code": [
+                    "F5367XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9992,
+            "locationName": "Santa Lucia",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/santa-lucia/",
+            "cpa": {
+                "code": [
+                    "F5380XAO"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9993,
+            "locationName": "Santa Rita la Zanja",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/santa-rita-la-zanja/",
+            "cpa": {
+                "code": [
+                    "F5276XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9994,
+            "locationName": "Santa Rosa",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/santa-rosa/",
+            "cpa": {
+                "code": [
+                    "F5300XBI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9995,
+            "locationName": "Santa Teresa",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/santa-teresa/",
+            "cpa": {
+                "code": [
+                    "F5301XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9996,
+            "locationName": "Santa Vera Cruz",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/santa-vera-cruz/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-santa-vera-cruz/"
+            }
+        },
+        {
+            "locationId": 9997,
+            "locationName": "Santo Domingo",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/santo-domingo/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9998,
+            "locationName": "Santo Domingo Famatina",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/santo-domingo-famatina/",
+            "cpa": {
+                "code": [
+                    "F5361XBB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 9999,
+            "locationName": "Schaqui",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/schaqui/",
+            "cpa": {
+                "code": [
+                    "F5329XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 10000,
+            "locationName": "Señor de la Peña",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/senor-de-la-pena/",
+            "cpa": {
+                "code": [
+                    "F5310XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 10001,
+            "locationName": "Siempre Verde",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/siempre-verde/",
+            "cpa": {
+                "code": [
+                    "F5473XAW"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 10002,
+            "locationName": "Sierra Brava",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/sierra-brava/",
+            "cpa": {
+                "code": [
+                    "F5301XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 10003,
+            "locationName": "Sierra de los Quinteros",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/sierra-de-los-quinteros/",
+            "cpa": {
+                "code": [
+                    "F5385XBO"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 10004,
+            "locationName": "Simbolar",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/simbolar/",
+            "cpa": {
+                "code": [
+                    "F5276XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 10005,
+            "locationName": "Solca",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/solca/",
+            "cpa": {
+                "code": [
+                    "F5385XAS"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 10006,
+            "locationName": "Suriyaco",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/suriyaco/",
+            "cpa": {
+                "code": [
+                    "F5329XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 10007,
+            "locationName": "Tala Verde",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/tala-verde/",
+            "cpa": {
+                "code": [
+                    "F5383XAN"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 10008,
+            "locationName": "Talamuyuna",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/talamuyuna/",
+            "cpa": {
+                "code": [
+                    "F5304XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 10009,
+            "locationName": "Talva",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/talva/",
+            "cpa": {
+                "code": [
+                    "F5381XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 10010,
+            "locationName": "Tama",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/tama/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-tama/"
+            }
+        },
+        {
+            "locationId": 10011,
+            "locationName": "Tasquin",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/tasquin/",
+            "cpa": {
+                "code": [
+                    "F5385XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 10012,
+            "locationName": "Termas",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/termas/",
+            "cpa": {
+                "code": [
+                    "F5386XAN"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 10013,
+            "locationName": "Termas de Santa Teresita",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/termas-de-santa-teresita/",
+            "cpa": {
+                "code": [
+                    "F5313XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 10014,
+            "locationName": "Tilimuqui",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/tilimuqui/",
+            "cpa": {
+                "code": [
+                    "F5361XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 10015,
+            "locationName": "Tinocan",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/tinocan/",
+            "cpa": {
+                "code": [
+                    "F5313XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 10016,
+            "locationName": "Torrecitas",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/torrecitas/",
+            "cpa": {
+                "code": [
+                    "F5275XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 10017,
+            "locationName": "Totoral",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/totoral/",
+            "cpa": {
+                "code": [
+                    "F5471XBG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 10018,
+            "locationName": "Trampa del Tigre",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/trampa-del-tigre/",
+            "cpa": {
+                "code": [
+                    "F5300XAW"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 10019,
+            "locationName": "Tres Cerros",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/tres-cerros/",
+            "cpa": {
+                "code": [
+                    "F5361XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 10020,
+            "locationName": "Tres Cruces",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/tres-cruces/",
+            "cpa": {
+                "code": [
+                    "F5383XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 10021,
+            "locationName": "Tuani",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/tuani/",
+            "cpa": {
+                "code": [
+                    "F5385XAT"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 10022,
+            "locationName": "Tuizon",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/tuizon/",
+            "cpa": {
+                "code": [
+                    "F5385XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 10023,
+            "locationName": "Tuyubil",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/tuyubil/",
+            "cpa": {
+                "code": [
+                    "F5329XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 10024,
+            "locationName": "Udpinango",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/udpinango/",
+            "cpa": {
+                "code": [
+                    "F5311XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 10025,
+            "locationName": "Ulapes",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/ulapes/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-ulapes/"
+            }
+        },
+        {
+            "locationId": 10026,
+            "locationName": "Valle Hermoso",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/valle-hermoso/",
+            "cpa": {
+                "code": [
+                    "F5359XAG",
+                    "F5359XAG"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 10027,
+            "locationName": "Verde Olivo",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/verde-olivo/",
+            "cpa": {
+                "code": [
+                    "F5276XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 10028,
+            "locationName": "Vichigasta",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/vichigasta/",
+            "cpa": {
+                "code": [
+                    "F5374XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 10029,
+            "locationName": "Villa Bustos",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/villa-bustos/",
+            "cpa": {
+                "code": [
+                    "F5301XBG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 10030,
+            "locationName": "Villa Casana",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/villa-casana/",
+            "cpa": {
+                "code": [
+                    "F5471XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 10031,
+            "locationName": "Villa Castelli",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/villa-castelli/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-villa-castelli/"
+            }
+        },
+        {
+            "locationId": 10032,
+            "locationName": "Villa Chepes",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/villa-chepes/",
+            "cpa": {
+                "code": [
+                    "F5471XBI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 10033,
+            "locationName": "Villa Mazan",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/villa-mazan/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-villa-mazan/"
+            }
+        },
+        {
+            "locationId": 10034,
+            "locationName": "Villa Nidia",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/villa-nidia/",
+            "cpa": {
+                "code": [
+                    "F5473XAX"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 10035,
+            "locationName": "Villa San Jose de Vinchina",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/villa-san-jose-de-vinchina/",
+            "cpa": {
+                "code": [
+                    "F5359XAN"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 10036,
+            "locationName": "Villa Sanagasta",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/villa-sanagasta/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-villa-sanagasta/"
+            }
+        },
+        {
+            "locationId": 10037,
+            "locationName": "Villa Santa Rita",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/villa-santa-rita/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-villa-santa-rita/"
+            }
+        },
+        {
+            "locationId": 10038,
+            "locationName": "Villa Union",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/villa-union/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-villa-union/"
+            }
+        },
+        {
+            "locationId": 10039,
+            "locationName": "Vinchina",
+            "locationLink": "https://codigo-postal.co/argentina/la-rioja/vinchina/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/la-rioja/calles-de-vinchina/"
+            }
+        }
+    ]
+}

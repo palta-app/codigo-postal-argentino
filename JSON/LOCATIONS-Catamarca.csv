@@ -1,0 +1,700 @@
+id,name,zip,state
+2021,Achalco,K4235XAV,Catamarca
+2022,Acheral,K5260XAL,Catamarca
+2023,Aconquija,K4740XAF,Catamarca
+2024,Acostilla,K4701XAZ,Catamarca
+2025,Adolfo E Carranza,K5263XAA,Catamarca
+2026,Agua Amarilla la Hoyada,K4139XBI,Catamarca
+2027,Agua Amarilla Pta de Balasto,K4139XBJ,Catamarca
+2028,Agua Colorada,K4707XAU,Catamarca
+2029,Agua de Dionisio,K4750XCM,Catamarca
+2030,Agua de las Palomas,K4741XAA,Catamarca
+2031,Agua del Campo,K4750XAK,Catamarca
+2032,Agua del Simbol,K4701XBA,Catamarca
+2033,Agua Escondida,K5260XAM,Catamarca
+2034,Agua Grande,K5340XAO,Catamarca
+2035,Agua los Matos,K4701XBB,Catamarca
+2036,Agua Salada,K4740XAC,Catamarca
+2037,Agua Verde,K4740XAE,Catamarca
+2038,Aguada,K5340XAP,Catamarca
+2039,Aguadita,K4705XAI,Catamarca
+2040,Aguas Calientes,K4750XCN,Catamarca
+2041,Albigasta,K4235XCA,Catamarca
+2042,Algarrobal,K4740XAB,Catamarca
+2044,Almigaucho,K4723XAH,Catamarca
+2045,Alta Gracia,K4723XAI,Catamarca
+2046,Alto Bello,K5260XCP,Catamarca
+2047,Alto de la Junta,K4740XAV,Catamarca
+2048,Alto del Rosario,K4701XBC,Catamarca
+2049,Alto el Bolson,K4751XAF,Catamarca
+2050,Amadores,K4718XAK,Catamarca
+2051,Amana,K4701XBD,Catamarca
+2052,Amanao,K4740XAX,Catamarca
+2053,Amancala,K4723XAJ,Catamarca
+2054,Ambato,K4715XAF,Catamarca
+2055,Ampajango,K4139XBK,Catamarca
+2056,Ampolla,K4723XBB,Catamarca
+2057,Ampujaco,K4750XCO,Catamarca
+2058,Ancasti,K4701XBE,Catamarca
+2059,Ancastillo,K4231XAD,Catamarca
+2060,Anchoca,K5340XAQ,Catamarca
+2062,Andalhuala,K4139XAZ,Catamarca
+2063,Andalucia,K5340XDB,Catamarca
+2064,Angelina,K5260XCQ,Catamarca
+2065,Angostura,K4750XAL,Catamarca
+2066,Anillaco,K5340XDC,Catamarca
+2067,Anjuli,K4231XAE,Catamarca
+2068,Anquincila,K4701XAB,Catamarca
+2069,Antapoca,K4707XAV,Catamarca
+2070,Antinaco,K5341XAB,Catamarca
+2072,Apocango,K5340XAR,Catamarca
+2073,Apoyaco,K5315XAL,Catamarca
+2074,Arima,K4740XAD,Catamarca
+2075,Asampay,K4750XBR,Catamarca
+2076,Aserradero el Pilcio,K4740XAY,Catamarca
+2077,Ayapaso,K4235XAW,Catamarca
+2078,Balcosna,K4718XAL,Catamarca
+2079,Balcosna de Afuera,K4718XAM,Catamarca
+2080,Balde,K5260XBA,Catamarca
+2082,Balde Nuevo,K4728XAO,Catamarca
+2083,Balsa,K4705XAA,Catamarca
+2084,Balungasta,K5340XAS,Catamarca
+2085,Bañado de Divisadero,K5260XCR,Catamarca
+2087,Banda,K4139XBA,Catamarca
+2088,Banda de Lucero,K5340XDD,Catamarca
+2089,Banda Varela,K4700XAK,Catamarca
+2090,Baños Termales,K5340XDE,Catamarca
+2091,Barranca Larga,K4750XBS,Catamarca
+2092,Barranquitas,K4235XAX,Catamarca
+2093,Barro Negro,K4718XAA,Catamarca
+2094,Bastidor,K4718XAB,Catamarca
+2095,Baviano,K5260XCS,Catamarca
+2096,Bebida,K4235XAY,Catamarca
+2098,Bella Vista,K4235XAZ,Catamarca
+2099,Biscotal,K4715XAB,Catamarca
+2100,Brea,K4701XAC,Catamarca
+2101,Brea Chimpana,K4230XAA,Catamarca
+2102,Buen Retiro,K5260XAN,Catamarca
+2103,Buena Vista,K4728XAP,Catamarca
+2104,Buey Muerto,K4139XAF,Catamarca
+2105,Caballa,K5260XDM,Catamarca
+2106,Cabrera,K4701XAD,Catamarca
+2107,Cachi,K4723XBC,Catamarca
+2108,Cachijan,K4750XBT,Catamarca
+2109,Cachuan,K4750XBJ,Catamarca
+2110,Calacio,K4701XAE,Catamarca
+2111,Calera,K4701XAF,Catamarca
+2112,Calera la Norma,K5315XAM,Catamarca
+2113,Campitos,K4139XBB,Catamarca
+2114,Campo Bello,K5260XAO,Catamarca
+2115,Campo Blanco,K5260XAP,Catamarca
+2116,Cañada,K5260XDN,Catamarca
+2117,Cañada de Ipizca,K4701XAG,Catamarca
+2118,Cañada de Paez,K4701XAH,Catamarca
+2119,Cañada Larga,K4701XAI,Catamarca
+2120,Candelaria,K5260XDO,Catamarca
+2121,Cantera Rota,K5340XAT,Catamarca
+2122,Capayan,K4728XAB,Catamarca
+2123,Carapunco,K4740XBA,Catamarca
+2124,Caridad,K4723XAG,Catamarca
+2125,Carrizal,K5340XBN,Catamarca
+2126,Carrizal de Abajo,K4750XBV,Catamarca
+2127,Carrizal de la Costa,K4750XBW,Catamarca
+2128,Casa Armada,K4701XBF,Catamarca
+2129,Casa de Alto,K5340XAU,Catamarca
+2130,Casa de la Cumbre,K4701XBG,Catamarca
+2131,Casa de Piedra,K4139XBD,Catamarca
+2132,Casa Grande,K5340XAV,Catamarca
+2133,Casa Vieja,K4701XBH,Catamarca
+2134,Casa Viejas,K4715XAG,Catamarca
+2135,Caspinchango,K4139XBC,Catamarca
+2136,Castañar,K5340XAW,Catamarca
+2137,Catita,K5260XAQ,Catamarca
+2138,Cerdas,K5340XAX,Catamarca
+2139,Cerrillada,K5260XDP,Catamarca
+2140,Cerrillos,K4139XBE,Catamarca
+2141,Cerro Colorado,K4139XAG,Catamarca
+2142,Cerro Negro,K5340XBO,Catamarca
+2143,Cerviño,K4718XAN,Catamarca
+2144,Chacabuco,K4700XAL,Catamarca
+2145,Chacritas,K4701XBI,Catamarca
+2146,Chafiñan,K4139XBF,Catamarca
+2147,Chamorro,K4715XAH,Catamarca
+2148,Chañar Laguna,K4235XBA,Catamarca
+2149,Chañar Punco,K4139XAA,Catamarca
+2150,Chañarcito,K4707XAQ,Catamarca
+2151,Chañaritos,K5260XDQ,Catamarca
+2152,Chañaryaco,K4740XBC,Catamarca
+2153,Chanero,K5340XAY,Catamarca
+2155,Chavarria,K4715XAI,Catamarca
+2156,Chavero,K5340XCG,Catamarca
+2157,Chichagasta,K5260XDR,Catamarca
+2158,Chiflon,K4718XAC,Catamarca
+2159,Chilca,K4740XAH,Catamarca
+2160,Chiquerito,K4750XAN,Catamarca
+2161,Choya,K4741XAB,Catamarca
+2162,Chuchucaruana,K4715XBI,Catamarca
+2163,Chucolay,K4750XAA,Catamarca
+2165,Cienaga,K4139XAH,Catamarca
+2166,Cienaguita,K5340XBP,Catamarca
+2167,Collagasta,K4707XAC,Catamarca
+2169,Colonia Nueva Coneta,K4724XAA,Catamarca
+2170,Colpes,K5319XAA,Catamarca
+2171,Concepcion,K4728XBD,Catamarca
+2172,Condor Huasi,K4740XAI,Catamarca
+2173,Condor Huasi de Belen,K4751XAD,Catamarca
+2174,Coneta,K4728XAC,Catamarca
+2176,Cordobita,K5340XBQ,Catamarca
+2177,Corral de Piedra,K5340XBR,Catamarca
+2178,Corral Quemado,K4751XAA,Catamarca
+2179,Corral Viejo,K4139XBH,Catamarca
+2180,Corralita,K4715XAC,Catamarca
+2181,Corralito,K4750XCP,Catamarca
+2182,Corralitos,K4230XAB,Catamarca
+2183,Cortadera,K5340XDA,Catamarca
+2184,Cortaderas,K4723XBY,Catamarca
+2185,Costa de Reyes,K5340XBS,Catamarca
+2186,Cotagua,K4750XCQ,Catamarca
+2187,Cueva Blanca,K4750XAC,Catamarca
+2188,Culampaja,K4750XCR,Catamarca
+2189,Cumbre del Laudo,K4705XAB,Catamarca
+2190,Desrumbe,K4139XAI,Catamarca
+2191,Distrito Espinillo,K4740XAJ,Catamarca
+2192,Divisadero,K5260XDT,Catamarca
+2193,Dos Pocitos,K4723XBE,Catamarca
+2194,Dos Troncos,K4723XBF,Catamarca
+2195,Duraznillo,K4750XBO,Catamarca
+2196,Durazno,K4750XCS,Catamarca
+2197,El Abra,K5260XBH,Catamarca
+2198,El Alamito,K4743XAA,Catamarca
+2199,El Alto,K5340XBK,Catamarca
+2200,El Arbol Solo,K4715XBJ,Catamarca
+2201,El Arbolito,K4740XAK,Catamarca
+2202,El Arenal,K4701XBO,Catamarca
+2203,El Arroyo,K4139XBG,Catamarca
+2204,El Atoyal,K4715XBK,Catamarca
+2205,El Aybal,K5260XBI,Catamarca
+2206,El Balde,K4139XBL,Catamarca
+2207,El Bañado,K5260XBJ,Catamarca
+2208,El Barreal,K5260XBK,Catamarca
+2209,El Barrial,K5260XBL,Catamarca
+2210,El Barrialito,K5340XBL,Catamarca
+2211,El Bastidor,K4718XAO,Catamarca
+2212,El Bello,K5260XBM,Catamarca
+2214,El Bolson,K4715XBM,Catamarca
+2215,El Cachiyuyo,K5340XBM,Catamarca
+2216,El Cacho,K5260XBN,Catamarca
+2217,El Cajon,K4139XBM,Catamarca
+2218,El Calchaqui,K4139XBN,Catamarca
+2219,El Campillo,K4750XCU,Catamarca
+2220,El Carmen,K4723XBG,Catamarca
+2221,El Carrizal,K4728XBF,Catamarca
+2222,El Centenario,K4231XAF,Catamarca
+2223,El Cercado,K5260XBG,Catamarca
+2224,El Cerrito,K4139XBO,Catamarca
+2225,El Cevil,K4718XAP,Catamarca
+2226,El Cevilarcito,K4701XBR,Catamarca
+2227,El Chamico,K4718XAQ,Catamarca
+2228,El Chañaral,K5260XDV,Catamarca
+2229,El Chorro,K4701XBT,Catamarca
+2230,El Cienago,K5260XDW,Catamarca
+2231,El Ciflon,K4718XAR,Catamarca
+2232,El Colegio,K4740XAL,Catamarca
+2233,El Contador,K4718XAS,Catamarca
+2234,El Desmonte,K4723XBH,Catamarca
+2235,El Duraznillo,K4718XAT,Catamarca
+2236,El Durazno,K4750XCW,Catamarca
+2238,El Espinillo,K4740XAM,Catamarca
+2239,El Gacho,K5260XDX,Catamarca
+2240,El Garabato,K4718XAU,Catamarca
+2242,El Lindero,K5260XDY,Catamarca
+2243,El Medanito,K4139XBQ,Catamarca
+2244,El Medio,K4750XCD,Catamarca
+2245,El Milagro,K5260XDZ,Catamarca
+2246,El Mistolito,K5260XEA,Catamarca
+2247,El Mojon,K4701XBU,Catamarca
+2248,El Molinito,K4715XAD,Catamarca
+2249,El Molino,K4750XBX,Catamarca
+2250,El Mollar,K4701XBV,Catamarca
+2251,El Molle,K4740XBD,Catamarca
+2252,El Moreno,K5260XEB,Catamarca
+2253,El Nogal,K4715XBO,Catamarca
+2254,El Pajonal,K5315XAN,Catamarca
+2256,El Peñon,K5340XDF,Catamarca
+2257,El Pie de la Cuesta,K4715XAQ,Catamarca
+2258,El Polear,K5260XEC,Catamarca
+2259,El Portezuelo,K5260XED,Catamarca
+2260,El Potrerillo,K4715XAS,Catamarca
+2261,El Potrero,K4723XBI,Catamarca
+2262,El Potrero de los Cordoba,K4701XBW,Catamarca
+2263,El Pozo,K4701XBX,Catamarca
+2264,El Pucara,K4740XBE,Catamarca
+2266,El Puestito,K5260XEF,Catamarca
+2267,El Puesto,K5341XAA,Catamarca
+2268,El Quebrachal,K4701XBY,Catamarca
+2269,El Quebrachito,K4723XBJ,Catamarca
+2270,El Quimilo,K5260XEH,Catamarca
+2271,El Realito,K4715XAE,Catamarca
+2272,El Recreo,K4139XAJ,Catamarca
+2273,El Retiro,K5340XDG,Catamarca
+2274,El Rodeito,K4723XAC,Catamarca
+2276,El Rodeo Grande,K4715XAP,Catamarca
+2277,El Rosario,K4718XAW,Catamarca
+2278,El Saladillo,K5260XGB,Catamarca
+2279,El Saltito,K4701XBZ,Catamarca
+2280,El Salto,K5260XAH,Catamarca
+2281,El Sauce,K4701XCA,Catamarca
+2282,El Sauce Ipizca,K4701XCB,Catamarca
+2283,El Saucecito,K4723XAD,Catamarca
+2284,El Simbol,K4235XAD,Catamarca
+2285,El Suncho,K5260XEK,Catamarca
+2286,El Tabique,K4715XAT,Catamarca
+2287,El Taco,K4235XBV,Catamarca
+2288,El Tala,K5260XEL,Catamarca
+2289,El Tambillo,K5340XDH,Catamarca
+2290,El Tesoro,K4139XCE,Catamarca
+2291,El Tio,K4750XBZ,Catamarca
+2292,El Tolar,K4750XCA,Catamarca
+2293,El Totoral,K4718XAX,Catamarca
+2294,El Trapiche,K4139XBR,Catamarca
+2295,El Valle,K5260XEM,Catamarca
+2296,El Vallecito,K4230XAC,Catamarca
+2297,El Zapallar,K4740XBG,Catamarca
+2298,El Zarzo,K4139XBS,Catamarca
+2299,Empalme San Carlos,K5260XEO,Catamarca
+2300,Ensenada,K5260XEP,Catamarca
+2301,Entre Rios,K4139XBT,Catamarca
+2302,Esquiu,K5261XAA,Catamarca
+2304,Estacion Poman,K5315XAQ,Catamarca
+2306,Estancia Vieja,K4139XBU,Catamarca
+2307,Estancito,K5340XCH,Catamarca
+2308,Estanque,K4707XAR,Catamarca
+2309,Estanzuela,K4235XAF,Catamarca
+2310,Faldeo,K4715XAJ,Catamarca
+2311,Famabalastro,K4139XAT,Catamarca
+2312,Famatanca,K4139XAC,Catamarca
+2313,Farallon Negro,K4751XAB,Catamarca
+2316,Galpon,K4715XAK,Catamarca
+2317,Garay,K5260XEQ,Catamarca
+2318,Garzon,K4231XAN,Catamarca
+2319,Gentile,K4705XAC,Catamarca
+2320,Guanaco,K4701XAK,Catamarca
+2321,Guanchicito,K5340XCI,Catamarca
+2322,Guanchin,K5340XCJ,Catamarca
+2323,Guayamba,K4235XAA,Catamarca
+2324,Guincho,K5340XCK,Catamarca
+2325,Higuera del Alumbre,K4701XAL,Catamarca
+2326,Huaco,K4750XCB,Catamarca
+2327,Huacra,K4718XAY,Catamarca
+2329,Huasan,K4740XBJ,Catamarca
+2330,Huasayaco,K4750XCC,Catamarca
+2331,Huaschaschi,K4740XBI,Catamarca
+2332,Huasi Cienaga,K4750XCX,Catamarca
+2333,Huaycama,K4705XAK,Catamarca
+2334,Huillapima,K4728XAA,Catamarca
+2335,Humaya,K4715XAV,Catamarca
+2336,Iapes,K4139XAU,Catamarca
+2337,Icaño,K5265XAA,Catamarca
+2338,Ichipuca,K4235XAG,Catamarca
+2339,Iloga,K4235XAH,Catamarca
+2340,Inacillo,K4235XAI,Catamarca
+2341,Infanzon,K4235XAJ,Catamarca
+2342,Ipizca,K4701XAM,Catamarca
+2343,Isla Larga,K4715XAW,Catamarca
+2344,Jacipunco,K4751XAG,Catamarca
+2345,Jesus Maria,K5260XES,Catamarca
+2346,Joyango,K5315XAR,Catamarca
+2347,Joyanguito,K5315XAC,Catamarca
+2348,Julipao,K4139XAV,Catamarca
+2349,Julumao,K4740XBR,Catamarca
+2350,Jumeal,K5260XAR,Catamarca
+2351,Junta,K5340XCL,Catamarca
+2352,Kilometro 1006,K5340XDI,Catamarca
+2353,Kilometro 1008,K5260XET,Catamarca
+2354,Kilometro 1017,K5260XBQ,Catamarca
+2355,Kilometro 1093,K4235XBB,Catamarca
+2356,Kilometro 128,K4728XAR,Catamarca
+2357,Kilometro 38,K5260XBR,Catamarca
+2358,Kilometro 955,K5260XBS,Catamarca
+2359,Kilometro 969,K5260XBT,Catamarca
+2360,Kilometro 975,K5315XAS,Catamarca
+2361,Kilometro 99,K4728XAS,Catamarca
+2362,Kilometro 997,K5260XBU,Catamarca
+2363,Kilometro 999,K5340XDJ,Catamarca
+2364,La Aguada,K4723XAK,Catamarca
+2365,La Aguada Grande,K5315XAT,Catamarca
+2366,La Aguadita,K5340XDK,Catamarca
+2367,La Aguita,K4715XAL,Catamarca
+2368,La Alumbrera,K4740XAW,Catamarca
+2369,La Antigua,K5260XBW,Catamarca
+2370,La Bajada,K4723XAL,Catamarca
+2371,La Banda,K4718XBA,Catamarca
+2372,La Barranca Larga,K4750XBK,Catamarca
+2373,La Barrosa,K5260XBX,Catamarca
+2374,La Bebida,K4701XAP,Catamarca
+2375,La Brea,K5260XBO,Catamarca
+2376,La Buena Estrella,K5260XBP,Catamarca
+2377,La Calera,K4723XAM,Catamarca
+2378,La Calera del Sauce,K4235XBD,Catamarca
+2379,La Campana,K4139XAK,Catamarca
+2380,La Cañada,K5260XEU,Catamarca
+2381,La Cañada Larga,K5340XDL,Catamarca
+2382,La Candelaria,K5340XBT,Catamarca
+2383,La Capellania,K5340XBU,Catamarca
+2385,La Chacarita,K4700XAQ,Catamarca
+2386,La Chacarita de los Padres,K4700XAR,Catamarca
+2387,La Chilca,K5340XCM,Catamarca
+2388,La Cienaga,K5340XBV,Catamarca
+2389,La Cienaga de los Zondones,K5340XBW,Catamarca
+2390,La Colonia,K5260XEV,Catamarca
+2391,La Costa,K4750XDB,Catamarca
+2392,La Cuesta,K4750XDC,Catamarca
+2393,La Dorada,K5260XEW,Catamarca
+2394,La Esquina,K4718XBB,Catamarca
+2395,La Estancia,K4235XBE,Catamarca
+2396,La Estancita,K4701XAJ,Catamarca
+2397,La Estanzuela,K4235XBF,Catamarca
+2398,La Estrella,K4707XAW,Catamarca
+2399,La Falda,K5340XBX,Catamarca
+2401,La Florida,K5340XBY,Catamarca
+2402,La Granja,K5260XEZ,Catamarca
+2404,La Higuera,K4719XAA,Catamarca
+2405,La Higuerita,K4701XAS,Catamarca
+2406,La Horqueta,K4728XAU,Catamarca
+2407,La Hoyada,K4139XAL,Catamarca
+2408,La Huerta,K4235XBG,Catamarca
+2409,La Isla,K5340XBZ,Catamarca
+2410,La Laguna,K4740XAN,Catamarca
+2411,La Loma,K4139XAB,Catamarca
+2412,La Majada,K5340XCA,Catamarca
+2413,La Maravilla,K4723XAN,Catamarca
+2415,La Mesada,K5340XCB,Catamarca
+2416,La Montosa,K5260XFB,Catamarca
+2417,La Ollada,K4139XAW,Catamarca
+2418,La Ovejeria,K4719XAB,Catamarca
+2419,La Palca,K5340XDM,Catamarca
+2420,La Parada,K5260XCU,Catamarca
+2421,La Paraguaya,K4728XAV,Catamarca
+2422,La Peña,K5260XCV,Catamarca
+2424,La Puerta,K4711XAA,Catamarca
+2440,La Valentina,K5260XCY,Catamarca
+2447,Laguna Colorada,K4750XCI,Catamarca
+2450,Lampasillo,K4728XAW,Catamarca
+2452,Lampaso,K4715XAN,Catamarca
+2464,Las Chacritas,K4715XBU,Catamarca
+2476,Las Iguanas,K4231XAH,Catamarca
+2479,Las Lajas,K4718XAE,Catamarca
+2482,Las Losas,K5340XCN,Catamarca
+2483,Las Manzas,K4750XDF,Catamarca
+2493,Las Peñas,K5263XAB,Catamarca
+2497,Las Tapias,K4235XAL,Catamarca
+2508,Lazareto,K4700XAF,Catamarca
+2517,Londres Oeste,K4750XDI,Catamarca
+2518,Loro Huasi,K5340XDV,Catamarca
+2522,Los Baldes,K5315XAI,Catamarca
+2523,Los Balverdis,K5340XDW,Catamarca
+2524,Los Bastidores,K4723XBK,Catamarca
+2525,Los Bazan,K4728XAZ,Catamarca
+2526,Los Bulacio,K4701XCT,Catamarca
+2527,Los Cadillos,K5260XFH,Catamarca
+2528,Los Cajones,K5315XAD,Catamarca
+2529,Los Castillos,K4715XBB,Catamarca
+2530,Los Caudillos,K5260XAJ,Catamarca
+2531,Los Chanampa,K5340XAC,Catamarca
+2532,Los Chañares,K5260XCD,Catamarca
+2533,Los Chañaritos,K4728XBC,Catamarca
+2534,Los Cisternas,K4235XAP,Catamarca
+2535,Los Colorados,K4750XDJ,Catamarca
+2536,Los Cordobeses,K4231XAK,Catamarca
+2537,Los Corrales,K4235XCC,Catamarca
+2538,Los Estantes,K4723XBL,Catamarca
+2539,Los Galpones,K4718XAJ,Catamarca
+2540,Los Gonzales,K5340XDX,Catamarca
+2541,Los Guaytimas,K5340XDY,Catamarca
+2542,Los Guindos,K4715XBC,Catamarca
+2543,Los Huaycos,K4701XCU,Catamarca
+2544,Los Loros,K4715XBD,Catamarca
+2545,Los Mogotes,K4701XCV,Catamarca
+2546,Los Molles,K4723XBM,Catamarca
+2547,Los Morteritos,K4750XDK,Catamarca
+2548,Los Morteros,K5340XDZ,Catamarca
+2549,Los Nacimientos,K4751XAJ,Catamarca
+2550,Los Narvaez,K4715XBF,Catamarca
+2551,Los Navarros,K4715XBG,Catamarca
+2552,Los Nogales,K4235XCD,Catamarca
+2553,Los Ortices,K4723XBN,Catamarca
+2554,Los Ovejeros,K4718XBC,Catamarca
+2555,Los Palacios,K5340XEA,Catamarca
+2556,Los Pedrazas,K4235XAK,Catamarca
+2557,Los Pinos,K4728XAG,Catamarca
+2558,Los Pintados,K4718XBD,Catamarca
+2559,Los Piquillines,K4701XCY,Catamarca
+2560,Los Pocitos,K4723XBO,Catamarca
+2561,Los Potrerillos,K5340XEB,Catamarca
+2562,Los Pozuelos,K4139XBW,Catamarca
+2563,Los Puestos,K4728XAH,Catamarca
+2564,Los Quinteros,K5340XEC,Catamarca
+2565,Los Rastrojos,K4740XAQ,Catamarca
+2566,Los Rincones,K5340XED,Catamarca
+2567,Los Robledos,K5340XEE,Catamarca
+2568,Los Saltos,K4139XBX,Catamarca
+2569,Los Talas,K4715XBH,Catamarca
+2570,Los Troncos,K4723XBP,Catamarca
+2571,Los Valdez,K5340XEF,Catamarca
+2572,Los Valveros,K5340XAD,Catamarca
+2573,Los Varela,K4711XAC,Catamarca
+2574,Los Zanjones,K4723XBQ,Catamarca
+2575,Luna Aguada,K4750XAG,Catamarca
+2576,Majada,K4701XCZ,Catamarca
+2577,Malcasco,K5315XAJ,Catamarca
+2578,Malli 1,K4740XAR,Catamarca
+2579,Malli 2,K4740XAS,Catamarca
+2580,Manantiales,K4723XBR,Catamarca
+2581,Maria Dora,K5260XDF,Catamarca
+2582,Maria Elena,K5260XDG,Catamarca
+2583,Matambre,K5340XAE,Catamarca
+2584,Medanito,K4139XBY,Catamarca
+2585,Medanitos,K5340XAB,Catamarca
+2586,Medano,K5340XAF,Catamarca
+2587,Mesada de los Zarate,K5340XEG,Catamarca
+2588,Mesada Grande,K5340XEH,Catamarca
+2589,Mina Dal,K4235XAS,Catamarca
+2590,Mina Inca Huasi,K4705XAJ,Catamarca
+2591,Minas Agua Tapada,K4750XBI,Catamarca
+2592,Minas Capillitas,K4740XBS,Catamarca
+2594,Mischango,K5315XAK,Catamarca
+2595,Mistol Ancho,K4723XBS,Catamarca
+2596,Molle Quemado,K4715XBY,Catamarca
+2597,Mollecito,K4740XAT,Catamarca
+2598,Mollegasta,K5260XCE,Catamarca
+2600,Monte Redondo,K4723XBT,Catamarca
+2601,Mota Botello,K4707XAJ,Catamarca
+2602,Motegasta,K5260XDH,Catamarca
+2603,Mutquin,K5317XAA,Catamarca
+2604,Nacimiento,K4750XBL,Catamarca
+2605,Nacimientos de Abajo,K4750XBM,Catamarca
+2606,Nacimientos de Arriba,K4750XBG,Catamarca
+2607,Nacimientos de San Antonio,K4750XBB,Catamarca
+2608,Nacimientos del Bolson,K4750XBC,Catamarca
+2609,Naipa,K4723XAF,Catamarca
+2610,Navaguin,K4701XDA,Catamarca
+2611,Navigan,K5260XAK,Catamarca
+2612,Negro Muerto,K5340XAG,Catamarca
+2613,Nogalito,K4235XAT,Catamarca
+2614,Ocho Vados,K4707XAE,Catamarca
+2615,Ojo de Agua,K5340XAH,Catamarca
+2616,Ojo de la Cortadera,K4750XAH,Catamarca
+2617,Ollita,K5260XBD,Catamarca
+2618,Olmos,K5260XCF,Catamarca
+2619,Olta,K5260XDI,Catamarca
+2620,Orellano,K4235XBJ,Catamarca
+2621,Ovanta,K4723XAT,Catamarca
+2622,Ovejeria,K4139XBZ,Catamarca
+2623,Oyola,K4235XBK,Catamarca
+2624,Pajanguillo,K4139XCA,Catamarca
+2625,Palacios,K5340XAI,Catamarca
+2626,Palo Blanco,K5340XAA,Catamarca
+2627,Palo Cruz,K5260XDJ,Catamarca
+2628,Palo Labrado,K4718XBF,Catamarca
+2629,Palo Parado,K4231XAL,Catamarca
+2630,Palo Seco,K4139XAM,Catamarca
+2631,Paloma Yaco,K4139XCB,Catamarca
+2632,Pampa,K4707XAS,Catamarca
+2633,Pampa Blanca,K5340XEI,Catamarca
+2634,Pampa Chacra,K4723XAU,Catamarca
+2635,Pampa Cienaga,K4750XAJ,Catamarca
+2636,Pampa Pozo,K5260XCG,Catamarca
+2637,Pan de Azucar,K5340XAJ,Catamarca
+2638,Pantanos,K5340XAK,Catamarca
+2639,Papa Chacra,K4750XBD,Catamarca
+2640,Parada Kilometro 62,K5260XDD,Catamarca
+2641,Paraje los Chañaritos,K5260XAZ,Catamarca
+2642,Paso San Francisco,K5340XEJ,Catamarca
+2643,Pastos Amarillos,K5340XAL,Catamarca
+2644,Payabuayca,K4700XAC,Catamarca
+2645,Peñaflor,K4701XDC,Catamarca
+2646,Peñas Blancas,K5340XEK,Catamarca
+2647,Peñon,K4700XAB,Catamarca
+2648,Pie del Medano,K4139XCC,Catamarca
+2649,Piedra Larga,K4750XBE,Catamarca
+2650,Pilciao,K4740XAU,Catamarca
+2651,Pillahuasi,K5340XAM,Catamarca
+2652,Planchada,K5340XAN,Catamarca
+2653,Plaza de San Pedro,K5340XEL,Catamarca
+2654,Plumero,K5260XCH,Catamarca
+2655,Pocitos,K5340XCQ,Catamarca
+2658,Pomancillo,K4707XAF,Catamarca
+2659,Portezuelo,K4707XAK,Catamarca
+2660,Portillo Chico,K5260XDL,Catamarca
+2661,Posta,K4718XAD,Catamarca
+2662,Potrerito,K4750XAO,Catamarca
+2663,Potrero,K4701XDD,Catamarca
+2664,Pozancones,K5260XFL,Catamarca
+2665,Pozo de Piedra,K4751XAC,Catamarca
+2666,Pozo del Algarrobo,K4718XBG,Catamarca
+2667,Pozo del Campo,K4718XBH,Catamarca
+2669,Pozo Grande,K4235XBL,Catamarca
+2670,Pozos Cavados,K5260XFM,Catamarca
+2671,Pozuelos,K4750XBN,Catamarca
+2672,Pto Espinal,K5260XAS,Catamarca
+2673,Pueblito,K4235XBM,Catamarca
+2674,Puerta de Corral Quemado,K4751XAM,Catamarca
+2675,Puerta Grande,K4723XAV,Catamarca
+2676,Puerto Blanco,K4750XBA,Catamarca
+2677,Puerto Chipi,K4750XAQ,Catamarca
+2678,Puerto de la Pampa,K4750XAR,Catamarca
+2679,Puerto Potrero,K4750XAP,Catamarca
+2680,Puesto de Fadel o de Lobo,K5260XFN,Catamarca
+2681,Puesto de la Viuda,K4723XAW,Catamarca
+2682,Puesto de los Morales,K4231XAM,Catamarca
+2683,Puesto de Vera,K5260XFP,Catamarca
+2684,Puesto del Medio,K4723XAX,Catamarca
+2685,Puesto los Gomez,K4231XAB,Catamarca
+2686,Puesto Sabatte,K5260XFQ,Catamarca
+2687,Punta de Agua,K5345XAA,Catamarca
+2688,Punta de Balasto,K4139XCD,Catamarca
+2689,Punta del Pozo,K5260XAT,Catamarca
+2690,Quebrachal,K4723XAY,Catamarca
+2691,Quebracho,K4701XDE,Catamarca
+2692,Quebrachos Blancos,K4723XAZ,Catamarca
+2693,Quebrada Honda,K5340XCR,Catamarca
+2694,Quemadita,K5340XCS,Catamarca
+2695,Quemado,K5340XCT,Catamarca
+2696,Quimilpa,K4723XBA,Catamarca
+2697,Quiquero,K5340XCU,Catamarca
+2698,Quiros,K5266XAA,Catamarca
+2699,Qusto,K5340XCV,Catamarca
+2700,Rafael Castillo,K4718XBI,Catamarca
+2701,Ramblones,K5260XFR,Catamarca
+2703,Retiro,K4723XBU,Catamarca
+2704,Retiro de Colana,K5315XAU,Catamarca
+2705,Rincon,K5315XAB,Catamarca
+2706,Rincon Grande,K4750XAS,Catamarca
+2707,Rio Abajo,K5340XCW,Catamarca
+2708,Rio Chico,K5260XAB,Catamarca
+2709,Rio Colorado,K5340XEM,Catamarca
+2710,Rio de Avila,K4235XBN,Catamarca
+2711,Rio de Bazanes,K5260XAC,Catamarca
+2712,Rio de Don Diego,K5260XAD,Catamarca
+2713,Rio de la Dorada,K5260XAE,Catamarca
+2714,Rio de la Plata,K4235XBO,Catamarca
+2715,Rio de los Indios,K5340XCX,Catamarca
+2716,Rio del Tala,K4700XAH,Catamarca
+2717,Rio Grande,K5340XEN,Catamarca
+2718,Rio los Molinos,K4701XDF,Catamarca
+2719,Rodeo,K5340XCY,Catamarca
+2720,Rodeo Gervan,K4750XBF,Catamarca
+2721,Rodeo Grande,K4740XBO,Catamarca
+2722,Rosario de Colana,K5315XAV,Catamarca
+2723,Rosario del Sumalao,K4707XAL,Catamarca
+2724,Rumimonion,K4750XAT,Catamarca
+2726,Salauca,K4723XBV,Catamarca
+2727,Salcedo,K4718XBJ,Catamarca
+2728,San Antonio,K5260XAA,Catamarca
+2730,San Antonio de P Blanca,K4707XAG,Catamarca
+2731,San Antonio de Paclin,K4718XBK,Catamarca
+2732,San Antonio del Cajon,K4139XAR,Catamarca
+2734,San Antonio Viejo,K5264XAA,Catamarca
+2735,San Buenaventura,K5340XCC,Catamarca
+2737,San Fernando,K4751XAK,Catamarca
+2738,San Francisco,K5260XAF,Catamarca
+2739,San Geronimo,K4728XAI,Catamarca
+2741,San Jeronimo,K4235XBP,Catamarca
+2742,San Jose,K4701XDH,Catamarca
+2743,San Jose Banda,K4139XAN,Catamarca
+2746,San Jose Norte,K4139XAP,Catamarca
+2747,San Lorenzo,K5260XAG,Catamarca
+2748,San Luis,K4723XBW,Catamarca
+2749,San Manuel,K5260XFS,Catamarca
+2750,San Martin,K4728XAK,Catamarca
+2751,San Miguel,K5315XAW,Catamarca
+2752,San Nicolas,K5260XFU,Catamarca
+2753,San Pablo,K4728XAL,Catamarca
+2754,San Pedro,K4723XBZ,Catamarca
+2755,San Pedro Capayan,K4728XAM,Catamarca
+2756,San Rafael,K5260XFV,Catamarca
+2757,San Roque,K5260XCL,Catamarca
+2758,San Vicente,K4235XBQ,Catamarca
+2759,Sancho,K5260XAU,Catamarca
+2760,Santa Ana,K4718XBL,Catamarca
+2761,Santa Barbara,K4718XBM,Catamarca
+2762,Santa Cruz,K4707XAM,Catamarca
+2763,Santa Gertrudis,K4701XDJ,Catamarca
+2764,Santa Lucia,K5260XFW,Catamarca
+2767,Santo Domingo,K5260XFX,Catamarca
+2768,Santo Tomas,K5340XCE,Catamarca
+2769,Santos Lugares,K4723XAB,Catamarca
+2770,Sauce,K4700XAD,Catamarca
+2771,Sauce de los Cejas,K4701XAT,Catamarca
+2772,Sauce Huacho,K4235XBR,Catamarca
+2773,Sauce Mayo,K4718XBN,Catamarca
+2775,Saujil de Tinogasta,K5340XCF,Catamarca
+2776,Sebila,K4707XAT,Catamarca
+2777,Shincal,K4750XAW,Catamarca
+2778,Sicha,K5260XFY,Catamarca
+2779,Sierra Brava,K4707XAB,Catamarca
+2780,Sijan,K5315XAA,Catamarca
+2781,Singuil,K4715XBZ,Catamarca
+2782,Sisiguasi,K4728XAF,Catamarca
+2783,Soledad,K4235XBS,Catamarca
+2784,Sucuma,K4235XBT,Catamarca
+2786,Sumampa,K4718XBO,Catamarca
+2787,Suncho,K5340XCZ,Catamarca
+2788,Superi,K4718XBP,Catamarca
+2789,Suruipiana,K4235XBU,Catamarca
+2790,Tacahuasi,K4705XAE,Catamarca
+2791,Tacana,K4701XAV,Catamarca
+2792,Taco de Abajo,K4701XAW,Catamarca
+2793,Tacopampa,K5260XFZ,Catamarca
+2794,Tajamares,K5260XAV,Catamarca
+2795,Tala,K4707XAN,Catamarca
+2796,Tala Zapata,K5340XAZ,Catamarca
+2797,Talaguada,K4718XBQ,Catamarca
+2798,Talamayo,K4750XDL,Catamarca
+2799,Talar,K5340XBA,Catamarca
+2800,Talega,K4235XBW,Catamarca
+2801,Talita,K5340XBB,Catamarca
+2802,Tamberia,K5340XBC,Catamarca
+2803,Tambu,K5340XBD,Catamarca
+2804,Tapso,K4235XBX,Catamarca
+2806,Telaritos,K4728XBA,Catamarca
+2807,Tierra Verde,K4718XBR,Catamarca
+2808,Tinajera,K5260XAW,Catamarca
+2810,Tintigasta,K4235XBY,Catamarca
+2811,Tiorco,K4707XAO,Catamarca
+2812,Toro Muerto,K4705XAF,Catamarca
+2813,Toroyaco,K4139XAQ,Catamarca
+2814,Totora,K5340XBE,Catamarca
+2815,Totoral,K4701XAX,Catamarca
+2816,Totorilla,K4139XAS,Catamarca
+2817,Trampasacha,K4728XBB,Catamarca
+2818,Tres Puentes,K4707XAX,Catamarca
+2819,Troya,K5340XBF,Catamarca
+2820,Tula,K5260XGA,Catamarca
+2821,Tuscumayo,K5315XAX,Catamarca
+2822,Vallecito,K5340XBG,Catamarca
+2823,Vega,K5340XBH,Catamarca
+2824,Vega Curutu,K4705XAG,Catamarca
+2825,Vega Tamberia,K4705XAH,Catamarca
+2826,Vicuña Pampa,K4750XDM,Catamarca
+2827,Vilisman,K4235XBZ,Catamarca
+2828,Villa Collantes,K4718XBS,Catamarca
+2829,Villa Coronel Arroyo,K4740XBP,Catamarca
+2830,Villa Cubas,K4700XAI,Catamarca
+2833,Villa Macedo,K4707XAY,Catamarca
+2834,Villa Ofelia,K5260XAX,Catamarca
+2835,Villa Parque Chacabuco,K4700XAJ,Catamarca
+2836,Villa Quintin Ahumada,K4715XCA,Catamarca
+2838,Villa Seleme,K5340XEO,Catamarca
+2839,Villa Sotomayor,K5260XAY,Catamarca
+2841,Viña del Cerro,K5340XEP,Catamarca
+2842,Vinquis,K5340XBI,Catamarca
+2843,Viscote,K4750XAX,Catamarca
+2844,Yacochuyo,K5340XBJ,Catamarca
+2845,Yapes,K4139XAO,Catamarca
+2846,Yaquicho,K4723XBX,Catamarca
+2847,Yerba Buena,K4701XAY,Catamarca
+2848,Yocan,K4718XBT,Catamarca
+2849,Zanja,K4707XAP,Catamarca
+2850,Zarcito,K4750XAY,Catamarca
+2851,Zarza,K4750XAZ,Catamarca

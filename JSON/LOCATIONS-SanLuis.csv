@@ -1,0 +1,901 @@
+id,name,zip,state
+14613,11 de Mayo,D5701XAM,San Luis
+14614,13 de Enero,D5741XAD,San Luis
+14615,20 de Febrero,D5730XAO,San Luis
+14616,30 de Octubre,D5637XAD,San Luis
+14617,6 de Septiembre,D5703XAB,San Luis
+14618,9 de Julio,D5757XAC,San Luis
+14619,Acasape,D5722XAI,San Luis
+14620,Adolfo Rodriguez Saa,D5777XAP,San Luis
+14621,Agua Amarga,D5719XBM,San Luis
+14622,Agua del Portezuelo,D5730XAH,San Luis
+14623,Agua Fria,D5831XAY,San Luis
+14624,Agua Hedionda,D5705XAA,San Luis
+14625,Agua Linda,D5753XAS,San Luis
+14626,Agua Salada,D5751XAC,San Luis
+14627,Agua Seballe,D5721XCA,San Luis
+14628,Aguada,D5831XAX,San Luis
+14629,Aguadita,D5719XAA,San Luis
+14630,Aguaditas,D5707XAP,San Luis
+14631,Aguas de Piedras,D5721XCB,San Luis
+14632,Ahi Veremos,D5703XAT,San Luis
+14633,Alanices,D5777XAZ,San Luis
+14634,Alazanas,D5719XBN,San Luis
+14635,Alegria,D6389XAA,San Luis
+14636,Alfaland,D5731XAY,San Luis
+14637,Algarrobal,D5705XAB,San Luis
+14638,Algarrobitos,D5701XCN,San Luis
+14639,Algarrobos Grandes,D5719XBO,San Luis
+14640,Alta Gracia,D5703XBD,San Luis
+14641,Altillo,D5719XBP,San Luis
+14642,Alto,D5703XBE,San Luis
+14643,Alto Blanco,D5700XAH,San Luis
+14644,Alto de la Leña,D5750XAA,San Luis
+14645,Alto del Leon,D5722XAJ,San Luis
+14646,Alto del Molle,D5755XAH,San Luis
+14647,Alto del Valle,D5755XAI,San Luis
+14648,Alto Grande,D5721XAA,San Luis
+14649,Alto Lindo,D5883XAC,San Luis
+14651,Alto Pelado,D5721XCC,San Luis
+14652,Alto Pencoso,D5724XAP,San Luis
+14653,Alto Verde,D5741XAQ,San Luis
+14654,Ancamilla,D5753XAT,San Luis
+14655,Anchorena,D6389XAB,San Luis
+14656,Angelita,D5711XBO,San Luis
+14657,Antihuasi,D5701XAY,San Luis
+14658,Arbol Solo,D5703XBF,San Luis
+14659,Arbol Verde,D5715XAA,San Luis
+14660,Arboleda,D5750XBL,San Luis
+14661,Arboles Blancos,D5771XAM,San Luis
+14662,Arenilla,D5701XAZ,San Luis
+14664,Arroyo de Vilches,D5771XAN,San Luis
+14665,Arroyo la Cal,D5753XAU,San Luis
+14666,Avanzada,D5738XAV,San Luis
+14667,Aviador Origone,D5741XAN,San Luis
+14669,Bajada,D5711XAA,San Luis
+14670,Bajada Nueva,D6216XBI,San Luis
+14671,Bajo de Conlara,D5753XAV,San Luis
+14672,Bajo de la Cruz,D5719XBQ,San Luis
+14673,Bajo Grande,D5775XAD,San Luis
+14674,Bajo la Laguna,D5753XAW,San Luis
+14675,Bajos Hondos,D5741XAO,San Luis
+14676,Balcarce,D5883XAD,San Luis
+14677,Balda,D5722XAK,San Luis
+14678,Balde,D5883XAK,San Luis
+14679,Balde Ahumada,D5713XAA,San Luis
+14680,Balde de Amira,D5703XAU,San Luis
+14681,Balde de Arriba,D5707XAA,San Luis
+14682,Balde de Azcurra,D5707XAB,San Luis
+14683,Balde de Escudero,D5711XAN,San Luis
+14684,Balde de Garcia,D5715XAB,San Luis
+14685,Balde de Guardia,D5713XAP,San Luis
+14686,Balde de Guiñazu,D5715XAM,San Luis
+14687,Balde de la Isla,D5701XBA,San Luis
+14688,Balde de la Linea,D5713XAO,San Luis
+14689,Balde de Ledesma,D5715XAF,San Luis
+14690,Balde de Monte,D5715XAG,San Luis
+14691,Balde de Nuevo,D5715XAI,San Luis
+14692,Balde de Puertas,D5707XAW,San Luis
+14693,Balde de Quines,D5713XAQ,San Luis
+14694,Balde de Torres,D5713XAR,San Luis
+14695,Balde del Escudero,D5715XAJ,San Luis
+14696,Balde del Rosario,D5703XAV,San Luis
+14697,Balde el Carril,D5713XAS,San Luis
+14698,Balde Hondo,D5705XAQ,San Luis
+14699,Balde Retamo,D5711XAR,San Luis
+14700,Balde Viejo,D5711XAS,San Luis
+14701,Baldecito,D5713XAT,San Luis
+14702,Baldecito la Pampa,D5707XAD,San Luis
+14703,Bañadito,D5711XBJ,San Luis
+14704,Bañadito Viejo,D5709XAG,San Luis
+14705,Bañado,D5707XAE,San Luis
+14706,Bañado de Cautana,D5711XBK,San Luis
+14707,Bañado Lindo,D5705XAD,San Luis
+14708,Banda Sud,D5705XAE,San Luis
+14709,Baños Zapallar,D5711XAJ,San Luis
+14710,Barranca Colorada,D5703XCF,San Luis
+14711,Barranquitas,D5771XAO,San Luis
+14712,Barriales,D5707XAF,San Luis
+14713,Barrio Blanco,D5777XAE,San Luis
+14714,Barzola,D5719XAC,San Luis
+14715,Batavia,D6279XAX,San Luis
+14717,Bebedero,D5724XAQ,San Luis
+14718,Bebida,D5719XBA,San Luis
+14719,Becerra,D5711XAO,San Luis
+14720,Bella Estancia,D5719XBB,San Luis
+14721,Bella Vista,D5835XAF,San Luis
+14722,Bella Vista Botijas,D5707XAQ,San Luis
+14723,Billiken,D6216XBJ,San Luis
+14724,Boca de la Quebrada,D6216XAC,San Luis
+14725,Boca del Rio,D5831XAL,San Luis
+14726,Botijas,D5707XAG,San Luis
+14728,Buena Ventura,D5701XBB,San Luis
+14729,Buena Vista,D5701XBC,San Luis
+14730,Cabeza de Novillo,D5779XAB,San Luis
+14731,Cain de los Tigres,D5771XAP,San Luis
+14732,Caldenadas,D5738XAM,San Luis
+14733,Calera Argentina,D5759XAF,San Luis
+14734,Caleras Cañada Grande,D5759XAG,San Luis
+14735,Campanario,D5705XAG,San Luis
+14736,Campo de San Pedro,D5722XAF,San Luis
+14737,Caña Larga,D5721XBU,San Luis
+14738,Cañada,D5773XAQ,San Luis
+14739,Cañada Angosta,D5703XAC,San Luis
+14740,Cañada Blanca,D5753XAX,San Luis
+14741,Cañada de Atras,D5771XAC,San Luis
+14742,Cañada de la Negra,D5777XAF,San Luis
+14743,Cañada de las Lagunas,D5773XAR,San Luis
+14744,Cañada de los Tigres,D5771XAQ,San Luis
+14745,Cañada de Vilan,D5719XBC,San Luis
+14746,Cañada del Pasto,D5750XAQ,San Luis
+14747,Cañada del Puestito,D5753XCN,San Luis
+14748,Cañada Grande,D5777XAG,San Luis
+14749,Cañada Honda,D5701XBD,San Luis
+14750,Cañada Honda de Guzman,D5701XBE,San Luis
+14751,Cañada la Negra,D5881XAJ,San Luis
+14752,Cañada la Tienda,D5753XCO,San Luis
+14753,Cañada Quemada,D5753XCP,San Luis
+14754,Cañada San Antonio,D5750XBM,San Luis
+14755,Cañada Verde,D5777XAQ,San Luis
+14756,Cañaditas,D5755XAP,San Luis
+14758,Cañitas,D5773XBD,San Luis
+14759,Cantantal,D5707XAX,San Luis
+14760,Canteras Santa Isabel,D5750XAR,San Luis
+14761,Capelen,D5741XAP,San Luis
+14762,Carmelo,D5707XAY,San Luis
+14765,Casa de Condor,D5753XCQ,San Luis
+14766,Casa de Piedra,D5753XCR,San Luis
+14767,Casas Viejas,D5750XBH,San Luis
+14768,Casimiro Gomez,D6214XAA,San Luis
+14769,Cebollar,D5709XAI,San Luis
+14770,Centenario,D6279XBX,San Luis
+14771,Cerrito,D5753XCS,San Luis
+14772,Cerrito Blanco,D5777XAR,San Luis
+14773,Cerrito Negro,D5770XAZ,San Luis
+14774,Cerro Bayo,D5707XAZ,San Luis
+14775,Cerro Blanco,D5731XAM,San Luis
+14776,Cerro Colorado,D5753XCT,San Luis
+14777,Cerro de la Pila,D5750XBI,San Luis
+14778,Cerro de Oro,D5881XAK,San Luis
+14779,Cerro de Piedra,D5701XCD,San Luis
+14780,Cerro Negro,D5731XAN,San Luis
+14781,Cerro Varela,D5721XBV,San Luis
+14782,Cerro Verde,D5750XBJ,San Luis
+14783,Cerro Viejo,D5721XBW,San Luis
+14784,Cerros Largos,D5701XCE,San Luis
+14785,Chacra la Primavera,D5730XBK,San Luis
+14786,Chacras del Cantaro,D5719XAF,San Luis
+14787,Chacras Viejas,D5770XAK,San Luis
+14788,Chacritas,D5755XAJ,San Luis
+14789,Chalanta,D5721XAC,San Luis
+14790,Chañar de la Legua,D5773XAI,San Luis
+14791,Chañaritos,D5883XAE,San Luis
+14792,Chancarita,D5831XAM,San Luis
+14793,Charlone,D5719XCM,San Luis
+14794,Charlones,D5719XAG,San Luis
+14795,Chichaquita,D5721XBY,San Luis
+14796,Chilcas,D5777XAA,San Luis
+14797,Chimbas,D5707XBB,San Luis
+14798,Chimborazo,D5707XBC,San Luis
+14799,Chipical,D5701XCF,San Luis
+14801,Chischaca,D5721XBX,San Luis
+14805,Cochenelos,D6277XAA,San Luis
+14806,Cochequingan,D6216XAG,San Luis
+14807,Colonia Bella Vista,D5735XAA,San Luis
+14808,Colonia Calzada,D6279XAE,San Luis
+14809,Colonia el Campamento,D6216XAH,San Luis
+14810,Colonia la Florida,D6216XAI,San Luis
+14811,Colonia Luna,D5738XAN,San Luis
+14812,Colonia Santa Virginia,D5721XAD,San Luis
+14813,Colonia Urdaniz,D6216XAJ,San Luis
+14814,Comandante Granville,D5750XBK,San Luis
+14816,Conlara,D5759XAD,San Luis
+14817,Consuelo,D5753XAZ,San Luis
+14818,Consulta,D5709XAJ,San Luis
+14819,Coronel Alzogaray,D5730XBE,San Luis
+14820,Coronel Segovia,D6279XAF,San Luis
+14821,Corral de Piedra,D5709XAA,San Luis
+14822,Corral de Torres,D5777XAB,San Luis
+14823,Corral del Tala,D5753XBA,San Luis
+14824,Corrales,D5753XBB,San Luis
+14825,Cortaderas,D5771XAR,San Luis
+14826,Cramer,D5733XAA,San Luis
+14827,Crucecitas,D5773XAS,San Luis
+14828,Cruz Brillante,D5753XBC,San Luis
+14829,Cruz de Caña,D5701XBF,San Luis
+14830,Cruz de Piedra,D5701XBG,San Luis
+14831,Cuatro Esquinas,D5750XBN,San Luis
+14832,Cuchi Corral,D5701XCI,San Luis
+14833,Cueva de Tigre,D5755XAK,San Luis
+14834,Daniel Donovan,D5701XCM,San Luis
+14836,Dique la Florida,D5750XBO,San Luis
+14837,Divisadero,D5753XBD,San Luis
+14838,Dominguez,D5835XAC,San Luis
+14839,Dormida,D5753XBE,San Luis
+14840,Duraznito,D5773XBE,San Luis
+14841,El Aguila,D6279XAG,San Luis
+14842,El Algarrobal,D5775XAC,San Luis
+14843,El Alto,D5715XAC,San Luis
+14844,El Amparo,D5701XBI,San Luis
+14845,El Arenal,D5701XBJ,San Luis
+14846,El Arroyo,D5770XAF,San Luis
+14847,El Bagual,D5703XAX,San Luis
+14848,El Bajo,D5770XBA,San Luis
+14849,El Balde,D5703XAY,San Luis
+14850,El Baldecito,D5753XCU,San Luis
+14851,El Bañado,D5770XAG,San Luis
+14852,El Barrial,D5715XAN,San Luis
+14853,El Blanco,D5750XAS,San Luis
+14854,El Burrito,D5753XCV,San Luis
+14855,El Cadillo,D5713XAB,San Luis
+14856,El Calden,D5741XAE,San Luis
+14857,El Campamento,D6216XAK,San Luis
+14858,El Cardal,D5753XCW,San Luis
+14859,El Carmen,D5738XAA,San Luis
+14860,El Cavado,D5770XAL,San Luis
+14861,El Cazador,D5721XBZ,San Luis
+14862,El Cerrito,D5753XCX,San Luis
+14863,El Cerro,D5770XAM,San Luis
+14864,El Chañar,D5730XAL,San Luis
+14865,El Charabon,D5719XAH,San Luis
+14866,El Charco,D5724XAR,San Luis
+14868,El Cinco,D6216XBK,San Luis
+14869,El Condor,D5753XCY,San Luis
+14870,El Coro,D5753XCZ,San Luis
+14871,El Dichoso,D5719XAY,San Luis
+14872,El Dique,D5730XAM,San Luis
+14873,El Durazno,D5701XBK,San Luis
+14874,El Espinillo,D6279XAA,San Luis
+14875,El Fortin,D5730XAN,San Luis
+14876,El Hormiguero,D5713XAC,San Luis
+14877,El Hornito,D5755XAE,San Luis
+14878,El Injerto,D5711XAE,San Luis
+14879,El Jarillal,D5719XBD,San Luis
+14880,El Lechuzo,D5721XCD,San Luis
+14881,El Manantial,D5709XAK,San Luis
+14882,El Manantial Escondido,D5753XDA,San Luis
+14883,El Mangrullo,D5738XAB,San Luis
+14884,El Martillo,D6216XBL,San Luis
+14885,El Mataco,D5724XAS,San Luis
+14887,El Molino,D5709XAL,San Luis
+14888,El Mollar,D5713XAU,San Luis
+14889,El Mollarcito,D5707XBD,San Luis
+14890,El Molle,D5721XCE,San Luis
+14891,El Morro,D5731XAC,San Luis
+14892,El Nasao,D5738XAC,San Luis
+14893,El Negro,D5724XAB,San Luis
+14894,El Oasis,D6277XAJ,San Luis
+14895,El Olmo,D5773XBF,San Luis
+14896,El Pajarete,D5753XBF,San Luis
+14897,El Pantanillo,D5753XBG,San Luis
+14898,El Pantano,D5753XDK,San Luis
+14899,El Paraguay,D5753XBH,San Luis
+14900,El Paraiso,D5755XAL,San Luis
+14901,El Pasajero,D5731XAD,San Luis
+14902,El Payero,D5703XAD,San Luis
+14903,El Pedernal,D5719XBE,San Luis
+14904,El Peje,D5770XAX,San Luis
+14905,El Piche,D6279XAY,San Luis
+14910,El Pocito,D5715XAO,San Luis
+14911,El Poleo,D5773XAT,San Luis
+14912,El Portezuelo,D5750XAT,San Luis
+14914,El Potrerillo,D5711XAT,San Luis
+14918,El Pueblito,D5777XAS,San Luis
+14920,El Puestito,D5713XAV,San Luis
+14922,El Quebracho,D5700XAE,San Luis
+14923,El Quingual,D6277XAK,San Luis
+14924,El Ramblon,D5719XBF,San Luis
+14927,El Riecito,D5701XCO,San Luis
+14932,El Salado,D5753XDB,San Luis
+14935,El Salvador,D5771XBB,San Luis
+14937,El Sauce,D5770XAN,San Luis
+14938,El Sembrado,D5713XAD,San Luis
+14942,El Tembleque,D5715XAP,San Luis
+14948,El Vallecito,D5773XBH,San Luis
+14950,El Volcan,D5701XCQ,San Luis
+14953,El Zapallar,D5711XAF,San Luis
+14957,Entre Rios,D5711XAG,San Luis
+14960,Estacion Zanjitas,D5721XAO,San Luis
+14961,Estancia,D5883XAG,San Luis
+14962,Estancia 30 de Octubre,D6279XAH,San Luis
+14964,Estancia el Chamico,D5730XAP,San Luis
+14966,Estancia el Medano,D5719XCL,San Luis
+14970,Estancia Grande,D5701XAC,San Luis
+14972,Estancia la Guardia,D5730XAT,San Luis
+14973,Estancia la Guillermina,D5731XAE,San Luis
+14974,Estancia la Morena,D5731XAF,San Luis
+14975,Estancia la Reserva,D5730XAU,San Luis
+14976,Estancia la Union,D5711XBE,San Luis
+14977,Estancia la Zulemita,D5730XAV,San Luis
+14978,Estancia las Bebidas,D5730XAB,San Luis
+14979,Estancia los Hermanos,D5730XAC,San Luis
+14980,Estancia los Nogales,D5730XAD,San Luis
+14981,Estancia Rivadavia,D5700XAF,San Luis
+14982,Estancia San Alberto,D5730XAE,San Luis
+14983,Estancia San Antonio,D5731XAA,San Luis
+14984,Estancia San Francisco,D5730XAF,San Luis
+14985,Estancia San Roque,D5719XBS,San Luis
+14986,Estancia Tres Arboles,D5881XAA,San Luis
+14987,Estanzuela,D5831XAB,San Luis
+14988,Favelli,D5636XAA,San Luis
+14989,Fenoglio,D5770XAI,San Luis
+14990,Florida,D5715XAQ,San Luis
+14992,Fortin Salto,D5721XAE,San Luis
+14994,Fortuna de San Juan,D5755XAQ,San Luis
+14996,Frisia,D6277XAB,San Luis
+14997,General Pedernera,D5738XAO,San Luis
+14998,General Urquiza,D5763XAA,San Luis
+14999,Gigante,D5719XBT,San Luis
+15000,Gloria a Dios,D6279XAJ,San Luis
+15001,Gorgonta,D5721XAP,San Luis
+15002,Gruta de Intihuasi,D5701XAD,San Luis
+15003,Gualtaran,D5707XBT,San Luis
+15004,Guanaco,D5759XAP,San Luis
+15005,Guanaco Pampa,D5771XBC,San Luis
+15006,Guasquita,D5724XAE,San Luis
+15007,Guzman,D5773XAV,San Luis
+15008,Hinojito,D5701XAE,San Luis
+15009,Hinojos,D5753XBK,San Luis
+15010,Hipolito Yrigoyen,D5703XBI,San Luis
+15011,Hornito,D5753XBL,San Luis
+15012,Hualtaran,D5719XBU,San Luis
+15013,Huchisson,D5759XAE,San Luis
+15014,Huejeda,D5721XAQ,San Luis
+15015,Huertas,D5771XAT,San Luis
+15016,Intihuasi,D5701XAF,San Luis
+15017,Invernada,D5777XAH,San Luis
+15018,Isla,D5873XAB,San Luis
+15019,Islitas,D5715XAL,San Luis
+15020,Isondu,D5735XAB,San Luis
+15021,Jarilla,D5724XAF,San Luis
+15022,Juan Jorba,D5731XAQ,San Luis
+15024,Juan W Gez,D5722XAG,San Luis
+15026,Juante,D5731XAB,San Luis
+15028,Kilometro 656,D5730XBF,San Luis
+15029,La Adela,D5736XAA,San Luis
+15030,La Agua Nueva,D5721XAF,San Luis
+15031,La Aguada,D5831XAO,San Luis
+15032,La Aguada de las Animas,D5871XAB,San Luis
+15033,La Agueda,D5753XBM,San Luis
+15034,La Alameda,D5750XAX,San Luis
+15035,La Alcorteña,D6216XAL,San Luis
+15036,La Alegria,D5871XAC,San Luis
+15037,La Alianza,D5701XBL,San Luis
+15038,La Amalia,D6279XAK,San Luis
+15039,La Amarga,D5721XAG,San Luis
+15040,La Angelina,D5731XAG,San Luis
+15041,La Angostura,D5873XAC,San Luis
+15042,La Arboleda,D5751XAE,San Luis
+15043,La Argentina,D5835XAD,San Luis
+15044,La Armonia,D5773XAW,San Luis
+15045,La Aroma,D6279XAL,San Luis
+15046,La Atalaya,D5750XAC,San Luis
+15047,La Aurora,D5771XAU,San Luis
+15048,La Bajada,D5701XBM,San Luis
+15049,La Bava,D5705XAC,San Luis
+15050,La Bavaria,D6279XAZ,San Luis
+15051,La Bertita,D5731XAH,San Luis
+15052,La Bolivia,D6279XBA,San Luis
+15053,La Bonita,D5721XAR,San Luis
+15054,La Brea,D5724XAL,San Luis
+15055,La Cabra,D5724XAG,San Luis
+15056,La Calaguala,D5701XBN,San Luis
+15057,La Caldera,D6216XBP,San Luis
+15058,La Calera,D5719XBX,San Luis
+15059,La Cañada,D5637XAB,San Luis
+15060,La Carmen,D5738XAD,San Luis
+15061,La Carmencita,D5753XBN,San Luis
+15062,La Cautiva,D5736XAD,San Luis
+15063,La Celia,D5873XAA,San Luis
+15064,La Chañarienta,D5719XCH,San Luis
+15065,La Cherindu,D6216XAB,San Luis
+15066,La Chilca,D5777XAI,San Luis
+15067,La Chilla,D5771XAV,San Luis
+15068,La Cienaga,D5701XCT,San Luis
+15069,La Cocha,D5773XAX,San Luis
+15070,La Colina,D6269XAA,San Luis
+15071,La Colonia,D6216XAD,San Luis
+15072,La Cora,D6279XBB,San Luis
+15073,La Corina,D5703XAI,San Luis
+15074,La Cortadera,D5700XAI,San Luis
+15075,La Costa,D5721XBK,San Luis
+15076,La Cristina,D5773XAE,San Luis
+15077,La Crucesita,D5771XAI,San Luis
+15078,La Cumbre,D5883XAJ,San Luis
+15079,La Delia,D5722XAA,San Luis
+15080,La Donostia,D6216XBQ,San Luis
+15081,La Dora,D5753XDE,San Luis
+15082,La Duda,D5703XAJ,San Luis
+15083,La Dulce,D6277XAM,San Luis
+15084,La Elena,D6216XBR,San Luis
+15085,La Elenita,D6216XBS,San Luis
+15086,La Elida,D5738XAE,San Luis
+15087,La Elisa,D5741XAA,San Luis
+15088,La Elvira,D5770XBB,San Luis
+15089,La Emilia,D5721XAB,San Luis
+15090,La Emma,D6216XBT,San Luis
+15091,La Empajada,D5719XAP,San Luis
+15092,La Ernestina,D6216XAM,San Luis
+15093,La Escondida,D6216XAN,San Luis
+15094,La Esmeralda,D6277XAC,San Luis
+15095,La Esperanza,D5753XDF,San Luis
+15096,La Espesura,D5700XAJ,San Luis
+15097,La Esquina,D5753XDG,San Luis
+15098,La Esquina del Rio,D5753XDH,San Luis
+15099,La Estancia,D5753XDI,San Luis
+15100,La Estanzuela,D5773XAG,San Luis
+15101,La Estrella,D6216XAO,San Luis
+15102,La Ethel,D6277XAD,San Luis
+15103,La Eulogia,D5703XAM,San Luis
+15104,La Felisa,D6279XAO,San Luis
+15105,La Finca,D5871XAA,San Luis
+15106,La Flecha,D5741XAB,San Luis
+15107,La Florida,D5773XBJ,San Luis
+15108,La Fragua,D5750XAZ,San Luis
+15109,La Gama,D5731XAI,San Luis
+15110,La Garrapata,D5738XAF,San Luis
+15111,La Garza,D5703XAN,San Luis
+15112,La Gaviota,D6216XAQ,San Luis
+15113,La Germania,D6279XAP,San Luis
+15114,La Gitana,D6216XBU,San Luis
+15115,La Gramilla,D5770XAJ,San Luis
+15116,La Guardia,D5759XAO,San Luis
+15117,La Hermosura,D5831XAF,San Luis
+15118,La Higuerita,D5701XBO,San Luis
+15119,La Holanda,D6216XBV,San Luis
+15120,La Hortensia,D6279XBC,San Luis
+15121,La Huerta,D5753XDJ,San Luis
+15122,La Huertita,D5755XAR,San Luis
+15123,La Iberia,D5731XAR,San Luis
+15124,La Invernada,D6277XAN,San Luis
+15125,La Irene,D5721XAN,San Luis
+15126,La Isabel,D5743XAA,San Luis
+15127,La Isla,D6279XBD,San Luis
+15128,La Javiera,D5731XAS,San Luis
+15129,La Jerga,D5721XBM,San Luis
+15130,La Josefa,D6216XBW,San Luis
+15131,La Josefina,D5741XAF,San Luis
+15132,La Juana,D6279XBE,San Luis
+15133,La Juanita,D6216XBX,San Luis
+15134,La Julia,D5703XBK,San Luis
+15135,La Justa,D5750XAJ,San Luis
+15136,La Laura,D6279XBF,San Luis
+15137,La Lechuga,D5637XAF,San Luis
+15138,La Legua,D5709XAM,San Luis
+15139,La Linda,D6216XBY,San Luis
+15140,La Linea,D5711XBL,San Luis
+15141,La Loma,D5871XAD,San Luis
+15142,La Luisa,D6279XBG,San Luis
+15144,La Majada,D5703XAF,San Luis
+15145,La Maravilla,D6216XAR,San Luis
+15146,La Margarita,D6216XAS,San Luis
+15147,La Margarita Carlota,D6216XAT,San Luis
+15148,La Maria,D5722XAB,San Luis
+15149,La Maria Esther,D6279XAQ,San Luis
+15150,La Maria Luisa,D6277XAE,San Luis
+15151,La Maroma,D6216XAU,San Luis
+15152,La Mascota,D6216XAV,San Luis
+15153,La Media Legua,D6216XAW,San Luis
+15154,La Medula,D5713XAW,San Luis
+15155,La Melina,D6216XAX,San Luis
+15156,La Merced,D5719XAN,San Luis
+15157,La Mesilla,D5771XBD,San Luis
+15158,La Mina,D5755XAT,San Luis
+15159,La Moderna,D5713XAX,San Luis
+15160,La Negra,D5731XAT,San Luis
+15161,La Negrita,D5730XBG,San Luis
+15162,La Nelida,D5700XAK,San Luis
+15163,La Nutria,D6279XAR,San Luis
+15164,La Palmira,D5741XAG,San Luis
+15165,La Pampa,D5701XCR,San Luis
+15166,La Patria,D5707XBF,San Luis
+15167,La Peregrina,D5721XCH,San Luis
+15168,La Petra,D5751XAB,San Luis
+15169,La Plata,D5713XAY,San Luis
+15170,La Porfia,D5705XAR,San Luis
+15171,La Portada,D5731XAU,San Luis
+15172,La Primavera,D5730XAW,San Luis
+15173,La Providencia,D5750XAD,San Luis
+15174,La Puerta,D5755XAS,San Luis
+15177,La Quebrada,D5703XBY,San Luis
+15178,La Ramada,D5753XBO,San Luis
+15179,La Realidad,D5741XAH,San Luis
+15180,La Reforma,D5724XAM,San Luis
+15181,La Reina,D6279XBH,San Luis
+15182,La Represa,D5721XCI,San Luis
+15183,La Represita,D5711XBC,San Luis
+15184,La Reserva,D6279XBI,San Luis
+15185,La Resistencia,D5713XAG,San Luis
+15186,La Ribera,D5734XAA,San Luis
+15187,La Rinconada,D5750XAK,San Luis
+15188,La Riojita,D5773XAH,San Luis
+15189,La Rosada,D5831XAP,San Luis
+15190,La Rosalia,D6279XBJ,San Luis
+15191,La Rosina,D6277XAO,San Luis
+15192,La Sala,D5771XAW,San Luis
+15193,La Salud,D5703XBZ,San Luis
+15194,La Salvadora,D5707XAH,San Luis
+15195,La Sandia,D5703XBL,San Luis
+15196,La Segunda,D6277XAP,San Luis
+15197,La Selva,D5724XAT,San Luis
+15198,La Seña,D5721XCJ,San Luis
+15199,La Serrana,D5703XBM,San Luis
+15200,La Silesia,D5741XAI,San Luis
+15201,La Sirena,D5713XAH,San Luis
+15202,La Suiza,D5759XAI,San Luis
+15203,La Tigra,D6216XBZ,San Luis
+15206,La Totora,D5753XBP,San Luis
+15207,La Tranca,D5421XAA,San Luis
+15208,La Travesia,D6389XAE,San Luis
+15209,La Tula,D5738XAR,San Luis
+15210,La Tusca,D5713XAI,San Luis
+15211,La Ulbara,D5753XBQ,San Luis
+15212,La Union,D5711XBQ,San Luis
+15213,La Uruguaya,D6216XCA,San Luis
+15214,La Vaca,D6389XAF,San Luis
+15215,La Venecia,D5735XAC,San Luis
+15216,La Verde,D6389XAD,San Luis
+15217,La Vertiente,D5711XAK,San Luis
+15218,La Yerba Buena,D5722XAD,San Luis
+15219,La Yesera,D5719XBY,San Luis
+15221,Laguna Brava,D5701XAH,San Luis
+15222,Laguna Capelen,D5741XAJ,San Luis
+15223,Laguna de la Cañada,D5771XAX,San Luis
+15224,Laguna de los Patos,D5773XAY,San Luis
+15225,Laguna de Patos,D5771XBE,San Luis
+15226,Laguna Larga,D5753XBR,San Luis
+15227,Laguna Sayape,D5741XAK,San Luis
+15228,Laguna Seca,D5724XAV,San Luis
+15230,Las Aromas,D6277XAG,San Luis
+15231,Las Bajadas,D5713XAJ,San Luis
+15232,Las Barrancas,D5871XAF,San Luis
+15233,Las Barranquitas,D5755XAN,San Luis
+15234,Las Cabras,D5715XAR,San Luis
+15235,Las Cañas,D5773XAZ,San Luis
+15236,Las Cañitas,D5722XAL,San Luis
+15237,Las Canteras,D5759XAJ,San Luis
+15238,Las Caritas,D5703XBO,San Luis
+15239,Las Carolinas,D5731XAV,San Luis
+15240,Las Carretas,D6279XAC,San Luis
+15242,Las Chacras de San Martin,D5755XAB,San Luis
+15243,Las Chacritas,D5753XAA,San Luis
+15245,Las Chimbas,D5713XAK,San Luis
+15246,Las Claritas,D5711XBG,San Luis
+15247,Las Colonias,D5721XAY,San Luis
+15248,Las Cortaderas,D6216XBD,San Luis
+15249,Las Delicias,D5750XAM,San Luis
+15250,Las Encadenadas,D5738XAG,San Luis
+15251,Las Flores,D5753XAB,San Luis
+15252,Las Galeras,D5719XBZ,San Luis
+15253,Las Gamas,D5721XAZ,San Luis
+15254,Las Gitanas,D6216XAY,San Luis
+15255,Las Higueras,D5755XAA,San Luis
+15256,Las Isletas,D5730XBL,San Luis
+15257,Las Islitas,D5715XAS,San Luis
+15258,Las Lagunas,D5773XAP,San Luis
+15259,Las Lagunitas,D5721XAS,San Luis
+15262,Las Mangas,D5753XAE,San Luis
+15268,Las Palmas,D5730XAZ,San Luis
+15269,Las Palomas,D5715XAH,San Luis
+15270,Las Pampitas,D5707XBH,San Luis
+15272,Las Piedritas,D5721XAH,San Luis
+15278,Las Rosadas,D5715XAT,San Luis
+15279,Las Rosas,D5750XBA,San Luis
+15280,Las Salinas,D5705XAT,San Luis
+15281,Las Tigras,D5777XAT,San Luis
+15282,Las Toscas,D5753XAF,San Luis
+15283,Las Totoritas,D5738XAI,San Luis
+15284,Las Tres Cañadas,D5721XAT,San Luis
+15286,Las Vizcacheras,D5721XAU,San Luis
+15287,Laura Elisa,D6279XAS,San Luis
+15288,Lavaisse,D5730XBA,San Luis
+15290,Liborio Luna,D5730XBB,San Luis
+15291,Lince,D5722XAH,San Luis
+15292,Lindo,D5707XBI,San Luis
+15293,Loma del Medio,D5750XBR,San Luis
+15294,Lomas Blancas,D5719XCQ,San Luis
+15295,Lomitas,D5871XAG,San Luis
+15296,Longari,D5703XBQ,San Luis
+15297,Los Aguados,D5719XCA,San Luis
+15298,Los Alamos,D5753XBS,San Luis
+15299,Los Algarrobitos,D5715XAU,San Luis
+15300,Los Algarrobos,D5753XBT,San Luis
+15301,Los Almacigos,D5707XBK,San Luis
+15302,Los Araditos,D5719XAT,San Luis
+15303,Los Arces,D5713XBB,San Luis
+15304,Los Arguellos,D5777XAJ,San Luis
+15305,Los Arroyos,D5701XBP,San Luis
+15306,Los Barriales,D6216XBB,San Luis
+15307,Los Cajones,D5871XAE,San Luis
+15308,Los Carricitos,D5701XBQ,San Luis
+15309,Los Cerrillos,D5721XAV,San Luis
+15310,Los Cerritos,D5719XAU,San Luis
+15311,Los Cesares,D5738XAJ,San Luis
+15312,Los Chañares,D5777XAK,San Luis
+15313,Los Chañaritos,D5721XAW,San Luis
+15314,Los Chancaros,D5719XAV,San Luis
+15315,Los Chenas,D5711XBF,San Luis
+15316,Los Cisnes,D5731XAK,San Luis
+15317,Los Claveles,D5721XAI,San Luis
+15318,Los Comederos,D5753XBU,San Luis
+15319,Los Comedores,D5770XAQ,San Luis
+15320,Los Condores,D5773XBA,San Luis
+15321,Los Coros,D5721XAJ,San Luis
+15322,Los Corrales,D5753XBV,San Luis
+15323,Los Corralitos,D5759XAK,San Luis
+15324,Los Cuadros,D5835XAI,San Luis
+15325,Los Dos Rios,D6216XBC,San Luis
+15326,Los Dueros,D6216XAF,San Luis
+15327,Los Duraznitos,D5773XBB,San Luis
+15328,Los Duraznos,D6216XCB,San Luis
+15329,Los Espinillos,D5883XAH,San Luis
+15330,Los Esquineros,D5738XAS,San Luis
+15331,Los Hinojos,D5753XBW,San Luis
+15332,Los Huaycos,D6279XBK,San Luis
+15333,Los Jagueles,D5721XAX,San Luis
+15334,Los Lechuzones,D5753XBX,San Luis
+15335,Los Lobos,D5771XAY,San Luis
+15336,Los Manantiales,D5773XAK,San Luis
+15337,Los Medanitos,D5751XAF,San Luis
+15338,Los Medanos,D5738XAT,San Luis
+15339,Los Membrillos,D5750XBB,San Luis
+15340,Los Mendocinos,D5707XAK,San Luis
+15341,Los Mollecitos,D5759XAL,San Luis
+15342,Los Molles,D5753XBY,San Luis
+15343,Los Montes,D5701XBR,San Luis
+15344,Los Noques,D5773XBC,San Luis
+15345,Los Oscuros,D6277XAQ,San Luis
+15346,Los Pasitos,D5701XBS,San Luis
+15347,Los Pejes,D5709XAC,San Luis
+15348,Los Peros,D5777XAL,San Luis
+15349,Los Poleos,D5770XAT,San Luis
+15350,Los Pozos,D5738XAU,San Luis
+15351,Los Puestos,D5770XAR,San Luis
+15352,Los Puquios,D5701XCJ,San Luis
+15353,Los Quebrachos,D5770XAA,San Luis
+15354,Los Ramblones,D5703XAQ,San Luis
+15355,Los Roldanes,D5777XAM,San Luis
+15356,Los Sauces,D5753XDL,San Luis
+15357,Los Talas,D5753XAG,San Luis
+15358,Los Tamariños,D5724XAH,San Luis
+15359,Los Tapiales,D5701XBT,San Luis
+15360,Los Telarios,D5719XAX,San Luis
+15361,Los Tigres,D5777XAN,San Luis
+15362,Los Valles,D6279XBL,San Luis
+15364,Machao,D6277XAR,San Luis
+15365,Manantial,D5770XAU,San Luis
+15366,Manantial Blanco,D5707XBU,San Luis
+15367,Manantial de Flores,D5775XAI,San Luis
+15368,Manantial de Renca,D5759XAB,San Luis
+15369,Manantial Grande,D5751XAG,San Luis
+15370,Manantial Lindo,D5753XAH,San Luis
+15371,Manantiales,D5703XAR,San Luis
+15372,Mantilla,D5724XAI,San Luis
+15373,Maravilla,D5705XAH,San Luis
+15374,Maray,D5701XBU,San Luis
+15375,Marlito,D5730XBH,San Luis
+15376,Marmol Verde,D5701XBV,San Luis
+15377,Martin de Loyola,D6216XCD,San Luis
+15378,Mataco,D5724XAC,San Luis
+15379,Medano Bello,D5713XAL,San Luis
+15380,Medano Chico,D5730XAX,San Luis
+15381,Medano Grande,D5730XAY,San Luis
+15382,Medanos,D5736XAB,San Luis
+15383,Media Luna,D5755XAC,San Luis
+15385,Milagro,D6216XCE,San Luis
+15386,Mina Carolina,D5701XCH,San Luis
+15387,Mina los Condores,D5770XAB,San Luis
+15388,Mina Santo Domingo,D5701XAJ,San Luis
+15389,Mollecito,D5759XAA,San Luis
+15390,Monte Carmelo,D5707XAL,San Luis
+15391,Monte Chiquito,D5701XAK,San Luis
+15392,Monte Cochequingan,D6216XCF,San Luis
+15393,Monte Verde,D5719XAD,San Luis
+15394,Mosmota,D5721XCM,San Luis
+15395,Moyar,D5777XAO,San Luis
+15396,Moyarcito,D5719XAO,San Luis
+15397,Nahuel Mapa,D6279XBM,San Luis
+15398,Naranjo,D5711XBN,San Luis
+15401,Negro Muerto,D5724XAW,San Luis
+15402,Nilinast,D6277XAH,San Luis
+15403,No es Mia,D5831XAQ,San Luis
+15405,Nossar,D5741XAL,San Luis
+15406,Nueva Constitucion,D5636XAC,San Luis
+15407,Nueva Escocia,D5743XAC,San Luis
+15408,Nueva Esperanza,D6279XAU,San Luis
+15410,Ñurilay,D6279XAV,San Luis
+15411,Ojo de Agua,D5753XAI,San Luis
+15412,Ojo del Rio,D5777XAU,San Luis
+15413,Otra Banda,D5773XAB,San Luis
+15414,Paines,D5736XAF,San Luis
+15415,Paje,D5721XCN,San Luis
+15416,Paliguanta,D5703XAS,San Luis
+15417,Palomar,D5724XAD,San Luis
+15418,Pampa,D5770XAV,San Luis
+15419,Pampa de los Gobernadores,D5757XAA,San Luis
+15420,Pampa del Bajo,D5753XAJ,San Luis
+15421,Pampa del Tamborero,D5701XAN,San Luis
+15422,Pampa Grande,D5771XAD,San Luis
+15423,Pampa Invernada,D5705XAU,San Luis
+15424,Pampita,D5701XAO,San Luis
+15425,Pantanillo,D5753XBZ,San Luis
+15426,Pantanillos,D5701XAP,San Luis
+15427,Papagayos,D5883XAA,San Luis
+15428,Paraiso,D5703XBS,San Luis
+15429,Paso Ancho,D5721XCO,San Luis
+15430,Paso de Cuero,D5701XAQ,San Luis
+15431,Paso de la Cruz,D5777XAV,San Luis
+15432,Paso de la Tierra,D5721XAK,San Luis
+15433,Paso de las Carretas,D5736XAC,San Luis
+15434,Paso de las Salinas,D5721XCP,San Luis
+15435,Paso de las Sierras,D5873XAD,San Luis
+15436,Paso de las Toscas,D5721XCQ,San Luis
+15437,Paso de las Vacas,D5721XCR,San Luis
+15438,Paso de los Algarrobos,D5773XAC,San Luis
+15439,Paso de los Bayos,D5721XCS,San Luis
+15440,Paso de los Gauchos,D6216XBE,San Luis
+15441,Paso de Piedra,D5707XBL,San Luis
+15442,Paso del Medio,D5711XBS,San Luis
+15443,Paso del Rey,D5701XBW,San Luis
+15445,Paso Juan Gomez,D5701XBX,San Luis
+15446,Paso los Algarrobos,D5724XAX,San Luis
+15447,Pastal,D5707XBM,San Luis
+15448,Patio Limpio,D5713XBC,San Luis
+15449,Pedernera,D5730XBI,San Luis
+15450,Penice,D6279XAW,San Luis
+15451,Peñon Colorado,D5707XBN,San Luis
+15452,Pescadores,D5700XAB,San Luis
+15453,Picos Yacu,D5777XAW,San Luis
+15454,Pie de la Cuesta,D5711XAX,San Luis
+15455,Piedra Blanca,D5881XAN,San Luis
+15456,Piedra Bola,D5753XCA,San Luis
+15457,Piedra Larga,D5753XCB,San Luis
+15458,Piedra Rosada,D5753XCC,San Luis
+15459,Piedra Sola,D5753XCD,San Luis
+15460,Piedras Anchas,D5755XAG,San Luis
+15461,Piedras Blancas,D5750XAE,San Luis
+15462,Piedras Chatas,D5759XAC,San Luis
+15463,Piquillines,D5835XAJ,San Luis
+15464,Piscoyaco,D5775XAF,San Luis
+15465,Pizarras Bajo Velez,D5777XAX,San Luis
+15466,Placilla,D6277XAI,San Luis
+15467,Planta de Sandia,D5753XCE,San Luis
+15468,Plumerito,D5637XAC,San Luis
+15469,Pocitos,D5715XAV,San Luis
+15470,Polledo,D6216XBF,San Luis
+15471,Portada del Sauce,D5741XAM,San Luis
+15472,Portezuelo,D5719XCB,San Luis
+15473,Porvenir,D5835XAK,San Luis
+15474,Posta de Fierro,D5831XAR,San Luis
+15475,Posta del Portezuelo,D5705XAZ,San Luis
+15476,Potrerillo,D5753XCF,San Luis
+15478,Pozo Cavado,D5705XAV,San Luis
+15479,Pozo Cercado,D5721XBA,San Luis
+15480,Pozo de las Raices,D5777XAY,San Luis
+15481,Pozo de los Rayos,D5705XAW,San Luis
+15482,Pozo del Carril,D5703XCC,San Luis
+15484,Pozo del Medio,D5715XAW,San Luis
+15485,Pozo del Molle,D5707XBO,San Luis
+15486,Pozo del Tala,D5705XAY,San Luis
+15487,Pozo Escondido,D5700XAC,San Luis
+15488,Pozo Frio,D5771XAJ,San Luis
+15489,Pozo Santiago,D5703XAH,San Luis
+15490,Pozo Seco,D5753XCG,San Luis
+15491,Pozo Simon,D5703XCA,San Luis
+15492,Primer Agua,D5831XAS,San Luis
+15493,Puente Hierro,D5773XAL,San Luis
+15494,Puente la Orqueta,D5721XAL,San Luis
+15495,Puerta Colorada,D5771XAZ,San Luis
+15496,Puerta de la Isla,D5721XBO,San Luis
+15497,Puerta de Palo,D5770XAY,San Luis
+15498,Puerto Alegre,D5719XAI,San Luis
+15499,Puerto Rico,D5705XAX,San Luis
+15500,Puestito,D5753XAK,San Luis
+15502,Puesto Bella Vista,D5730XAG,San Luis
+15503,Puesto de los Jumes,D5721XBB,San Luis
+15504,Puesto de Tabares,D5711XAY,San Luis
+15505,Puesto el Tala,D5730XAI,San Luis
+15506,Puesto Pampa Invernada,D5705XAI,San Luis
+15507,Puesto Quebrada Cal,D5705XAJ,San Luis
+15508,Puesto Roberto,D5713XAM,San Luis
+15509,Puesto Talar,D5711XAL,San Luis
+15510,Punta de la Loma,D5773XAM,San Luis
+15511,Punta de la Sierra,D5719XCC,San Luis
+15512,Punta del Agua,D5873XAE,San Luis
+15513,Punta del Alto,D5773XAN,San Luis
+15514,Punta del Cerro,D5721XBC,San Luis
+15515,Puntos de Agua,D5721XBP,San Luis
+15516,Puntos de la Linea,D5711XBH,San Luis
+15517,Quebrachito,D5713XAN,San Luis
+15518,Quebrada de la Burra,D5701XBY,San Luis
+15519,Quebrada de la Mora,D5755XAD,San Luis
+15520,Quebrada de los Barrosos,D5753XAL,San Luis
+15521,Quebrada de San Vicente,D5770XAW,San Luis
+15522,Quebrada del Tigre,D5881XAE,San Luis
+15523,Quebrada Honda,D5750XBC,San Luis
+15525,Ramadita,D5705XAK,San Luis
+15526,Ramblones,D5705XAL,San Luis
+15527,Ranquelco,D6216XBG,San Luis
+15528,Real,D5831XAH,San Luis
+15529,Reconquista,D5707XAR,San Luis
+15530,Recreo,D5719XCD,San Luis
+15531,Reforma Chica,D5724XAN,San Luis
+15534,Represa del Chañar,D5703XCD,San Luis
+15540,Rincon del Carmen,D5779XAA,San Luis
+15542,Rio Grande,D5701XBZ,San Luis
+15543,Rio Juan Gomez,D5705XAM,San Luis
+15544,Rio Quinto,D5738XAK,San Luis
+15546,Rodeo Cadenas,D5705XAN,San Luis
+15547,Romance,D5719XCF,San Luis
+15549,Rumiguasi,D5703XBV,San Luis
+15551,Salado,D5750XBD,San Luis
+15553,Salinas,D5711XAZ,San Luis
+15555,Salitral,D5721XBD,San Luis
+15557,San Agustin,D5719XCG,San Luis
+15558,San Alberto,D5831XAC,San Luis
+15567,San Geronimo,D5721XBQ,San Luis
+15570,San Isidro,D5771XAE,San Luis
+15571,San Jorge,D6216XCG,San Luis
+15574,San Jose del Durazno,D5741XAC,San Luis
+15576,San Juan,D6277XAS,San Luis
+15578,San Lorenzo,D5753XCH,San Luis
+15586,San Raimundo,D5703XCH,San Luis
+15593,Santa Ana,D5881XAC,San Luis
+15597,Santa Clara,D5701XCS,San Luis
+15598,Santa Dionisia,D5722XAM,San Luis
+15600,Santa Isabel,D5831XAW,San Luis
+15604,Santa Martina,D5770XAC,San Luis
+15609,Santa Rosa del Gigante,D5719XBJ,San Luis
+15611,Santa Simona,D5770XAD,San Luis
+15615,Santo Domingo,D6216XCJ,San Luis
+15617,Saucesito,D5701XAT,San Luis
+15620,Socoscora,D5705XAO,San Luis
+15621,Sol de Abril,D5707XAV,San Luis
+15624,Sololosta,D5750XAG,San Luis
+15626,Talarcito,D5701XCU,San Luis
+15627,Talita,D5881XAH,San Luis
+15628,Tamascanes,D5721XBS,San Luis
+15629,Tamboreo,D5750XAH,San Luis
+15630,Tasto,D5731XAW,San Luis
+15631,Taza Blanca,D5703XBB,San Luis
+15632,Temeraria,D5707XAO,San Luis
+15634,Tintitaco,D5705XAP,San Luis
+15635,Toigus,D5831XAA,San Luis
+15636,Toingua,D6216XCK,San Luis
+15637,Toro Bayo,D6279XBS,San Luis
+15638,Toro Negro,D5703XBC,San Luis
+15639,Toscal,D5636XAB,San Luis
+15640,Totoral,D5771XAF,San Luis
+15641,Totorilla,D5771XAB,San Luis
+15642,Transval,D5721XBT,San Luis
+15643,Travesia,D5721XBF,San Luis
+15644,Tres Cañadas,D5721XBG,San Luis
+15645,Tres Esquinas,D5730XBJ,San Luis
+15646,Tres Lomas,D5719XBK,San Luis
+15647,Tres Marias,D5700XAD,San Luis
+15648,Tres Puertas,D5719XBL,San Luis
+15649,Tukiros,D5701XCK,San Luis
+15650,Uchaima,D6279XBT,San Luis
+15652,Unquillo,D5771XAG,San Luis
+15653,Usiyal,D5637XAE,San Luis
+15654,Uspara,D5835XAB,San Luis
+15655,Vacas Muertas,D5721XBI,San Luis
+15656,Valle de la Pancanta,D5701XAW,San Luis
+15657,Valle Hermoso,D6279XBU,San Luis
+15658,Valle San Agustin,D5775XAA,San Luis
+15659,Valle San Jose,D5775XAB,San Luis
+15660,Vallecito,D5701XAX,San Luis
+15661,Varela,D5721XBH,San Luis
+15662,Venta de los Rios,D5753XAQ,San Luis
+15663,Vieja Estancia,D5771XAL,San Luis
+15667,Villa Dolores,D5770XAE,San Luis
+15668,Villa Elena,D5883XAB,San Luis
+15674,Villa Santiago,D5730XAJ,San Luis
+15675,Virarco,D5701XCA,San Luis
+15676,Viscacheras,D5731XAX,San Luis
+15677,Vista Alegre,D5707XBR,San Luis
+15678,Vista Hermosa,D5730XAA,San Luis
+15679,Viva la Patria,D6279XBV,San Luis
+15680,Vizcacheras,D5703XBW,San Luis
+15681,Volcan Estanzuela,D5835XAL,San Luis
+15682,Yacoro,D5750XBG,San Luis

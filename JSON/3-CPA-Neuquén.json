@@ -1,0 +1,4959 @@
+{
+    "provinceName": "Neuquén",
+    "provinceLink": "https://codigo-postal.co/argentina/neuquen/",
+    "locationsCount": 12372,
+    "locationWithCPALink": 419,
+    "locations": [
+        {
+            "locationId": 11954,
+            "locationName": "Achico",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/achico/",
+            "cpa": {
+                "code": [
+                    "Q8315XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 11955,
+            "locationName": "Agrio Balsa",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/agrio-balsa/",
+            "cpa": {
+                "code": [
+                    "Q8351XAO"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 11956,
+            "locationName": "Aguada Chacay Co",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/aguada-chacay-co/",
+            "cpa": {
+                "code": [
+                    "Q8353XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 11957,
+            "locationName": "Aguada Florencio",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/aguada-florencio/",
+            "cpa": {
+                "code": [
+                    "Q8340XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 11958,
+            "locationName": "Aguada San Roque",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/aguada-san-roque/",
+            "cpa": {
+                "code": [
+                    "Q8312XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 11959,
+            "locationName": "Aguas de las Mulas",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/aguas-de-las-mulas/",
+            "cpa": {
+                "code": [
+                    "Q8349XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 11960,
+            "locationName": "Alianza",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/alianza/",
+            "cpa": {
+                "code": [
+                    "Q8379XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 11961,
+            "locationName": "Alicura",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/alicura/",
+            "cpa": {
+                "code": [
+                    "Q8403XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 11962,
+            "locationName": "Alumine",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/alumine/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-alumine/"
+            }
+        },
+        {
+            "locationId": 11963,
+            "locationName": "Andacollo",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/andacollo/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-andacollo/"
+            }
+        },
+        {
+            "locationId": 11964,
+            "locationName": "Añelo",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/anelo/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-anelo/"
+            }
+        },
+        {
+            "locationId": 11965,
+            "locationName": "Anquinco",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/anquinco/",
+            "cpa": {
+                "code": [
+                    "Q8353XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 11966,
+            "locationName": "Arroyito",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/arroyito/",
+            "cpa": {
+                "code": [
+                    "Q8313XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 11967,
+            "locationName": "Arroyito Challaco",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/arroyito-challaco/",
+            "cpa": {
+                "code": [
+                    "Q8313XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 11968,
+            "locationName": "Arroyo Blanco",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/arroyo-blanco/",
+            "cpa": {
+                "code": [
+                    "Q8353XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 11969,
+            "locationName": "Arroyo Cahunco",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/arroyo-cahunco/",
+            "cpa": {
+                "code": [
+                    "Q8347XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 11970,
+            "locationName": "Arroyo Quillen",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/arroyo-quillen/",
+            "cpa": {
+                "code": [
+                    "Q8341XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 11971,
+            "locationName": "Arroyo Ranquilco",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/arroyo-ranquilco/",
+            "cpa": {
+                "code": [
+                    "Q8347XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 11972,
+            "locationName": "Atreuco",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/atreuco/",
+            "cpa": {
+                "code": [
+                    "Q8371XAP"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 11973,
+            "locationName": "Auca Mahuida",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/auca-mahuida/",
+            "cpa": {
+                "code": [
+                    "Q8305XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 11974,
+            "locationName": "Auca Pan",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/auca-pan/",
+            "cpa": {
+                "code": [
+                    "Q8373XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 11975,
+            "locationName": "Bajada Colorada",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/bajada-colorada/",
+            "cpa": {
+                "code": [
+                    "Q8315XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 11976,
+            "locationName": "Bajada de los Molles",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/bajada-de-los-molles/",
+            "cpa": {
+                "code": [
+                    "Q8340XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 11977,
+            "locationName": "Bajada del Agrio",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/bajada-del-agrio/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-bajada-del-agrio/"
+            }
+        },
+        {
+            "locationId": 11978,
+            "locationName": "Bajada del Marucho",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/bajada-del-marucho/",
+            "cpa": {
+                "code": [
+                    "Q8340XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 11979,
+            "locationName": "Balneario del Rio Agrio",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/balneario-del-rio-agrio/",
+            "cpa": {
+                "code": [
+                    "Q8351XAN"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 11980,
+            "locationName": "Balsa del Rio Agrio",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/balsa-del-rio-agrio/",
+            "cpa": {
+                "code": [
+                    "Q8351XAR"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 11981,
+            "locationName": "Balsa Senillosa",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/balsa-senillosa/",
+            "cpa": {
+                "code": [
+                    "Q8316XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 11982,
+            "locationName": "Barda Anguil",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/barda-anguil/",
+            "cpa": {
+                "code": [
+                    "Q8340XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 11983,
+            "locationName": "Barda Negra",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/barda-negra/",
+            "cpa": {
+                "code": [
+                    "Q8340XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 11984,
+            "locationName": "Barrancas",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/barrancas/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-barrancas/"
+            }
+        },
+        {
+            "locationId": 11985,
+            "locationName": "Batre Lauquen",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/batre-lauquen/",
+            "cpa": {
+                "code": [
+                    "Q8353XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 11986,
+            "locationName": "Bella Vista",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/bella-vista/",
+            "cpa": {
+                "code": [
+                    "Q8353XBX"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 11987,
+            "locationName": "Buena Esperanza",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/buena-esperanza/",
+            "cpa": {
+                "code": [
+                    "Q8370XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 11988,
+            "locationName": "Buta Co",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/buta-co/",
+            "cpa": {
+                "code": [
+                    "Q8353XCX"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 11989,
+            "locationName": "Buta Mallin",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/buta-mallin/",
+            "cpa": {
+                "code": [
+                    "Q8353XCW"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 11990,
+            "locationName": "Buta Ranquil",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/buta-ranquil/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-buta-ranquil/"
+            }
+        },
+        {
+            "locationId": 11991,
+            "locationName": "Butalon",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/butalon/",
+            "cpa": {
+                "code": [
+                    "Q8353XCO"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 11992,
+            "locationName": "Caepe Malal",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/caepe-malal/",
+            "cpa": {
+                "code": [
+                    "Q8353XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 11993,
+            "locationName": "Caichihue",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/caichihue/",
+            "cpa": {
+                "code": [
+                    "Q8340XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 11994,
+            "locationName": "Cajon de Almaza",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/cajon-de-almaza/",
+            "cpa": {
+                "code": [
+                    "Q8349XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 11995,
+            "locationName": "Cajon de los Patos",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/cajon-de-los-patos/",
+            "cpa": {
+                "code": [
+                    "Q8349XAP"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 11996,
+            "locationName": "Cajon de Manzano",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/cajon-de-manzano/",
+            "cpa": {
+                "code": [
+                    "Q8349XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 11997,
+            "locationName": "Cajon del Toro",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/cajon-del-toro/",
+            "cpa": {
+                "code": [
+                    "Q8347XAT"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 11998,
+            "locationName": "Cajon Grande",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/cajon-grande/",
+            "cpa": {
+                "code": [
+                    "Q8353XAT"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 11999,
+            "locationName": "Caleufu",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/caleufu/",
+            "cpa": {
+                "code": [
+                    "Q8373XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12000,
+            "locationName": "Calihue",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/calihue/",
+            "cpa": {
+                "code": [
+                    "Q8347XAU"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12001,
+            "locationName": "Camaleones",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/camaleones/",
+            "cpa": {
+                "code": [
+                    "Q8353XBY"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12002,
+            "locationName": "Caminera",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/caminera/",
+            "cpa": {
+                "code": [
+                    "Q8370XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12003,
+            "locationName": "Caminera Traful",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/caminera-traful/",
+            "cpa": {
+                "code": [
+                    "Q8403XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12004,
+            "locationName": "Campamento Sol",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/campamento-sol/",
+            "cpa": {
+                "code": [
+                    "Q8319XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12005,
+            "locationName": "Cañada Seca",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/canada-seca/",
+            "cpa": {
+                "code": [
+                    "Q8353XAU"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12006,
+            "locationName": "Cañadon de los Indios",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/canadon-de-los-indios/",
+            "cpa": {
+                "code": [
+                    "Q8375XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12007,
+            "locationName": "Cañadon del Indio",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/canadon-del-indio/",
+            "cpa": {
+                "code": [
+                    "Q8375XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12008,
+            "locationName": "Cancha Huinganco",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/cancha-huinganco/",
+            "cpa": {
+                "code": [
+                    "Q8353XAV"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12009,
+            "locationName": "Carran Cura",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/carran-cura/",
+            "cpa": {
+                "code": [
+                    "Q8315XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12010,
+            "locationName": "Carreri",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/carreri/",
+            "cpa": {
+                "code": [
+                    "Q8347XAV"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12011,
+            "locationName": "Carri Lauquen",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/carri-lauquen/",
+            "cpa": {
+                "code": [
+                    "Q8315XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12012,
+            "locationName": "Carri Lil",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/carri-lil/",
+            "cpa": {
+                "code": [
+                    "Q8345XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12013,
+            "locationName": "Casa de Piedra",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/casa-de-piedra/",
+            "cpa": {
+                "code": [
+                    "Q8353XAW"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12014,
+            "locationName": "Catan Lil",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/catan-lil/",
+            "cpa": {
+                "code": [
+                    "Q8341XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12015,
+            "locationName": "Caviahue",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/caviahue/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-caviahue/"
+            }
+        },
+        {
+            "locationId": 12016,
+            "locationName": "Cayanta",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/cayanta/",
+            "cpa": {
+                "code": [
+                    "Q8353XBZ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12017,
+            "locationName": "Centenario",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/centenario/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-centenario/"
+            }
+        },
+        {
+            "locationId": 12018,
+            "locationName": "Cerro Colorado",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/cerro-colorado/",
+            "cpa": {
+                "code": [
+                    "Q8347XAW"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12019,
+            "locationName": "Cerro de la Grasa",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/cerro-de-la-grasa/",
+            "cpa": {
+                "code": [
+                    "Q8347XAX"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12020,
+            "locationName": "Cerro de la Parva",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/cerro-de-la-parva/",
+            "cpa": {
+                "code": [
+                    "Q8349XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12021,
+            "locationName": "Cerro de los Pinos",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/cerro-de-los-pinos/",
+            "cpa": {
+                "code": [
+                    "Q8379XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12022,
+            "locationName": "Cerro del Leon",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/cerro-del-leon/",
+            "cpa": {
+                "code": [
+                    "Q8313XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12023,
+            "locationName": "Cerro Gato",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/cerro-gato/",
+            "cpa": {
+                "code": [
+                    "Q8375XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12024,
+            "locationName": "Cerro Negro Chapua",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/cerro-negro-chapua/",
+            "cpa": {
+                "code": [
+                    "Q8353XAX"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12025,
+            "locationName": "Cerro Negro Tricao",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/cerro-negro-tricao/",
+            "cpa": {
+                "code": [
+                    "Q8353XAY"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12026,
+            "locationName": "Chacabuco",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/chacabuco/",
+            "cpa": {
+                "code": [
+                    "Q8379XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12027,
+            "locationName": "Chacay",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/chacay/",
+            "cpa": {
+                "code": [
+                    "Q8347XAY"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12028,
+            "locationName": "Chacay Co",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/chacay-co/",
+            "cpa": {
+                "code": [
+                    "Q8353XBA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12029,
+            "locationName": "Chacay Melehue",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/chacay-melehue/",
+            "cpa": {
+                "code": [
+                    "Q8353XAZ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12030,
+            "locationName": "Chacayco",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/chacayco/",
+            "cpa": {
+                "code": [
+                    "Q8341XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12031,
+            "locationName": "Chacoyal",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/chacoyal/",
+            "cpa": {
+                "code": [
+                    "Q8373XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12032,
+            "locationName": "Challaco",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/challaco/",
+            "cpa": {
+                "code": [
+                    "Q8318XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12033,
+            "locationName": "Chanquil Quilla",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/chanquil-quilla/",
+            "cpa": {
+                "code": [
+                    "Q8345XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12034,
+            "locationName": "Chapelco",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/chapelco/",
+            "cpa": {
+                "code": [
+                    "Q8370XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12035,
+            "locationName": "Chapua",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/chapua/",
+            "cpa": {
+                "code": [
+                    "Q8353XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12036,
+            "locationName": "Chapua Abajo",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/chapua-abajo/",
+            "cpa": {
+                "code": [
+                    "Q8353XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12037,
+            "locationName": "Charahuilla",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/charahuilla/",
+            "cpa": {
+                "code": [
+                    "Q8341XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12038,
+            "locationName": "Chenquecura",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/chenquecura/",
+            "cpa": {
+                "code": [
+                    "Q8349XAQ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12039,
+            "locationName": "Chichiguay",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/chichiguay/",
+            "cpa": {
+                "code": [
+                    "Q8373XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12040,
+            "locationName": "Chimehuin",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/chimehuin/",
+            "cpa": {
+                "code": [
+                    "Q8373XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12041,
+            "locationName": "China Muerta",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/china-muerta/",
+            "cpa": {
+                "code": [
+                    "Q8316XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12042,
+            "locationName": "Chinchina",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/chinchina/",
+            "cpa": {
+                "code": [
+                    "Q8379XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12043,
+            "locationName": "Chiuquillihuin",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/chiuquillihuin/",
+            "cpa": {
+                "code": [
+                    "Q8371XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12044,
+            "locationName": "Chochoy Mallin",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/chochoy-mallin/",
+            "cpa": {
+                "code": [
+                    "Q8349XAR"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12045,
+            "locationName": "Chorriaca",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/chorriaca/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-chorriaca/"
+            }
+        },
+        {
+            "locationId": 12046,
+            "locationName": "Chos Malal",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/chos-malal/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-chos-malal/"
+            }
+        },
+        {
+            "locationId": 12047,
+            "locationName": "Cochico",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/cochico/",
+            "cpa": {
+                "code": [
+                    "Q8347XAZ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12048,
+            "locationName": "Codihue",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/codihue/",
+            "cpa": {
+                "code": [
+                    "Q8347XBA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12049,
+            "locationName": "Coihueco",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/coihueco/",
+            "cpa": {
+                "code": [
+                    "Q8351XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12050,
+            "locationName": "Coli Malal",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/coli-malal/",
+            "cpa": {
+                "code": [
+                    "Q8351XAP"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12051,
+            "locationName": "Colipili",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/colipili/",
+            "cpa": {
+                "code": [
+                    "Q8349XAN"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12052,
+            "locationName": "Collon Cura",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/collon-cura/",
+            "cpa": {
+                "code": [
+                    "Q8375XAM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12053,
+            "locationName": "Collun Co",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/collun-co/",
+            "cpa": {
+                "code": [
+                    "Q8371XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12054,
+            "locationName": "Confluencia del Aguijon",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/confluencia-del-aguijon/",
+            "cpa": {
+                "code": [
+                    "Q8351XAQ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12055,
+            "locationName": "Copahue",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/copahue/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-copahue/"
+            }
+        },
+        {
+            "locationId": 12056,
+            "locationName": "Corral de Piedra",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/corral-de-piedra/",
+            "cpa": {
+                "code": [
+                    "Q8347XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12057,
+            "locationName": "Correntoso",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/correntoso/",
+            "cpa": {
+                "code": [
+                    "Q8407XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12058,
+            "locationName": "Costa del Arroyo Salado",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/costa-del-arroyo-salado/",
+            "cpa": {
+                "code": [
+                    "Q8351XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12059,
+            "locationName": "Costa Limay",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/costa-limay/",
+            "cpa": {
+                "code": [
+                    "Q8315XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12060,
+            "locationName": "Covunco",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/covunco/",
+            "cpa": {
+                "code": [
+                    "Q8340XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12061,
+            "locationName": "Covunco Abajo",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/covunco-abajo/",
+            "cpa": {
+                "code": [
+                    "Q8351XAV"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12062,
+            "locationName": "Covunco Arriba",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/covunco-arriba/",
+            "cpa": {
+                "code": [
+                    "Q8340XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12063,
+            "locationName": "Covunco Centro",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/covunco-centro/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-covunco-centro/"
+            }
+        },
+        {
+            "locationId": 12064,
+            "locationName": "Coyuco Cochico",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/coyuco-cochico/",
+            "cpa": {
+                "code": [
+                    "Q8353XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12065,
+            "locationName": "Cuchillo Cura",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/cuchillo-cura/",
+            "cpa": {
+                "code": [
+                    "Q8347XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12066,
+            "locationName": "Cullin Manzano",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/cullin-manzano/",
+            "cpa": {
+                "code": [
+                    "Q8401XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12067,
+            "locationName": "Cura Co",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/cura-co/",
+            "cpa": {
+                "code": [
+                    "Q8353XDJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12068,
+            "locationName": "Curu  Leuvu",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/curu-leuvu/",
+            "cpa": {
+                "code": [
+                    "Q8353XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12069,
+            "locationName": "Cutral Co",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/cutral-co/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-cutral-co/"
+            }
+        },
+        {
+            "locationId": 12070,
+            "locationName": "El Alamito",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/el-alamito/",
+            "cpa": {
+                "code": [
+                    "Q8353XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12071,
+            "locationName": "El Arbolito",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/el-arbolito/",
+            "cpa": {
+                "code": [
+                    "Q8407XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12072,
+            "locationName": "El Atravesado",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/el-atravesado/",
+            "cpa": {
+                "code": [
+                    "Q8347XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12073,
+            "locationName": "El Bosque",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/el-bosque/",
+            "cpa": {
+                "code": [
+                    "Q8349XAO"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12074,
+            "locationName": "El Cerrito",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/el-cerrito/",
+            "cpa": {
+                "code": [
+                    "Q8370XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12075,
+            "locationName": "El Chingue",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/el-chingue/",
+            "cpa": {
+                "code": [
+                    "Q8353XCA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12076,
+            "locationName": "El Cholar",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/el-cholar/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-el-cholar/"
+            }
+        },
+        {
+            "locationId": 12077,
+            "locationName": "El Curileo",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/el-curileo/",
+            "cpa": {
+                "code": [
+                    "Q8353XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12078,
+            "locationName": "El Dormido",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/el-dormido/",
+            "cpa": {
+                "code": [
+                    "Q8341XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12079,
+            "locationName": "El Durazno",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/el-durazno/",
+            "cpa": {
+                "code": [
+                    "Q8353XCB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12080,
+            "locationName": "El Escorial",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/el-escorial/",
+            "cpa": {
+                "code": [
+                    "Q8347XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12081,
+            "locationName": "El Gato",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/el-gato/",
+            "cpa": {
+                "code": [
+                    "Q8341XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12082,
+            "locationName": "El Huecu",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/el-huecu/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-el-huecu/"
+            }
+        },
+        {
+            "locationId": 12083,
+            "locationName": "El Machete",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/el-machete/",
+            "cpa": {
+                "code": [
+                    "Q8407XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12084,
+            "locationName": "El Manzano",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/el-manzano/",
+            "cpa": {
+                "code": [
+                    "Q8403XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12085,
+            "locationName": "El Oasis",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/el-oasis/",
+            "cpa": {
+                "code": [
+                    "Q8370XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12086,
+            "locationName": "El Overo",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/el-overo/",
+            "cpa": {
+                "code": [
+                    "Q8340XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12087,
+            "locationName": "El Palao",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/el-palao/",
+            "cpa": {
+                "code": [
+                    "Q8347XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12088,
+            "locationName": "El Peralito",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/el-peralito/",
+            "cpa": {
+                "code": [
+                    "Q8351XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12089,
+            "locationName": "El Pino Andino",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/el-pino-andino/",
+            "cpa": {
+                "code": [
+                    "Q8349XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12090,
+            "locationName": "El Porton",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/el-porton/",
+            "cpa": {
+                "code": [
+                    "Q8353XCY"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12091,
+            "locationName": "El Porvenir",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/el-porvenir/",
+            "cpa": {
+                "code": [
+                    "Q8370XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12092,
+            "locationName": "El Salado",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/el-salado/",
+            "cpa": {
+                "code": [
+                    "Q8351XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12093,
+            "locationName": "El Salitral",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/el-salitral/",
+            "cpa": {
+                "code": [
+                    "Q8375XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12094,
+            "locationName": "El Sauce",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/el-sauce/",
+            "cpa": {
+                "code": [
+                    "Q8313XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12095,
+            "locationName": "El Tromen",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/el-tromen/",
+            "cpa": {
+                "code": [
+                    "Q8353XBN"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12096,
+            "locationName": "El Tropezon",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/el-tropezon/",
+            "cpa": {
+                "code": [
+                    "Q8340XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12097,
+            "locationName": "Espinazo del Zorro",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/espinazo-del-zorro/",
+            "cpa": {
+                "code": [
+                    "Q8341XAM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12098,
+            "locationName": "Estancia la Primavera",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/estancia-la-primavera/",
+            "cpa": {
+                "code": [
+                    "Q8403XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12099,
+            "locationName": "Estancia Newbery",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/estancia-newbery/",
+            "cpa": {
+                "code": [
+                    "Q8401XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12100,
+            "locationName": "Estancia Tequel Malal",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/estancia-tequel-malal/",
+            "cpa": {
+                "code": [
+                    "Q8401XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12101,
+            "locationName": "Filmatue",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/filmatue/",
+            "cpa": {
+                "code": [
+                    "Q8353XCC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12102,
+            "locationName": "Filo Hua Hum",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/filo-hua-hum/",
+            "cpa": {
+                "code": [
+                    "Q8370XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12103,
+            "locationName": "Flores",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/flores/",
+            "cpa": {
+                "code": [
+                    "Q8353XCD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12104,
+            "locationName": "Fortin 1 de Mayo",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/fortin-1-de-mayo/",
+            "cpa": {
+                "code": [
+                    "Q8341XAN"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12105,
+            "locationName": "Fortin Guañacos",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/fortin-guanacos/",
+            "cpa": {
+                "code": [
+                    "Q8353XCP"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12106,
+            "locationName": "Franhucura",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/franhucura/",
+            "cpa": {
+                "code": [
+                    "Q8351XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12107,
+            "locationName": "Gente Grande",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/gente-grande/",
+            "cpa": {
+                "code": [
+                    "Q8379XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12108,
+            "locationName": "Goñi Co",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/goni-co/",
+            "cpa": {
+                "code": [
+                    "Q8340XAM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12109,
+            "locationName": "Guañacos",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/guanacos/",
+            "cpa": {
+                "code": [
+                    "Q8353XBQ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12110,
+            "locationName": "Haichol",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/haichol/",
+            "cpa": {
+                "code": [
+                    "Q8347XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12111,
+            "locationName": "Haras Patria",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/haras-patria/",
+            "cpa": {
+                "code": [
+                    "Q8345XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12112,
+            "locationName": "Haycu",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/haycu/",
+            "cpa": {
+                "code": [
+                    "Q8349XAT"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12113,
+            "locationName": "Hua Hum",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/hua-hum/",
+            "cpa": {
+                "code": [
+                    "Q8370XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12114,
+            "locationName": "Hualcupen",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/hualcupen/",
+            "cpa": {
+                "code": [
+                    "Q8349XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12115,
+            "locationName": "Huantraico",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/huantraico/",
+            "cpa": {
+                "code": [
+                    "Q8353XDK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12116,
+            "locationName": "Huaraco",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/huaraco/",
+            "cpa": {
+                "code": [
+                    "Q8353XCQ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12117,
+            "locationName": "Huarenchenque",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/huarenchenque/",
+            "cpa": {
+                "code": [
+                    "Q8349XAY"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12118,
+            "locationName": "Huechahue",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/huechahue/",
+            "cpa": {
+                "code": [
+                    "Q8375XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12119,
+            "locationName": "Huechulafquen",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/huechulafquen/",
+            "cpa": {
+                "code": [
+                    "Q8371XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12120,
+            "locationName": "Huillilon",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/huillilon/",
+            "cpa": {
+                "code": [
+                    "Q8347XBB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12121,
+            "locationName": "Huinca Lu",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/huinca-lu/",
+            "cpa": {
+                "code": [
+                    "Q8403XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12122,
+            "locationName": "Huinganco",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/huinganco/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-huinganco/"
+            }
+        },
+        {
+            "locationId": 12123,
+            "locationName": "Huitrin",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/huitrin/",
+            "cpa": {
+                "code": [
+                    "Q8353XDD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12124,
+            "locationName": "Humigamio",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/humigamio/",
+            "cpa": {
+                "code": [
+                    "Q8353XBR"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12125,
+            "locationName": "Huncal",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/huncal/",
+            "cpa": {
+                "code": [
+                    "Q8351XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12126,
+            "locationName": "Invernada Vieja",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/invernada-vieja/",
+            "cpa": {
+                "code": [
+                    "Q8353XBS"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12127,
+            "locationName": "Isla Victoria",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/isla-victoria/",
+            "cpa": {
+                "code": [
+                    "Q8400XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12128,
+            "locationName": "Jecanasco",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/jecanasco/",
+            "cpa": {
+                "code": [
+                    "Q8353XBT"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12129,
+            "locationName": "Juaranco",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/juaranco/",
+            "cpa": {
+                "code": [
+                    "Q8353XBU"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12130,
+            "locationName": "Junin de los Andes",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/junin-de-los-andes/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-junin-de-los-andes/"
+            }
+        },
+        {
+            "locationId": 12131,
+            "locationName": "Kilca Casa",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/kilca-casa/",
+            "cpa": {
+                "code": [
+                    "Q8345XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12132,
+            "locationName": "La Angostura de Icalma",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/la-angostura-de-icalma/",
+            "cpa": {
+                "code": [
+                    "Q8345XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12133,
+            "locationName": "La Araucaria",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/la-araucaria/",
+            "cpa": {
+                "code": [
+                    "Q8401XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12134,
+            "locationName": "La Arboleda",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/la-arboleda/",
+            "cpa": {
+                "code": [
+                    "Q8341XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12135,
+            "locationName": "La Argentina",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/la-argentina/",
+            "cpa": {
+                "code": [
+                    "Q8349XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12136,
+            "locationName": "La Atalaya",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/la-atalaya/",
+            "cpa": {
+                "code": [
+                    "Q8371XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12137,
+            "locationName": "La Buitrera",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/la-buitrera/",
+            "cpa": {
+                "code": [
+                    "Q8347XBC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12138,
+            "locationName": "La Cienaga",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/la-cienaga/",
+            "cpa": {
+                "code": [
+                    "Q8353XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12139,
+            "locationName": "La Cieneguita",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/la-cieneguita/",
+            "cpa": {
+                "code": [
+                    "Q8353XAM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12140,
+            "locationName": "La Estacada",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/la-estacada/",
+            "cpa": {
+                "code": [
+                    "Q8401XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12141,
+            "locationName": "La Fortuna",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/la-fortuna/",
+            "cpa": {
+                "code": [
+                    "Q8370XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12142,
+            "locationName": "La Fria",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/la-fria/",
+            "cpa": {
+                "code": [
+                    "Q8340XAO"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12143,
+            "locationName": "La Isabel",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/la-isabel/",
+            "cpa": {
+                "code": [
+                    "Q8340XAP"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12144,
+            "locationName": "La Lipela",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/la-lipela/",
+            "cpa": {
+                "code": [
+                    "Q8401XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12145,
+            "locationName": "La Negra",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/la-negra/",
+            "cpa": {
+                "code": [
+                    "Q8375XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12146,
+            "locationName": "La Ofelia",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/la-ofelia/",
+            "cpa": {
+                "code": [
+                    "Q8341XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12147,
+            "locationName": "La Patagonia",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/la-patagonia/",
+            "cpa": {
+                "code": [
+                    "Q8340XAQ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12148,
+            "locationName": "La Patria",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/la-patria/",
+            "cpa": {
+                "code": [
+                    "Q8340XAX"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12149,
+            "locationName": "La Picaza",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/la-picaza/",
+            "cpa": {
+                "code": [
+                    "Q8340XBH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12150,
+            "locationName": "La Pintada",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/la-pintada/",
+            "cpa": {
+                "code": [
+                    "Q8315XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12151,
+            "locationName": "La Pochola",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/la-pochola/",
+            "cpa": {
+                "code": [
+                    "Q8340XAN"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12152,
+            "locationName": "La Porteña",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/la-portena/",
+            "cpa": {
+                "code": [
+                    "Q8347XBD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12153,
+            "locationName": "La Primavera",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/la-primavera/",
+            "cpa": {
+                "code": [
+                    "Q8353XBV"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12154,
+            "locationName": "La Rinconada",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/la-rinconada/",
+            "cpa": {
+                "code": [
+                    "Q8375XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12155,
+            "locationName": "La Salada",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/la-salada/",
+            "cpa": {
+                "code": [
+                    "Q8353XAN"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12156,
+            "locationName": "La Susana",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/la-susana/",
+            "cpa": {
+                "code": [
+                    "Q8340XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12157,
+            "locationName": "La Teresa",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/la-teresa/",
+            "cpa": {
+                "code": [
+                    "Q8340XAY",
+                    "Q8340XAY"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12158,
+            "locationName": "La Union",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/la-union/",
+            "cpa": {
+                "code": [
+                    "Q8371XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12159,
+            "locationName": "La Verdad",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/la-verdad/",
+            "cpa": {
+                "code": [
+                    "Q8347XBE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12160,
+            "locationName": "Lago Lolog",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/lago-lolog/",
+            "cpa": {
+                "code": [
+                    "Q8370XAM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12161,
+            "locationName": "Lago Ñorquinco",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/lago-norquinco/",
+            "cpa": {
+                "code": [
+                    "Q8345XAQ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12162,
+            "locationName": "Lago Pulmari",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/lago-pulmari/",
+            "cpa": {
+                "code": [
+                    "Q8345XAP"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12163,
+            "locationName": "Lagotera",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/lagotera/",
+            "cpa": {
+                "code": [
+                    "Q8345XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12164,
+            "locationName": "Laguna Blanca",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/laguna-blanca/",
+            "cpa": {
+                "code": [
+                    "Q8340XAZ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12165,
+            "locationName": "Laguna Miranda",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/laguna-miranda/",
+            "cpa": {
+                "code": [
+                    "Q8340XBA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12166,
+            "locationName": "Laja",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/laja/",
+            "cpa": {
+                "code": [
+                    "Q8341XAR"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12167,
+            "locationName": "Lapa",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/lapa/",
+            "cpa": {
+                "code": [
+                    "Q8341XAS"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12168,
+            "locationName": "Lapachal",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/lapachal/",
+            "cpa": {
+                "code": [
+                    "Q8341XAT"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12169,
+            "locationName": "Las Abejas",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/las-abejas/",
+            "cpa": {
+                "code": [
+                    "Q8353XBB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12170,
+            "locationName": "Las Bandurrias",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/las-bandurrias/",
+            "cpa": {
+                "code": [
+                    "Q8370XAN"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12171,
+            "locationName": "Las Barditas",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/las-barditas/",
+            "cpa": {
+                "code": [
+                    "Q8340XBB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12172,
+            "locationName": "Las Chacras",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/las-chacras/",
+            "cpa": {
+                "code": [
+                    "Q8353XDA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12173,
+            "locationName": "Las Coloradas",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/las-coloradas/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-las-coloradas/"
+            }
+        },
+        {
+            "locationId": 12174,
+            "locationName": "Las Cortaderas",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/las-cortaderas/",
+            "cpa": {
+                "code": [
+                    "Q8353XCZ",
+                    "Q8353XCZ"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12175,
+            "locationName": "Las Lagunas",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/las-lagunas/",
+            "cpa": {
+                "code": [
+                    "Q8353XBW"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12176,
+            "locationName": "Las Lajas",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/las-lajas/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-las-lajas/"
+            }
+        },
+        {
+            "locationId": 12177,
+            "locationName": "Las Lajitas",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/las-lajitas/",
+            "cpa": {
+                "code": [
+                    "Q8347XBF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12178,
+            "locationName": "Las Mercedes",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/las-mercedes/",
+            "cpa": {
+                "code": [
+                    "Q8373XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12179,
+            "locationName": "Las Ovejas",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/las-ovejas/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-las-ovejas/"
+            }
+        },
+        {
+            "locationId": 12180,
+            "locationName": "Las Perlas",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/las-perlas/",
+            "cpa": {
+                "code": [
+                    "Q8300XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12181,
+            "locationName": "Las Saladas",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/las-saladas/",
+            "cpa": {
+                "code": [
+                    "Q8353XBC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12182,
+            "locationName": "Las Toscas",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/las-toscas/",
+            "cpa": {
+                "code": [
+                    "Q8347XBG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12183,
+            "locationName": "Las Tres Lagunas",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/las-tres-lagunas/",
+            "cpa": {
+                "code": [
+                    "Q8347XBH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12184,
+            "locationName": "Lascar",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/lascar/",
+            "cpa": {
+                "code": [
+                    "Q8370XAO"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12185,
+            "locationName": "Leuto Caballo",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/leuto-caballo/",
+            "cpa": {
+                "code": [
+                    "Q8353XBD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12186,
+            "locationName": "Lileo",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/lileo/",
+            "cpa": {
+                "code": [
+                    "Q8353XCE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12187,
+            "locationName": "Limay Centro",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/limay-centro/",
+            "cpa": {
+                "code": [
+                    "Q8313XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12188,
+            "locationName": "Litran",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/litran/",
+            "cpa": {
+                "code": [
+                    "Q8345XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12189,
+            "locationName": "Liu Cullin",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/liu-cullin/",
+            "cpa": {
+                "code": [
+                    "Q8347XBI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12190,
+            "locationName": "Llamuco",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/llamuco/",
+            "cpa": {
+                "code": [
+                    "Q8347XBJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12191,
+            "locationName": "Lolog",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/lolog/",
+            "cpa": {
+                "code": [
+                    "Q8370XAP"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12192,
+            "locationName": "Loma de la Lata",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/loma-de-la-lata/",
+            "cpa": {
+                "code": [
+                    "Q8300XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12193,
+            "locationName": "Lonco Luan",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/lonco-luan/",
+            "cpa": {
+                "code": [
+                    "Q8345XAM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12194,
+            "locationName": "Lonco Mula",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/lonco-mula/",
+            "cpa": {
+                "code": [
+                    "Q8345XAN"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12195,
+            "locationName": "Loncopue",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/loncopue/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-loncopue/"
+            }
+        },
+        {
+            "locationId": 12196,
+            "locationName": "Los Bolillos",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/los-bolillos/",
+            "cpa": {
+                "code": [
+                    "Q8353XCS"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12197,
+            "locationName": "Los Carrizos",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/los-carrizos/",
+            "cpa": {
+                "code": [
+                    "Q8353XCF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12198,
+            "locationName": "Los Catutos",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/los-catutos/",
+            "cpa": {
+                "code": [
+                    "Q8340XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12199,
+            "locationName": "Los Chacales",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/los-chacales/",
+            "cpa": {
+                "code": [
+                    "Q8353XCR"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12200,
+            "locationName": "Los Chihuidos",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/los-chihuidos/",
+            "cpa": {
+                "code": [
+                    "Q8305XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12201,
+            "locationName": "Los Chinitos",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/los-chinitos/",
+            "cpa": {
+                "code": [
+                    "Q8305XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12202,
+            "locationName": "Los Cisnes",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/los-cisnes/",
+            "cpa": {
+                "code": [
+                    "Q8353XCG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12203,
+            "locationName": "Los Entierros",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/los-entierros/",
+            "cpa": {
+                "code": [
+                    "Q8353XBE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12204,
+            "locationName": "Los Galpones",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/los-galpones/",
+            "cpa": {
+                "code": [
+                    "Q8347XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12205,
+            "locationName": "Los Menucos",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/los-menucos/",
+            "cpa": {
+                "code": [
+                    "Q8353XBF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12206,
+            "locationName": "Los Miches",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/los-miches/",
+            "cpa": {
+                "code": [
+                    "Q8353XCH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12207,
+            "locationName": "Los Molles",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/los-molles/",
+            "cpa": {
+                "code": [
+                    "Q8353XBG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12208,
+            "locationName": "Los Muchachos",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/los-muchachos/",
+            "cpa": {
+                "code": [
+                    "Q8340XBD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12209,
+            "locationName": "Los Rodillos",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/los-rodillos/",
+            "cpa": {
+                "code": [
+                    "Q8341XAU"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12210,
+            "locationName": "Los Sauces",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/los-sauces/",
+            "cpa": {
+                "code": [
+                    "Q8313XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12211,
+            "locationName": "Los Tres Chorros",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/los-tres-chorros/",
+            "cpa": {
+                "code": [
+                    "Q8353XBH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12212,
+            "locationName": "Lubeca",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/lubeca/",
+            "cpa": {
+                "code": [
+                    "Q8371XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12213,
+            "locationName": "Luicoco",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/luicoco/",
+            "cpa": {
+                "code": [
+                    "Q8353XBI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12214,
+            "locationName": "Luin Coco",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/luin-coco/",
+            "cpa": {
+                "code": [
+                    "Q8353XBL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12215,
+            "locationName": "Machico",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/machico/",
+            "cpa": {
+                "code": [
+                    "Q8353XCI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12216,
+            "locationName": "Malalco",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/malalco/",
+            "cpa": {
+                "code": [
+                    "Q8341XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12217,
+            "locationName": "Mallin Blanco",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/mallin-blanco/",
+            "cpa": {
+                "code": [
+                    "Q8347XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12218,
+            "locationName": "Mallin Chileno",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/mallin-chileno/",
+            "cpa": {
+                "code": [
+                    "Q8347XAM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12219,
+            "locationName": "Mallin de la Cueva",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/mallin-de-la-cueva/",
+            "cpa": {
+                "code": [
+                    "Q8347XAN"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12220,
+            "locationName": "Mallin de las Yeguas",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/mallin-de-las-yeguas/",
+            "cpa": {
+                "code": [
+                    "Q8341XAP"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12221,
+            "locationName": "Mallin de los Caballos",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/mallin-de-los-caballos/",
+            "cpa": {
+                "code": [
+                    "Q8340XBG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12222,
+            "locationName": "Mallin de Mena",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/mallin-de-mena/",
+            "cpa": {
+                "code": [
+                    "Q8347XAO"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12223,
+            "locationName": "Mallin del Rubio",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/mallin-del-rubio/",
+            "cpa": {
+                "code": [
+                    "Q8347XAP"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12224,
+            "locationName": "Mallin del Toro",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/mallin-del-toro/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12225,
+            "locationName": "Mallin Quemado",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/mallin-quemado/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12226,
+            "locationName": "Mamul Malal",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/mamul-malal/",
+            "cpa": {
+                "code": [
+                    "Q8371XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12227,
+            "locationName": "Manzano Amargo",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/manzano-amargo/",
+            "cpa": {
+                "code": [
+                    "Q8353XCT"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12228,
+            "locationName": "Mari Menuco",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/mari-menuco/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-mari-menuco/"
+            }
+        },
+        {
+            "locationId": 12229,
+            "locationName": "Mariano Moreno",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/mariano-moreno/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-mariano-moreno/"
+            }
+        },
+        {
+            "locationId": 12230,
+            "locationName": "Mayan Mahuida",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/mayan-mahuida/",
+            "cpa": {
+                "code": [
+                    "Q8353XAO"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12231,
+            "locationName": "Media Luna",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/media-luna/",
+            "cpa": {
+                "code": [
+                    "Q8341XAX"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12232,
+            "locationName": "Milla",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/milla/",
+            "cpa": {
+                "code": [
+                    "Q8353XCJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12233,
+            "locationName": "Mina Carrascosa",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/mina-carrascosa/",
+            "cpa": {
+                "code": [
+                    "Q8353XDE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12234,
+            "locationName": "Mina Lileo",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/mina-lileo/",
+            "cpa": {
+                "code": [
+                    "Q8353XCK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12235,
+            "locationName": "Moquehue",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/moquehue/",
+            "cpa": {
+                "code": [
+                    "Q8345XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12236,
+            "locationName": "Mulichinco",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/mulichinco/",
+            "cpa": {
+                "code": [
+                    "Q8349XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12237,
+            "locationName": "Nahuel Huapi",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/nahuel-huapi/",
+            "cpa": {
+                "code": [
+                    "Q8401XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12238,
+            "locationName": "Nahuel Mape",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/nahuel-mape/",
+            "cpa": {
+                "code": [
+                    "Q8371XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12239,
+            "locationName": "Nahueve",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/nahueve/",
+            "cpa": {
+                "code": [
+                    "Q8353XCL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12240,
+            "locationName": "Nalay Cullin",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/nalay-cullin/",
+            "cpa": {
+                "code": [
+                    "Q8349XAU"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12241,
+            "locationName": "Nau Nauco",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/nau-nauco/",
+            "cpa": {
+                "code": [
+                    "Q8351XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12242,
+            "locationName": "Nereco Norte",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/nereco-norte/",
+            "cpa": {
+                "code": [
+                    "Q8353XCM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12243,
+            "locationName": "Neuquen",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/neuquen/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-neuquen/"
+            }
+        },
+        {
+            "locationId": 12244,
+            "locationName": "Nireco",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/nireco/",
+            "cpa": {
+                "code": [
+                    "Q8353XCN"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12245,
+            "locationName": "Ñireco Sud",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/nireco-sud/",
+            "cpa": {
+                "code": [
+                    "Q8340XBE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12246,
+            "locationName": "Nogueira",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/nogueira/",
+            "cpa": {
+                "code": [
+                    "Q8315XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12247,
+            "locationName": "Ñorquin",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/norquin/",
+            "cpa": {
+                "code": [
+                    "Q8349XAV"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12248,
+            "locationName": "Octavio Pico",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/octavio-pico/",
+            "cpa": {
+                "code": [
+                    "Q8319XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12249,
+            "locationName": "Ojo de Agua",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/ojo-de-agua/",
+            "cpa": {
+                "code": [
+                    "Q8340XAR",
+                    "Q8340XAR"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12250,
+            "locationName": "Palau",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/palau/",
+            "cpa": {
+                "code": [
+                    "Q8353XBM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12251,
+            "locationName": "Palitue",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/palitue/",
+            "cpa": {
+                "code": [
+                    "Q8371XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12252,
+            "locationName": "Pampa Collon Cura",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/pampa-collon-cura/",
+            "cpa": {
+                "code": [
+                    "Q8375XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12253,
+            "locationName": "Pampa de Lonco Luan",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/pampa-de-lonco-luan/",
+            "cpa": {
+                "code": [
+                    "Q8345XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12254,
+            "locationName": "Pampa de Tril",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/pampa-de-tril/",
+            "cpa": {
+                "code": [
+                    "Q8353XDF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12255,
+            "locationName": "Pampa del Malleo",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/pampa-del-malleo/",
+            "cpa": {
+                "code": [
+                    "Q8373XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12256,
+            "locationName": "Pampa del Salado",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/pampa-del-salado/",
+            "cpa": {
+                "code": [
+                    "Q8351XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12257,
+            "locationName": "Pampa Ferreira",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/pampa-ferreira/",
+            "cpa": {
+                "code": [
+                    "Q8353XAP"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12258,
+            "locationName": "Pantanitos",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/pantanitos/",
+            "cpa": {
+                "code": [
+                    "Q8313XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12259,
+            "locationName": "Paso Aguerre",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/paso-aguerre/",
+            "cpa": {
+                "code": [
+                    "Q8313XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12260,
+            "locationName": "Paso Ancho",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/paso-ancho/",
+            "cpa": {
+                "code": [
+                    "Q8347XAR"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12261,
+            "locationName": "Paso Barda",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/paso-barda/",
+            "cpa": {
+                "code": [
+                    "Q8353XDG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12262,
+            "locationName": "Paso Cata Tun",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/paso-cata-tun/",
+            "cpa": {
+                "code": [
+                    "Q8341XAQ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12263,
+            "locationName": "Paso Coihue",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/paso-coihue/",
+            "cpa": {
+                "code": [
+                    "Q8401XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12264,
+            "locationName": "Paso de los Indios",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/paso-de-los-indios/",
+            "cpa": {
+                "code": [
+                    "Q8318XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12265,
+            "locationName": "Paso de San Ignacio",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/paso-de-san-ignacio/",
+            "cpa": {
+                "code": [
+                    "Q8375XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12266,
+            "locationName": "Peña Colorada",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/pena-colorada/",
+            "cpa": {
+                "code": [
+                    "Q8373XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12267,
+            "locationName": "Peninsula Huemul",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/peninsula-huemul/",
+            "cpa": {
+                "code": [
+                    "Q8400XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12268,
+            "locationName": "Pichaihue",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/pichaihue/",
+            "cpa": {
+                "code": [
+                    "Q8351XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12269,
+            "locationName": "Piche Ponon",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/piche-ponon/",
+            "cpa": {
+                "code": [
+                    "Q8347XAS"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12270,
+            "locationName": "Pichi Neuquen",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/pichi-neuquen/",
+            "cpa": {
+                "code": [
+                    "Q8351XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12271,
+            "locationName": "Picun Leufu",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/picun-leufu/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-picun-leufu/"
+            }
+        },
+        {
+            "locationId": 12272,
+            "locationName": "Piedra del Aguila",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/piedra-del-aguila/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-piedra-del-aguila/"
+            }
+        },
+        {
+            "locationId": 12273,
+            "locationName": "Piedra Mala",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/piedra-mala/",
+            "cpa": {
+                "code": [
+                    "Q8371XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12274,
+            "locationName": "Piedra Pintada",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/piedra-pintada/",
+            "cpa": {
+                "code": [
+                    "Q8315XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12275,
+            "locationName": "Piedras Bayas",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/piedras-bayas/",
+            "cpa": {
+                "code": [
+                    "Q8347XBK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12276,
+            "locationName": "Pilmatue",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/pilmatue/",
+            "cpa": {
+                "code": [
+                    "Q8351XAS"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12277,
+            "locationName": "Pilo Lil",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/pilo-lil/",
+            "cpa": {
+                "code": [
+                    "Q8373XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12278,
+            "locationName": "Pino Hachado",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/pino-hachado/",
+            "cpa": {
+                "code": [
+                    "Q8347XBL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12279,
+            "locationName": "Pino Solo",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/pino-solo/",
+            "cpa": {
+                "code": [
+                    "Q8347XBM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12280,
+            "locationName": "Planicie Banderita",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/planicie-banderita/",
+            "cpa": {
+                "code": [
+                    "Q8301XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12281,
+            "locationName": "Plaza Huincul",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/plaza-huincul/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-plaza-huincul/"
+            }
+        },
+        {
+            "locationId": 12282,
+            "locationName": "Plottier",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/plottier/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-plottier/"
+            }
+        },
+        {
+            "locationId": 12283,
+            "locationName": "Portada Covunco",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/portada-covunco/",
+            "cpa": {
+                "code": [
+                    "Q8340XAS"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12284,
+            "locationName": "Portezuelo Grande",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/portezuelo-grande/",
+            "cpa": {
+                "code": [
+                    "Q8300XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12285,
+            "locationName": "Pozo Hualiches",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/pozo-hualiches/",
+            "cpa": {
+                "code": [
+                    "Q8347XBN"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12286,
+            "locationName": "Primeros Pinos",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/primeros-pinos/",
+            "cpa": {
+                "code": [
+                    "Q8347XBO"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12287,
+            "locationName": "Pueblo Nuevo",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/pueblo-nuevo/",
+            "cpa": {
+                "code": [
+                    "Q8322XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12288,
+            "locationName": "Puente Picun Leufu",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/puente-picun-leufu/",
+            "cpa": {
+                "code": [
+                    "Q8340XAT"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12289,
+            "locationName": "Puerto Anchorena",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/puerto-anchorena/",
+            "cpa": {
+                "code": [
+                    "Q8400XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12290,
+            "locationName": "Puerto Manzano",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/puerto-manzano/",
+            "cpa": {
+                "code": [
+                    "Q8407XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12291,
+            "locationName": "Puesto Hernandez  Baterias",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/puesto-hernandez-baterias/",
+            "cpa": {
+                "code": [
+                    "Q8319XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12292,
+            "locationName": "Punta de Sierra",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/punta-de-sierra/",
+            "cpa": {
+                "code": [
+                    "Q8305XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12293,
+            "locationName": "Quebrada Honda",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/quebrada-honda/",
+            "cpa": {
+                "code": [
+                    "Q8347XBP"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12294,
+            "locationName": "Quempu Leufu",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/quempu-leufu/",
+            "cpa": {
+                "code": [
+                    "Q8353XAQ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12295,
+            "locationName": "Quemquemtreu",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/quemquemtreu/",
+            "cpa": {
+                "code": [
+                    "Q8375XAO"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12296,
+            "locationName": "Quentrenquen",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/quentrenquen/",
+            "cpa": {
+                "code": [
+                    "Q8373XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12297,
+            "locationName": "Quila Quehue",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/quila-quehue/",
+            "cpa": {
+                "code": [
+                    "Q8371XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12298,
+            "locationName": "Quila Quina",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/quila-quina/",
+            "cpa": {
+                "code": [
+                    "Q8370XAR"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12299,
+            "locationName": "Quilca",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/quilca/",
+            "cpa": {
+                "code": [
+                    "Q8345XAF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12300,
+            "locationName": "Quili Malal",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/quili-malal/",
+            "cpa": {
+                "code": [
+                    "Q8351XAT"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12301,
+            "locationName": "Quillen",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/quillen/",
+            "cpa": {
+                "code": [
+                    "Q8341XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12302,
+            "locationName": "Quilquihue",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/quilquihue/",
+            "cpa": {
+                "code": [
+                    "Q8371XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12303,
+            "locationName": "Quinineliu",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/quinineliu/",
+            "cpa": {
+                "code": [
+                    "Q8341XAW"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12304,
+            "locationName": "Quinquimitreo",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/quinquimitreo/",
+            "cpa": {
+                "code": [
+                    "Q8373XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12305,
+            "locationName": "Quintuco",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/quintuco/",
+            "cpa": {
+                "code": [
+                    "Q8351XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12306,
+            "locationName": "Quita Quina",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/quita-quina/",
+            "cpa": {
+                "code": [
+                    "Q8370XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12307,
+            "locationName": "Rahue",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/rahue/",
+            "cpa": {
+                "code": [
+                    "Q8341XAE"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12308,
+            "locationName": "Ramichal",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/ramichal/",
+            "cpa": {
+                "code": [
+                    "Q8347XBQ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12309,
+            "locationName": "Ramon M Castro",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/ramon-m-castro/",
+            "cpa": {
+                "code": [
+                    "Q8340XBF"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12310,
+            "locationName": "Ranqueles",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/ranqueles/",
+            "cpa": {
+                "code": [
+                    "Q8349XAW"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12311,
+            "locationName": "Ranquil Vega",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/ranquil-vega/",
+            "cpa": {
+                "code": [
+                    "Q8353XDB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12312,
+            "locationName": "Ranquilco",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/ranquilco/",
+            "cpa": {
+                "code": [
+                    "Q8349XAX"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12313,
+            "locationName": "Ranquilon",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/ranquilon/",
+            "cpa": {
+                "code": [
+                    "Q8349XAM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12314,
+            "locationName": "Reñileo",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/renileo/",
+            "cpa": {
+                "code": [
+                    "Q8353XBO"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12315,
+            "locationName": "Richoique",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/richoique/",
+            "cpa": {
+                "code": [
+                    "Q8349XAS"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12316,
+            "locationName": "Rincon Chico",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/rincon-chico/",
+            "cpa": {
+                "code": [
+                    "Q8401XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12317,
+            "locationName": "Rincon de Emilio",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/rincon-de-emilio/",
+            "cpa": {
+                "code": [
+                    "Q8300XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12318,
+            "locationName": "Rincon de los Sauces",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/rincon-de-los-sauces/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-rincon-de-los-sauces/"
+            }
+        },
+        {
+            "locationId": 12319,
+            "locationName": "Rincon Grande",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/rincon-grande/",
+            "cpa": {
+                "code": [
+                    ""
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12320,
+            "locationName": "Rio Agrio",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/rio-agrio/",
+            "cpa": {
+                "code": [
+                    "Q8351XAU"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12321,
+            "locationName": "Rio Barrancas",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/rio-barrancas/",
+            "cpa": {
+                "code": [
+                    "Q8353XDH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12322,
+            "locationName": "Ruca Choroy Arriba",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/ruca-choroy-arriba/",
+            "cpa": {
+                "code": [
+                    "Q8345XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12323,
+            "locationName": "Sainuco",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/sainuco/",
+            "cpa": {
+                "code": [
+                    "Q8345XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12324,
+            "locationName": "Salquico",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/salquico/",
+            "cpa": {
+                "code": [
+                    "Q8347XAB"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12325,
+            "locationName": "San Bernardo",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/san-bernardo/",
+            "cpa": {
+                "code": [
+                    "Q8315XAJ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12326,
+            "locationName": "San Demetrio",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/san-demetrio/",
+            "cpa": {
+                "code": [
+                    "Q8347XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12327,
+            "locationName": "San Eduardo",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/san-eduardo/",
+            "cpa": {
+                "code": [
+                    "Q8353XDI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12328,
+            "locationName": "San Ignacio",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/san-ignacio/",
+            "cpa": {
+                "code": [
+                    "Q8375XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12329,
+            "locationName": "San Juan Junin de los Andes",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/san-juan-junin-de-los-andes/",
+            "cpa": {
+                "code": [
+                    "Q8371XAM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12330,
+            "locationName": "San Juan Rahue",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/san-juan-rahue/",
+            "cpa": {
+                "code": [
+                    "Q8341XAI"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12331,
+            "locationName": "San Martin de los Andes",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/san-martin-de-los-andes/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-san-martin-de-los-andes/"
+            }
+        },
+        {
+            "locationId": 12332,
+            "locationName": "San Patricio del Chañar",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/san-patricio-del-chanar/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-san-patricio-del-chanar/"
+            }
+        },
+        {
+            "locationId": 12333,
+            "locationName": "Sañico",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/sanico/",
+            "cpa": {
+                "code": [
+                    "Q8315XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12334,
+            "locationName": "Santa Isabel",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/santa-isabel/",
+            "cpa": {
+                "code": [
+                    "Q8349XAG",
+                    "Q8349XAG",
+                    "Q8349XAG"
+                ],
+                "codeType": "multiple",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12335,
+            "locationName": "Santa Maria",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/santa-maria/",
+            "cpa": {
+                "code": [
+                    "Q8401XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12336,
+            "locationName": "Santo Domingo",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/santo-domingo/",
+            "cpa": {
+                "code": [
+                    "Q8340XAU"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12337,
+            "locationName": "Santo Tomas",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/santo-tomas/",
+            "cpa": {
+                "code": [
+                    "Q8315XAM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12338,
+            "locationName": "Sauzal Bonito",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/sauzal-bonito/",
+            "cpa": {
+                "code": [
+                    "Q8319XAA"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12339,
+            "locationName": "Senillosa",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/senillosa/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-senillosa/"
+            }
+        },
+        {
+            "locationId": 12340,
+            "locationName": "Taqui Nileu",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/taqui-nileu/",
+            "cpa": {
+                "code": [
+                    "Q8340XAV"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12341,
+            "locationName": "Taquimilan",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/taquimilan/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-taquimilan/"
+            }
+        },
+        {
+            "locationId": 12342,
+            "locationName": "Taquimillan Abajo",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/taquimillan-abajo/",
+            "cpa": {
+                "code": [
+                    "Q8353XCU"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12343,
+            "locationName": "Tierras Blancas",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/tierras-blancas/",
+            "cpa": {
+                "code": [
+                    "Q8353XBP"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12344,
+            "locationName": "Tihue",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/tihue/",
+            "cpa": {
+                "code": [
+                    "Q8353XAR"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12345,
+            "locationName": "Tipiliuke",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/tipiliuke/",
+            "cpa": {
+                "code": [
+                    "Q8373XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12346,
+            "locationName": "Trahuncura",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/trahuncura/",
+            "cpa": {
+                "code": [
+                    "Q8351XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12347,
+            "locationName": "Tralaitue",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/tralaitue/",
+            "cpa": {
+                "code": [
+                    "Q8349XAK"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12348,
+            "locationName": "Tratayen",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/tratayen/",
+            "cpa": {
+                "code": [
+                    "Q8305XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12349,
+            "locationName": "Tres Chorros",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/tres-chorros/",
+            "cpa": {
+                "code": [
+                    "Q8353XCV"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12350,
+            "locationName": "Tres Picos",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/tres-picos/",
+            "cpa": {
+                "code": [
+                    "Q8371XAN"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12351,
+            "locationName": "Tres Piedras",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/tres-piedras/",
+            "cpa": {
+                "code": [
+                    "Q8340XAW"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12352,
+            "locationName": "Tricao Malal",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/tricao-malal/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-tricao-malal/"
+            }
+        },
+        {
+            "locationId": 12353,
+            "locationName": "Trili",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/trili/",
+            "cpa": {
+                "code": [
+                    "Q8353XDC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12354,
+            "locationName": "Tromen",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/tromen/",
+            "cpa": {
+                "code": [
+                    "Q8371XAO"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12355,
+            "locationName": "Trompul",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/trompul/",
+            "cpa": {
+                "code": [
+                    "Q8370XAG"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12356,
+            "locationName": "Vaca Muerta",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/vaca-muerta/",
+            "cpa": {
+                "code": [
+                    "Q8351XAM"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12357,
+            "locationName": "Varvarco",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/varvarco/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-varvarco/"
+            }
+        },
+        {
+            "locationId": 12358,
+            "locationName": "Villa Curi Leuvu",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/villa-curi-leuvu/",
+            "cpa": {
+                "code": [
+                    "Q8353XAS"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12359,
+            "locationName": "Villa el Chocon",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/villa-el-chocon/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-villa-el-chocon/"
+            }
+        },
+        {
+            "locationId": 12360,
+            "locationName": "Villa la Angostura",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/villa-la-angostura/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-villa-la-angostura/"
+            }
+        },
+        {
+            "locationId": 12361,
+            "locationName": "Villa Lago Meliquina",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/villa-lago-meliquina/",
+            "cpa": {
+                "code": [
+                    "Q8370XAQ"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12362,
+            "locationName": "Villa Pehuenia",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/villa-pehuenia/",
+            "cpa": {
+                "code": [
+                    "Q8345XAO"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12363,
+            "locationName": "Villa Raur",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/villa-raur/",
+            "cpa": {
+                "code": [
+                    "Q8370XAH"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12364,
+            "locationName": "Villa Rincon Chico",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/villa-rincon-chico/",
+            "cpa": {
+                "code": [
+                    "Q8315XAO"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12365,
+            "locationName": "Villa Traful",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/villa-traful/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-villa-traful/"
+            }
+        },
+        {
+            "locationId": 12366,
+            "locationName": "Vilu Mallin",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/vilu-mallin/",
+            "cpa": {
+                "code": [
+                    "Q8349XAL"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12367,
+            "locationName": "Vista Alegre Norte",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/vista-alegre-norte/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-vista-alegre-norte/"
+            }
+        },
+        {
+            "locationId": 12368,
+            "locationName": "Vista Alegre Sur",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/vista-alegre-sur/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-vista-alegre-sur/"
+            }
+        },
+        {
+            "locationId": 12369,
+            "locationName": "Zaina Yegua",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/zaina-yegua/",
+            "cpa": {
+                "code": [
+                    "Q8315XAN"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12370,
+            "locationName": "Zapala",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/zapala/",
+            "cpa": {
+                "code": [],
+                "codeType": "linkToStreets",
+                "streetsLink": "https://codigo-postal.co/argentina/neuquen/calles-de-zapala/"
+            }
+        },
+        {
+            "locationId": 12371,
+            "locationName": "Zingone y Cia M",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/zingone-y-cia-m/",
+            "cpa": {
+                "code": [
+                    "Q8375XAC"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        },
+        {
+            "locationId": 12372,
+            "locationName": "Zulemita",
+            "locationLink": "https://codigo-postal.co/argentina/neuquen/zulemita/",
+            "cpa": {
+                "code": [
+                    "Q8375XAD"
+                ],
+                "codeType": "unique",
+                "streetsLink": ""
+            }
+        }
+    ]
+}

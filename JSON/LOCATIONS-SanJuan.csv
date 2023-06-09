@@ -1,0 +1,634 @@
+id,name,zip,state
+13791,Acerillos,J5467XBE,San Juan
+13792,Adan Quiroga,J5409XAH,San Juan
+13793,Aeropuerto San Juan,J5417XAA,San Juan
+13794,Agua Cercada,J5447XEB,San Juan
+13795,Agua de la Zanja,J5467XBF,San Juan
+13796,Agua de la Zorra,J5460XAP,San Juan
+13797,Agua de los Caballos,J5460XDR,San Juan
+13798,Agua Escondida,J5447XAX,San Juan
+13799,Agua y Energia,J5405XAJ,San Juan
+13800,Aguada de la Peña,J5461XAG,San Juan
+13801,Aguaditas,J5461XAA,San Juan
+13802,Aguaditas del Rio Jachal,J5461XAH,San Juan
+13803,Aguango,J5449XAA,San Juan
+13804,Aguas del Pajaro,J5461XAI,San Juan
+13805,Albarracin,J5425XAA,San Juan
+13807,Algarrobo del Cura,J5460XAQ,San Juan
+13808,Algarrobo Grande,J5435XAG,San Juan
+13809,Algarrobo Verde,J5443XAA,San Juan
+13811,Alto Huaco,J5463XAA,San Juan
+13812,Amarfil,J5443XAS,San Juan
+13813,Ambas Puntillas,J5442XAA,San Juan
+13814,Ampacama,J5444XAB,San Juan
+13815,Angaco Norte,J5415XAB,San Juan
+13816,Angaco Sud,J5417XAG,San Juan
+13818,Apeadero Guanacache,J5431XAG,San Juan
+13819,Apeadero las Chimbas,J5413XAD,San Juan
+13820,Apeadero Quiroga,J5427XAC,San Juan
+13821,Arrequintin,J5467XBG,San Juan
+13822,Aschichusca,J5460XAR,San Juan
+13824,Aurora,J5409XAP,San Juan
+13825,Azucarera de Cuyo,J5435XAH,San Juan
+13826,Balde de Leyes,J5446XAE,San Juan
+13827,Balde del Lucero,J5446XAD,San Juan
+13828,Balde del Norte,J5449XAB,San Juan
+13829,Balde del Rosario,J5449XAC,San Juan
+13830,Balde Plumerito,J5447XEC,San Juan
+13831,Balde San Carlos,J5447XED,San Juan
+13832,Baldecito,J5449XAD,San Juan
+13833,Baldecito del Morado,J5449XAE,San Juan
+13834,Baldes de la Chilca,J5449XAQ,San Juan
+13835,Baldes del Sud,J5449XAR,San Juan
+13836,Baldes del Tarabay,J5447XDD,San Juan
+13837,Baños Centenario,J5467XBC,San Juan
+13838,Baños de la Laja,J5419XAD,San Juan
+13839,Baños de los Despoblados,J5467XBI,San Juan
+13840,Baños de San Crispin,J5467XBH,San Juan
+13841,Baños del Cerro,J5431XAL,San Juan
+13842,Baños del Salado,J5419XAB,San Juan
+13843,Baños Pismanta,J5465XAA,San Juan
+13844,Barranca Colorada,J5447XEE,San Juan
+13845,Barranca de los Loros,J5460XAL,San Juan
+13846,Barrancas Blancas,J5460XAM,San Juan
+13848,Barreales,J5405XAK,San Juan
+13849,Barrealito,J5447XDE,San Juan
+13850,Barrialitos,J5403XAA,San Juan
+13851,Barrio Agua y Energia,J5409XAQ,San Juan
+13852,Barrio Colon,J5409XAR,San Juan
+13853,Barrio el Tontal,J5401XAX,San Juan
+13854,Barrio Graffigna,J5409XAO,San Juan
+13856,Barrio Santa Barbara,J5427XAG,San Juan
+13857,Belgrano,J5439XAE,San Juan
+13858,Bella Vista,J5460XDS,San Juan
+13859,Bermejo,J5444XAC,San Juan
+13861,Bodega Graffigna,J5409XAM,San Juan
+13862,Bodega San Antonio,J5431XAM,San Juan
+13863,Buena Esperanza,J5467XBZ,San Juan
+13864,Cabecera del Barrial,J5403XAC,San Juan
+13865,Cabeza del Toro,J5449XAS,San Juan
+13866,Cacho Ancho,J5467XBL,San Juan
+13867,Cajon de los Tambillos,J5467XBJ,San Juan
+13868,Calibar,J5442XAV,San Juan
+13870,Calle Aguileras,J5415XAC,San Juan
+13871,Calle Larga,J5439XAF,San Juan
+13872,Calle Nacional,J5415XAD,San Juan
+13873,Callecita,J5438XAD,San Juan
+13874,Camp D P V la Cienaga,J5409XAS,San Juan
+13875,Campanario Nuevo,J5467XCA,San Juan
+13878,Campo del Leoncito,J5405XAL,San Juan
+13879,Campo las Liebres,J5460XAK,San Juan
+13880,Campo los Pozos,J5460XAN,San Juan
+13881,Cañada,J5467XCB,San Juan
+13882,Cañada de Laguna,J5447XEF,San Juan
+13883,Cañada del Pozo,J5447XEG,San Juan
+13886,Carbometal,J5431XAN,San Juan
+13888,Carrizalito,J5467XBK,San Juan
+13889,Casa de Javier,J5447XEH,San Juan
+13890,Casa Vieja,J5460XAO,San Juan
+13891,Castaño,J5409XAT,San Juan
+13892,Castaño Nuevo,J5403XAD,San Juan
+13893,Castaño Viejo,J5405XAM,San Juan
+13895,Centro Aviacion Civil San Juan,J5427XAH,San Juan
+13896,Cerro  D  L  Bañitos,J5467XCY,San Juan
+13897,Cerro Aguaditas,J5401XAI,San Juan
+13898,Cerro Aguila,J5401XAJ,San Juan
+13899,Cerro Alto del Descubrimiento,J5467XDT,San Juan
+13900,Cerro Amarillo,J5467XDU,San Juan
+13901,Cerro Asilan,J5447XBF,San Juan
+13902,Cerro Aspero,J5460XBY,San Juan
+13903,Cerro Bayo,J5405XAN,San Juan
+13904,Cerro Blanco,J5401XAK,San Juan
+13905,Cerro Bola,J5419XAC,San Juan
+13906,Cerro Boleadora,J5467XBR,San Juan
+13907,Cerro Bonete,J5405XAP,San Juan
+13908,Cerro Bramadero,J5405XAR,San Juan
+13909,Cerro Bravo,J5467XBS,San Juan
+13910,Cerro Caballo Anca,J5460XEM,San Juan
+13911,Cerro Caballo Bayo,J5467XDV,San Juan
+13912,Cerro Casa de Piedra,J5401XAL,San Juan
+13913,Cerro Chiquero,J5405XAQ,San Juan
+13914,Cerro Colorado,J5460XEN,San Juan
+13915,Cerro Cortadera,J5467XBT,San Juan
+13916,Cerro de Conconta,J5467XCZ,San Juan
+13917,Cerro de Dolores,J5467XDA,San Juan
+13918,Cerro de la Cuesta del Viento,J5467XDB,San Juan
+13919,Cerro de la Sepultura,J5467XDX,San Juan
+13920,Cerro de las Vacas,J5405XAT,San Juan
+13921,Cerro de los Burros,J5431XAP,San Juan
+13922,Cerro de los Caballos,J5460XBZ,San Juan
+13923,Cerro de los Pozos,J5405XBH,San Juan
+13924,Cerro del Agua de las Vacas,J5467XDD,San Juan
+13925,Cerro del Alumbre,J5467XDE,San Juan
+13926,Cerro del Cachiyuyal,J5467XDF,San Juan
+13927,Cerro del Coquimbito,J5467XCX,San Juan
+13928,Cerro del Guanaco,J5467XCO,San Juan
+13929,Cerro del Medio,J5431XAQ,San Juan
+13930,Cerro del Salado,J5467XCP,San Juan
+13931,Cerro del Tome,J5405XAU,San Juan
+13932,Cerro Divisadero,J5401XBK,San Juan
+13933,Cerro el Bronce,J5467XCQ,San Juan
+13934,Cerro el Cepo,J5467XCR,San Juan
+13935,Cerro el Durazno,J5460XEO,San Juan
+13936,Cerro el Frances,J5467XCS,San Juan
+13937,Cerro Espantajo,J5467XCT,San Juan
+13938,Cerro Grande,J5405XAV,San Juan
+13939,Cerro Guanaquero,J5405XAW,San Juan
+13940,Cerro Hediondo,J5431XAR,San Juan
+13941,Cerro Hornito,J5405XAX,San Juan
+13942,Cerro Iman,J5460XEP,San Juan
+13943,Cerro Infiernillo,J5401XBL,San Juan
+13944,Cerro Jaguel,J5401XBM,San Juan
+13945,Cerro Joaquin,J5467XCW,San Juan
+13946,Cerro la Bolsa,J5467XDN,San Juan
+13947,Cerro la Cañada Amarilla,J5460XCA,San Juan
+13948,Cerro la Cienaga,J5401XBF,San Juan
+13949,Cerro la Colorada,J5447XBG,San Juan
+13950,Cerro la Flecha,J5401XBN,San Juan
+13951,Cerro la Fortuna,J5405XAY,San Juan
+13952,Cerro la Jarilla,J5401XBI,San Juan
+13953,Cerro la Ortiga,J5467XDO,San Juan
+13954,Cerro la Rinconada,J5401XBG,San Juan
+13955,Cerro la Ventanita,J5409XBA,San Juan
+13956,Cerro Lagunita,J5467XDY,San Juan
+13957,Cerro Lajitas,J5460XEJ,San Juan
+13958,Cerro las Barrancas,J5401XBJ,San Juan
+13959,Cerro las Mulas,J5405XAZ,San Juan
+13960,Cerro las Mulitas,J5467XDP,San Juan
+13961,Cerro las Placetas,J5401XAM,San Juan
+13962,Cerro las Raices,J5467XDZ,San Juan
+13963,Cerro las Yeguas,J5467XBQ,San Juan
+13964,Cerro Lavaderos,J5467XDQ,San Juan
+13965,Cerro los Mogotes,J5467XDR,San Juan
+13966,Cerro los Patos,J5405XBA,San Juan
+13967,Cerro los Pozos,J5431XAT,San Juan
+13968,Cerro Mercedario,J5405XBB,San Juan
+13969,Cerro Mudadero,J5405XBC,San Juan
+13970,Cerro Negro,J5401XAN,San Juan
+13971,Cerro Negro de Chita,J5467XDG,San Juan
+13972,Cerro Negro del Corral,J5460XEK,San Juan
+13973,Cerro Nico,J5467XDH,San Juan
+13974,Cerro Ocucaros,J5467XDI,San Juan
+13975,Cerro Pachaco,J5401XAO,San Juan
+13976,Cerro Panteon,J5405XBD,San Juan
+13977,Cerro Pata de Indio,J5467XDJ,San Juan
+13978,Cerro Pichereguas,J5405XBE,San Juan
+13979,Cerro Pintado,J5467XDK,San Juan
+13980,Cerro Pircas,J5401XAP,San Juan
+13981,Cerro Potrerito de Agua Blanco,J5467XDL,San Juan
+13982,Cerro Potrero,J5460XEL,San Juan
+13983,Cerro Puntudo,J5405XBF,San Juan
+13984,Cerro Riquiliponche,J5431XAS,San Juan
+13985,Cerro Santa Rosa,J5401XAQ,San Juan
+13986,Cerro Sasito,J5401XAR,San Juan
+13987,Cerro Senda Azul,J5467XDM,San Juan
+13990,Cerro Tambolar,J5401XAS,San Juan
+13991,Cerro Tigre,J5442XAH,San Juan
+13992,Cerro Tres Mogotes,J5401XBE,San Juan
+13993,Cerro Tres Puntas,J5447XBH,San Juan
+13994,Cerro Villa Loncito,J5409XBC,San Juan
+13995,Cerro Villicun,J5419XAL,San Juan
+13996,Champones,J5467XBM,San Juan
+13997,Chañar,J5449XAT,San Juan
+13998,Chañar Pintado,J5460XBW,San Juan
+13999,Chañar Seco,J5443XAT,San Juan
+14000,Chanchos,J5447XEI,San Juan
+14001,Chaparro,J5467XBN,San Juan
+14002,Chepical,J5460XBX,San Juan
+14003,Chica Negra,J5447XEJ,San Juan
+14004,Chigua de Abajo,J5467XBO,San Juan
+14006,Chisnasco,J5467XCC,San Juan
+14007,Chucuma,J5447XEA,San Juan
+14008,Cienaga,J5447XBE,San Juan
+14009,Cienaguillos,J5467XBP,San Juan
+14010,Cienaguita,J5409XAU,San Juan
+14011,Cochagual,J5435XAI,San Juan
+14012,Colanguil,J5467XCD,San Juan
+14013,Colanqui,J5460XDG,San Juan
+14014,Coll,J5438XAC,San Juan
+14015,Colola,J5465XAE,San Juan
+14016,Colon,J5401XAF,San Juan
+14017,Colonia Cantoni,J5427XAD,San Juan
+14018,Colonia Castro Padin,J5427XAE,San Juan
+14019,Colonia Centenario,J5421XAD,San Juan
+14020,Colonia el Molino,J5425XAC,San Juan
+14021,Colonia Fiorito,J5435XAB,San Juan
+14023,Colonia Florida,J5425XAD,San Juan
+14024,Colonia Gutierrez,J5438XAA,San Juan
+14025,Colonia Juan Solari,J5425XAE,San Juan
+14026,Colonia Moya,J5427XAF,San Juan
+14028,Colonia Roca,J5427XAI,San Juan
+14030,Colonia Rodriguez Zavalla,J5425XAP,San Juan
+14031,Colonia San Antonio,J5435XAC,San Juan
+14032,Colonia Yorner,J5425XAF,San Juan
+14033,Colonia Zabala,J5425XAO,San Juan
+14035,Concota,J5467XEC,San Juan
+14036,Condor Muerto,J5447XBI,San Juan
+14037,Contegrand,J5421XAB,San Juan
+14038,Corral de Pirca,J5447XCR,San Juan
+14039,Coyon,J5409XAA,San Juan
+14040,Cruz de Piedra,J5460XDH,San Juan
+14041,Cruz de San Pedro,J5443XAU,San Juan
+14042,Cuatro Esquinas,J5443XAB,San Juan
+14043,Cuchillazo,J5447XDF,San Juan
+14044,Cuesta Viejo,J5447XCS,San Juan
+14045,Culebra,J5447XCT,San Juan
+14046,Cumiyango,J5409XAB,San Juan
+14047,Cuyo,J5443XAC,San Juan
+14048,Desamparados,J5400XAA,San Juan
+14049,Diaz Velez,J5400XAG,San Juan
+14050,Difunta Correa,J5443XAX,San Juan
+14051,Dique Cauquenes,J5460XCJ,San Juan
+14052,Dique las Crucecitas,J5431XAU,San Juan
+14053,Dique Soldano,J5401XBD,San Juan
+14054,Dique Toma,J5407XAA,San Juan
+14055,Divisadero,J5431XAB,San Juan
+14056,Divisadero de la Mujer Helada,J5467XED,San Juan
+14057,Divisoria,J5443XAH,San Juan
+14058,Domingo de Oro,J5415XAE,San Juan
+14060,Dos Mojones,J5447XCU,San Juan
+14061,Dos Puentes,J5419XAE,San Juan
+14062,El Abanico,J5429XAA,San Juan
+14063,El Alamito,J5415XAA,San Juan
+14064,El Balde,J5409XAC,San Juan
+14065,El Barrialito,J5447XCV,San Juan
+14067,El Buen Retiro,J5461XAC,San Juan
+14068,El Carrizal,J5467XCE,San Juan
+14069,El Chacrero,J5460XCK,San Juan
+14070,El Chamizudo,J5460XCL,San Juan
+14071,El Chilote,J5409XBD,San Juan
+14072,El Chinguillo,J5467XCF,San Juan
+14073,El Chupino,J5446XAF,San Juan
+14074,El Corralito,J5460XCM,San Juan
+14076,El Fuerte,J5409XAD,San Juan
+14077,El Gigantillo,J5447XDG,San Juan
+14078,El Infierno,J5431XAV,San Juan
+14079,El Jaboncito,J5460XCN,San Juan
+14080,El Lechuzo,J5447XCW,San Juan
+14081,El Leoncito,J5405XAE,San Juan
+14083,El Medano,J5460XCO,San Juan
+14085,El Molino,J5425XAQ,San Juan
+14086,El Plumerito,J5447XCX,San Juan
+14087,El Pozo del 20,J5442XAI,San Juan
+14088,El Puerto,J5449XAU,San Juan
+14089,El Quemado,J5460XCD,San Juan
+14090,El Retiro,J5467XEE,San Juan
+14091,El Rincon,J5447XCY,San Juan
+14092,El Salado,J5467XCN,San Juan
+14093,El Salitre,J5460XCE,San Juan
+14094,El Salto,J5447XCZ,San Juan
+14095,El Tapon,J5460XCF,San Juan
+14096,El Treinta,J5460XCG,San Juan
+14097,El Volcan,J5409XAE,San Juan
+14098,Encon,J5421XAA,San Juan
+14099,Entre Rios,J5461XAK,San Juan
+14100,Est Albardon,J5419XAA,San Juan
+14101,Est de Herrera Vegas,J5447XDA,San Juan
+14102,Est la Cienaga de Gualila,J5409XAN,San Juan
+14103,Est Marayes,J5447XDB,San Juan
+14104,Est Niquivil,J5460XCH,San Juan
+14105,Estacion la Rinconada,J5433XAA,San Juan
+14106,Estancia Acequion,J5431XAW,San Juan
+14108,Estancia Casa Rio Blanco,J5405XAF,San Juan
+14109,Estancia el Chañar Nuevo,J5447XBK,San Juan
+14110,Estancia el Durazno,J5431XAX,San Juan
+14111,Estancia el Jumeal,J5447XBL,San Juan
+14112,Estancia el Molino,J5447XBY,San Juan
+14113,Estancia el Polear,J5447XBR,San Juan
+14114,Estancia el Totoral,J5405XAA,San Juan
+14115,Estancia Elizondo,J5447XBS,San Juan
+14116,Estancia la Escalera,J5447XBZ,San Juan
+14117,Estancia la Florida,J5447XBM,San Juan
+14118,Estancia la Lata,J5447XBN,San Juan
+14119,Estancia la Posta,J5431XAE,San Juan
+14120,Estancia la Puntilla,J5405XAB,San Juan
+14121,Estancia Leoncito,J5405XAC,San Juan
+14122,Estancia Maradona,J5401XAT,San Juan
+14123,Estancia Quiroga,J5447XBO,San Juan
+14124,Estancia Rio Verde,J5447XBP,San Juan
+14125,Estancia San Roque,J5447XBQ,San Juan
+14126,Fierro,J5467XCG,San Juan
+14127,Fierro Nuevo,J5467XCH,San Juan
+14128,Fierro Viejo,J5467XCI,San Juan
+14129,Filo del Mocho,J5447XDC,San Juan
+14130,Finca de Izasa,J5442XAP,San Juan
+14131,Finca del Japones,J5447XDJ,San Juan
+14132,Finca el Molino,J5460XDT,San Juan
+14133,Finca el Toro,J5467XCJ,San Juan
+14134,Finca Zapata,J5417XAC,San Juan
+14135,Gendarmeria Nacional,J5405XAD,San Juan
+14136,Germania,J5425XAR,San Juan
+14137,Gran China,J5461XAL,San Juan
+14138,Guachipampa,J5460XCC,San Juan
+14139,Guaja,J5461XAM,San Juan
+14140,Guanacache,J5431XAC,San Juan
+14141,Guañizul,J5465XAF,San Juan
+14142,Guayaguas,J5442XAJ,San Juan
+14143,Guayamas,J5444XAD,San Juan
+14144,Hachango,J5467XCK,San Juan
+14148,Huaicos,J5401XBH,San Juan
+14150,Huerta de Guachi,J5461XAN,San Juan
+14157,Ischigualasto,J5447XDL,San Juan
+14160,Jaguelito,J5467XEF,San Juan
+14161,Jarilla Chica,J5447XDM,San Juan
+14163,Jose Marti,J5443XAJ,San Juan
+14164,Juan Celani,J5427XAK,San Juan
+14170,Kilometro 10650,J5431XAH,San Juan
+14175,Kilometro 910,J5443XAK,San Juan
+14184,La Cercada,J5447XCO,San Juan
+14186,La Chilca,J5431XAY,San Juan
+14189,La Cienaga de Cumillango,J5460XAC,San Juan
+14191,La Cieneguita,J5449XAV,San Juan
+14194,La Cruz,J5447XCQ,San Juan
+14197,La Estrechura,J5467XEM,San Juan
+14200,La Germania,J5439XAI,San Juan
+14201,La Huerta,J5447XAY,San Juan
+14205,La Majadita,J5449XAP,San Juan
+14210,La Orqueta,J5447XCM,San Juan
+14212,La Penca,J5447XDO,San Juan
+14213,La Puntilla,J5439XAJ,San Juan
+14214,La Ramada,J5449XAF,San Juan
+14219,La Toma,J5460XAH,San Juan
+14220,La Valentina,J5460XAA,San Juan
+14221,Laguna del Rosario,J5435XAE,San Juan
+14224,Las Aguaditas,J5409XAJ,San Juan
+14230,Las Cienagas Verdes,J5460XAB,San Juan
+14231,Las Cuevas,J5467XAN,San Juan
+14232,Las Delicias,J5447XBA,San Juan
+14233,Las Espinas,J5460XAG,San Juan
+14235,Las Hermanas,J5447XDT,San Juan
+14236,Las Higueras,J5467XAO,San Juan
+14237,Las Higueritas,J5449XAG,San Juan
+14238,Las Hornillas,J5405XAI,San Juan
+14239,Las Juntas,J5447XDU,San Juan
+14241,Las Liebres,J5442XAL,San Juan
+14242,Las Lomitas,J5419XAH,San Juan
+14243,Las Peñitas,J5467XAP,San Juan
+14244,Las Piedritas,J5419XAI,San Juan
+14245,Las Puestas,J5460XAI,San Juan
+14246,Las Ramaditas,J5447XDV,San Juan
+14247,Las Salinas,J5446XAB,San Juan
+14249,Las Tumanas,J5447XBB,San Juan
+14250,Las Yeguas,J5447XCA,San Juan
+14251,Lloveras,J5425XAU,San Juan
+14252,Loma Ancha,J5447XCB,San Juan
+14253,Loma de Cocho,J5447XCC,San Juan
+14254,Loma Leones,J5447XCD,San Juan
+14255,Loma Negra,J5449XAH,San Juan
+14256,Lomas Blancas,J5449XAI,San Juan
+14257,Lomas del Aguaditas,J5431XAZ,San Juan
+14258,Los Angacos,J5439XAK,San Juan
+14259,Los Baldecitos,J5449XAJ,San Juan
+14260,Los Baldes,J5447XBC,San Juan
+14261,Los Baldes de Astica,J5447XDH,San Juan
+14262,Los Barriales,J5449XAX,San Juan
+14264,Los Chañares,J5435XAJ,San Juan
+14265,Los Chaves,J5449XAY,San Juan
+14266,Los Cogotes,J5467XAR,San Juan
+14267,Los Compartos,J5438XAE,San Juan
+14268,Los Corredores,J5443XAM,San Juan
+14269,Los Diaguitas,J5409XAF,San Juan
+14270,Los Hornos,J5460XDI,San Juan
+14271,Los Lagares,J5447XCE,San Juan
+14272,Los Loros,J5467XAS,San Juan
+14273,Los Medanos,J5443XAV,San Juan
+14274,Los Mellizos,J5442XAM,San Juan
+14275,Los Molles,J5449XAZ,San Juan
+14276,Los Nogales,J5431XBA,San Juan
+14277,Los Papagayos,J5446XAC,San Juan
+14278,Los Paramillos,J5401XAW,San Juan
+14279,Los Penitentes,J5467XEO,San Juan
+14280,Los Porongos,J5447XDW,San Juan
+14281,Los Puestos,J5460XCP,San Juan
+14282,Los Quillay,J5417XAF,San Juan
+14283,Los Quimbaletes,J5461XAD,San Juan
+14284,Los Ranchos,J5460XDJ,San Juan
+14285,Los Rincones,J5449XBA,San Juan
+14286,Los Sanchez,J5447XDX,San Juan
+14287,Los Sapitos,J5467XEP,San Juan
+14288,Los Sombreros,J5431XBC,San Juan
+14289,Los Terremotos,J5460XCQ,San Juan
+14290,Los Viñedos,J5438XAF,San Juan
+14291,Lote Alvarado,J5435XAK,San Juan
+14292,Lotes de Alvarez,J5442XAC,San Juan
+14293,Lotes de Coria,J5442XAD,San Juan
+14294,Lotes de Uriburu,J5442XAE,San Juan
+14295,Lotes Escuela 138,J5442XAB,San Juan
+14296,Lotes Rivera,J5442XAF,San Juan
+14297,Luz del Mundo,J5411XAK,San Juan
+14300,Majadita,J5467XER,San Juan
+14304,Manantiales,J5467XBY,San Juan
+14316,Mina el Algarrobo,J5460XCS,San Juan
+14319,Mina General Belgrano,J5460XCV,San Juan
+14322,Mina la Delfina,J5460XCX,San Juan
+14323,Mina la Esperanza,J5460XDN,San Juan
+14328,Mina San Jorge,J5403XAE,San Juan
+14335,Niquivil Viejo,J5409XAG,San Juan
+14348,Papagayos,J5449XBC,San Juan
+14351,Paso de Ferreira,J5447XCK,San Juan
+14354,Paso del Agua Negra,J5467XEX,San Juan
+14355,Paso del Lamar,J5463XAB,San Juan
+14359,Peñasquito,J5467XEZ,San Juan
+14363,Piedra Colorada,J5447XBT,San Juan
+14366,Piedras Blancas,J5467XFA,San Juan
+14369,Pircas Blancas,J5467XFB,San Juan
+14375,Po de la Guardia,J5405XBX,San Juan
+14379,Po de los Teatinos,J5405XBR,San Juan
+14380,Po de Usno,J5460XAW,San Juan
+14381,Po del Chollay,J5467XFF,San Juan
+14382,Po del Inca,J5467XAT,San Juan
+14385,Pocito,J5429XAB,San Juan
+14395,Porton Grande,J5460XAX,San Juan
+14396,Potranca,J5431XBB,San Juan
+14397,Potrerillos,J5405XBO,San Juan
+14398,Potreros los Amadores,J5467XAZ,San Juan
+14399,Pozo de Aguadita,J5447XAG,San Juan
+14400,Pozo de los Algarrobos,J5443XAY,San Juan
+14401,Pozo Salado,J5442XAS,San Juan
+14402,Presbitero Fco Perez Hernadez,J5400XAB,San Juan
+14403,Primer Cuartel,J5425XAV,San Juan
+14404,Pto Ag del Burro,J5460XAY,San Juan
+14405,Pto Aguadita,J5460XAZ,San Juan
+14406,Pto Aguadita de Abajo,J5460XBA,San Juan
+14407,Pto Anjulio,J5460XBR,San Juan
+14408,Pto Chanquia,J5447XAH,San Juan
+14409,Pto Chavez,J5447XAI,San Juan
+14410,Pto Cordova,J5401XBA,San Juan
+14411,Pto Cumillango,J5460XCZ,San Juan
+14412,Pto del Agua de Pinto,J5401XBB,San Juan
+14413,Pto Durazno,J5460XBB,San Juan
+14414,Pto el Arbol Ligudo,J5460XDA,San Juan
+14415,Pto el Molle,J5401XBC,San Juan
+14416,Pto el Sarco,J5460XDB,San Juan
+14417,Pto el Toro,J5460XDC,San Juan
+14418,Pto Figueroa,J5460XDD,San Juan
+14419,Pto Gen,J5467XBA,San Juan
+14420,Pto Gordillo,J5447XAJ,San Juan
+14421,Pto Huasi,J5447XAK,San Juan
+14422,Pto la Chilca,J5460XDE,San Juan
+14423,Pto la Cortadera,J5460XED,San Juan
+14424,Pto la Espina,J5460XBC,San Juan
+14425,Pto la Represa,J5460XBD,San Juan
+14426,Pto la Tuna,J5460XEE,San Juan
+14427,Pto la Virgencita,J5460XBE,San Juan
+14428,Pto las Cuevas,J5401XAZ,San Juan
+14429,Pto Lima,J5447XAL,San Juan
+14430,Pto los Alamos,J5460XBF,San Juan
+14431,Pto los Papagallos,J5401XAV,San Juan
+14432,Pto los Pozos,J5460XEF,San Juan
+14433,Pto Majadita,J5460XBI,San Juan
+14434,Pto Pajarito,J5460XBG,San Juan
+14435,Pto Pantanito,J5460XBJ,San Juan
+14436,Pto Perico,J5460XEG,San Juan
+14437,Pto Pescado,J5460XBK,San Juan
+14438,Pto Pimpa,J5460XBL,San Juan
+14439,Pto Portezuelo Hondo,J5460XEH,San Juan
+14440,Pto Potrerillo,J5460XBH,San Juan
+14443,Pto Romero,J5447XAM,San Juan
+14444,Pto Sabato,J5460XBN,San Juan
+14445,Pto San Isidro,J5447XAN,San Juan
+14446,Pto Santa Rosa de Abajo,J5405XBU,San Juan
+14447,Pto Segovia,J5460XBO,San Juan
+14448,Pto Trapiche,J5460XCY,San Juan
+14449,Pto Vallecito,J5460XBP,San Juan
+14450,Pto Varejon,J5460XBQ,San Juan
+14451,Pto Vega,J5447XAO,San Juan
+14452,Puchuzun,J5401XAB,San Juan
+14453,Puente Nacional,J5438XAG,San Juan
+14454,Puente Rio San Juan,J5438XAH,San Juan
+14455,Puente Rufino,J5438XAI,San Juan
+14456,Puerta de la Chilca,J5447XAP,San Juan
+14457,Puerta del Infiernillo,J5467XBB,San Juan
+14458,Puerto Alegre,J5442XAN,San Juan
+14459,Puerto Tapones de Maya,J5442XAO,San Juan
+14460,Puesto Angostura,J5431XAI,San Juan
+14461,Puesto de Arriba,J5431XAJ,San Juan
+14462,Puesto la Chilca de Abajo,J5431XAD,San Juan
+14463,Puesto Olguin,J5431XAK,San Juan
+14464,Puesto Retiro,J5431XAA,San Juan
+14465,Puesto Santa Rosa,J5431XAF,San Juan
+14466,Punta Blanca,J5447XAQ,San Juan
+14467,Punta de Agua,J5463XAC,San Juan
+14468,Punta de Laguna,J5435XAL,San Juan
+14469,Punta del Medano,J5435XAF,San Juan
+14471,Punta Norte,J5447XAR,San Juan
+14472,Puntilla,J5443XAZ,San Juan
+14473,Puntilla Blanca,J5439XAA,San Juan
+14474,Puntilla Negra,J5439XAB,San Juan
+14475,Quilinquil,J5467XAG,San Juan
+14477,Quiroga,J5435XAA,San Juan
+14478,Ramblon,J5435XAM,San Juan
+14479,Ranchos de Famacoa,J5415XAJ,San Juan
+14480,Refugio,J5447XAS,San Juan
+14481,Refugio D P V,J5409XAY,San Juan
+14482,Refugio los Gauchos,J5409XAZ,San Juan
+14483,Retamito,J5435XAN,San Juan
+14484,Richard,J5447XAT,San Juan
+14485,Rincon,J5460XDW,San Juan
+14486,Rincon Chico,J5447XAU,San Juan
+14487,Rincon Colorado,J5460XEA,San Juan
+14488,Rincon de la Brea,J5467XAI,San Juan
+14489,Rincon de la Ollita,J5467XAJ,San Juan
+14490,Rincon de los Chinchilleros,J5467XAK,San Juan
+14491,Rincon del Gato,J5460XEB,San Juan
+14492,Rincon Grande,J5447XAV,San Juan
+14494,Rincones,J5449XBD,San Juan
+14495,Rio Palo,J5460XDX,San Juan
+14496,Rio Saso,J5407XAB,San Juan
+14499,Ruinas Indigenas,J5467XAL,San Juan
+14500,Ruta 20 Kilometro 114,J5401XAH,San Juan
+14502,San Antonio,J5449XBE,San Juan
+14503,San Carlos,J5435XAO,San Juan
+14504,San Isidro,J5461XAR,San Juan
+14509,Sanchez de Loria,J5427XAM,San Juan
+14510,Sanjuanino,J5447XAW,San Juan
+14511,Santa Barbara,J5409XAK,San Juan
+14512,Santa Clara,J5431XBE,San Juan
+14514,Santa Maria del Rosario,J5443XAP,San Juan
+14515,Santo Domingo,J5447XBW,San Juan
+14516,Sarmiento,J5447XBX,San Juan
+14517,Segundo Cuartel,J5425XAG,San Juan
+14518,Sierra Billicum,J5460XDY,San Juan
+14519,Sierra de Chavez,J5449XBF,San Juan
+14520,Sierra de Elizondo,J5447XDI,San Juan
+14521,Sierra de Rivero,J5449XAK,San Juan
+14522,Sorocayense,J5401XAA,San Juan
+14523,Talacasto,J5400XAH,San Juan
+14524,Tamberias,J5447XBV,San Juan
+14525,Tap Gallardo,J5460XEC,San Juan
+14526,Terma la Laja,J5419XAK,San Juan
+14527,Terma Pismanta,J5467XBX,San Juan
+14528,Termas Agua Hedionda,J5460XBS,San Juan
+14529,Termas Centenario,J5467XAA,San Juan
+14530,Termas de Agua Negra,J5460XBT,San Juan
+14531,Tierra Adentro,J5419XAM,San Juan
+14532,Tira Larga,J5405XBV,San Juan
+14533,Tocota,J5467XAB,San Juan
+14534,Tontal,J5405XBP,San Juan
+14535,Totoralito,J5465XAG,San Juan
+14536,Trancas,J5460XDZ,San Juan
+14537,Travesia de Mogna,J5460XBU,San Juan
+14538,Tres Esquinas,J5435XAP,San Juan
+14539,Tres Quebraditas,J5467XAC,San Juan
+14540,Trinidad,J5400XAC,San Juan
+14541,Tucunuco,J5409XAL,San Juan
+14543,Tumanas,J5447XBD,San Juan
+14544,Tuminico,J5460XBV,San Juan
+14546,Tutianca,J5467XAD,San Juan
+14548,Uriburu,J5442XAU,San Juan
+14549,Usina,J5438XAB,San Juan
+14550,Usno,J5449XAL,San Juan
+14551,Valle del Cura,J5467XAE,San Juan
+14552,Vallecito,J5443XBB,San Juan
+14553,Venillo,J5467XAF,San Juan
+14554,Villa,J5460XDL,San Juan
+14555,Villa 20 de Junio,J5411XAE,San Juan
+14558,Villa Barboza,J5427XAA,San Juan
+14559,Villa Basilio Nievas,J5401XBO,San Juan
+14560,Villa Bermejito,J5411XAN,San Juan
+14561,Villa Borjas,J5443XAQ,San Juan
+14562,Villa Carlota,J5449XAM,San Juan
+14563,Villa Carolina,J5400XAD,San Juan
+14564,Villa Colon,J5442XAG,San Juan
+14565,Villa Corral,J5401XAD,San Juan
+14568,Villa Dominguito,J5439XAD,San Juan
+14569,Villa Estevez,J5411XAO,San Juan
+14570,Villa Fleury,J5425XAH,San Juan
+14571,Villa Franca,J5425XAI,San Juan
+14572,Villa General Acha,J5425XAN,San Juan
+14573,Villa General las Heras,J5411XAM,San Juan
+14575,Villa General Sarmiento,J5431XBF,San Juan
+14576,Villa Gobernador Chavez,J5411XAF,San Juan
+14577,Villa Huasihul,J5400XAE,San Juan
+14578,Villa Independencia,J5443XAW,San Juan
+14579,Villa J C Sarmiento,J5411XAA,San Juan
+14580,Villa Juan XXIII,J5413XAA,San Juan
+14582,Villa Laprida,J5425XAJ,San Juan
+14583,Villa Lerga,J5425XAK,San Juan
+14584,Villa Lugano,J5439XAC,San Juan
+14585,Villa Luz del Mundo,J5411XAB,San Juan
+14586,Villa Marini,J5400XAF,San Juan
+14587,Villa Media Agua,J5401XAU,San Juan
+14588,Villa Mercedes,J5461XAF,San Juan
+14589,Villa Morrones,J5413XAB,San Juan
+14590,Villa Muñoz,J5411XAP,San Juan
+14591,Villa N Larrain,J5411XAJ,San Juan
+14592,Villa Nacusi,J5427XAB,San Juan
+14593,Villa Nueva,J5401XAC,San Juan
+14594,Villa Obrera,J5407XAC,San Juan
+14595,Villa P a de Sarmiento,J5413XAG,San Juan
+14597,Villa Patricias Sanjuaninas,J5411XAG,San Juan
+14598,Villa Pueyrredon,J5411XAD,San Juan
+14599,Villa Rachel,J5425XAL,San Juan
+14600,Villa Rizzo,J5411XAH,San Juan
+14601,Villa Rufino Gomez,J5411XAI,San Juan
+14602,Villa San Isidro,J5415XAL,San Juan
+14603,Villa Santa Anita,J5423XAA,San Juan
+14604,Villa Santa Paula,J5413XAC,San Juan
+14606,Villa Sargento Cabral,J5411XAC,San Juan
+14607,Volcan,J5460XDM,San Juan
+14608,Yacimiento de Cobre el Pachon,J5405XBW,San Juan
+14609,Yerba Buena,J5447XBU,San Juan
+14610,Yoca,J5449XAN,San Juan
+14611,Zavalla,J5425XAM,San Juan
+14612,Zonda,J5401XAE,San Juan
