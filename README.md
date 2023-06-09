@@ -1,6 +1,6 @@
 # Challenge Código Postal Argentino
 
-## Introduction
+## Introducción
 Este proyecto contiene una posible solución al [Challenge expuesto por Palta](https://github.com/palta-app/codigo-postal-argentino). Este consiste en armar un scraper que permita recolectar la información sobre el Código Postal Argentino (CPA de ahora en adelante) puesto que se carece de una API que tenga esta información al alcance.
 
 ### ¿Qué es el CPA?
