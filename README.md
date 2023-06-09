@@ -58,4 +58,7 @@ Esta segunda Spider creará otras 2 tablas una con las localidades que tienen ú
 ### Quries
 El script `info_query.py` puede ser usado para realizar consultas sobre la base de datos creada, es decir, sobre `postal_code.sqlite`.
 
-## DataBase
+## SQL Database
+Debido a la gran cantidad de datos esta no puede ser completamente almacenada en este repositorio, por lo que los CSVs en el directorio [data/](https://github.com/jpradas1/codigo-postal-argentino/tree/main/data) contienen una pequeña parte del total de datos. Por ejemplo, según [codigo-postal](https://codigo-postal.co/) existen alrededor the 20 mil ciudades en Argentina, donde para las ciudades que pertenecen al estado o provincia de  Buenos Aires se registran 10893 localidades con CPA único y 4.665.425 de calles con CPA único. Esta base se encuentra en la siguiente ubicación.
+
+### [Postal_Code_Database](https://drive.google.com/drive/folders/14IwcH2PNlYV82RogrEe1rD2MvHxxIJEr?usp=sharing)
