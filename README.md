@@ -1,112 +1,70 @@
-# Challenge Código Postal Argentino
+# Obtención de CPAs
+### (Código postal argentino)
 
-## Intro
+## Objetivo del proyecto
 
-¡Buenas! En Palta estamos teniendo un problema y es que no encontramos una API que nos proporcione con exactitud una consulta para obtener un CPA (Código Postal Argentino) en su nueva versión de 8 caracteres (ejemplo M5500BBA), para ello hemos pensado que tal vez la solución sea armar un scraper para consultarlo o descargar la data dentro de alguna web y poder almacenarla para compartirla con la comunidad Argentina.
+Desarrollar un algorítmo que sea capáz de obtener todos los para cada localidad de la República Argentina, para cada calle, por alturas diferentes y por veredas pares e impares si los hubiera.
 
-### ¿Qué es el CPA?
 
-Código Postal Argentina es una nueva versión del código postal argentino comenzado a ser requerido, el mismo se compone de tres partes:
+## Enfoque adoptado
 
-`A1234XYZ`
+Dado que los CPAs poseen una gran cantidad de convinaciones dada su estructura (A1234AAA), donde la primer letra identifica a la
+provincia, los 4 número siguientes son el código postal de las localidades y las últimas tres letras corresponden a un código
+único que puede ser para toda una localidad pequeña o rural sin calles numeradas con distintas alturas, puede ser para toda
+una calle en toda su extención tanto números pares como impares o puede ser para un determinado rango de alturas y pudiendo ser vereda par o impar.
+Dada la gran cantidad de convinaciones opté por utilizar la página propuesta en el desafío para obtener los CPAs, accediendo directamente a las URLs que en dicha página se pueden obtener mediante el uso de la técnica de web scraping.
+La ventaja que a mi entender tiene este enfoque es que proporciona los enlaces (URL) a las localidades y calles existentes en la página web, evitando el iterar letra a letra los códigos y obtener respuestas vacías por códigos inexistentes; haciendo al algorítmo lento e ineficiente y dificultando la tarea de saber cuántas páginas vacías sucesivas son necesarias para cambiar al próximo nivel de letra en el código. Actualmente las localidades que no cuentan con calles con alturas, como zonas rurales, poseen un único código para la zona, el cual, actualmente, comienza con la letra "X" en el código final de tres letras; aunque eso podría cambiar a futuro, así que no se podría tomar como regla.
+Al utilizar las URL que la página proporciona nos aseguramos que hacemos una consulta a una página que sí trerá datos útiles.
+Otra ventaja es que al consultar una localidad cualquiera, si las hay,  nos trae también las localidades que comparten el mismo código postal numérico, así que en una sola consulta, obtenemos varios CPA o el enlace a las distintas calles de cada localidad.
 
-- A -> Un prefijo de una letra que simboliza el Estado/Provincia donde se encuentra la localidad
-- 1234 -> Cuatro números referenciando el código postal de la localidad (el viejo y conocido CP, ejemplo en Mendoza es: 5500)
-- XYZ -> Un sufijo de tres letras que refieren: la altura de una calle y cara de una manzana (es decir, si es par o impar).
 
-Ejemplo real de CPA es: `M5500AAA` que pertenece a Avenida Gral San Martin a todos los números impares entre los números 1 a 99 en Mendoza, provincia Mendoza, Argentina
+## Recursos utilizados
 
-El desafío está en generar un script para poder obtener o consultar los CPAs que existen en la actualidad y guardarlo en documentos CSV.
+- Python como lenguaje para desarrollar la solución.
 
-Para ello hemos encontrado la web: [https://codigo-postal.co/](https://codigo-postal.co/) que permite consultar sobre CPA con distintos endpoints como:
+- Requests para obtener las páginas web mediante la consulta a través de las URLs.
 
-- consultado vía países, provincia, localidad y calles: [https://codigo-postal.co/argentina/mendoza/mendoza/12-de-febrero/](https://codigo-postal.co/argentina/mendoza/mendoza/12-de-febrero/)
-- consultando directamente al CPA: [https://codigo-postal.co/argentina/cpa/M5500FHA/](https://codigo-postal.co/argentina/cpa/M5500FHA/)
+- Beautiful Soup para parsear el HTML y obtener los datos de las distintas etiquetas HTML.
 
-### Una alternativa
+- 're' para verificar la estructura del CPA mediante el uso de expresiones regulares.
 
-Pensamos como una alternativa se podrá ir scrapeando y consultando con el endpoint [`https://codigo-postal.co/argentina/cpa/M5501AAB/`](https://codigo-postal.co/argentina/cpa/M5501AAB/) el cual nos permite consultar un CPA y poder ver la info que nos devuelve. Esta info incluye:
 
-- calle
-- numeración
-- localidad
-- si la numeración es PAR o IMPAR
 
-### Info adicional
 
-Vas a poder encontrar en la carpeta `data` datos adicionales que pueden ayudarte:
+## Descripción del algorítmo
 
-1. localities.csv - Listado de Códigos Postales de Argentina
-2. statesCode.json - Listo de código de cada provincia
+- Comenzamos por consultar la página para Argentina y obtener todas las provincias que la componen, en una sola consulta la página nos devuelve las 24 provincias y obtenemos el nombre y la URL de la misma, esta última nos permitirá obtener las localidades que la componen.
 
-Por otro lado, tener en cuenta que los sufijos puede ir desde AAA -> ZZZ
+- Obtenemos los localidades de cada provincia según la URL del paso anterior y a su vez obtenemoslas URLs de cada localidad. Este proceso está envuelto en un bucle que nos asegura obtener los datos, dado que pese a esperar entre consultas al servidor, este suele cortar la conexión, seguramente por el tráfico detectado.
 
-### Tener en cuenta
+- Creamos los archivos 'csv' en donde guardaremos las localidades, las calles y los números con sus correspondientes características.
 
-Esta problemática puede presentar OTRO problema y es que dando un estimado de la cantidad de CPA posibles podemos tener:
+- Iteramos cada provincia y dentro de esta iteramos cada localidad. Al recibir la página correspondiente a una localidad se pueden dar 2 casos, que haya más regiones que comparten el mismo código postal numérico que la localidad visitada o que haya solo esa localidad con el correspondiente enlace a sus calles.
 
-Escenario 1: que se estén utilizando TODOS los sufijos (AAA -> ZZZ), lo que nos daría una cantidad de `27 ** 3 * 3449 = 67.886.667` de CPAs (un numerito)
+En este último caso visitamos el enlace y procesamos las calles lo cual se describirá más adelante.
 
-Escenario 2: que se estén utilizando ALGUNOS sufijos por localidad, lo que reduce la posibilidad entre un 70% y 50%, quedando entre 20.366.000 y 33.943.333 de CPAs
+En el caso de que haya más localidades compartiendo el mismo código postal numérico, guardamos los enlaces a sus calles o su CPA si es una localidad que no posee calles con distintos CPA. Para detectar si encontramos el CPA o un enlace a sus calles usamos expresiones regulares para detectar el CPA.
+Si hay calles asociadas nos quedamos con los enlaces para procesarlas.
 
-Escenario 3: que se estén utilizando POCOS sufijos por localidad, lo que reduce la posibilidad en un 90% (lo que puede ser muy probable, pero no seguro que sea así) quedando un total de 7.000.000 de CPAs
+- Mediante el link de las calles de cada localidad accedemos a las mismas creando una estructura de diccionario de python para almacenar toda la información. Obtenemos el nombre de la calle, su tipo y referencia. Luego accedemos al enlace de la calle para obtener los distintos CPAs por alturas y veredas o el único CPA para toda la calle según los datos que recibimos en la consulta web.
+Los CPAs poseen un enlace que nos permite obtener el nombre alternativo de la calle si lo tuviera.
 
-¿Cómo crees que se podría solucionar?
+- Todos los bloques de código que obtienen datos de las URLs se encuentran dentro de un bucle con una condición de seguridad de obtención de los datos esperados para evitar que al cortarse la conexión por cualquier motivo se suspenda el proceso de obtención de datos.
 
-# Sobre los Resultados esperados
+- Luego guardamos los datos de la localidad, las localidades que comparten el mismo código postal numérico, si las hay, al igual que todos los datos de cada calle; es en este momento cuando se asigna el número de ID tanto a la localidad como a las calles, lo cual nos asegura que todos los datos los tenemos disponibles para ser guardados y no se producirá una interrupción en la obtención de los datos que nos obligue a rastrear el último ID asignado.
+Los nombres de las localidades guardadas en el archivo csv son agregadas a una lista de localidades ya procesadas, esto es dado que al acceder al enlace de una localidad puede haber más localidades que comparten el mismo código postal numérico, las cuales también procesamos dado que la URL de la localidad original nos da los datos de las demás localidades y así aprovechamos en una única consulta web a obtener varios datos, pero debemos guardar los nombres de las localidades ya procesadas para no procesarlas nuevamente cuando las encontremos en la iteración que hacemos a lo largo de las localidades de la provincia en la cual estamos trabajando.
 
-Ejemplo de estructura a seguir en DB o CSV:
 
-localities:
 
-```csv
-id,name,zip,sate
-00011436,agua sucia,a4449xaa,salta
-```
+## Resultados obtenidos
 
-streets:
+### Capturas de los archivos csv
 
-```csv
-id,type,name,reference,alternativeName,localityId,neighborhood
-00014291,ruta provincial,ruta provincial 2tab,2,00001120,tab
-```
+Localities.csv
+![Localities](Imagenes/localities.png)
 
-numbers:
+Streets.csv
+![Streets](Imagenes/Streets.png)
 
-```csv
-streetId,isOdd,from,until,zip
-00014284,false,1,2,s3077aaa
-```
-
-# Inscripciones
-
-Para sumarte al desafío es facil, sigue estos dos pasos:
-
-1. Haz un FORK de este repo
-2. Crea un PR con el título `[WIP] - lets do it 📬🥑` (puedes reemplazar `lets do it` con el título que prefieras)
-
-_Solo los PR creados antes del inicio del challenge serán tomados en cuenta para los Premios_
-
-# Duración
-
-Inicio: El día viernes 2 de junio a las 12:00 UTC-03:00  
-Cierre: El día viernes 9 de junio a las 12:00 UTC-03:00
-
-# Entrega
-
-Para la entrega debes sumar en tu PR la solución (código) y una muestra de la solución (los documentos CSV)
-
-# Premios
-
-Dentro de los PR aceptados, se elegirán a los tres mejores:
-
-- 1er: un premio de 50.000 ARS
-- 2do: un premio de 25.000 ARS
-
-Se considerará al mejor PR a partir de principios como:
-
-- La forma en cómo llegó a la solución
-- Si usó convenciones
-- Si aplicó principio de programación
-- Si aplicó buenas prácticas en su código
-- Legibilidad del código
+Numbers.csv
+![Numbers](Imagenes/numbers.png)
