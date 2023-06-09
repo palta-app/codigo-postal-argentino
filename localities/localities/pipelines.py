@@ -8,8 +8,10 @@
 # from itemadapter import ItemAdapter
 import sqlite3
 
+'''Here Pipeline connects to the database created by the scraper <postal_code>.'''
 class SQLitePipeline(object):
     def open_spider(self, spider):
+        # self.connection = sqlite3.connect('./../postal_code.sqlite')
         self.connection = sqlite3.connect('test_cpa.sqlite')
         self.cursor = self.connection.cursor()
         query_l = '''CREATE TABLE IF NOT EXISTS localities

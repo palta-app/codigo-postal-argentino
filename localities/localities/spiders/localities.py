@@ -4,6 +4,10 @@ import json
 from unidecode import unidecode
 from localities.items import LocalitiesItem
 
+'''This is the second spider since it cannot work if the <postal_code> scraper is not run first.
+The structure is similir, it has 3 functions and a Item (LocalitiesItem) that store data to send it
+to <pipelines.py>'''
+
 class LocalitiesSpider(scrapy.Spider):
     name = 'localities'
 
@@ -22,12 +26,18 @@ class LocalitiesSpider(scrapy.Spider):
         'FEED_EXPORT_ENCODING': 'utf-8'
     }
 
+    '''Initialize the country to work with, and the start_urls. The spider brings in the 
+        urls related to each city extracted for the scraper <postal_code>'''
+
     def __init__(self, country):
         self.country = unidecode(country).lower()
 
         path = './../postal_code.sqlite'
         connection = sqlite3.connect(path)
         cursor = connection.cursor()
+
+        '''Here you can choose by hardcoding the state to scrape in. However you can use the first
+            <query> variable to scrape the whole website for the country selected'''
 
         # query = '''SELECT name, link, state FROM City
         #             ORDER BY state ASC'''
@@ -46,11 +56,15 @@ class LocalitiesSpider(scrapy.Spider):
         cursor.close()
         connection.close()
 
+    '''Call the json file that contains the XPath expressions for the scraper'''
     def xpath(self):
         with open('./xpath.json') as f:
             xpath = json.load(f)[0][self.country.upper()]
         return xpath
     
+    '''Because the street on its self has no a unique CPA, the spider extracts the CPA por each number and
+        parity of the street. Moreover, there some street that has not any CPA, so the spider ignores them
+        and stores it as 'No Need' or 'Not Found' in function of the case'''
     def parse_street(self, response, **kwargs):
         if kwargs:
             city = kwargs['city']
@@ -123,6 +137,8 @@ class LocalitiesSpider(scrapy.Spider):
             
         yield item
 
+    '''Because some localities has no a unique CPA, spider extract the streets for the locality and
+        send this link to <parse_street>'''
     def parse_search_street(self, response, **kwargs):
         if kwargs:
             city = kwargs['city']
@@ -162,7 +178,10 @@ class LocalitiesSpider(scrapy.Spider):
                                   cb_kwargs={'city':city, 'state': state, 'locality': locality})
                 
         yield item
-            
+
+    '''Framework's main function. For each link in start_urls the spider extracts all the localities for
+        city, its CPA and so forth. However some localities has no a unique CPA, instead each street in
+        the locality is depicted by its own CPA. So in that case the spider goes to <parse_search_street>'''        
     def parse(self, response):
         
         localities = response.xpath(self.xpath()['TABLE_COLUMN'].format(2)).getall()

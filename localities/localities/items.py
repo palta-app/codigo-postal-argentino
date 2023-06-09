@@ -3,6 +3,8 @@
 # See documentation in:
 # https://docs.scrapy.org/en/latest/topics/items.html
 
+'''This is the structure for item. From here data is send it to pipelines'''
+
 import scrapy
 
 

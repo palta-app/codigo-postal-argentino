@@ -10,6 +10,9 @@ from itemadapter import is_item, ItemAdapter
 
 from scrapy.exceptions import IgnoreRequest
 
+'''This scraper has its own Middleware that verify the status of the response, and if this response
+fails ignore it and pass over'''
+
 class RetryMiddleware:
     def __init__(self, max_retries=10):
         self.max_retries = max_retries
