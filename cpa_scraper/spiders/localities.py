@@ -7,7 +7,7 @@ from nanoid import generate
 CPA_REGEX = r"[A-Z]\d{4}[A-Z]{3}"
 
 
-class LocationsSpider(Spider):
+class LocalitiesSpider(Spider):
     name = "localities"
     allowed_domains = ["codigo-postal.co"]
     start_urls = ["https://codigo-postal.co/argentina/"]

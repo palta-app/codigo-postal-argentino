@@ -98,3 +98,5 @@ FEED_EXPORT_ENCODING = "utf-8"
 #         "format": "csv",
 #     }
 # }
+
+LOG_LEVEL = "INFO"

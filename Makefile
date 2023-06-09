@@ -10,8 +10,6 @@ lint:
 	pylint --disable=R,C cpa_scraper/*.py
 
 run:
-	scrapy crawl $(spider)
+	scrapy crawl localities
 
 all: install format lint
-
-spider ?= localities

@@ -36,12 +36,20 @@ make lint
 ```
 
 You can use the following command to execute a spider (default=`localities`).
-Available spiders: localities
 
 ```
 make run
-make run spider=localities
 ```
 
 If you don't have `make` installed, you can manually execute the commands
 mentioned in the `Makefile` located in the project directory.
+
+### TODO
+
+- Limit the size of CSV files and split them into smaller files for easier
+  handling and processing.
+- Store the data in a database for efficient management and quick queries.
+- Create an API to provide access to the scraper's results programmatically,
+  allowing other developers to easily utilize and consume the data.
+- Perform thorough debugging to identify any errors or duplicate records in the
+  collected data. This will ensure the integrity and quality of the obtained data.
