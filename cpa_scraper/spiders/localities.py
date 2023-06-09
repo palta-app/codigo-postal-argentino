@@ -13,7 +13,9 @@ class LocationsSpider(Spider):
     start_urls = ["https://codigo-postal.co/argentina/"]
 
     def parse(self, response):
-        provinces = response.css(".column-list a::attr(href)")[2:3]
+        # for testing purposes
+        # provinces = response.css(".column-list a::attr(href)")[2:3]
+        provinces = response.css(".column-list a::attr(href)")
         yield from response.follow_all(provinces, callback=self.parse_cities)
 
     def parse_cities(self, response):
