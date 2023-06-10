@@ -1,4 +1,7 @@
 {
+    "env": {
+        "es6": true
+    },
     "globals": {
         "document": "readonly",
         "globalThis": "readonly",
