@@ -68,11 +68,16 @@ export function normalizeLocalityNameToHref(str) {
 
 /**
  * @param {import('playwright').Page} page - Instancia de la clase "Page".
+ * @returns
  * */
 
 export async function evaluateFirstPTag(page) {
     const items = await page.evaluate(() => {
-        const firstP = document.querySelector('div p')
+        let firstP = null
+
+        while (!firstP) {
+            firstP = document.querySelector('div p')
+        }
 
         const strongTags = Array.from(
             firstP.querySelectorAll('strong'),
@@ -90,6 +95,7 @@ export async function evaluateFirstPTag(page) {
 
 /**
  * @param {import('playwright').Page} page - Instancia de la clase "Page".
+ * @returns
  * */
 
 export async function evaluateStreetsList(page) {
@@ -107,4 +113,16 @@ export async function evaluateStreetsList(page) {
     return Array.from(uniqueStreets, (name) =>
         rawStreets.find((street) => street.name === name)
     )
+}
+
+/**
+ *
+ * @param {import('playwright').Response} res - Instancia de la clase "Response".
+ * @returns
+ */
+
+export async function connectionFailed(res) {
+    const failed = (await res.text()).includes('Error Connect')
+
+    return !res.ok() || failed
 }
