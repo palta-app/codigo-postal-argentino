@@ -1,12 +1,12 @@
-import ProgressBar from 'progress'
-
+import { MultiBar, Presets } from 'cli-progress'
 import { v4 as uuid } from 'uuid'
 import { getRandom } from 'random-useragent'
 import { chromium } from 'playwright'
 
 import { baseURL, provinces } from './utils/constants.js'
 import {
-    checkOrCreateDataFiles,
+    // checkOrCreateDataFiles,
+    connectionFailed,
     createWriteStreams,
     evaluateFirstPTag,
     evaluateStreetsList,
@@ -14,7 +14,7 @@ import {
 } from './utils/methods.js'
 
 async function init() {
-    await checkOrCreateDataFiles()
+    // await checkOrCreateDataFiles() // REVIEW: FIJARSE EL TAMAÑO Cuando popules todo BS AS.
 
     const { localitiesWS, streetsWS, heightWS } = createWriteStreams()
     const wStreams = [localitiesWS, streetsWS, heightWS]
@@ -26,28 +26,34 @@ async function init() {
         userAgent: getRandom(),
     })
 
-    const page = await browser.newPage({ baseURL })
+    const multibar = new MultiBar(
+        {
+            clearOnComplete: true,
+            stopOnComplete: true,
+            hideCursor: true,
+            format: ' Seeding {variable} | [{bar}] {percentage}% | {value}/{total}\n ETA:{eta_formatted} | current: {duration_formatted}',
+        },
+        Presets.shades_grey
+    )
 
     try {
-        const provincesBar = new ProgressBar(
-            'Seeding Provinces [:bar] :percent :etas',
-            {
-                total: 24,
-            }
-        )
+        const page = await browser.newPage({ baseURL })
+        const provincesBar = multibar.create()
+        const localitiesBar = multibar.create(null, 0)
+
+        provincesBar.start(24, -1, {
+            variable: 'N/A',
+        })
 
         for (const p in provinces) {
-            provincesBar.tick(0)
-
             await page.goto(provinces[p].endpoint)
 
-            if (provinces[p].stateCode === 'C') {
-                /* 
-                TODO: Recorrer las calles de CABA
-                
-                Recorriendo calles...
-                */
+            provincesBar.increment(1, {
+                variable: provinces[p].name,
+            })
 
+            if (provinces[p].stateCode === 'C') {
+                // TODO: Recorrer las calles de CABA
                 continue
             } else {
                 const localities = await page.evaluate(() => {
@@ -59,15 +65,16 @@ async function init() {
                     }))
                 })
 
-                const localitiesBar = new ProgressBar(
-                    'Seeding Localities [:bar] :percent :etas',
-                    {
-                        total: localities.length,
-                    }
-                )
+                const localities2 = localities.slice(330) // 330 entra a Carlos Tejedor (Buenos Aires)
 
-                for (const locality of localities) {
-                    localitiesBar.tick(0)
+                localitiesBar.start(localities2.length, -1, {
+                    variable: 'N/A',
+                })
+
+                for (const locality of localities2) {
+                    localitiesBar.increment(1, {
+                        variable: locality.name,
+                    })
 
                     await page.goto(locality.href)
                     const { firstP, strongTags } = await evaluateFirstPTag(page)
@@ -88,10 +95,14 @@ async function init() {
                         const normalizedLocality = normalizeLocalityNameToHref(
                             locality.name
                         )
-                        await page.goto(
+                        let response = await page.goto(
                             provinces[p].endpoint +
                                 `/calles-de-${normalizedLocality}`
                         )
+
+                        while (await connectionFailed(response)) {
+                            response = await page.reload()
+                        }
 
                         const { firstP } = await evaluateFirstPTag(page)
 
@@ -117,17 +128,13 @@ async function init() {
                             )
 
                             const streets = await evaluateStreetsList(page)
-                            const streetsBar = new ProgressBar(
-                                'Seeding Streets [:bar] :percent :etas',
-                                {
-                                    total: streets.length,
-                                }
-                            )
 
                             for (const street of streets) {
-                                streetsBar.tick(0)
+                                let response = await page.goto(street.href)
 
-                                await page.goto(street.href)
+                                while (await connectionFailed(response)) {
+                                    response = await page.reload()
+                                }
 
                                 const { firstP, strongTags } =
                                     await evaluateFirstPTag(page)
@@ -188,16 +195,11 @@ async function init() {
                                         )
                                     })
                                 }
-
-                                streetsBar.tick()
                             }
                         }
                     }
-
-                    localitiesBar.tick()
                 }
             }
-            provincesBar.tick()
         }
 
         console.info('🌱 Seeding completed')
