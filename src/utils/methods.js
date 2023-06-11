@@ -58,14 +58,6 @@ export function createWriteStreams() {
     }
 }
 
-export function normalizeLocalityNameToHref(str) {
-    return str
-        .toLowerCase()
-        .split(' ')
-        .join('-')
-        .replace(/ñ|ü/g, (lyric) => (lyric === 'ñ' ? 'n' : 'u'))
-}
-
 /**
  * @param {import('playwright').Page} page - Instancia de la clase "Page".
  * @returns

@@ -10,7 +10,6 @@ import {
     createWriteStreams,
     evaluateFirstPTag,
     evaluateStreetsList,
-    normalizeLocalityNameToHref,
 } from './utils/methods.js'
 
 async function init() {
@@ -62,7 +61,7 @@ async function init() {
                     }))
                 })
 
-                const localities2 = localities.slice(336) // 336 entra a Caseros (Buenos Aires)
+                const localities2 = localities.slice(780) // 780 entra a General O'Brien (Buenos Aires)
 
                 localitiesBar.start(localities2.length, -1, {
                     seeding: 'Seeding N/A',
@@ -90,12 +89,11 @@ async function init() {
                                 '\n'
                         )
                     } else {
-                        const normalizedLocality = normalizeLocalityNameToHref(
-                            locality.name
-                        )
+                        const localityStreets =
+                            '/calles-de-' + locality.href.split('/').at(-2)
+
                         let response = await page.goto(
-                            provinces[p].endpoint +
-                                `/calles-de-${normalizedLocality}`
+                            provinces[p].endpoint.concat(localityStreets)
                         )
 
                         while (await connectionFailed(response)) {
