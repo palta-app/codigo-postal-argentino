@@ -29,23 +29,26 @@ async function getFilesSizeInMbs() {
 export async function checkOrCreateDataFiles() {
     const totalFileSize = await getFilesSizeInMbs()
 
-    if (!totalFileSize) {
-        await promises.mkdir(dataFolderPath)
-    }
+    // if (!totalFileSize) {
+    //     await promises.mkdir(dataFolderPath)
+    // }
 
-    if (totalFileSize < 5 || !totalFileSize) {
-        csvFiles.forEach((file) => {
-            const { name, path, headers } = file
-            const ws = fs.createWriteStream(path)
+    console.log('totalFileSize', totalFileSize)
 
-            ws.write(headers + '\n')
-            ws.end()
-            ws.on('finish', () =>
-                console.log(`Archivo ${name} creado con éxito.`)
-            )
-            ws.on('error', (error) => console.error(error))
-        })
-    }
+    // REVIEW: Descomentar cuando los archivos tengan un peso considerable
+    // if (!totalFileSize || totalFileSize < 5) {
+    //     csvFiles.forEach((file) => {
+    //         const { name, path, headers } = file
+    //         const ws = fs.createWriteStream(path)
+
+    //         ws.write(headers + '\n')
+    //         ws.end()
+    //         ws.on('finish', () =>
+    //             console.info(`Archivo ${name} creado con éxito.`)
+    //         )
+    //         ws.on('error', (error) => console.error(error))
+    //     })
+    // }
 }
 
 export function createWriteStreams() {
@@ -117,7 +120,7 @@ export async function evaluateStreetsList(page) {
 
 /**
  *
- * @param {import('playwright').Response} res - Instancia de la clase "Response".
+ * @param {import('playwright').Response} res - Instancia de la clase "Response" de Playwright.
  * @returns
  */
 

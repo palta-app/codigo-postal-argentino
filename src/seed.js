@@ -5,7 +5,7 @@ import { chromium } from 'playwright'
 
 import { baseURL, provinces } from './utils/constants.js'
 import {
-    // checkOrCreateDataFiles,
+    checkOrCreateDataFiles,
     connectionFailed,
     createWriteStreams,
     evaluateFirstPTag,
@@ -14,14 +14,12 @@ import {
 } from './utils/methods.js'
 
 async function init() {
-    // await checkOrCreateDataFiles() // REVIEW: FIJARSE EL TAMAÑO Cuando popules todo BS AS.
+    await checkOrCreateDataFiles()
 
     const { localitiesWS, streetsWS, heightWS } = createWriteStreams()
     const wStreams = [localitiesWS, streetsWS, heightWS]
 
-    const browser = await chromium.launch({
-        headless: false,
-    })
+    const browser = await chromium.launch()
     const context = await browser.newContext({
         userAgent: getRandom(),
     })
@@ -31,7 +29,7 @@ async function init() {
             clearOnComplete: true,
             stopOnComplete: true,
             hideCursor: true,
-            format: ' Seeding {variable} | [{bar}] {percentage}% | {value}/{total}\n ETA:{eta_formatted} | current: {duration_formatted}',
+            format: '{seeding} | [{bar}] {percentage}% | {value}/{total} | ETA:{eta_formatted}',
         },
         Presets.shades_grey
     )
@@ -39,21 +37,20 @@ async function init() {
     try {
         const page = await browser.newPage({ baseURL })
         const provincesBar = multibar.create()
-        const localitiesBar = multibar.create(null, 0)
+        const localitiesBar = multibar.create()
 
         provincesBar.start(24, -1, {
-            variable: 'N/A',
+            seeding: 'Seeding N/A',
         })
 
         for (const p in provinces) {
             await page.goto(provinces[p].endpoint)
 
             provincesBar.increment(1, {
-                variable: provinces[p].name,
+                seeding: `Province Seeding: ${provinces[p].name}`,
             })
 
             if (provinces[p].stateCode === 'C') {
-                // TODO: Recorrer las calles de CABA
                 continue
             } else {
                 const localities = await page.evaluate(() => {
@@ -65,18 +62,19 @@ async function init() {
                     }))
                 })
 
-                const localities2 = localities.slice(330) // 330 entra a Carlos Tejedor (Buenos Aires)
+                const localities2 = localities.slice(336) // 336 entra a Caseros (Buenos Aires)
 
                 localitiesBar.start(localities2.length, -1, {
-                    variable: 'N/A',
+                    seeding: 'Seeding N/A',
                 })
 
                 for (const locality of localities2) {
+                    await page.goto(locality.href)
+
                     localitiesBar.increment(1, {
-                        variable: locality.name,
+                        seeding: `Locality Seeding: ${locality.name}`,
                     })
 
-                    await page.goto(locality.href)
                     const { firstP, strongTags } = await evaluateFirstPTag(page)
 
                     if (strongTags.length === 2) {
@@ -205,6 +203,7 @@ async function init() {
         console.info('🌱 Seeding completed')
     } catch (error) {
         console.error(error)
+        process.exit(1)
     } finally {
         wStreams.forEach((ws) => {
             ws.end()
