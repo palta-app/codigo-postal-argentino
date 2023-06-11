@@ -29,26 +29,23 @@ async function getFilesSizeInMbs() {
 export async function checkOrCreateDataFiles() {
     const totalFileSize = await getFilesSizeInMbs()
 
-    // if (!totalFileSize) {
-    //     await promises.mkdir(dataFolderPath)
-    // }
+    if (!totalFileSize) {
+        await promises.mkdir(dataFolderPath)
+    }
 
-    console.log('totalFileSize', totalFileSize)
+    if (!totalFileSize || totalFileSize < 5) {
+        csvFiles.forEach((file) => {
+            const { name, path, headers } = file
+            const ws = fs.createWriteStream(path)
 
-    // REVIEW: Descomentar cuando los archivos tengan un peso considerable
-    // if (!totalFileSize || totalFileSize < 5) {
-    //     csvFiles.forEach((file) => {
-    //         const { name, path, headers } = file
-    //         const ws = fs.createWriteStream(path)
-
-    //         ws.write(headers + '\n')
-    //         ws.end()
-    //         ws.on('finish', () =>
-    //             console.info(`Archivo ${name} creado con éxito.`)
-    //         )
-    //         ws.on('error', (error) => console.error(error))
-    //     })
-    // }
+            ws.write(headers + '\n')
+            ws.end()
+            ws.on('finish', () =>
+                console.info(`Archivo ${name} creado con éxito.`)
+            )
+            ws.on('error', (error) => console.error(error))
+        })
+    }
 }
 
 export function createWriteStreams() {
