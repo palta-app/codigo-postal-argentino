@@ -110,3 +110,19 @@ Se considerará al mejor PR a partir de principios como:
 - Si aplicó principio de programación
 - Si aplicó buenas prácticas en su código
 - Legibilidad del código
+
+---
+
+# Canal de comunicacion
+
+Buenas, no esperabamos tantoss challengerss y llegaron mas de los esperados. Por lo que he estado observando han dejado varias soluciones muy creativas y curiosas. Nos va a llevar un tiempo revisar todos los PRs, por lo cual le pedimos paciencia! Probablemente estemos anunciando a los ganadores el dia viernes 16 de junio del 2023.
+
+Para dar con una comunicacion mas fluida, creamos un canal de discord para que puedan sumarse y conversemos del challenge => https://discord.gg/4y4JmaVrSR
+
+A su vez, estamos comenzando con una politica de "propuestas de mejoras" abiertas al publico.
+
+Los esperamos!
+
+saludoss a todos y todas!
+
+
