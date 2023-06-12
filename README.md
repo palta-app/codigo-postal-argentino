@@ -36,9 +36,11 @@ tamaño_archivos_parquet = 19.4mb, 21.6mb
 csv_final_descomprimido = 944mb
 </pre>
 
+
 <h2>Conversor parquet a csv</h3>
 <p>Para convertir los archivos .parquet a .csv ejecutar el script de python <b>" conversor.py "</b>.</p>
 <pre>
 pip install -r requirements.txt
 python3 conversor.py
 </pre>
+
